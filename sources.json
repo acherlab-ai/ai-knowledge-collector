@@ -10,5 +10,73 @@
   {
     "name": "Ars Technica",
     "rss": "https://feeds.arstechnica.com/arstechnica/index"
+  },
+  {
+    "name": "Hugging Face",
+    "rss": "https://huggingface.co/blog/feed.xml"
+  },
+  {
+    "name": "Python Insider",
+    "rss": "https://blog.python.org/rss.xml"
+  },
+  {
+    "name": "Rust Blog",
+    "rss": "https://blog.rust-lang.org/feed.xml"
+  },
+  {
+    "name": "Mozilla",
+    "rss": "https://blog.mozilla.org/feed/"
+  },
+  {
+    "name": "Kubernetes",
+    "rss": "https://kubernetes.io/feed.xml"
+  },
+  {
+    "name": "Cloudflare",
+    "rss": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "name": "Docker",
+    "rss": "https://www.docker.com/feed/"
+  },
+  {
+    "name": "NVIDIA Developer Blog",
+    "rss": "https://developer.nvidia.com/blog/feed/"
+  },
+  {
+    "name": "NVIDIA Blog",
+    "rss": "https://blogs.nvidia.com/feed/"
+  },
+  {
+    "name": "Microsoft Research",
+    "rss": "https://www.microsoft.com/en-us/research/feed/"
+  },
+  {
+    "name": "Google AI",
+    "rss": "https://blog.google/technology/ai/rss/"
+  },
+  {
+    "name": "MIT Technology Review",
+    "rss": "https://www.technologyreview.com/feed/"
+  },
+  {
+    "name": "The Verge",
+    "rss": "https://www.theverge.com/rss/index.xml"
+  },
+  {
+    "name": "Krebs on Security",
+    "rss": "https://krebsonsecurity.com/feed/"
+  },
+  {
+    "name": "NASA",
+    "rss": "https://www.nasa.gov/rss/dyn/breaking_news.rss"
+  },
+  {
+    "name": "GitHub Blog",
+    "rss": "https://github.blog/feed/"
+  },
+  {
+    "name": "Google Research",
+    "rss": "https://research.google/blog/rss/"
   }
 ]
