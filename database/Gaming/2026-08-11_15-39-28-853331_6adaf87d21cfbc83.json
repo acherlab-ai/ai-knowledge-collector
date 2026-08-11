@@ -1,0 +1,46 @@
+{
+  "id": "6adaf87d21cfbc83",
+  "title": "Developer Cold Iron Studios shuts down cloud version of $60 game with no refunds",
+  "url": "https://arstechnica.com/gadgets/2026/08/players-lose-access-to-aliens-fireteam-elite-on-nintendo-switch-without-refunds",
+  "source": "Ars Technica",
+  "category": "Gaming",
+  "summary": "Cold Iron Studios has discontinued the cloud-based version of *Aliens: Fireteam Elite* on Nintendo Switch, leaving players without access or refunds. The game, originally priced at $30–$60, was delisted on August 5, 2026, preventing both online and offline play. Players are offered a discount for the sequel, *Aliens: Fireteam Elite 2*, releasing later in August. The shutdown may be strategically timed to drive sales of the sequel. The incident highlights risks of digital ownership, as players lose access to purchased content without recourse.",
+  "score": 8,
+  "tags": [
+    "Gaming",
+    "Digital Ownership",
+    "Cloud Gaming",
+    "Nintendo Switch"
+  ],
+  "key_points": [
+    "Cold Iron Studios shut down the cloud version of *Aliens: Fireteam Elite* on Nintendo Switch on August 5, 2026, with no refunds offered.",
+    "Players who purchased the $30–$60 game can no longer access it, even offline, due to the delisting.",
+    "Affected players are entitled to a discount for the sequel, *Aliens: Fireteam Elite 2*, releasing August 25, 2026.",
+    "The shutdown may be timed to push sales of the sequel, though Cold Iron Studios has not disclosed Switch sales figures.",
+    "The game remains available as a physical copy or download on PlayStation and Xbox, but the Switch version was cloud-only.",
+    "The incident underscores the lack of true ownership in digital purchases, as licenses can be revoked without compensation.",
+    "Similar shutdowns have occurred before, raising concerns about the long-term accessibility of digital games."
+  ],
+  "content_hash": "650319fe6cf2b2697559077f81ed1375a9b3615a4f91a678113ed20e9f34154f",
+  "title_hash": "8f775f15e6cffb2504304b10817c9df069b2386a11e8e08702aa463cd8d9a1a3",
+  "collected_at": "2026-08-11T15:39:28.853331+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "moderate (balanced reporting with mild critique of industry practices)",
+      "opinion_fact_separation": "clear (opinions are labeled as speculation or industry concerns, facts are verifiable)",
+      "fabrication": false,
+      "details": "The article provides a well-researched, factual account of Cold Iron Studios' shutdown of the cloud version of *Aliens: Fireteam Elite* on Nintendo Switch. It includes key details (dates, pricing, consequences) and broader industry context (digital ownership risks). The critique of the shutdown timing is presented as speculation, not fact, maintaining neutrality. The category is correctly assigned as 'Gaming,' and the summary avoids sensationalism. Minor deduction in score for mild industry critique, but overall, the piece is informative and objective."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-11T15:39:28.853331+07:00"
+}

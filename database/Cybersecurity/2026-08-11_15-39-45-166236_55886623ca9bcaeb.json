@@ -1,0 +1,47 @@
+{
+  "id": "55886623ca9bcaeb",
+  "title": "As AI-led attacks multiply, OpenAI launches a new cyber defense model",
+  "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model",
+  "source": "TechCrunch",
+  "category": "Cybersecurity",
+  "summary": "OpenAI has expanded its cybersecurity service, Daybreak, to address the growing threat of AI-led cyberattacks. The service now offers two tiers: Blue, for basic defensive tasks like incident response and malware analysis, and Red, which provides advanced tools for security testing and vulnerability research. The Red tier includes access to a new specialized model, GPT-5.6-Cyber, designed for cybersecurity tasks and currently available only to trusted partners like Accenture, IBM, and Crowdstrike. The move reflects the increasing use of AI by threat actors and the need for advanced defensive capabilities.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Cybersecurity",
+    "OpenAI",
+    "Daybreak",
+    "GPT-5.6-Cyber"
+  ],
+  "key_points": [
+    "AI-led cyberattacks are increasing, with AI models being used for malicious activities like hacking and social engineering.",
+    "OpenAI has expanded its Daybreak cybersecurity service into two tiers: Blue and Red.",
+    "Blue tier offers basic defensive services such as incident response, malware analysis, and patch validation.",
+    "Red tier provides advanced tools for security testing, vulnerability research, and access to the new GPT-5.6-Cyber model.",
+    "GPT-5.6-Cyber is built on GPT-5.6 Sol and is available only to trusted partners like Accenture, IBM, and Crowdstrike.",
+    "The expansion highlights the dual role of AI labs in both enabling and defending against AI-driven threats.",
+    "Critics note that AI-driven threats also serve as marketing opportunities for AI companies offering defensive solutions."
+  ],
+  "content_hash": "63fe8c72f0d0928127cbd2cbd8f0cfc97c26f442f1092b4e9af07c088b2e4093",
+  "title_hash": "ea5ac5bf7d01252726e3f6a5dc465dcfc3da629a1f37c73f5a3138d8ae6311d8",
+  "collected_at": "2026-08-11T15:39:45.166236+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not applicable (news report)",
+      "fabrication": false,
+      "details": "The article provides a clear, factual overview of OpenAI's Daybreak expansion, its tiers, and the context of AI-driven cyber threats. It avoids sensationalism, maintains neutrality, and offers valuable insights into the cybersecurity landscape. The category is correctly assigned, and the content is well-structured without redundancy or hidden advertising."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-11T15:39:45.166236+07:00"
+}

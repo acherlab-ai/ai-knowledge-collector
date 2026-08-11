@@ -1,0 +1,48 @@
+{
+  "id": "0f2ef722932ca4e6",
+  "title": "Amazon funds gas power plant for AI data centers, clashing with climate pledges",
+  "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge",
+  "source": "Ars Technica",
+  "category": "Technology",
+  "summary": "Amazon is investing in a natural gas-burning power plant in Texas to fuel its AI data centers, which could become the largest single source of climate pollution in the U.S. This move contradicts Amazon's commitment to net-zero carbon emissions by 2040 and reflects a broader trend among AI companies (e.g., xAI, Google, Microsoft) to bypass grid delays by building off-the-grid power plants. The project raises environmental and public health concerns, including increased emissions and potential regulatory loopholes, while communities and advocacy groups push back against fast-tracked approvals.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Data Centers",
+    "Climate Change",
+    "Energy",
+    "Regulation",
+    "Tech Policy"
+  ],
+  "key_points": [
+    "Amazon is funding a Texas natural gas power plant (7.65 GW capacity) to power its AI data centers, potentially making it the largest U.S. source of climate pollution (33M tons CO₂/year).",
+    "The project clashes with Amazon’s 2040 net-zero pledge, as gas-burning plants accelerate climate change and harm public health (e.g., asthma, lung cancer).",
+    "AI companies (Amazon, xAI, Google, Microsoft) are increasingly building off-the-grid power plants to avoid grid connection delays, prioritizing speed over environmental reviews.",
+    "Regulatory loopholes allow fast-tracked approvals, with some projects (like xAI’s) approved in days without public notice, raising transparency concerns.",
+    "Communities near gas production hubs (e.g., Texas, Pennsylvania) face disproportionate pollution risks, with advocacy groups like the NAACP and EIP challenging lax permits.",
+    "Alternatives like renewables and battery storage exist, but short-term demand for AI power favors fossil fuels, especially under policies favoring rapid development (e.g., Trump administration rollbacks).",
+    "Critics argue that breaking power projects into smaller phases circumvents stricter pollution rules, while companies cite exploding AI demand as justification for gas reliance."
+  ],
+  "content_hash": "679e7dc55c705f929647a5b1698090a047fd848ebaf433e4ea24c7ff79a70f59",
+  "title_hash": "cc52a32c3b1f48fb3d4d31db877264be03be8c55ede1addee05a5b003679dbbf",
+  "collected_at": "2026-08-11T15:39:35.223697+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "moderate (balanced critique of industry practices and corporate pledges)",
+      "opinion_fact_distinction": "clear (facts about the project and policies are separated from critiques and advocacy group opinions)",
+      "fabrication": false,
+      "details": "The article provides well-researched, timely, and relevant information about Amazon's gas power plant project and its implications for AI data centers, climate pledges, and regulatory practices. It includes multiple perspectives (corporate, advocacy groups, communities) and supports claims with data (e.g., CO₂ emissions, capacity). The tone is critical but not manipulative, and the category aligns with the content. Minor deductions in score for slight emphasis on negative aspects, though this is justified by the subject matter."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-11T15:39:35.223697+07:00"
+}
