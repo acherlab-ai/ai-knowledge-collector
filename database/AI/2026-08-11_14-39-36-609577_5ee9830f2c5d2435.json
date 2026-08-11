@@ -1,0 +1,45 @@
+{
+  "id": "5ee9830f2c5d2435",
+  "title": "OpenAI Completes $7 Billion Employee Tender Offer",
+  "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "OpenAI has reportedly completed a $7 billion tender offer to buy back shares from employees, valuing the company at $852 billion. This move provides liquidity to employees without requiring an immediate IPO. OpenAI also filed confidentially with the SEC in June for a potential IPO later this year, though the tender offer may delay it. The company aims to strengthen its enterprise business before going public, especially as competitor Anthropic shows profitability.",
+  "score": 8,
+  "tags": [
+    "AI",
+    "Fundraising",
+    "OpenAI",
+    "IPO",
+    "Employee Tender"
+  ],
+  "key_points": [
+    "OpenAI completed a $7 billion employee tender offer, valuing the company at $852 billion.",
+    "The tender offer allows employees to realize the value of their stock compensation without an IPO.",
+    "OpenAI filed confidentially with the SEC in June for a potential IPO but may delay it.",
+    "The company missed internal financial goals, prompting a focus on enterprise business before going public.",
+    "Competitor Anthropic's profitability adds pressure for OpenAI to present strong financials."
+  ],
+  "content_hash": "fe7c0b2261cbbc6624b2c6672f7f11152e49fddda21f99ef7018812260925735",
+  "title_hash": "6de83bb17c04c14f2bcde3468349c5d8a4903ce4a12bdd5dbdd49eba3f270ed5",
+  "collected_at": "2026-08-11T14:39:36.609577+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "fact_opinion_separation": "not applicable (news report)",
+      "fabrication": false,
+      "details": "The article provides timely, well-sourced, and relevant information about OpenAI's tender offer and IPO plans. It avoids sensationalism, maintains objectivity, and supports key points with factual data. The category is correctly assigned, and the content is neither redundant nor biased. No hidden advertising or spam is detected."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-11T14:39:36.609577+07:00"
+}

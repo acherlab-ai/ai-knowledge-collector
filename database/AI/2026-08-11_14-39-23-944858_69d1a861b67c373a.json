@@ -1,0 +1,50 @@
+{
+  "id": "69d1a861b67c373a",
+  "title": "Mcptoon – Token-efficient MCP CLI client for AI agents",
+  "url": "https://github.com/activeing123/mcptoon",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "Mcptoon is a lightweight, cross-platform CLI tool designed to reduce token overhead in MCP (Model Context Protocol) interactions for AI agents. It replaces verbose JSON with TOON (Token-Optimized Object Notation), achieving up to 97% token savings for tool discovery and 40-60% for structured data responses. The tool has zero dependencies, supports all major AI agents (Claude, Codex, Cursor, etc.), and includes safety features like dangerous-operation blocking and local usage tracking.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "CLI",
+    "Token Optimization",
+    "MCP",
+    "OpenSource"
+  ],
+  "key_points": [
+    "Reduces MCP token overhead by 97% for tool discovery and 40-60% for structured data responses using TOON (Token-Optimized Object Notation).",
+    "Zero dependencies, pure Python implementation (~50KB install size), cross-platform (Windows, macOS, Linux).",
+    "Supports all AI agents capable of running shell commands (Claude Code, Codex, Cursor, etc.).",
+    "Output formats include TOON (compact), JSON, and space-separated tool names for maximum flexibility.",
+    "Safety features: Blocks dangerous operations (e.g., `delete`, `drop`) unless explicitly confirmed with `--destructive`.",
+    "Local usage tracking (never transmitted) and schema caching (5-minute TTL) for efficiency.",
+    "Configurable via `~/.mcptoon/config.json` or project-level `.mcptoon.json`; supports both stdio and HTTP MCP servers.",
+    "Includes a Python API for programmatic use and custom tool handlers to bypass MCP entirely.",
+    "No telemetry, analytics, or credential storage; prioritizes privacy and security.",
+    "Apache 2.0 licensed with comprehensive testing (98 tests) and contribution guidelines."
+  ],
+  "content_hash": "9010e742fc88388c03b33ccda02d0be7fb9bd2440574577082d3d8176325259c",
+  "title_hash": "2b490c60a6af7e3898f285184a71d7562a6ee1e3c387750a6708683a3f20428d",
+  "collected_at": "2026-08-11T14:39:23.944858+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a detailed, factual overview of Mcptoon, a CLI tool for token optimization in AI agent interactions. It includes specific technical benefits (e.g., token savings, cross-platform support), safety features, and implementation details without exaggeration or misleading claims. The content is well-structured, avoids redundancy, and aligns with the 'AI' category. No hidden advertisements, spam, or bias are detected. The summary and key points are consistent and informative."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-11T14:39:23.944858+07:00"
+}

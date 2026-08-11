@@ -1,0 +1,46 @@
+{
+  "id": "3b32e6c672d55bc8",
+  "title": "Ars Live: Ross Scott Discusses the Stop Killing Games Movement and Game Preservation Challenges",
+  "url": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement",
+  "source": "Ars Technica",
+  "category": "Gaming",
+  "summary": "The article announces an upcoming live discussion with Ross Scott, founder of the Stop Killing Games movement, focusing on the issue of video game preservation. The movement advocates for legislative action to ensure long-term access to purchased games, either through continued server support or player-maintained servers. The conversation will cover the origins of the movement, gamer interest in preservation, legislative progress (including European and California initiatives), and industry impacts like Sony's decision to stop selling PlayStation discs.",
+  "score": 8,
+  "tags": [
+    "Gaming",
+    "Preservation",
+    "Legislation",
+    "Digital Rights",
+    "Industry Trends"
+  ],
+  "key_points": [
+    "Video games often become unplayable due to server shutdowns or digital delisting, raising preservation concerns.",
+    "Ross Scott founded the Stop Killing Games movement in 2024 after Ubisoft shut down servers for *The Crew*.",
+    "The movement has gathered millions of signatures and sparked parliamentary debates in Europe and proposed legislation in California.",
+    "Key goals include perpetual access to purchased games via centralized servers or player-hosted alternatives.",
+    "The discussion will explore whether legislation can effectively address game preservation challenges.",
+    "Recent industry shifts, such as Sony discontinuing PlayStation disc sales, are influencing the debate."
+  ],
+  "content_hash": "ab489bed9cb1aa221c312baf8fbaf3b479ac090351cab4e5c027fc11cc6c842a",
+  "title_hash": "7ff7bbda975043c22890f8b58325aae02d71fc2fd6fad5c23af7c10c82506278",
+  "collected_at": "2026-08-11T14:39:32.120382+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not applicable (news/announcement)",
+      "fabrication": false,
+      "details": "The article is a well-structured announcement of an upcoming discussion on game preservation, a relevant and timely topic in the gaming industry. It provides clear context, key points, and factual background without spam, clickbait, or hidden advertising. The category is correctly assigned as 'Gaming,' and the content maintains objectivity while covering a movement with a clear stance. No fabrication or misleading claims are present."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-11T14:39:32.120382+07:00"
+}

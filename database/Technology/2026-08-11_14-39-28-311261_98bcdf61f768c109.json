@@ -1,0 +1,47 @@
+{
+  "id": "98bcdf61f768c109",
+  "title": "Hyperspace: A Tool for Reclaiming Disk Space by Identifying and Cloning Identical Files",
+  "url": "https://hypercritical.co/hyperspace",
+  "source": "Hacker News",
+  "category": "Technology",
+  "summary": "Hyperspace is a macOS application that identifies files with identical contents and reclaims disk space by replacing duplicates with space-saving clones, without deleting any files. The tool offers features like scanning, reviewing, and reclaiming disk space, with support for cloud storage, package directories, and various file system optimizations. It includes detailed error handling, performance improvements, and user interface enhancements across multiple versions.",
+  "score": 9,
+  "tags": [
+    "macOS",
+    "disk space",
+    "file management",
+    "cloning",
+    "storage optimization"
+  ],
+  "key_points": [
+    "Hyperspace identifies files with identical contents and replaces duplicates with space-saving clones to reclaim disk space.",
+    "The tool operates in three main steps: Scan, Review, and Reclaim.",
+    "Supports scanning and reclaiming files in cloud storage (e.g., iCloud Drive, OneDrive) and package directories (e.g., Apple Photos libraries, iMovie libraries).",
+    "Includes features like drag-and-drop support, Shortcuts integration, and detailed error reporting.",
+    "Offers performance improvements for large files, dark mode support, and memory optimization during scans.",
+    "Provides settings for notifications, folder modification date restoration, and handling of locked or append-only files.",
+    "Available in the Mac App Store with a history of frequent updates addressing bugs, performance, and user interface enhancements."
+  ],
+  "content_hash": "a8ed71bc25c12455932e4acae309777b419f5745be7687e14a706a04699be48c",
+  "title_hash": "34fcbd3a3b9891e533fa7f15369b72c511074e7ec9389e955e8fba3274d97cb2",
+  "collected_at": "2026-08-11T14:39:28.311261+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, detailed, and factual overview of Hyperspace, a macOS tool for disk space optimization. It covers features, functionality, and updates without exaggeration, hidden advertising, or bias. The content is well-structured, informative, and aligns with the Technology category. No signs of spam, clickbait, or fabrication are present."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-11T14:39:28.311261+07:00"
+}
