@@ -1,0 +1,47 @@
+{
+  "id": "058f2854de9b7d4d",
+  "title": "Uber Sells Entire Stake in Autonomous Delivery Robotics Company Serve Robotics",
+  "url": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake",
+  "source": "TechCrunch",
+  "category": "Technology",
+  "summary": "Uber has sold its entire stake in Serve Robotics, an autonomous delivery robot company that originated as Postmates X before spinning out as an independent entity. The divestment, disclosed in a regulatory filing, surprised Serve Robotics, which learned of the sale only after its completion. The move reflects diverging business strategies between the two companies, particularly regarding the scaling of autonomous delivery fleets. Serve Robotics reported a decline in delivery volume through Uber due to lower robot utilization and differing views on operational models, leading to the expectation that their partnership will not be renewed in 2027.",
+  "score": 8,
+  "tags": [
+    "Autonomous Vehicles",
+    "Robotics",
+    "Delivery Technology",
+    "Uber",
+    "Partnerships"
+  ],
+  "key_points": [
+    "Uber sold its entire stake in Serve Robotics, a company it previously backed and partnered with for autonomous sidewalk delivery robots.",
+    "The sale was disclosed in a regulatory filing and came as a surprise to Serve Robotics.",
+    "Serve Robotics originated as Postmates X, the robotics division of Postmates, which Uber acquired in 2020 for $2.65 billion.",
+    "Uber and Serve Robotics had expanded their partnership in 2023 to deploy up to 2,000 autonomous delivery robots via Uber’s app.",
+    "Serve Robotics reported a decline in delivery volume through Uber in Q2 2026 due to lower robot utilization and differing views on scaling the autonomous fleet.",
+    "Serve’s CEO indicated that the partnership with Uber is unlikely to be renewed when it expires in early 2027.",
+    "Uber has previously partnered with or invested in over 30 autonomous vehicle technology companies."
+  ],
+  "content_hash": "1604e3b970745dc7f7d7ea3d5d16bd5111b7c0fa9fb8d23c48dbad2cce1b6c26",
+  "title_hash": "1e15fc9803166562e6750eb0ad3e88f510672364016417b874a993d871693dfa",
+  "collected_at": "2026-08-12T04:05:12.196307+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, factual summary of Uber's divestment from Serve Robotics, including background, regulatory disclosure, and strategic differences. The information is well-sourced, relevant to the technology category, and avoids sensationalism or bias. No spam, clickbait, or hidden advertising is detected. The category is correctly assigned as 'Technology' (not 'AI' as initially suggested in the template)."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-12T04:05:12.196307+07:00"
+}

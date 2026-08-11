@@ -1,0 +1,47 @@
+{
+  "id": "920c2d7dc4fb9df9",
+  "title": "Meta's $1.4 Trillion Lawsuit Over Social Media Addiction to Proceed to Trial",
+  "url": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial",
+  "source": "Ars Technica",
+  "category": "Cybersecurity",
+  "summary": "A U.S. appeals court ruled that Meta and TikTok cannot avoid trials for lawsuits alleging their social media platforms foster addictive behavior in minors. The case, led by state attorneys general, seeks over $1.4 trillion in damages, claiming Meta deceived the public about platform safety while deliberately designing features to induce compulsive use. The ruling clarifies that Section 230 of the Communications Decency Act provides a defense to liability but not immunity from lawsuits, allowing trials to proceed.",
+  "score": 9,
+  "tags": [
+    "Cybersecurity",
+    "Social Media",
+    "Legal",
+    "Section 230",
+    "Consumer Protection"
+  ],
+  "key_points": [
+    "A U.S. appeals court rejected Meta and TikTok's attempt to dismiss thousands of lawsuits alleging social media addiction in minors, allowing a $1.4 trillion case led by state attorneys general to proceed to trial.",
+    "The court ruled that Section 230 of the Communications Decency Act provides a defense to liability but does not grant immunity from lawsuits, contrary to Meta's claims.",
+    "State AGs allege Meta deceived the public about platform safety and deliberately designed features to encourage compulsive use for revenue.",
+    "The consolidated case includes over 3,000 lawsuits from individuals, school districts, local governments, and 25 additional state AGs, targeting Meta, TikTok, Google, and Snapchat.",
+    "Meta's appeal was dismissed because the court lacks jurisdiction to review interlocutory orders denying Section 230 defenses before a final judgment.",
+    "Separate trials will address claims under state consumer protection laws and the federal Children’s Online Privacy Protection Act.",
+    "A related case in New Mexico recently ordered Meta to pay $567 million for youth mental health services and $375 million in civil penalties."
+  ],
+  "content_hash": "762b77c28540b6ce6ac5197af7201ca89dd5b347d8d82ab8c45dd756e4210078",
+  "title_hash": "77688c43bfb6f851d976d40720f937bbd3b075b847d9a773060f1f8822604dd1",
+  "collected_at": "2026-08-12T04:05:08.490147+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "moderate (balanced reporting with factual basis)",
+      "opinion_fact_separation": "not applicable (news reporting, not review/opinion)",
+      "fabrication": false,
+      "details": "The article provides a well-researched, fact-based summary of a significant legal development in cybersecurity and consumer protection. It avoids sensationalism, clearly distinguishes between allegations and rulings, and maintains objectivity. The category is correctly assigned, and the content is highly relevant to cybersecurity, legal, and social media discussions. Minor deduction in score for slight emphasis on the financial scale ($1.4T), which could be perceived as sensational, but this is a factual claim from the lawsuit."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-12T04:05:08.490147+07:00"
+}
