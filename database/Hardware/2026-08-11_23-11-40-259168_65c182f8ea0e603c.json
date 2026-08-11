@@ -1,0 +1,45 @@
+{
+  "id": "65c182f8ea0e603c",
+  "title": "Amazon’s Panos Panay to Discuss the Future of Hardware Beyond Smartphones at TechCrunch Disrupt 2026",
+  "url": "https://techcrunch.com/2026/08/11/what-comes-after-the-smartphone-amazons-panos-panay-will-make-his-case-at-techcrunch-disrupt-2026",
+  "source": "TechCrunch",
+  "category": "Hardware",
+  "summary": "Amazon’s SVP of Devices and Services, Panos Panay, will speak at TechCrunch Disrupt 2026 about the evolution of hardware in a post-smartphone era. With AI integration reshaping device ecosystems, Panay—who previously led Microsoft’s Surface and Windows 11 development—will share insights on Amazon’s vision, including advancements in Alexa+ and potential new form factors like AI assistants and smart glasses. The discussion will explore how hardware may shift from smartphone-centric designs to more immersive, AI-driven experiences.",
+  "score": 8,
+  "tags": [
+    "Hardware",
+    "AI",
+    "TechCrunch Disrupt",
+    "Amazon",
+    "Future Tech"
+  ],
+  "key_points": [
+    "Panos Panay, Amazon’s SVP of Devices and Services, will speak at TechCrunch Disrupt 2026 about the next generation of hardware beyond smartphones.",
+    "AI is transitioning from standalone apps to being embedded in operating systems and devices, influencing future hardware designs.",
+    "Panay has a strong background in hardware innovation, including Microsoft’s Surface lineup and Windows 11 development.",
+    "Amazon is focusing on generative AI with Alexa+, offering tiered access and exploring new form factors like AI assistants and smart glasses.",
+    "The event will provide insights into how hardware may evolve to prioritize AI-driven interactions over traditional smartphone-centric models."
+  ],
+  "content_hash": "a414809aa65a12dabfa1515bc7660e0a0a00f45aeac7002bf420c73ce25558d9",
+  "title_hash": "82e17eb52db5ea65e32302ff3a87b13a9bf59eb72084bd65f59f1b0b4d58da44",
+  "collected_at": "2026-08-11T23:11:40.259168+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "disguised_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides valuable insights into the future of hardware beyond smartphones, leveraging Panos Panay’s expertise and Amazon’s strategic focus on AI-driven devices. The content is informative, well-structured, and aligns with the 'Hardware' category. No spam, clickbait, or disguised ads are detected. The information is fact-based, with no signs of fabrication or excessive bias. The summary and key points are concise and relevant."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-11T23:11:40.259168+07:00"
+}

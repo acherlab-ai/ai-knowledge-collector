@@ -1,0 +1,47 @@
+{
+  "id": "dcb7b248780f862a",
+  "title": "Python 3.15.0 Release Candidate 1 Now Available",
+  "url": "https://blog.python.org/2026/08/python-3150-rc1",
+  "source": "Python Insider",
+  "category": "Programming",
+  "summary": "Python 3.15.0rc1, the first release candidate of Python 3.15, is now available. This release marks the start of the release candidate phase, where only reviewed bug fixes are permitted. The final release is expected to follow with minimal changes. Maintainers of third-party Python projects are encouraged to prepare for Python 3.15 and publish compatible wheels on PyPI. The release includes several major new features and improvements, such as explicit lazy imports, a new `frozendict` built-in type, UTF-8 as the default encoding, and performance enhancements like an upgraded JIT compiler. Documentation updates are also requested from the core team.",
+  "score": 9,
+  "tags": [
+    "Python",
+    "Programming",
+    "OpenSource"
+  ],
+  "key_points": [
+    "Python 3.15.0rc1 is the first of two planned release candidates for Python 3.15.",
+    "Only reviewed bug fixes are allowed between this release candidate and the final release.",
+    "No ABI changes are expected from this point forward in the 3.15 series.",
+    "Third-party project maintainers are encouraged to test and prepare their projects for Python 3.15.",
+    "Major new features include PEP 810 (lazy imports), PEP 814 (`frozendict`), PEP 686 (UTF-8 as default encoding), and PEP 799 (Tachyon profiler).",
+    "Performance improvements include an upgraded JIT compiler with 8-13% speedup on various platforms.",
+    "Official Windows and macOS binaries now use the tail-calling interpreter and free-threading support by default.",
+    "Documentation updates, including the 'What’s New in Python 3.15' section, are requested from the core team.",
+    "The release is not recommended for production environments at this stage."
+  ],
+  "content_hash": "a1934666cda788b84976035422923064e7b6d16e1f0423a366931d3c7fff87ad",
+  "title_hash": "2e8e4b6fccc34e70d6e852bbaa8f5ed6b4c2c0a01ba61c51dd7eee0933d792cf",
+  "collected_at": "2026-08-11T23:11:43.754035+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_correct": true,
+      "bias": false,
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, factual, and well-structured summary of Python 3.15.0rc1's release. It includes key features, performance improvements, and guidance for maintainers, making it highly useful for developers. The content is neutral, free of spam/ads, and adheres to the 'Programming' category. No fabrication or misleading claims are present."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-11T23:11:43.754035+07:00"
+}
