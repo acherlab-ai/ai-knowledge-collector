@@ -1,0 +1,44 @@
+{
+  "id": "4362877d1c0e32c6",
+  "title": "Python 3.14.7 and 3.13.15 Maintenance Releases Now Available",
+  "url": "https://blog.python.org/2026/08/python-3147-31315",
+  "source": "Python Insider",
+  "category": "Programming",
+  "summary": "The Python development team has released Python 3.14.7 and 3.13.15, which are maintenance updates focusing on bug fixes, build improvements, and documentation changes. Python 3.14.7 includes approximately 499 changes from 86 contributors, while Python 3.13.15 contains around 400 updates since their previous versions. The releases provide links to downloads, documentation, and release schedules, along with resources for reporting bugs and supporting the Python community.",
+  "score": 9,
+  "tags": [
+    "Python",
+    "Programming",
+    "OpenSource",
+    "Software Updates"
+  ],
+  "key_points": [
+    "Python 3.14.7 is the seventh maintenance release of Python 3.14, featuring 499 bugfixes, build improvements, and documentation changes from 86 contributors.",
+    "Python 3.13.15 is the fifteenth maintenance release of Python 3.13, containing around 400 similar updates since Python 3.13.14.",
+    "Both releases are available for download on python.org, with links to documentation and release schedules (PEP 745 for 3.14, PEP 719 for 3.13).",
+    "Users are encouraged to report bugs via GitHub and support Python development through contributions or funding.",
+    "The post includes a historical note on π calculations but does not affect the technical content of the releases."
+  ],
+  "content_hash": "0e94aeb61ced02c2d3952d7f5f46ea15223a2c35c41cecf8c031b48fc164cf00",
+  "title_hash": "4c0a881c8d1f910367a180703ec349c1fbe8571fbf10938159e1e7a0453d71ab",
+  "collected_at": "2026-08-11T18:31:31.480138+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_correct": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides accurate, detailed, and relevant information about the Python maintenance releases. It is well-structured, free of spam/clickbait, and adheres to the Programming category. The historical note on π calculations is tangential but does not detract from the technical content. No hidden ads or bias detected. The content is factual and aligns with official Python release notes."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-11T18:31:31.480138+07:00"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "e6aece267ad2f791",
+  "title": "Closing Canario Terminal Source Code: A Maintainer's Perspective",
+  "url": "https://rapha.land/closing-canario-terminal-source-code",
+  "source": "Hacker News",
+  "category": "OpenSource",
+  "summary": "Raphael Amorim, an experienced open-source contributor, explains his decision to close-source Canario Terminal, a project he built for personal use. He cites the high maintenance cost of open-source projects, including spam, low-effort issues, and AI-generated pull requests, as the primary reasons. While the source code remains available in older versions for forking, Amorim emphasizes his focus on maintaining Rio, another open-source project he loves, and developing Canario at his own pace without external demands.",
+  "score": 8,
+  "tags": [
+    "OpenSource",
+    "Maintainer Challenges",
+    "Terminal",
+    "Software Development"
+  ],
+  "key_points": [
+    "Raphael Amorim has a long history in open-source, starting at age 17, but has decided to close-source Canario Terminal.",
+    "The decision stems from the high cost of maintaining open-source projects, including spam, low-effort issues, and AI-generated pull requests.",
+    "Canario was built for personal use, with no commercial intent or VC funding.",
+    "The source code of older versions remains available for forking, but no further open-source contributions will be accepted.",
+    "Amorim will continue maintaining Rio, another open-source project, but will develop Canario independently without external input.",
+    "The post highlights the challenges faced by open-source maintainers, including time, energy, and the burden of community demands."
+  ],
+  "content_hash": "8ef6dba8d00fb7cf927e2bb46256bdec21a91b41f708230ef28ffb2969a42891",
+  "title_hash": "9f3c06087503cdcd967cd425f423ebb18d15235f335781a83efc5643d3435117",
+  "collected_at": "2026-08-11T18:31:25.512638+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "clear",
+      "fabrication": false,
+      "details": "The article provides a well-reasoned perspective from an open-source maintainer about the challenges of sustaining such projects. It is informative, original, and aligns with the OpenSource category. The author distinguishes personal opinions (e.g., frustrations with maintenance) from factual context (e.g., project history, decisions). No spam, clickbait, or hidden ads detected. The content is neutral, focusing on systemic issues rather than promoting a product or agenda."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-11T18:31:25.512638+07:00"
+}
