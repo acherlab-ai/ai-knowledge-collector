@@ -1,0 +1,4 @@
+mistralai
+feedparser
+requests
+beautifulsoup4
