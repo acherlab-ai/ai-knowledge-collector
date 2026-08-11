@@ -5,6 +5,7 @@ import re
 import time
 from datetime import datetime, timezone
 from pathlib import Path
+from urllib.parse import urlsplit, urlunsplit, parse_qsl, urlencode
 
 import feedparser
 import requests
@@ -12,38 +13,36 @@ from bs4 import BeautifulSoup
 from mistralai.client import Mistral
 
 
-# ============================================================
-# PATH
-# ============================================================
-
 ROOT = Path(__file__).resolve().parent.parent
 
-DATABASE_DIR = ROOT / "database"
 SOURCES_FILE = ROOT / "sources.json"
+DATABASE_DIR = ROOT / "database"
+OUTPUT_DIR = ROOT / "collector_output"
 
-
-# ============================================================
-# CONFIG
-# ============================================================
 
 MODEL = os.getenv(
     "MISTRAL_MODEL",
     "mistral-large-latest"
 )
 
-MAX_ARTICLES = int(
-    os.getenv("MAX_ARTICLES", "30")
+WORKER_ID = int(
+    os.getenv("WORKER_ID", "0")
 )
 
-MAX_CONTENT_CHARS = 18000
+TOTAL_WORKERS = int(
+    os.getenv("TOTAL_WORKERS", "5")
+)
 
+MAX_ARTICLES = int(
+    os.getenv("MAX_ARTICLES", "10")
+)
+
+MIN_SCORE = 7
+
+MAX_CONTENT_CHARS = 18000
 MIN_CONTENT_CHARS = 500
 
-MIN_SCORE = 6
-
 REQUEST_TIMEOUT = 20
-
-SLEEP_BETWEEN_REQUESTS = 1
 
 
 CATEGORIES = [
@@ -66,10 +65,6 @@ CATEGORIES = [
 ]
 
 
-# ============================================================
-# MISTRAL
-# ============================================================
-
 API_KEY = os.getenv("MISTRAL_API_KEY")
 
 if not API_KEY:
@@ -77,21 +72,98 @@ if not API_KEY:
         "MISTRAL_API_KEY is not configured."
     )
 
+
 client = Mistral(
     api_key=API_KEY
 )
 
 
-# ============================================================
-# HTTP
-# ============================================================
-
 HEADERS = {
-    "User-Agent": (
+    "User-Agent":
         "Mozilla/5.0 "
         "(compatible; AIKnowledgeCollector/1.0)"
-    )
 }
+
+
+# ============================================================
+# NORMALIZE URL
+# ============================================================
+
+def normalize_url(url):
+
+    try:
+
+        parts = urlsplit(url)
+
+        query = []
+
+        for key, value in parse_qsl(
+            parts.query,
+            keep_blank_values=True
+        ):
+
+            key_lower = key.lower()
+
+            if key_lower.startswith("utm_"):
+                continue
+
+            if key_lower in [
+                "fbclid",
+                "gclid",
+                "ref",
+                "source"
+            ]:
+                continue
+
+            query.append(
+                (key, value)
+            )
+
+        return urlunsplit((
+            parts.scheme.lower(),
+            parts.netloc.lower(),
+            parts.path.rstrip("/"),
+            urlencode(query),
+            ""
+        ))
+
+    except Exception:
+        return url.strip()
+
+
+# ============================================================
+# NORMALIZE TITLE
+# ============================================================
+
+def normalize_title(title):
+
+    title = title.lower()
+
+    title = re.sub(
+        r"[^\w\s]",
+        " ",
+        title,
+        flags=re.UNICODE
+    )
+
+    title = re.sub(
+        r"\s+",
+        " ",
+        title
+    )
+
+    return title.strip()
+
+
+# ============================================================
+# HASH
+# ============================================================
+
+def make_hash(text):
+
+    return hashlib.sha256(
+        text.encode("utf-8")
+    ).hexdigest()
 
 
 # ============================================================
@@ -100,31 +172,17 @@ HEADERS = {
 
 def load_sources():
 
-    if not SOURCES_FILE.exists():
-
-        raise FileNotFoundError(
-            f"Missing {SOURCES_FILE}"
-        )
-
     with open(
         SOURCES_FILE,
         "r",
         encoding="utf-8"
-    ) as file:
+    ) as f:
 
-        data = json.load(file)
-
-    if not isinstance(data, list):
-
-        raise ValueError(
-            "sources.json must contain a JSON array."
-        )
-
-    return data
+        return json.load(f)
 
 
 # ============================================================
-# TEXT CLEANING
+# CLEAN TEXT
 # ============================================================
 
 def clean_text(text):
@@ -139,28 +197,22 @@ def clean_text(text):
 
 
 # ============================================================
-# ARTICLE ID
+# LOAD EXISTING IDS
 # ============================================================
 
-def make_id(url):
+def load_existing():
 
-    return hashlib.sha256(
-        url.encode("utf-8")
-    ).hexdigest()[:16]
-
-
-# ============================================================
-# CHECK DUPLICATE
-# ============================================================
-
-def already_exists(url):
-
-    article_id = make_id(url)
+    ids = set()
+    urls = set()
+    titles = set()
+    hashes = set()
 
     if not DATABASE_DIR.exists():
-        return False
+        return ids, urls, titles, hashes
 
-    for file in DATABASE_DIR.rglob("*.jsonl"):
+    for file in DATABASE_DIR.rglob(
+        "*.jsonl"
+    ):
 
         try:
 
@@ -172,20 +224,51 @@ def already_exists(url):
 
                 for line in f:
 
-                    if article_id in line:
-                        return True
+                    try:
 
-        except Exception as e:
+                        item = json.loads(
+                            line
+                        )
 
-            print(
-                f"[WARNING] Cannot read {file}: {e}"
-            )
+                    except Exception:
+                        continue
 
-    return False
+                    if item.get("id"):
+                        ids.add(
+                            item["id"]
+                        )
+
+                    if item.get("url"):
+                        urls.add(
+                            normalize_url(
+                                item["url"]
+                            )
+                        )
+
+                    if item.get("title"):
+                        titles.add(
+                            normalize_title(
+                                item["title"]
+                            )
+                        )
+
+                    if item.get(
+                        "content_hash"
+                    ):
+                        hashes.add(
+                            item[
+                                "content_hash"
+                            ]
+                        )
+
+        except Exception:
+            continue
+
+    return ids, urls, titles, hashes
 
 
 # ============================================================
-# FETCH ARTICLE
+# FETCH
 # ============================================================
 
 def fetch_article(url):
@@ -205,7 +288,6 @@ def fetch_article(url):
             "html.parser"
         )
 
-        # Remove useless HTML
         for tag in soup([
             "script",
             "style",
@@ -221,8 +303,9 @@ def fetch_article(url):
 
             tag.decompose()
 
-        # Prefer article content
-        article = soup.find("article")
+        article = soup.find(
+            "article"
+        )
 
         if article:
 
@@ -242,29 +325,17 @@ def fetch_article(url):
 
         return text[:MAX_CONTENT_CHARS]
 
-    except requests.RequestException as e:
-
-        print(
-            f"[FETCH ERROR] {url}"
-        )
-
-        print(
-            f"           {e}"
-        )
-
-        return ""
-
     except Exception as e:
 
         print(
-            f"[PARSE ERROR] {url}: {e}"
+            f"[FETCH ERROR] {url}: {e}"
         )
 
         return ""
 
 
 # ============================================================
-# MISTRAL ANALYSIS
+# MISTRAL
 # ============================================================
 
 def analyze_article(
@@ -273,56 +344,62 @@ def analyze_article(
     content
 ):
 
-    category_text = ", ".join(
-        CATEGORIES
-    )
-
     prompt = f"""
 Bạn là AI quản lý một kho kiến thức
-công nghệ tự động.
+công nghệ chất lượng cao.
 
-Hãy phân tích bài viết dưới đây.
+Phân tích bài viết.
 
-NHIỆM VỤ:
+YÊU CẦU:
 
-1. Xác định bài viết có hữu ích hay không.
-2. Tóm tắt chính xác bằng tiếng Việt.
-3. Chấm điểm hữu ích từ 0 đến 10.
-4. Chọn MỘT category phù hợp nhất.
-5. Tạo từ 3 đến 8 tags.
-6. Liệt kê các ý chính quan trọng.
-7. Không được bịa thông tin.
-8. Không suy diễn những điều bài viết không nói.
-9. Nếu bài chủ yếu là quảng cáo, spam,
-   clickbait hoặc nội dung quá mỏng:
-   useful=false.
-10. Nếu bài có thông tin kỹ thuật,
-    nghiên cứu, cập nhật hoặc hướng dẫn
-    có giá trị thì useful=true.
+- Chỉ giữ nội dung thực sự hữu ích.
+- Loại quảng cáo.
+- Loại spam.
+- Loại clickbait.
+- Loại nội dung quá mỏng.
+- Loại tin giải trí không có giá trị kỹ thuật.
+- Không bịa thông tin.
+- Tóm tắt bằng tiếng Việt.
+- Chấm điểm 0-10.
+- Chọn đúng một category.
+- Tạo tags.
+- Liệt kê key points.
 
-CATEGORY ĐƯỢC PHÉP:
+ƯU TIÊN:
 
-{category_text}
+AI
+Machine Learning
+LLM
+Linux
+Windows
+Programming
+Open Source
+Cybersecurity
+Cloud
+DevOps
+Networking
+Hardware
+Science
+Technology
 
-CHỈ TRẢ VỀ JSON.
+CATEGORY:
 
-FORMAT:
+{", ".join(CATEGORIES)}
+
+Chỉ trả JSON:
 
 {{
-    "useful": true,
-    "category": "AI",
-    "title": "Tiêu đề",
-    "summary": "Tóm tắt bằng tiếng Việt",
-    "score": 8,
-    "tags": [
-        "LLM",
-        "Machine Learning"
-    ],
-    "key_points": [
-        "Ý chính 1",
-        "Ý chính 2",
-        "Ý chính 3"
-    ]
+  "useful": true,
+  "category": "AI",
+  "title": "...",
+  "summary": "...",
+  "score": 9,
+  "tags": ["AI", "LLM"],
+  "key_points": [
+    "...",
+    "...",
+    "..."
+  ]
 }}
 
 TITLE:
@@ -331,7 +408,7 @@ TITLE:
 URL:
 {url}
 
-ARTICLE CONTENT:
+CONTENT:
 {content}
 """
 
@@ -344,12 +421,10 @@ ARTICLE CONTENT:
             messages=[
                 {
                     "role": "system",
-                    "content": (
-                        "Bạn là AI chuyên "
-                        "phân tích, tóm tắt và "
-                        "phân loại dữ liệu. "
-                        "Luôn trả về JSON hợp lệ."
-                    )
+                    "content":
+                        "Bạn là AI curator "
+                        "chuyên lọc kiến thức. "
+                        "Chỉ trả JSON hợp lệ."
                 },
                 {
                     "role": "user",
@@ -366,32 +441,14 @@ ARTICLE CONTENT:
             max_tokens=1200
         )
 
-        content = (
+        raw = (
             response
             .choices[0]
             .message
             .content
         )
 
-        if not content:
-
-            print(
-                "[AI ERROR] Empty response."
-            )
-
-            return None
-
-        result = json.loads(content)
-
-        return result
-
-    except json.JSONDecodeError as e:
-
-        print(
-            f"[JSON ERROR] {e}"
-        )
-
-        return None
+        return json.loads(raw)
 
     except Exception as e:
 
@@ -403,66 +460,15 @@ ARTICLE CONTENT:
 
 
 # ============================================================
-# VALIDATE AI RESULT
+# SAVE TEMP RESULT
 # ============================================================
 
-def validate_result(result):
-
-    if not isinstance(
-        result,
-        dict
-    ):
-
-        return False
-
-    required = [
-        "useful",
-        "category",
-        "title",
-        "summary",
-        "score",
-        "tags",
-        "key_points"
-    ]
-
-    for field in required:
-
-        if field not in result:
-            return False
-
-    category = result["category"]
-
-    if category not in CATEGORIES:
-
-        result["category"] = "Technology"
-
-    try:
-
-        score = float(
-            result["score"]
-        )
-
-    except:
-
-        result["score"] = 0
-
-    if score < 0:
-        result["score"] = 0
-
-    if score > 10:
-        result["score"] = 10
-
-    return True
-
-
-# ============================================================
-# SAVE ARTICLE
-# ============================================================
-
-def save_article(
+def save_result(
     result,
+    title,
     url,
-    source
+    source,
+    content
 ):
 
     category = result.get(
@@ -474,39 +480,34 @@ def save_article(
 
         category = "Technology"
 
-    today = datetime.now(
-        timezone.utc
-    ).strftime(
-        "%Y-%m-%d"
+    normalized_url = normalize_url(
+        url
     )
 
-    category_dir = (
-        DATABASE_DIR /
-        category
+    normalized_title = normalize_title(
+        title
     )
 
-    category_dir.mkdir(
-        parents=True,
-        exist_ok=True
-    )
-
-    output_file = (
-        category_dir /
-        f"{today}.jsonl"
+    content_hash = make_hash(
+        content
     )
 
     record = {
 
-        "id": make_id(url),
+        "id": make_hash(
+            normalized_url
+        )[:16],
 
         "title": result.get(
             "title",
-            ""
+            title
         ),
 
-        "url": url,
+        "url": normalized_url,
 
         "source": source,
+
+        "category": category,
 
         "summary": result.get(
             "summary",
@@ -528,19 +529,35 @@ def save_article(
             []
         ),
 
+        "content_hash": content_hash,
+
+        "title_hash": make_hash(
+            normalized_title
+        ),
+
         "collected_at":
             datetime.now(
                 timezone.utc
             ).isoformat()
     }
 
+    OUTPUT_DIR.mkdir(
+        parents=True,
+        exist_ok=True
+    )
+
+    output_file = (
+        OUTPUT_DIR /
+        f"worker-{WORKER_ID}.jsonl"
+    )
+
     with open(
         output_file,
         "a",
         encoding="utf-8"
-    ) as file:
+    ) as f:
 
-        file.write(
+        f.write(
             json.dumps(
                 record,
                 ensure_ascii=False
@@ -548,239 +565,240 @@ def save_article(
         )
 
     print(
-        f"[SAVED] "
+        f"[ACCEPT] "
         f"{category} | "
-        f"{record['score']}/10 | "
-        f"{record['title']}"
+        f"{result.get('score', 0)}/10 | "
+        f"{title}"
     )
 
 
 # ============================================================
-# PROCESS SOURCE
-# ============================================================
-
-def process_source(
-    source,
-    processed
-):
-
-    name = source.get(
-        "name",
-        "Unknown"
-    )
-
-    rss_url = source.get(
-        "rss"
-    )
-
-    if not rss_url:
-
-        print(
-            f"[SKIP] {name}: missing RSS URL"
-        )
-
-        return processed, 0
-
-    print()
-    print(
-        "=" * 60
-    )
-
-    print(
-        f"SOURCE: {name}"
-    )
-
-    print(
-        "=" * 60
-    )
-
-    try:
-
-        feed = feedparser.parse(
-            rss_url
-        )
-
-    except Exception as e:
-
-        print(
-            f"[RSS ERROR] {e}"
-        )
-
-        return processed, 0
-
-    saved = 0
-
-    for entry in feed.entries:
-
-        if processed >= MAX_ARTICLES:
-            break
-
-        title = clean_text(
-            entry.get(
-                "title",
-                ""
-            )
-        )
-
-        url = entry.get(
-            "link",
-            ""
-        )
-
-        if not title or not url:
-            continue
-
-        if already_exists(url):
-
-            print(
-                f"[DUPLICATE] {title}"
-            )
-
-            continue
-
-        processed += 1
-
-        print()
-        print(
-            f"[READ {processed}/{MAX_ARTICLES}]"
-        )
-
-        print(
-            title
-        )
-
-        article = fetch_article(
-            url
-        )
-
-        if len(article) < MIN_CONTENT_CHARS:
-
-            print(
-                "[SKIP] Content too short."
-            )
-
-            continue
-
-        result = analyze_article(
-            title,
-            url,
-            article
-        )
-
-        if not result:
-
-            continue
-
-        if not validate_result(
-            result
-        ):
-
-            print(
-                "[SKIP] Invalid AI result."
-            )
-
-            continue
-
-        useful = result.get(
-            "useful",
-            False
-        )
-
-        score = float(
-            result.get(
-                "score",
-                0
-            )
-        )
-
-        if not useful:
-
-            print(
-                "[REJECT] AI marked as useless."
-            )
-
-            continue
-
-        if score < MIN_SCORE:
-
-            print(
-                f"[REJECT] Score {score}/10"
-            )
-
-            continue
-
-        save_article(
-            result,
-            url,
-            name
-        )
-
-        saved += 1
-
-        time.sleep(
-            SLEEP_BETWEEN_REQUESTS
-        )
-
-    return processed, saved
-
-
-# ============================================================
-# MAIN COLLECTOR
+# COLLECT
 # ============================================================
 
 def collect():
 
     sources = load_sources()
 
+    existing_ids, existing_urls, existing_titles, existing_hashes = (
+        load_existing()
+    )
+
+    # Mỗi worker phụ trách một phần nguồn
+    assigned_sources = [
+        source
+        for index, source in enumerate(sources)
+        if index % TOTAL_WORKERS == WORKER_ID
+    ]
+
     print(
-        f"Sources: {len(sources)}"
+        f"Worker {WORKER_ID + 1}/{TOTAL_WORKERS}"
     )
 
     print(
-        f"Model: {MODEL}"
+        f"Assigned sources: "
+        f"{len(assigned_sources)}"
     )
-
-    print(
-        f"Max articles: {MAX_ARTICLES}"
-    )
-
-    print()
 
     processed = 0
-    total_saved = 0
+    accepted = 0
 
-    for source in sources:
+    for source in assigned_sources:
 
         if processed >= MAX_ARTICLES:
             break
 
-        processed, saved = process_source(
-            source,
-            processed
+        name = source.get(
+            "name",
+            "Unknown"
         )
 
-        total_saved += saved
+        rss_url = source.get(
+            "rss"
+        )
 
-    return processed, total_saved
+        if not rss_url:
+            continue
+
+        print()
+        print(
+            f"[SOURCE] {name}"
+        )
+
+        try:
+
+            feed = feedparser.parse(
+                rss_url
+            )
+
+        except Exception as e:
+
+            print(
+                f"[RSS ERROR] {e}"
+            )
+
+            continue
+
+        for entry in feed.entries:
+
+            if processed >= MAX_ARTICLES:
+                break
+
+            title = clean_text(
+                entry.get(
+                    "title",
+                    ""
+                )
+            )
+
+            url = entry.get(
+                "link",
+                ""
+            )
+
+            if not title or not url:
+                continue
+
+            normalized_url = normalize_url(
+                url
+            )
+
+            title_key = normalize_title(
+                title
+            )
+
+            url_id = make_hash(
+                normalized_url
+            )[:16]
+
+            # ========================================
+            # DUPLICATE CHECK #1
+            # ========================================
+
+            if url_id in existing_ids:
+                continue
+
+            if normalized_url in existing_urls:
+                continue
+
+            if title_key in existing_titles:
+                continue
+
+            processed += 1
+
+            print()
+            print(
+                f"[READ] {title}"
+            )
+
+            content = fetch_article(
+                url
+            )
+
+            if len(content) < MIN_CONTENT_CHARS:
+
+                print(
+                    "[SKIP] Too short"
+                )
+
+                continue
+
+            content_hash = make_hash(
+                content
+            )
+
+            # ========================================
+            # DUPLICATE CHECK #2
+            # ========================================
+
+            if content_hash in existing_hashes:
+
+                print(
+                    "[DUPLICATE] Same content"
+                )
+
+                continue
+
+            result = analyze_article(
+                title,
+                url,
+                content
+            )
+
+            if not result:
+                continue
+
+            useful = result.get(
+                "useful",
+                False
+            )
+
+            try:
+
+                score = float(
+                    result.get(
+                        "score",
+                        0
+                    )
+                )
+
+            except Exception:
+
+                score = 0
+
+            if not useful:
+
+                print(
+                    "[REJECT] Not useful"
+                )
+
+                continue
+
+            if score < MIN_SCORE:
+
+                print(
+                    f"[REJECT] "
+                    f"Score {score}/10"
+                )
+
+                continue
+
+            save_result(
+                result,
+                title,
+                url,
+                name,
+                content
+            )
+
+            accepted += 1
+
+            time.sleep(1)
+
+    print()
+    print(
+        f"[WORKER {WORKER_ID}] "
+        f"Processed={processed} "
+        f"Accepted={accepted}"
+    )
 
 
 # ============================================================
 # MAIN
 # ============================================================
 
-def main():
+if __name__ == "__main__":
 
-    print()
     print(
         "=" * 60
     )
 
     print(
-        "        AI KNOWLEDGE COLLECTOR"
+        "AI KNOWLEDGE COLLECTOR"
     )
 
     print(
-        "=" * 60
+        f"Worker: {WORKER_ID + 1}/{TOTAL_WORKERS}"
     )
 
     print(
@@ -788,59 +806,7 @@ def main():
     )
 
     print(
-        f"Database: {DATABASE_DIR}"
-    )
-
-    print(
         "=" * 60
     )
 
-    try:
-
-        processed, saved = collect()
-
-        print()
-        print(
-            "=" * 60
-        )
-
-        print(
-            "FINISHED"
-        )
-
-        print(
-            f"Articles processed: {processed}"
-        )
-
-        print(
-            f"Articles saved:     {saved}"
-        )
-
-        print(
-            "=" * 60
-        )
-
-    except Exception as e:
-
-        print()
-        print(
-            "=" * 60
-        )
-
-        print(
-            "COLLECTOR FAILED"
-        )
-
-        print(
-            str(e)
-        )
-
-        print(
-            "=" * 60
-        )
-
-        raise
-
-
-if __name__ == "__main__":
-    main()
+    collect()
