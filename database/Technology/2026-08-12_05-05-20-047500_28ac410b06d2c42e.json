@@ -1,0 +1,46 @@
+{
+  "id": "28ac410b06d2c42e",
+  "title": "Phia Startup Under Scrutiny for Alleged 'Cookie Stuffing' Practices",
+  "url": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months",
+  "source": "TechCrunch",
+  "category": "Technology",
+  "summary": "Phia, a shopping startup co-founded by Phoebe Gates and Sophia Kianni, is facing renewed criticism over its alleged use of 'cookie stuffing,' a practice where affiliate commissions are claimed for purchases the company did not influence. Bloomberg reports that Gates and Kianni were aware of the practice months before it was publicly exposed, based on leaked internal communications. The startup reportedly saw a significant revenue drop after discontinuing the practice, which affected major retailers like Nike and Nordstrom. Phia previously described the issue as a 'bug,' but evidence suggests it was an intentional feature.",
+  "score": 8,
+  "tags": [
+    "Startups",
+    "Affiliate Marketing",
+    "E-commerce",
+    "Controversy",
+    "Tech Ethics"
+  ],
+  "key_points": [
+    "Phia, a shopping startup, is accused of 'cookie stuffing,' a practice where it claimed affiliate commissions for purchases it did not generate.",
+    "Bloomberg reports that co-founders Phoebe Gates and Sophia Kianni knew about the practice months before it was publicly exposed, based on leaked Slack messages.",
+    "Cookie stuffing allegedly accounted for a significant portion of Phia’s revenue, and the company saw a revenue decline after stopping the practice.",
+    "Affected retailers included major brands like Nike and Nordstrom.",
+    "Phia initially called the practice a 'bug,' but evidence suggests it was a purposefully built feature that could be toggled on and off.",
+    "The startup has faced previous controversies, including data privacy concerns and employee attrition."
+  ],
+  "content_hash": "19fdc9d25fce25b05661db2449fadb23f63f96ab06c2db7541e6fd5ad14a8d69",
+  "title_hash": "76daca9d0ccf4a5ef4e617b7b684d90c8a65f2e8783c5834611b4c975e4e1822",
+  "collected_at": "2026-08-12T05:05:20.047500+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "disguised_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "moderate (balanced reporting with factual basis)",
+      "opinion_fact_separation": "clear (opinions are attributed to sources like Bloomberg, not the author)",
+      "fabrication": false,
+      "details": "The article provides a well-researched, factual account of the controversy surrounding Phia's alleged 'cookie stuffing' practices. It cites credible sources (Bloomberg, leaked communications) and avoids sensationalism. The summary and key points are concise, relevant, and free of redundancy. The category 'Technology' is accurate, and the tone remains neutral despite the controversial subject. No disguised ads or spam are present."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-12T05:05:20.047500+07:00"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "687acffc0d3640ae",
+  "title": "OpenAI launches ChatGPT desktop app for Linux",
+  "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "OpenAI has released a dedicated ChatGPT desktop app for Linux, addressing long-standing requests from the open-source developer community. The preview app supports major Linux distributions, including Ubuntu 24.04/26.04 LTS, Debian 13, and Fedora 43/44, and enables access to ChatGPT, ChatGPT Work, and Codex. The launch follows Anthropic's earlier release of a Claude desktop app for Linux.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Linux",
+    "OpenSource",
+    "ChatGPT",
+    "Desktop App"
+  ],
+  "key_points": [
+    "OpenAI has launched a ChatGPT desktop app for Linux, fulfilling a major request from the open-source community.",
+    "The app is currently in preview and supports Ubuntu 24.04/26.04 LTS, Debian 13, and Fedora 43/44.",
+    "The app provides access to ChatGPT, ChatGPT Work, and Codex on Linux distributions.",
+    "The release is global and covers distributions that serve as bases for many downstream desktop variants.",
+    "Anthropic had previously released a Claude desktop app for Linux, making OpenAI's release a competitive response."
+  ],
+  "content_hash": "e22a967ca2515adb325abaf8d01c8a0b526147ab2d71c54607c21c796dc732b5",
+  "title_hash": "2ceec05bf70b157ebffdab5aecb70d18aeb22b1ea1739de1764ee8b2475204a5",
+  "collected_at": "2026-08-12T05:05:14.206875+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides timely, relevant, and factual information about OpenAI's ChatGPT desktop app for Linux. It is well-structured, concise, and free of spam, clickbait, or hidden advertisements. The content is neutral, avoids excessive bias, and aligns with the AI category. No fabrication or redundancy is detected."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-12T05:05:14.206875+07:00"
+}
