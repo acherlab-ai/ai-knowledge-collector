@@ -1,19 +1,24 @@
 name: AI Knowledge Collector
 
 on:
+
   schedule:
+
     # Mỗi 15 phút
     - cron: "*/15 * * * *"
 
   workflow_dispatch:
 
+
 permissions:
+
   contents: write
+
 
 jobs:
 
   # ==========================================================
-  # 5 WORKERS CHẠY SONG SONG
+  # COLLECTOR 0-4
   # ==========================================================
 
   collect:
@@ -23,11 +28,13 @@ jobs:
     runs-on: ubuntu-latest
 
     strategy:
+
       fail-fast: false
 
       max-parallel: 5
 
       matrix:
+
         worker:
           - 0
           - 1
@@ -35,117 +42,413 @@ jobs:
           - 3
           - 4
 
+
     steps:
 
+      # --------------------------------------------------------
+      # CHECKOUT
+      # --------------------------------------------------------
+
       - name: Checkout
+
         uses: actions/checkout@v4
+
+
+      # --------------------------------------------------------
+      # PYTHON
+      # --------------------------------------------------------
 
       - name: Setup Python
+
         uses: actions/setup-python@v5
+
         with:
+
           python-version: "3.11"
 
+
+      # --------------------------------------------------------
+      # INSTALL
+      # --------------------------------------------------------
+
       - name: Install dependencies
+
         run: |
+
           python -m pip install --upgrade pip
+
           pip install -r requirements.txt
 
-      - name: Check Mistral SDK
-        run: |
-          python -c "from mistralai.client import Mistral; print('Mistral SDK OK')"
 
-      - name: Run collector
+      # --------------------------------------------------------
+      # TEST MISTRAL
+      # --------------------------------------------------------
+
+      - name: Test Mistral SDK
+
         env:
-          MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
-          MISTRAL_MODEL: mistral-large-latest
 
-          WORKER_ID: ${{ matrix.worker }}
-          TOTAL_WORKERS: "5"
-
-          MAX_ARTICLES: "10"
+          MISTRAL_API_KEY:
+            ${{ secrets.MISTRAL_API_KEY }}
 
         run: |
+
+          python -c "
+          from mistralai.client import Mistral
+          print('Mistral SDK OK')
+          "
+
+
+      # --------------------------------------------------------
+      # RUN COLLECTOR
+      # --------------------------------------------------------
+
+      - name: Run Collector
+
+        env:
+
+          MISTRAL_API_KEY:
+            ${{ secrets.MISTRAL_API_KEY }}
+
+          MISTRAL_MODEL:
+            mistral-large-latest
+
+          WORKER_ID:
+            ${{ matrix.worker }}
+
+          TOTAL_WORKERS:
+            "5"
+
+          MAX_ARTICLES:
+            "10"
+
+
+        run: |
+
           python collector/collector.py
 
-      - name: Upload worker data
+
+      # --------------------------------------------------------
+      # UPLOAD TEMP RESULTS
+      # --------------------------------------------------------
+
+      - name: Upload Collector Results
+
         uses: actions/upload-artifact@v4
+
         with:
-          name: collector-results-${{ matrix.worker }}
-          path: collector_output/
-          if-no-files-found: ignore
-          retention-days: 1
+
+          name:
+            collector-${{ matrix.worker }}
+
+          path:
+            collector_output/
+
+          if-no-files-found:
+            ignore
+
+          retention-days:
+            1
 
 
   # ==========================================================
-  # MERGE DUY NHẤT
+  # COLLECTOR 5
   # ==========================================================
 
-  merge:
+  collector5:
 
-    name: Merge database
+    name: Collector 5 - AI Verify & Upload
 
-    needs: collect
+    needs:
+      - collect
 
-    runs-on: ubuntu-latest
+    runs-on:
+      ubuntu-latest
+
 
     steps:
 
+      # --------------------------------------------------------
+      # CHECKOUT
+      # --------------------------------------------------------
+
       - name: Checkout
+
         uses: actions/checkout@v4
+
         with:
+
           fetch-depth: 0
 
-      - name: Download worker results
-        uses: actions/download-artifact@v4
-        with:
-          pattern: collector-results-*
-          path: worker_results
-          merge-multiple: true
 
-      - name: Merge and remove duplicates
+      # --------------------------------------------------------
+      # PYTHON
+      # --------------------------------------------------------
+
+      - name: Setup Python
+
+        uses: actions/setup-python@v5
+
+        with:
+
+          python-version: "3.11"
+
+
+      # --------------------------------------------------------
+      # INSTALL
+      # --------------------------------------------------------
+
+      - name: Install dependencies
+
         run: |
+
+          python -m pip install --upgrade pip
+
+          pip install -r requirements.txt
+
+
+      # --------------------------------------------------------
+      # DOWNLOAD ALL 5 WORKERS
+      # --------------------------------------------------------
+
+      - name: Download Collector Results
+
+        uses: actions/download-artifact@v4
+
+        with:
+
+          pattern:
+            collector-*
+
+          path:
+            worker_results
+
+          merge-multiple:
+            true
+
+
+      # ========================================================
+      # COLLECTOR 5 AI REVIEW
+      # ========================================================
+
+      - name:
+          AI Review - Quality Duplicate Neutrality
+
+        env:
+
+          MISTRAL_API_KEY:
+            ${{ secrets.MISTRAL_API_KEY }}
+
+          MISTRAL_MODEL:
+            mistral-large-latest
+
+
+        run: |
+
           python - <<'PY'
+
+          import os
           import json
           import hashlib
           import re
+
           from pathlib import Path
 
-          database = Path("database")
-          results = Path("worker_results")
-
-          database.mkdir(
-              parents=True,
-              exist_ok=True
+          from datetime import (
+              datetime,
           )
 
-          seen_ids = set()
-          seen_urls = set()
-          seen_titles = set()
-          seen_content = set()
+          from zoneinfo import (
+              ZoneInfo,
+          )
+
+          from mistralai.client import (
+              Mistral,
+          )
+
+
+          # ==================================================
+          # CONFIG
+          # ==================================================
+
+          client = Mistral(
+              api_key=os.environ[
+                  "MISTRAL_API_KEY"
+              ]
+          )
+
+
+          database = Path(
+              "database"
+          )
+
+          results = Path(
+              "worker_results"
+          )
+
+
+          categories = {
+
+              "AI",
+
+              "OS",
+
+              "Linux",
+
+              "Windows",
+
+              "Programming",
+
+              "Cybersecurity",
+
+              "Hardware",
+
+              "Cloud",
+
+              "DevOps",
+
+              "Networking",
+
+              "Science",
+
+              "Space",
+
+              "Technology",
+
+              "OpenSource",
+
+              "Gaming",
+
+              "Mobile",
+
+          }
+
+
+          # ==================================================
+          # HELPERS
+          # ==================================================
 
           def normalize_url(url):
-              return url.strip().lower().rstrip("/")
+
+              return (
+                  url
+                  .strip()
+                  .lower()
+                  .rstrip("/")
+              )
+
 
           def normalize_title(title):
+
               title = title.lower()
+
               title = re.sub(
                   r"[^\w\s]",
                   " ",
                   title,
-                  flags=re.UNICODE
+                  flags=re.UNICODE,
               )
+
               title = re.sub(
                   r"\s+",
                   " ",
-                  title
+                  title,
               )
+
               return title.strip()
 
-          # ==========================================
-          # ĐỌC DATABASE CŨ
-          # ==========================================
 
-          for file in database.rglob("*.jsonl"):
+          # ==================================================
+          # EXISTING DATABASE
+          # ==================================================
+
+          seen_ids = set()
+
+          seen_urls = set()
+
+          seen_titles = set()
+
+          seen_hashes = set()
+
+
+          if database.exists():
+
+              for file in database.rglob(
+                  "*.json"
+              ):
+
+                  try:
+
+                      item = json.loads(
+                          file.read_text(
+                              encoding="utf-8"
+                          )
+                      )
+
+                  except Exception:
+
+                      continue
+
+
+                  if item.get("id"):
+
+                      seen_ids.add(
+                          item["id"]
+                      )
+
+
+                  if item.get("url"):
+
+                      seen_urls.add(
+                          normalize_url(
+                              item["url"]
+                          )
+                      )
+
+
+                  if item.get("title"):
+
+                      seen_titles.add(
+                          normalize_title(
+                              item["title"]
+                          )
+                      )
+
+
+                  if item.get(
+                      "content_hash"
+                  ):
+
+                      seen_hashes.add(
+                          item[
+                              "content_hash"
+                          ]
+                      )
+
+
+          # ==================================================
+          # STATISTICS
+          # ==================================================
+
+          added = 0
+
+          duplicates = 0
+
+          rejected = 0
+
+
+          # ==================================================
+          # READ WORKERS
+          # ==================================================
+
+          worker_files = list(
+              results.rglob(
+                  "*.jsonl"
+              )
+          )
+
+
+          for file in worker_files:
 
               try:
 
@@ -154,61 +457,26 @@ jobs:
                   ).splitlines()
 
               except Exception:
+
                   continue
+
 
               for line in lines:
 
                   try:
-                      item = json.loads(line)
+
+                      item = json.loads(
+                          line
+                      )
+
                   except Exception:
+
                       continue
 
-                  if item.get("id"):
-                      seen_ids.add(
-                          item["id"]
-                      )
-
-                  if item.get("url"):
-                      seen_urls.add(
-                          normalize_url(
-                              item["url"]
-                          )
-                      )
-
-                  if item.get("title"):
-                      seen_titles.add(
-                          normalize_title(
-                              item["title"]
-                          )
-                      )
-
-                  if item.get("content_hash"):
-                      seen_content.add(
-                          item["content_hash"]
-                      )
-
-          # ==========================================
-          # ĐỌC KẾT QUẢ 5 WORKER
-          # ==========================================
-
-          added = 0
-          duplicate = 0
-
-          for file in results.rglob(
-              "*.jsonl"
-          ):
-
-              for line in file.read_text(
-                  encoding="utf-8"
-              ).splitlines():
-
-                  try:
-                      item = json.loads(line)
-                  except Exception:
-                      continue
 
                   item_id = item.get(
-                      "id"
+                      "id",
+                      ""
                   )
 
                   url = normalize_url(
@@ -230,94 +498,471 @@ jobs:
                       ""
                   )
 
-                  # ==================================
-                  # CHỐNG TRÙNG
-                  # ==================================
 
-                  if item_id in seen_ids:
-                      duplicate += 1
-                      continue
-
-                  if url in seen_urls:
-                      duplicate += 1
-                      continue
-
-                  if title in seen_titles:
-                      duplicate += 1
-                      continue
+                  # ==================================================
+                  # DUPLICATE CHECK
+                  # ==================================================
 
                   if (
-                      content_hash
-                      and
-                      content_hash in seen_content
+                      item_id in seen_ids
+                      or
+                      url in seen_urls
+                      or
+                      title in seen_titles
+                      or
+                      (
+                          content_hash
+                          and
+                          content_hash
+                          in seen_hashes
+                      )
                   ):
-                      duplicate += 1
+
+                      print(
+                          "[DUPLICATE]",
+                          item.get(
+                              "title"
+                          )
+                      )
+
+                      duplicates += 1
+
                       continue
+
 
                   category = item.get(
                       "category",
                       "Technology"
                   )
 
-                  category_dir = (
-                      database /
-                      category
+
+                  if category not in categories:
+
+                      category = (
+                          "Technology"
+                      )
+
+
+                  # ==================================================
+                  # SECOND MISTRAL REVIEW
+                  # ==================================================
+
+                  prompt = f"""
+
+Bạn là bộ kiểm duyệt cuối cùng
+cho một kho kiến thức công nghệ.
+
+Hãy đánh giá bài viết.
+
+KIỂM TRA:
+
+1. Có thực sự hữu ích không?
+2. Có spam không?
+3. Có clickbait không?
+4. Có quảng cáo trá hình không?
+5. Chất lượng thông tin có đủ tốt không?
+6. Có trùng ý hoặc lặp lại không?
+7. Category có đúng không?
+8. Nội dung có thiên vị quá mức không?
+9. Nếu là review/ý kiến thì phải
+   phân biệt rõ opinion với fact.
+10. Không được tự bịa.
+
+VỀ TÍNH TRUNG LẬP:
+
+Một bài vẫn có thể được giữ nếu
+nó có quan điểm hoặc review.
+
+Không reject chỉ vì tác giả
+có ý kiến.
+
+Chỉ reject nếu nội dung có dấu hiệu
+thao túng, quảng cáo trá hình,
+spam hoặc gây hiểu lầm nghiêm trọng.
+
+CATEGORY:
+
+{category}
+
+TITLE:
+
+{item.get("title")}
+
+SUMMARY:
+
+{item.get("summary")}
+
+TAGS:
+
+{json.dumps(
+    item.get(
+        "tags",
+        []
+    ),
+    ensure_ascii=False
+)}
+
+KEY POINTS:
+
+{json.dumps(
+    item.get(
+        "key_points",
+        []
+    ),
+    ensure_ascii=False
+)}
+
+Trả JSON:
+
+{{
+  "keep": true,
+  "neutral": true,
+  "quality_score": 9,
+  "category": "AI",
+  "reason": "..."
+}}
+
+"""
+
+
+                  # ==================================================
+                  # CALL MISTRAL
+                  # ==================================================
+
+                  try:
+
+                      response = client.chat.complete(
+
+                          model=os.environ[
+                              "MISTRAL_MODEL"
+                          ],
+
+                          messages=[
+
+                              {
+                                  "role":
+                                      "system",
+
+                                  "content":
+                                      "Bạn là AI "
+                                      "kiểm duyệt "
+                                      "khách quan. "
+                                      "Chỉ trả JSON."
+                              },
+
+                              {
+                                  "role":
+                                      "user",
+
+                                  "content":
+                                      prompt
+                              },
+
+                          ],
+
+                          response_format={
+                              "type":
+                                  "json_object"
+                          },
+
+                          temperature=0.0,
+
+                          max_tokens=500,
+                      )
+
+
+                      review = json.loads(
+                          response
+                          .choices[0]
+                          .message
+                          .content
+                      )
+
+
+                  except Exception as e:
+
+                      print(
+                          "[REVIEW ERROR]",
+                          e
+                      )
+
+                      rejected += 1
+
+                      continue
+
+
+                  # ==================================================
+                  # REVIEW RESULT
+                  # ==================================================
+
+                  keep = review.get(
+                      "keep",
+                      False
                   )
+
+                  neutral = review.get(
+                      "neutral",
+                      False
+                  )
+
+
+                  try:
+
+                      quality = float(
+                          review.get(
+                              "quality_score",
+                              0
+                          )
+                      )
+
+                  except Exception:
+
+                      quality = 0
+
+
+                  if not keep:
+
+                      print(
+                          "[REJECT] AI:",
+                          item.get(
+                              "title"
+                          )
+                      )
+
+                      rejected += 1
+
+                      continue
+
+
+                  if not neutral:
+
+                      print(
+                          "[REJECT] Neutrality:",
+                          item.get(
+                              "title"
+                          )
+                      )
+
+                      rejected += 1
+
+                      continue
+
+
+                  if quality < 7:
+
+                      print(
+                          "[REJECT] Quality:",
+                          quality,
+                          item.get(
+                              "title"
+                          )
+                      )
+
+                      rejected += 1
+
+                      continue
+
+
+                  # ==================================================
+                  # FINAL CATEGORY
+                  # ==================================================
+
+                  final_category = (
+                      review.get(
+                          "category",
+                          category
+                      )
+                  )
+
+
+                  if final_category not in categories:
+
+                      final_category = (
+                          category
+                      )
+
+
+                  item["category"] = (
+                      final_category
+                  )
+
+
+                  # ==================================================
+                  # REVIEW INFORMATION
+                  # ==================================================
+
+                  item["review"] = {
+
+                      "neutral":
+                          neutral,
+
+                      "quality_score":
+                          quality,
+
+                      "reason":
+                          review.get(
+                              "reason",
+                              ""
+                          ),
+
+                      "reviewed_by":
+                          "mistral",
+
+                  }
+
+
+                  # ==================================================
+                  # VIETNAM TIME
+                  # ==================================================
+
+                  vn_now = datetime.now(
+                      ZoneInfo(
+                          "Asia/Ho_Chi_Minh"
+                      )
+                  )
+
+
+                  item[
+                      "collected_at"
+                  ] = vn_now.isoformat()
+
+
+                  item[
+                      "reviewed_at"
+                  ] = vn_now.isoformat()
+
+
+                  # ==================================================
+                  # CREATE CATEGORY
+                  # ==================================================
+
+                  category_dir = (
+                      database
+                      /
+                      final_category
+                  )
+
 
                   category_dir.mkdir(
                       parents=True,
                       exist_ok=True
                   )
 
-                  from datetime import datetime, timezone
 
-                  date = datetime.now(
-                      timezone.utc
-                  ).strftime(
-                      "%Y-%m-%d"
+                  # ==================================================
+                  # ONE ARTICLE = ONE JSON
+                  # ==================================================
+
+                  timestamp = (
+                      vn_now.strftime(
+                          "%Y-%m-%d_%H-%M-%S-%f"
+                      )
                   )
+
 
                   output = (
-                      category_dir /
-                      f"{date}.jsonl"
+
+                      category_dir
+                      /
+                      (
+                          f"{timestamp}"
+                          f"_{item_id}"
+                          f".json"
+                      )
+
                   )
+
 
                   with open(
                       output,
-                      "a",
-                      encoding="utf-8"
+                      "w",
+                      encoding="utf-8",
                   ) as f:
 
-                      f.write(
-                          json.dumps(
-                              item,
-                              ensure_ascii=False
-                          )
-                          + "\n"
+                      json.dump(
+                          item,
+                          f,
+                          ensure_ascii=False,
+                          indent=2,
                       )
 
-                  seen_ids.add(item_id)
-                  seen_urls.add(url)
-                  seen_titles.add(title)
+
+                  # ==================================================
+                  # ADD TO SEEN
+                  # ==================================================
+
+                  seen_ids.add(
+                      item_id
+                  )
+
+                  seen_urls.add(
+                      url
+                  )
+
+                  seen_titles.add(
+                      title
+                  )
 
                   if content_hash:
-                      seen_content.add(
+
+                      seen_hashes.add(
                           content_hash
                       )
 
+
                   added += 1
 
+
+                  print(
+                      "[SAVED]",
+                      final_category,
+                      output.name
+                  )
+
+
+          # ==================================================
+          # FINAL STATS
+          # ==================================================
+
+          print()
+
           print(
-              f"Added: {added}"
+              "================================"
           )
 
           print(
-              f"Duplicates removed: {duplicate}"
+              "COLLECTOR 5 FINISHED"
+          )
+
+          print(
+              "Added:",
+              added
+          )
+
+          print(
+              "Duplicates:",
+              duplicates
+          )
+
+          print(
+              "Rejected:",
+              rejected
+          )
+
+          print(
+              "================================"
           )
 
           PY
 
-      - name: Commit database
+
+      # ========================================================
+      # GIT PUSH
+      # ========================================================
+
+      - name:
+          Commit database
+
         run: |
 
           git config user.name \
@@ -326,7 +971,9 @@ jobs:
           git config user.email \
             "41898282+github-actions[bot]@users.noreply.github.com"
 
+
           git add database/
+
 
           if git diff --cached --quiet; then
 
