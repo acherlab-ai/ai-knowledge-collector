@@ -1,0 +1,50 @@
+{
+  "id": "bec5e1452dc8e72b",
+  "title": "pg_clickhouse v0.10: Subquery Pushdown and Performance Improvements for TPC-H Queries",
+  "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
+  "source": "Hacker News",
+  "category": "Technology",
+  "summary": "The article details the release of pg_clickhouse v0.10, focusing on significant performance improvements and enhanced subquery pushdown capabilities for analytic workloads, particularly in the TPC-H benchmark suite. Key advancements include a 1000x speedup for certain TPC-H queries, expanded pushdown coverage from 12 to 16 out of 22 queries, and architectural improvements such as a new C-based client library and better handling of NULL values in SQL logic. The update also broadens the range of pushdown-compatible functions, aggregates, and operators, while addressing concurrency bugs and improving type coverage and driver reliability.",
+  "score": 9,
+  "tags": [
+    "Database",
+    "PostgreSQL",
+    "ClickHouse",
+    "Performance",
+    "SQL",
+    "Analytics"
+  ],
+  "key_points": [
+    "TPC-H benchmark improvements: Pushdown coverage increased from 12 to 16 queries, with notable speedups (e.g., Q17 reduced from 32.7 seconds to 37 milliseconds).",
+    "Subquery pushdown enhancements: Full subquery pushdown implemented, converting PostgreSQL subqueries into ClickHouse subqueries for efficient remote execution.",
+    "NULL value handling: Fixed inconsistencies between PostgreSQL's three-valued logic and ClickHouse's two-valued logic for IN/NOT IN operations to ensure accurate results.",
+    "Architectural changes: Replaced C++ client library with a C-based one (clickhouse-c) to improve stability, reduce memory usage, and streamline result handling.",
+    "Driver updates: Added support for multidimensional arrays, explicit compression (lz4/zstd), TLS controls, and fixed concurrency issues in foreign scans.",
+    "Function and aggregate pushdown: Expanded support for regex, statistical aggregates, ordered-set aggregates, and partitionwise aggregation.",
+    "New features: Added `clickhouse_query()` and `clickhouse_perform()` for running arbitrary queries and statements, along with `clickhouse_server_version()` for version checks.",
+    "Deprecations: Removed `fetch_size` option, deprecated `clickhouse_raw_query()`, and made function pushdown opt-in to ensure PostgreSQL semantics are preserved.",
+    "Remaining challenges: Six TPC-H queries (Q13, Q15, Q16, Q18, Q20, Q21) still lack full pushdown due to join-tree limitations; UNION pushdown and lightweight DELETE/UPDATE are also pending."
+  ],
+  "content_hash": "076dc4f2629bbd840d2a1575672c1819973cdb99703a29efd5222374a585926d",
+  "title_hash": "1a11aa88816312bfe5a56f47401d4536c6ea95b0dbac932164bbb355aa51cc0e",
+  "collected_at": "2026-08-12T06:03:13.974541+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a detailed, technical overview of pg_clickhouse v0.10's improvements, focusing on performance benchmarks (TPC-H), subquery pushdown enhancements, and architectural changes. The content is factual, well-structured, and directly relevant to the 'Technology' category, specifically databases and analytics. No spam, clickbait, or hidden ads are detected. The information is precise, with clear distinctions between features, benchmarks, and limitations. The slight bias toward the product's advancements is justified as it is a release announcement, but it remains objective and transparent about remaining challenges."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-12T06:03:13.974541+07:00"
+}
