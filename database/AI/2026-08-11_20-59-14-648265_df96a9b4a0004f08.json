@@ -1,0 +1,48 @@
+{
+  "id": "df96a9b4a0004f08",
+  "title": "How to Organize Claude Code for Product Work",
+  "url": "https://www.theaithinker.com/p/how-to-organize-claude-code-for-product",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "The article provides a practical guide on organizing Claude Code for product management work, emphasizing the importance of a structured filing system over prompt tuning. It introduces a starter workspace template to help users transition from chat-based interactions to a persistent, file-based system that accumulates context and automates recurring tasks. The guide includes step-by-step setup instructions, key practices for maintaining the system, and insights on how to make the system compound over time by filing corrections and converting repeated tasks into reusable skills.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Product Management",
+    "Claude Code",
+    "Workflow Optimization",
+    "Automation"
+  ],
+  "key_points": [
+    "Claude Code allows persistent file-based interactions, unlike chat mode, which resets context every session.",
+    "A well-organized filing system (e.g., sorting files by how fast they change) is critical for long-term efficiency in AI-assisted work.",
+    "The starter workspace template (available on GitHub) includes pre-built folders, context templates, and skills for product management tasks.",
+    "Six-step setup process: Install VS Code, download the workspace, open it in VS Code, run Claude Code, personalize via a setup skill, and assign a real task.",
+    "Key practices to maximize the system: Default to the workspace for all tasks, sort files by their rate of change, let Claude maintain the map file, convert repeated tasks into skills, and file every correction once to avoid rework.",
+    "Skills (verbs) should handle actions, while context files (nouns) store knowledge, aligning with documentation best practices like Diátaxis.",
+    "The system is adaptable to other context-heavy roles (e.g., design, data, or founder work) beyond product management.",
+    "Using the terminal and GitHub integration provides direct access to codebases and enables collaboration by sharing workspaces."
+  ],
+  "content_hash": "d2e4f0db40ebe92b917146fa1ed8adb243a9087e6c9c03c59976c1be13a42807",
+  "title_hash": "cd7d07a809f9c7a1d4bb39e96944e23644719cb307eb2e986bc55100610fa7c7",
+  "collected_at": "2026-08-11T20:59:14.648265+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "clear (where applicable)",
+      "fabrication": false,
+      "details": "The article provides a well-structured, actionable guide on organizing Claude Code for product work, with clear steps, practical insights, and no misleading elements. It avoids spam, clickbait, or hidden ads while maintaining objectivity. The content is original, non-repetitive, and aligns with the AI category. Minor bias may exist in emphasizing the template's utility, but it does not compromise neutrality or factual accuracy."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-11T20:59:14.648265+07:00"
+}

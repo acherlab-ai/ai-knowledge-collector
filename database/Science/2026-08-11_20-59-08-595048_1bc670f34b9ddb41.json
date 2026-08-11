@@ -1,0 +1,44 @@
+{
+  "id": "1bc670f34b9ddb41",
+  "title": "England set to be one of the first countries to eliminate hepatitis C",
+  "url": "https://www.bbc.com/news/articles/c75gk620r22o",
+  "source": "Hacker News",
+  "category": "Science",
+  "summary": "England is on track to become one of the first countries to eliminate hepatitis C, a liver-damaging virus, by meeting key public health targets. Over 100,000 people have been treated since 2015, with deaths declining by 36% in the last decade. Initiatives like A&E blood tests, GP registration testing, and free at-home tests have improved diagnosis rates, currently at 84.6% of known cases. The NHS aims to achieve a 65% reduction in hepatitis C-related mortality by 2030, with efforts focused on high-risk groups, including those from specific Eastern European countries or with a history of medical procedures before 1991.",
+  "score": 8,
+  "tags": [
+    "Public Health",
+    "Viral Hepatitis",
+    "Medical Advancements"
+  ],
+  "key_points": [
+    "England has treated 80% of known hepatitis C cases, meeting a key elimination target.",
+    "Deaths from hepatitis C have fallen by 36% in the last decade, nearing the 2030 goal of a 65% reduction.",
+    "Antiviral tablets can cure over 95% of cases within 8 to 12 weeks.",
+    "NHS initiatives, including A&E testing and free at-home kits, have improved diagnosis rates to 84.6%.",
+    "High-risk groups, such as individuals from Eastern Europe or those exposed to medical procedures before 1991, are urged to get tested.",
+    "The infected blood scandal (1970–1991) remains a significant public health issue, with over 30,000 infected and 3,000 deaths."
+  ],
+  "content_hash": "7390e14c02f57edb0198374f80581288fd9840018e5314704a786d6ce49338bc",
+  "title_hash": "ddcfb77b58052449e5d282344f83478972289c172025cf1b4b5b0b2a08e0cc52",
+  "collected_at": "2026-08-11T20:59:08.595048+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not applicable (factual report)",
+      "fabrication": false,
+      "details": "The article provides well-researched, factual information about England's progress in eliminating hepatitis C, supported by statistics and public health initiatives. It avoids sensationalism, maintains objectivity, and aligns with the 'Science' category. The content is informative, actionable, and free of spam or hidden advertising."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-11T20:59:08.595048+07:00"
+}

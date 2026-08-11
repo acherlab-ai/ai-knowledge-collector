@@ -1,0 +1,46 @@
+{
+  "id": "83898146f25a9368",
+  "title": "North Korean remote IT staffer worked for US government agency, says FBI",
+  "url": "https://techcrunch.com/2026/08/11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fbi",
+  "source": "TechCrunch",
+  "category": "Cybersecurity",
+  "summary": "The FBI is investigating a case where a North Korean IT worker fraudulently obtained remote employment at an unnamed U.S. federal government agency. This incident highlights ongoing cybersecurity threats posed by North Korean operatives, who exploit hiring processes to infiltrate organizations, steal data, and funnel wages back to the regime. The U.S. has previously warned about such schemes and taken enforcement actions to counter them.",
+  "score": 9,
+  "tags": [
+    "Cybersecurity",
+    "North Korea",
+    "Government Security",
+    "Fraud",
+    "IT Workforce"
+  ],
+  "key_points": [
+    "The FBI is investigating a North Korean IT worker employed by a U.S. federal agency, marking a rare confirmed instance of such infiltration.",
+    "North Korea is known for coordinated campaigns to fraudulently obtain employment at private and government organizations using fake identities.",
+    "The goal of these schemes includes earning wages for the regime, stealing intellectual property, and extorting companies.",
+    "Strict vetting processes have generally kept North Korean operatives out of government roles, but incidents still occur.",
+    "The U.S. has taken enforcement actions and sanctions to disrupt these networks, which often operate from North Korea, Russia, China, and involve American facilitators.",
+    "North Korea relies heavily on cybercrime, including cryptocurrency thefts, to fund its nuclear weapons program, accounting for 76% of such thefts in 2025."
+  ],
+  "content_hash": "90a3b1f7f3af40340c230dd0c11725b04001068f5083be59ec10b759539b8b3e",
+  "title_hash": "91acb94df5f4cb0c74c28a224ffb6e26a573ef9b8b3c693a263ab97cebefb3df",
+  "collected_at": "2026-08-11T20:59:24.985146+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a well-researched, factual account of a cybersecurity threat involving North Korean operatives. It is informative, relevant to the category, and avoids sensationalism or bias. The summary and key points are clear, accurate, and supported by credible sources (e.g., FBI). No spam, clickbait, or hidden advertising is detected. The category is correctly assigned as 'Cybersecurity'."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-11T20:59:24.985146+07:00"
+}
