@@ -1,0 +1,63 @@
+{
+  "id": "077b61a0fed02bcc",
+  "title": "Thinking of ACE? We Can Do It with Fewer Tokens: ALTK-Evolve vs. ACE in Agentic Memory Efficiency",
+  "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+  "source": "Hugging Face",
+  "category": "AI",
+  "summary": "Bài viết so sánh hai hệ thống agentic memory - ACE (Agentic Context Engineering) và ALTK-Evolve của IBM Research - trong việc cải thiện hiệu suất của các tác nhân LLM (Large Language Model) mà không cần cập nhật trọng số hay gắn nhãn dữ liệu. Cả hai hệ thống đều học từ quỹ đạo hoạt động của chính tác nhân để tạo ra các bài học tái sử dụng, nhưng khác biệt ở cách tổ chức và phân phối bộ nhớ. ALTK-Evolve nổi bật với khả năng giảm đáng kể số lượng token sử dụng trong suy luận (inference) mà vẫn duy trì hoặc cải thiện độ chính xác, đặc biệt hiệu quả với các mô hình có khả năng xử lý hạn chế.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "LLM",
+    "Agentic Memory",
+    "Efficiency",
+    "Inference Optimization",
+    "IBM Research"
+  ],
+  "key_points": [
+    "Cả ACE và ALTK-Evolve đều là hệ thống **agentic memory**, biến quỹ đạo hoạt động của tác nhân thành các bài học tái sử dụng mà **không cần cập nhật trọng số mô hình hay gắn nhãn dữ liệu**.",
+    "**Điểm chung**: Cả hai hệ thống đều từ chối nén thông tin (compression) để tránh mất mát chi tiết, thay vào đó sử dụng các cơ chế đếm (counters/support counts) để theo dõi tần suất xuất hiện của các bài học.",
+    "**Điểm khác biệt chính**:",
+    "- **Xây dựng bộ nhớ**: ACE sử dụng một *playbook* duy nhất được cập nhật gia tăng, trong khi ALTK-Evolve **hợp nhất các bài học gần giống nhau** và duy trì số liệu hỗ trợ (support counts) để tối ưu kích thước bộ nhớ mà không mất thông tin.",
+    "- **Phân phối bộ nhớ**: ACE gửi toàn bộ *playbook* trong mỗi bước suy luận, bất kể tác vụ hay mô hình. ALTK-Evolve **tùy chỉnh số lượng hướng dẫn** dựa trên khả năng của mô hình và yêu cầu của tác vụ, giúp giảm đáng kể số token sử dụng.",
+    "**Hiệu suất**:",
+    "- Trên mô hình **DeepSeek-V3.2**, ALTK-Evolve đạt **độ chính xác cao hơn** (TGC: 89.3 vs 80.4 của ACE) với **chỉ 40% số token** (263K vs 634K).",
+    "- Trên mô hình **gpt-oss-120b** (yếu hơn), ALTK-Evolve đạt **độ chính xác tương đương** (TGC: 56.0 vs 54.8) nhưng sử dụng **chỉ 1/7 số token** (116K vs 777K).",
+    "- ALTK-Evolve **vượt trội trong các tác vụ khó** (Hard tasks) nhờ khả năng chọn lọc hướng dẫn phù hợp, trong khi ACE hiệu quả hơn với các tác vụ đơn giản (Easy/Medium) do cung cấp toàn bộ ngữ cảnh.",
+    "**Nguyên nhân cải thiện hiệu suất**: ALTK-Evolve tránh được **overwhelm** cho các mô hình yếu bằng cách phân phối bộ nhớ linh hoạt, trong khi vẫn tận dụng tối đa khả năng của các mô hình mạnh.",
+    "**Ứng dụng**: ALTK-Evolve cung cấp thư viện mã nguồn mở để trích xuất, hợp nhất và truy xuất bộ nhớ tác nhân, phù hợp cho các hệ thống yêu cầu **hiệu quả suy luận cao** mà không hy sinh độ chính xác."
+  ],
+  "content_hash": "7f2b1f9c0443f6209ea9586296075205ef769d6ecfab5848b0892d8962b0d7fb",
+  "title_hash": "c5fddd05e464b0b193b05dbc1045a8a633716e738ad8f26220594f3be95acbcd",
+  "collected_at": "2026-08-11T22:05:36.634565+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "clear",
+      "fabrication": false,
+      "details": {
+        "useful": "Bài viết cung cấp thông tin chuyên sâu và hữu ích về hai hệ thống agentic memory, so sánh chi tiết về cách thức hoạt động, ưu nhược điểm và hiệu suất, giúp độc giả hiểu rõ về tối ưu hóa suy luận trong LLM.",
+        "spam": "Không có dấu hiệu spam, nội dung tập trung vào chủ đề kỹ thuật.",
+        "clickbait": "Tiêu đề phản ánh đúng nội dung, không có yếu tố câu kéo.",
+        "hidden_ads": "Không có quảng cáo trá hình hoặc thiên vị thương hiệu. IBM Research được đề cập như một phần của nghiên cứu khoa học.",
+        "info_quality": "Thông tin chi tiết, có cơ sở khoa học, dữ liệu hiệu suất cụ thể và giải thích rõ ràng về cơ chế hoạt động của cả hai hệ thống.",
+        "redundancy": "Nội dung không trùng lặp hoặc lặp lại ý không cần thiết.",
+        "category_accuracy": "Category 'AI' hoàn toàn phù hợp với nội dung bài viết.",
+        "bias_level": "Bài viết trình bày khách quan về cả hai hệ thống, nêu rõ ưu điểm và hạn chế của từng hệ thống mà không thiên vị quá mức.",
+        "opinion_fact_separation": "Các ý kiến và đánh giá được phân biệt rõ ràng với dữ liệu thực tế (ví dụ: kết quả thử nghiệm trên các mô hình cụ thể).",
+        "fabrication": "Không có dấu hiệu bịa đặt thông tin, dữ liệu và kết quả được trình bày một cách minh bạch."
+      }
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-11T22:05:36.634565+07:00"
+}

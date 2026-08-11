@@ -1,0 +1,46 @@
+{
+  "id": "230885caa829746b",
+  "title": "Kyoto Fusioneering starts work on key fusion power plant device",
+  "url": "https://techcrunch.com/2026/08/11/kyoto-fusioneering-starts-work-on-key-fusion-power-plant-device",
+  "source": "TechCrunch",
+  "category": "Science",
+  "summary": "Kyoto Fusioneering, a Japan-based fusion power supply chain specialist, has begun developing a prototype fuel breeding device called Unity-3 at Oak Ridge National Laboratory (ORNL) with funding from the U.S. Department of Energy and the state of Tennessee. The device will test breeding blanket technologies, which harvest energy from fusion reactors while generating tritium, a key fusion fuel. Unity-3 will validate data for multiple fusion startups and help advance fusion power plant development.",
+  "score": 9,
+  "tags": [
+    "fusion power",
+    "nuclear fusion",
+    "clean energy",
+    "Department of Energy",
+    "Oak Ridge National Laboratory"
+  ],
+  "key_points": [
+    "Kyoto Fusioneering is a leading supplier in the fusion power industry, having raised $121 million in committed capital.",
+    "The company is building Unity-3, a prototype fuel breeding device, at ORNL with U.S. government grants.",
+    "Breeding blankets are critical for fusion reactors, as they harvest energy and generate tritium, a fusion fuel.",
+    "Unity-3 will test liquid lithium and other materials to validate computer models and support multiple fusion startups.",
+    "Kyoto Fusioneering is also developing systems for plasma heating, fuel recycling, and heat harvesting for electricity generation.",
+    "The project positions Kyoto Fusioneering as a key supplier for future fusion power plants."
+  ],
+  "content_hash": "e1d2b57ee38285719a9c2bc6762e05eba36a760d6b14ae6cde84537193c06746",
+  "title_hash": "c985624e24438defe4f913de86a6087a9e3439198852299eac9e2cc70609fe67",
+  "collected_at": "2026-08-11T22:05:25.124468+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, factual update on Kyoto Fusioneering's fusion power project, backed by credible sources (U.S. Department of Energy, ORNL). It explains technical concepts (e.g., breeding blankets, tritium generation) without oversimplification or exaggeration. The content is well-structured, relevant to the 'Science' category, and free from spam, clickbait, or hidden advertising. Minor deduction in score for lack of deeper technical analysis, but overall highly informative and objective."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-11T22:05:25.124468+07:00"
+}
