@@ -549,80 +549,80 @@ jobs:
 
                   prompt = f"""
 
-Bạn là bộ kiểm duyệt cuối cùng
-cho một kho kiến thức công nghệ.
+          Bạn là bộ kiểm duyệt cuối cùng
+          cho một kho kiến thức công nghệ.
 
-Hãy đánh giá bài viết.
+          Hãy đánh giá bài viết.
 
-KIỂM TRA:
+          KIỂM TRA:
 
-1. Có thực sự hữu ích không?
-2. Có spam không?
-3. Có clickbait không?
-4. Có quảng cáo trá hình không?
-5. Chất lượng thông tin có đủ tốt không?
-6. Có trùng ý hoặc lặp lại không?
-7. Category có đúng không?
-8. Nội dung có thiên vị quá mức không?
-9. Nếu là review/ý kiến thì phải
-   phân biệt rõ opinion với fact.
-10. Không được tự bịa.
+          1. Có thực sự hữu ích không?
+          2. Có spam không?
+          3. Có clickbait không?
+          4. Có quảng cáo trá hình không?
+          5. Chất lượng thông tin có đủ tốt không?
+          6. Có trùng ý hoặc lặp lại không?
+          7. Category có đúng không?
+          8. Nội dung có thiên vị quá mức không?
+          9. Nếu là review/ý kiến thì phải
+             phân biệt rõ opinion với fact.
+          10. Không được tự bịa.
 
-VỀ TÍNH TRUNG LẬP:
+          VỀ TÍNH TRUNG LẬP:
 
-Một bài vẫn có thể được giữ nếu
-nó có quan điểm hoặc review.
+          Một bài vẫn có thể được giữ nếu
+          nó có quan điểm hoặc review.
 
-Không reject chỉ vì tác giả
-có ý kiến.
+          Không reject chỉ vì tác giả
+          có ý kiến.
 
-Chỉ reject nếu nội dung có dấu hiệu
-thao túng, quảng cáo trá hình,
-spam hoặc gây hiểu lầm nghiêm trọng.
+          Chỉ reject nếu nội dung có dấu hiệu
+          thao túng, quảng cáo trá hình,
+          spam hoặc gây hiểu lầm nghiêm trọng.
 
-CATEGORY:
+          CATEGORY:
 
-{category}
+          {category}
 
-TITLE:
+          TITLE:
 
-{item.get("title")}
+          {item.get("title")}
 
-SUMMARY:
+          SUMMARY:
 
-{item.get("summary")}
+          {item.get("summary")}
 
-TAGS:
+          TAGS:
 
-{json.dumps(
-    item.get(
-        "tags",
-        []
-    ),
-    ensure_ascii=False
-)}
+          {json.dumps(
+              item.get(
+                  "tags",
+                  []
+              ),
+              ensure_ascii=False
+          )}
 
-KEY POINTS:
+          KEY POINTS:
 
-{json.dumps(
-    item.get(
-        "key_points",
-        []
-    ),
-    ensure_ascii=False
-)}
+          {json.dumps(
+              item.get(
+                  "key_points",
+                  []
+              ),
+              ensure_ascii=False
+          )}
 
-Trả JSON:
+          Trả JSON:
 
-{{
-  "keep": true,
-  "neutral": true,
-  "quality_score": 9,
-  "category": "AI",
-  "reason": "..."
-}}
+          {{
+            "keep": true,
+            "neutral": true,
+            "quality_score": 9,
+            "category": "AI",
+            "reason": "..."
+          }}
 
-"""
+          """
 
 
                   # ==================================================
