@@ -3,9 +3,13 @@ import json
 import hashlib
 import re
 import time
-from datetime import datetime, timezone
 from pathlib import Path
-from urllib.parse import urlsplit, urlunsplit, parse_qsl, urlencode
+from urllib.parse import (
+    urlsplit,
+    urlunsplit,
+    parse_qsl,
+    urlencode,
+)
 
 import feedparser
 import requests
@@ -13,12 +17,14 @@ from bs4 import BeautifulSoup
 from mistralai.client import Mistral
 
 
+# ============================================================
+# CONFIG
+# ============================================================
+
 ROOT = Path(__file__).resolve().parent.parent
 
 SOURCES_FILE = ROOT / "sources.json"
-DATABASE_DIR = ROOT / "database"
 OUTPUT_DIR = ROOT / "collector_output"
-
 
 MODEL = os.getenv(
     "MISTRAL_MODEL",
@@ -37,13 +43,8 @@ MAX_ARTICLES = int(
     os.getenv("MAX_ARTICLES", "10")
 )
 
-MIN_SCORE = 7
-
 MAX_CONTENT_CHARS = 18000
 MIN_CONTENT_CHARS = 500
-
-REQUEST_TIMEOUT = 20
-
 
 CATEGORIES = [
     "AI",
@@ -61,32 +62,38 @@ CATEGORIES = [
     "Technology",
     "OpenSource",
     "Gaming",
-    "Mobile"
+    "Mobile",
 ]
 
+
+# ============================================================
+# MISTRAL
+# ============================================================
 
 API_KEY = os.getenv("MISTRAL_API_KEY")
 
 if not API_KEY:
     raise RuntimeError(
-        "MISTRAL_API_KEY is not configured."
+        "MISTRAL_API_KEY is missing"
     )
-
 
 client = Mistral(
     api_key=API_KEY
 )
 
 
+# ============================================================
+# HTTP
+# ============================================================
+
 HEADERS = {
     "User-Agent":
-        "Mozilla/5.0 "
-        "(compatible; AIKnowledgeCollector/1.0)"
+        "AI-Knowledge-Collector/1.0"
 }
 
 
 # ============================================================
-# NORMALIZE URL
+# URL NORMALIZATION
 # ============================================================
 
 def normalize_url(url):
@@ -99,7 +106,7 @@ def normalize_url(url):
 
         for key, value in parse_qsl(
             parts.query,
-            keep_blank_values=True
+            keep_blank_values=True,
         ):
 
             key_lower = key.lower()
@@ -107,32 +114,35 @@ def normalize_url(url):
             if key_lower.startswith("utm_"):
                 continue
 
-            if key_lower in [
+            if key_lower in {
                 "fbclid",
                 "gclid",
                 "ref",
-                "source"
-            ]:
+                "source",
+            }:
                 continue
 
             query.append(
                 (key, value)
             )
 
-        return urlunsplit((
-            parts.scheme.lower(),
-            parts.netloc.lower(),
-            parts.path.rstrip("/"),
-            urlencode(query),
-            ""
-        ))
+        return urlunsplit(
+            (
+                parts.scheme.lower(),
+                parts.netloc.lower(),
+                parts.path.rstrip("/"),
+                urlencode(query),
+                "",
+            )
+        )
 
     except Exception:
+
         return url.strip()
 
 
 # ============================================================
-# NORMALIZE TITLE
+# TITLE NORMALIZATION
 # ============================================================
 
 def normalize_title(title):
@@ -143,23 +153,23 @@ def normalize_title(title):
         r"[^\w\s]",
         " ",
         title,
-        flags=re.UNICODE
+        flags=re.UNICODE,
     )
 
     title = re.sub(
         r"\s+",
         " ",
-        title
+        title,
     )
 
     return title.strip()
 
 
 # ============================================================
-# HASH
+# SHA256
 # ============================================================
 
-def make_hash(text):
+def sha256(text):
 
     return hashlib.sha256(
         text.encode("utf-8")
@@ -167,7 +177,7 @@ def make_hash(text):
 
 
 # ============================================================
-# LOAD SOURCES
+# SOURCES
 # ============================================================
 
 def load_sources():
@@ -175,7 +185,7 @@ def load_sources():
     with open(
         SOURCES_FILE,
         "r",
-        encoding="utf-8"
+        encoding="utf-8",
     ) as f:
 
         return json.load(f)
@@ -190,85 +200,14 @@ def clean_text(text):
     text = re.sub(
         r"\s+",
         " ",
-        text
+        text,
     )
 
     return text.strip()
 
 
 # ============================================================
-# LOAD EXISTING IDS
-# ============================================================
-
-def load_existing():
-
-    ids = set()
-    urls = set()
-    titles = set()
-    hashes = set()
-
-    if not DATABASE_DIR.exists():
-        return ids, urls, titles, hashes
-
-    for file in DATABASE_DIR.rglob(
-        "*.jsonl"
-    ):
-
-        try:
-
-            with open(
-                file,
-                "r",
-                encoding="utf-8"
-            ) as f:
-
-                for line in f:
-
-                    try:
-
-                        item = json.loads(
-                            line
-                        )
-
-                    except Exception:
-                        continue
-
-                    if item.get("id"):
-                        ids.add(
-                            item["id"]
-                        )
-
-                    if item.get("url"):
-                        urls.add(
-                            normalize_url(
-                                item["url"]
-                            )
-                        )
-
-                    if item.get("title"):
-                        titles.add(
-                            normalize_title(
-                                item["title"]
-                            )
-                        )
-
-                    if item.get(
-                        "content_hash"
-                    ):
-                        hashes.add(
-                            item[
-                                "content_hash"
-                            ]
-                        )
-
-        except Exception:
-            continue
-
-    return ids, urls, titles, hashes
-
-
-# ============================================================
-# FETCH
+# FETCH ARTICLE
 # ============================================================
 
 def fetch_article(url):
@@ -278,14 +217,14 @@ def fetch_article(url):
         response = requests.get(
             url,
             headers=HEADERS,
-            timeout=REQUEST_TIMEOUT
+            timeout=20,
         )
 
         response.raise_for_status()
 
         soup = BeautifulSoup(
             response.text,
-            "html.parser"
+            "html.parser",
         )
 
         for tag in soup([
@@ -298,7 +237,7 @@ def fetch_article(url):
             "form",
             "noscript",
             "svg",
-            "iframe"
+            "iframe",
         ]):
 
             tag.decompose()
@@ -311,19 +250,23 @@ def fetch_article(url):
 
             text = article.get_text(
                 " ",
-                strip=True
+                strip=True,
             )
 
         else:
 
             text = soup.get_text(
                 " ",
-                strip=True
+                strip=True,
             )
 
-        text = clean_text(text)
+        text = clean_text(
+            text
+        )
 
-        return text[:MAX_CONTENT_CHARS]
+        return text[
+            :MAX_CONTENT_CHARS
+        ]
 
     except Exception as e:
 
@@ -335,58 +278,39 @@ def fetch_article(url):
 
 
 # ============================================================
-# MISTRAL
+# AI ANALYSIS - FIRST PASS
 # ============================================================
 
 def analyze_article(
     title,
     url,
-    content
+    content,
 ):
 
     prompt = f"""
-Bạn là AI quản lý một kho kiến thức
-công nghệ chất lượng cao.
+Bạn là AI curator chuyên xây dựng
+kho kiến thức công nghệ.
 
-Phân tích bài viết.
+Hãy phân tích bài viết dưới đây.
 
-YÊU CẦU:
+MỤC TIÊU:
 
 - Chỉ giữ nội dung thực sự hữu ích.
-- Loại quảng cáo.
 - Loại spam.
 - Loại clickbait.
+- Loại quảng cáo.
 - Loại nội dung quá mỏng.
-- Loại tin giải trí không có giá trị kỹ thuật.
+- Loại nội dung chỉ mang tính giải trí.
 - Không bịa thông tin.
-- Tóm tắt bằng tiếng Việt.
-- Chấm điểm 0-10.
-- Chọn đúng một category.
-- Tạo tags.
-- Liệt kê key points.
-
-ƯU TIÊN:
-
-AI
-Machine Learning
-LLM
-Linux
-Windows
-Programming
-Open Source
-Cybersecurity
-Cloud
-DevOps
-Networking
-Hardware
-Science
-Technology
+- Không thêm thông tin không có trong bài.
+- Tóm tắt chính xác.
+- Chọn đúng category.
 
 CATEGORY:
 
 {", ".join(CATEGORIES)}
 
-Chỉ trả JSON:
+Chỉ trả JSON hợp lệ:
 
 {{
   "useful": true,
@@ -394,10 +318,8 @@ Chỉ trả JSON:
   "title": "...",
   "summary": "...",
   "score": 9,
-  "tags": ["AI", "LLM"],
+  "tags": ["AI"],
   "key_points": [
-    "...",
-    "...",
     "..."
   ]
 }}
@@ -428,8 +350,8 @@ CONTENT:
                 },
                 {
                     "role": "user",
-                    "content": prompt
-                }
+                    "content": prompt,
+                },
             ],
 
             response_format={
@@ -438,7 +360,7 @@ CONTENT:
 
             temperature=0.1,
 
-            max_tokens=1200
+            max_tokens=1200,
         )
 
         raw = (
@@ -468,12 +390,12 @@ def save_result(
     title,
     url,
     source,
-    content
+    content,
 ):
 
     category = result.get(
         "category",
-        "Technology"
+        "Technology",
     )
 
     if category not in CATEGORIES:
@@ -488,86 +410,99 @@ def save_result(
         title
     )
 
-    content_hash = make_hash(
+    content_hash = sha256(
         content
     )
 
     record = {
 
-        "id": make_hash(
-            normalized_url
-        )[:16],
+        "id":
+            sha256(
+                normalized_url
+            )[:16],
 
-        "title": result.get(
-            "title",
-            title
-        ),
+        "title":
+            result.get(
+                "title",
+                title,
+            ),
 
-        "url": normalized_url,
+        "url":
+            normalized_url,
 
-        "source": source,
+        "source":
+            source,
 
-        "category": category,
+        "category":
+            category,
 
-        "summary": result.get(
-            "summary",
-            ""
-        ),
+        "summary":
+            result.get(
+                "summary",
+                "",
+            ),
 
-        "score": result.get(
-            "score",
-            0
-        ),
+        "score":
+            result.get(
+                "score",
+                0,
+            ),
 
-        "tags": result.get(
-            "tags",
-            []
-        ),
+        "tags":
+            result.get(
+                "tags",
+                [],
+            ),
 
-        "key_points": result.get(
-            "key_points",
-            []
-        ),
+        "key_points":
+            result.get(
+                "key_points",
+                [],
+            ),
 
-        "content_hash": content_hash,
+        "content_hash":
+            content_hash,
 
-        "title_hash": make_hash(
-            normalized_title
-        ),
+        "title_hash":
+            sha256(
+                normalized_title
+            ),
 
         "collected_at":
-            datetime.now(
-                timezone.utc
-            ).isoformat()
+            time.strftime(
+                "%Y-%m-%dT%H:%M:%SZ",
+                time.gmtime(),
+            ),
     }
 
     OUTPUT_DIR.mkdir(
         parents=True,
-        exist_ok=True
+        exist_ok=True,
     )
 
-    output_file = (
-        OUTPUT_DIR /
-        f"worker-{WORKER_ID}.jsonl"
+    output = (
+        OUTPUT_DIR
+        / f"worker-{WORKER_ID}.jsonl"
     )
 
     with open(
-        output_file,
+        output,
         "a",
-        encoding="utf-8"
+        encoding="utf-8",
     ) as f:
 
         f.write(
             json.dumps(
                 record,
-                ensure_ascii=False
-            ) + "\n"
+                ensure_ascii=False,
+            )
+            + "\n"
         )
 
     print(
         f"[ACCEPT] "
         f"{category} | "
-        f"{result.get('score', 0)}/10 | "
+        f"{record['score']}/10 | "
         f"{title}"
     )
 
@@ -580,28 +515,26 @@ def collect():
 
     sources = load_sources()
 
-    existing_ids, existing_urls, existing_titles, existing_hashes = (
-        load_existing()
-    )
-
-    # Mỗi worker phụ trách một phần nguồn
     assigned_sources = [
         source
-        for index, source in enumerate(sources)
-        if index % TOTAL_WORKERS == WORKER_ID
+        for index, source
+        in enumerate(sources)
+        if index % TOTAL_WORKERS
+        == WORKER_ID
     ]
 
     print(
-        f"Worker {WORKER_ID + 1}/{TOTAL_WORKERS}"
+        f"Worker "
+        f"{WORKER_ID + 1}/"
+        f"{TOTAL_WORKERS}"
     )
 
     print(
-        f"Assigned sources: "
+        f"Sources: "
         f"{len(assigned_sources)}"
     )
 
     processed = 0
-    accepted = 0
 
     for source in assigned_sources:
 
@@ -610,25 +543,24 @@ def collect():
 
         name = source.get(
             "name",
-            "Unknown"
+            "Unknown",
         )
 
-        rss_url = source.get(
+        rss = source.get(
             "rss"
         )
 
-        if not rss_url:
+        if not rss:
             continue
 
-        print()
         print(
-            f"[SOURCE] {name}"
+            f"\n[SOURCE] {name}"
         )
 
         try:
 
             feed = feedparser.parse(
-                rss_url
+                rss
             )
 
         except Exception as e:
@@ -647,106 +579,53 @@ def collect():
             title = clean_text(
                 entry.get(
                     "title",
-                    ""
+                    "",
                 )
             )
 
             url = entry.get(
                 "link",
-                ""
+                "",
             )
 
             if not title or not url:
                 continue
 
-            normalized_url = normalize_url(
-                url
+            normalized_url = (
+                normalize_url(url)
             )
-
-            title_key = normalize_title(
-                title
-            )
-
-            url_id = make_hash(
-                normalized_url
-            )[:16]
-
-            # ========================================
-            # DUPLICATE CHECK #1
-            # ========================================
-
-            if url_id in existing_ids:
-                continue
-
-            if normalized_url in existing_urls:
-                continue
-
-            if title_key in existing_titles:
-                continue
 
             processed += 1
 
-            print()
             print(
-                f"[READ] {title}"
+                f"\n[READ] {title}"
             )
 
             content = fetch_article(
-                url
+                normalized_url
             )
 
             if len(content) < MIN_CONTENT_CHARS:
 
                 print(
-                    "[SKIP] Too short"
-                )
-
-                continue
-
-            content_hash = make_hash(
-                content
-            )
-
-            # ========================================
-            # DUPLICATE CHECK #2
-            # ========================================
-
-            if content_hash in existing_hashes:
-
-                print(
-                    "[DUPLICATE] Same content"
+                    "[SKIP] Content too short"
                 )
 
                 continue
 
             result = analyze_article(
                 title,
-                url,
-                content
+                normalized_url,
+                content,
             )
 
             if not result:
                 continue
 
-            useful = result.get(
+            if not result.get(
                 "useful",
-                False
-            )
-
-            try:
-
-                score = float(
-                    result.get(
-                        "score",
-                        0
-                    )
-                )
-
-            except Exception:
-
-                score = 0
-
-            if not useful:
+                False,
+            ):
 
                 print(
                     "[REJECT] Not useful"
@@ -754,11 +633,24 @@ def collect():
 
                 continue
 
-            if score < MIN_SCORE:
+            try:
+
+                score = float(
+                    result.get(
+                        "score",
+                        0,
+                    )
+                )
+
+            except Exception:
+
+                score = 0
+
+            if score < 7:
 
                 print(
                     f"[REJECT] "
-                    f"Score {score}/10"
+                    f"Score={score}"
                 )
 
                 continue
@@ -766,21 +658,12 @@ def collect():
             save_result(
                 result,
                 title,
-                url,
+                normalized_url,
                 name,
-                content
+                content,
             )
 
-            accepted += 1
-
             time.sleep(1)
-
-    print()
-    print(
-        f"[WORKER {WORKER_ID}] "
-        f"Processed={processed} "
-        f"Accepted={accepted}"
-    )
 
 
 # ============================================================
@@ -789,24 +672,22 @@ def collect():
 
 if __name__ == "__main__":
 
-    print(
-        "=" * 60
-    )
+    print("=" * 60)
 
     print(
         "AI KNOWLEDGE COLLECTOR"
     )
 
     print(
-        f"Worker: {WORKER_ID + 1}/{TOTAL_WORKERS}"
+        f"Worker: "
+        f"{WORKER_ID + 1}/"
+        f"{TOTAL_WORKERS}"
     )
 
     print(
         f"Model: {MODEL}"
     )
 
-    print(
-        "=" * 60
-    )
+    print("=" * 60)
 
     collect()
