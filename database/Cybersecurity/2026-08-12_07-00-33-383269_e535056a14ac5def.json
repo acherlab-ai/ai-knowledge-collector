@@ -1,0 +1,46 @@
+{
+  "id": "e535056a14ac5def",
+  "title": "Russian drones intercepted and destroyed near critical European offshore gas site in Romania",
+  "url": "https://arstechnica.com/gadgets/2026/08/romania-destroys-russian-drones-drifting-near-vital-european-offshore-gas-site",
+  "source": "Ars Technica",
+  "category": "Cybersecurity",
+  "summary": "Romania's military destroyed two Russian-made drones found drifting near the Neptun Deep offshore gas project in the Black Sea. The drones, identified as Gerbera-type, are commonly used by Russia for strikes, reconnaissance, or as decoys. The incident highlights escalating tensions in the Black Sea region amid the Russia-Ukraine war, with potential risks to critical European energy infrastructure.",
+  "score": 8,
+  "tags": [
+    "Cybersecurity",
+    "Drones",
+    "Russia-Ukraine War",
+    "Energy Security",
+    "Black Sea"
+  ],
+  "key_points": [
+    "Romanian army divers destroyed two Russian-made Gerbera drones near the Neptun Deep offshore gas project in the Black Sea.",
+    "The drones were confirmed not to belong to Ukraine after coordination with Ukrainian authorities.",
+    "Gerbera drones are used by Russia for one-way strikes, reconnaissance, and as decoys in attacks on Ukraine.",
+    "The Neptun Deep project is a strategic EU energy initiative aimed at reducing dependence on Russian gas, set to start production in 2027.",
+    "The Black Sea has become a contested zone, with both Russia and Ukraine targeting shipping and infrastructure.",
+    "Previous Russian drone incursions into Romanian territory have caused damage and required military responses."
+  ],
+  "content_hash": "fa58825e02f8a43f558b3b064af3169bcfe061f3835f2a2968765399ee3085be",
+  "title_hash": "c65c71c0f83df0d6eb61588358e80ee3ab8cc4579d94e8cf973401f560feb4ea",
+  "collected_at": "2026-08-12T07:00:33.383269+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not applicable (news report)",
+      "fabrication": false,
+      "details": "The article provides a clear, fact-based report on a geopolitical incident with cybersecurity and energy security implications. It cites verifiable sources (Romanian military, Ukrainian coordination) and avoids sensationalism. The category 'Cybersecurity' is appropriate due to the focus on potential threats to critical infrastructure, though 'Geopolitics' or 'Defense' could also apply. No spam, clickbait, or hidden ads detected. The summary and key points are concise and informative."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-12T07:00:33.383269+07:00"
+}
