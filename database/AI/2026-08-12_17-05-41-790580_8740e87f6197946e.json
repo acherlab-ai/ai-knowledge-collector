@@ -1,0 +1,46 @@
+{
+  "id": "8740e87f6197946e",
+  "title": "Google’s Gemini app surpasses 1 billion monthly active users",
+  "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "Google announced that its Gemini AI app has reached 1 billion monthly active users, marking it as one of the company’s fastest-growing products. This milestone positions Gemini competitively with OpenAI’s ChatGPT. The growth includes significant adoption on iOS (over 100 million users) and widespread usage of features like voice interaction (63% of users) and image generation (over 150 million images daily). Google has integrated Gemini across its ecosystem, including Search, Workspace, and Android, and continues to expand its capabilities with new models like Gemini 3.5 Flash.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Gemini",
+    "Google",
+    "Chatbot",
+    "AI adoption"
+  ],
+  "key_points": [
+    "Gemini app surpasses 1 billion monthly active users, becoming one of Google’s fastest-growing products.",
+    "Gemini is now the 14th Google product to reach 1 billion users, competing closely with OpenAI’s ChatGPT.",
+    "Over 100 million active users on iOS, demonstrating cross-platform growth.",
+    "63% of Gemini users engage via voice interaction, and the app generates over 150 million images daily.",
+    "Google integrates Gemini across its products (Search, Workspace, Android) and introduces new models like Gemini 3.5 Flash for coding and AI-agent tasks.",
+    "Milestone announced ahead of Google’s Made by Google event, where more Gemini-powered features are expected for Pixel devices."
+  ],
+  "content_hash": "630f1f0c97c234e605380597423d99ccd89313628cbe60f5554f509689c4fb3d",
+  "title_hash": "85a05f521ea00fbd165a0764f7bb11cbfd8766d78d4e764eab00e4929cba12ec",
+  "collected_at": "2026-08-12T17:05:41.790580+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides factual, well-sourced information about Google's Gemini app reaching 1 billion monthly active users. It includes specific metrics (e.g., iOS adoption, voice/image usage) and contextualizes Gemini's growth within Google's ecosystem and the broader AI landscape. The content is neutral, avoids exaggeration, and aligns with the 'AI' category. No spam, clickbait, or hidden advertising is detected. The high quality score reflects its relevance, accuracy, and clarity."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-12T17:05:41.790580+07:00"
+}

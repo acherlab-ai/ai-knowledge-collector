@@ -1,0 +1,48 @@
+{
+  "id": "9109d24fc67031e9",
+  "title": "Reservoir raises $8M to develop smart, energy-efficient water heaters for homes and grid stabilization",
+  "url": "https://techcrunch.com/2026/08/12/reservoir-raises-8m-to-make-water-heaters-that-people-and-the-grid-will-actually-want",
+  "source": "TechCrunch",
+  "category": "Hardware",
+  "summary": "Reservoir, a startup co-founded by Luke Winston-Almanzar, has raised $8 million in seed funding to commercialize intelligent water heaters designed to reduce energy consumption, lower costs, and support grid stability. The company's heat pump-based water heaters are nearly four times more efficient than traditional electric models and include AI-driven predictive heating, leak detection, and demand-response capabilities. Reservoir aims to install 1,000 units by the end of next year, targeting both consumer appeal and grid benefits.",
+  "score": 9,
+  "tags": [
+    "Hardware",
+    "Energy Efficiency",
+    "Smart Home",
+    "Climate Tech",
+    "Heat Pumps"
+  ],
+  "key_points": [
+    "Reservoir has raised $8 million in seed funding to develop and deploy smart water heaters.",
+    "The company's heat pump water heaters are up to four times more efficient than traditional electric models and five times more efficient than natural gas versions.",
+    "Reservoir's water heaters use AI to predict hot water demand, optimizing energy use and reducing costs for homeowners.",
+    "The devices can participate in utility demand-response programs, helping stabilize the grid during peak usage times.",
+    "Features include ultrasonic leak detection, recirculation valves for instant hot water, and a 'party mode' for increased hot water supply.",
+    "Reservoir offers two models: Core ($5,000) and Max ($6,500), with installation included. Massachusetts residents qualify for a $1,050 rebate.",
+    "The company has installed around 100 units to date and aims for 1,000 installations by the end of next year.",
+    "Reservoir operates its own plumbing service to streamline sales and installation, inspired by lessons from Formlabs."
+  ],
+  "content_hash": "de497facf583420507a0b8ca3fc0aa047ce31894b232ffb6b939cadc3bf71a6b",
+  "title_hash": "69530f3c24d21e1e478b0dcca68d0488843a97b7d915b0bc2c4f98c1f97233bb",
+  "collected_at": "2026-08-12T17:05:02.971467+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not applicable (news/update, not review/opinion)",
+      "fabrication": false,
+      "details": "The article provides a clear, factual overview of Reservoir's funding, technology, and goals. It includes specific technical and financial details (e.g., efficiency comparisons, pricing, rebates) without exaggeration or misleading claims. The content aligns with the 'Hardware' category and avoids promotional language or spam. Minor deduction in score for slight emphasis on future goals (e.g., 1,000 installations) without concrete evidence, but this is standard for startup coverage."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-12T17:05:02.971467+07:00"
+}

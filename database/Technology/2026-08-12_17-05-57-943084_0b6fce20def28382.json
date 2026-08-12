@@ -1,0 +1,48 @@
+{
+  "id": "0b6fce20def28382",
+  "title": "What’s Scaleup Europe, the $5.7B fund that just backed satellite company ICEYE?",
+  "url": "https://techcrunch.com/2026/08/11/whats-scaleup-europe-the-5-7b-fund-that-just-backed-satellite-company-iceye",
+  "source": "TechCrunch",
+  "category": "Technology",
+  "summary": "Scaleup Europe is a €5 billion ($5.7 billion) public-private fund launched by the European Commission to invest in growth-stage startups in strategic sectors like deep tech, space, AI, and clean tech. Managed by Swedish asset manager EQT, the fund aims to prevent European startups from relocating abroad for late-stage funding. Its first investment was in ICEYE, a Finnish satellite intelligence company valued at over $11 billion. The fund is backed by institutional investors, including Allianz and APG, and seeks to bolster Europe’s tech sovereignty and competitiveness.",
+  "score": 9,
+  "tags": [
+    "Europe",
+    "Venture Capital",
+    "Public-Private Fund",
+    "Deep Tech",
+    "Space",
+    "Startup Funding"
+  ],
+  "key_points": [
+    "Scaleup Europe is a €5B ($5.7B) fund by the European Commission to support growth-stage startups in the EU or partnering countries.",
+    "Managed by EQT, a Swedish asset manager with over $300B in assets under management.",
+    "First investment: ICEYE, a Finnish satellite intelligence company valued above $11B.",
+    "Targets strategic sectors: deep tech, life sciences, clean tech, advanced manufacturing, digital technologies, AI, biotech, energy, robotics, semiconductors, and space.",
+    "Funded by the European Commission (€1B) and institutional investors like Allianz, APG, and Santander-affiliated funds.",
+    "Aims to prevent European startups from seeking late-stage funding abroad, enhancing tech sovereignty.",
+    "Fundraising may extend into 2027, with potential expansion to €25B ($28.9B) and possible non-European investor participation."
+  ],
+  "content_hash": "d3582f66feb859181da36e327314077a921b42845e42e62bb12b17af6454482f",
+  "title_hash": "1a48c27afa1e0f049f3612d9896801ea15788a76f66223d42a94444073a9a8fd",
+  "collected_at": "2026-08-12T17:05:57.943084+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, informative overview of Scaleup Europe, its objectives, structure, and first investment. The information is well-researched, fact-based, and relevant to the Technology category. No spam, clickbait, or hidden advertisements are detected. The content is neutral, avoiding excessive bias, and adheres to factual reporting without fabrication. The category 'Technology' is more accurate than 'AI' for this topic."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-12T17:05:57.943084+07:00"
+}

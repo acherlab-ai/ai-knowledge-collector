@@ -1,0 +1,47 @@
+{
+  "id": "54f33d65780435ce",
+  "title": "Bluesky’s Active User Base Shrinks as Focus Expands Beyond the App",
+  "url": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app",
+  "source": "TechCrunch",
+  "category": "Technology",
+  "summary": "Bluesky, a decentralized social network that gained traction after the 2024 U.S. elections due to user dissatisfaction with X (formerly Twitter), is experiencing a significant decline in active users. According to Similarweb data, Bluesky’s monthly active users dropped by 52% from late 2024 to mid-2026, with mobile daily active users falling 25.6% year-over-year in July 2026. Despite this decline, Bluesky’s remaining user base remains engaged, with a stickiness rate comparable to Meta’s Threads. The company is shifting its focus from growing the Bluesky app to developing its underlying protocol, AT Proto, which powers other social apps and services. Additionally, Bluesky is expanding into AI-powered tools like Attie and exploring private data support to attract new user segments. Meanwhile, X’s user base also continues to shrink, while Threads shows growth in daily active users.",
+  "score": 8,
+  "tags": [
+    "Social Media",
+    "Decentralized Networks",
+    "User Engagement",
+    "AT Proto",
+    "Bluesky"
+  ],
+  "key_points": [
+    "Bluesky’s monthly active users declined by 52% from Q4 2024 to Q2 2026, dropping from 22.1 million to 10.4 million.",
+    "Daily active users fell 25.6% year-over-year in July 2026, reaching around 3 million.",
+    "Despite the decline, Bluesky’s stickiness rate (daily/monthly active users) remains at ~29%, similar to Threads.",
+    "Bluesky is shifting focus from the app to its underlying protocol, AT Proto, which powers other social apps like BlackSky, Eurosky, and Skylight.",
+    "The company launched an AI-powered research tool, Attie, and is developing private data support to attract new users.",
+    "X’s user base also shrank, with mobile monthly active users down 3% year-over-year in June 2026.",
+    "Threads saw growth, with daily active users up 21.3% year-over-year in July 2026, reaching 147 million."
+  ],
+  "content_hash": "0eb14866d94f7e9f28b5f421a46b6bc0fee4bb5a766409b4ddd37ccccc19912d",
+  "title_hash": "0c3dff4ff6fee59e1406a54d63fde23e906a8b6846573f4f3cb52d75b38c286c",
+  "collected_at": "2026-08-12T17:05:53.330369+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not applicable (news analysis)",
+      "fabrication": false,
+      "details": "The article provides a well-researched, data-driven analysis of Bluesky's user decline and strategic shift. It includes verifiable metrics (e.g., Similarweb data), contextualizes the trend within the broader social media landscape (comparisons with X and Threads), and avoids sensationalism. The focus on AT Proto and AI tools adds depth without promotional bias. The category is correctly assigned as 'Technology,' not 'AI,' since the primary topic is decentralized social networks."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-12T17:05:53.330369+07:00"
+}

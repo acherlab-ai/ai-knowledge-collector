@@ -1,0 +1,46 @@
+{
+  "id": "04202c14fe3ecf76",
+  "title": "FBI Warns of Cybercriminals Hacking Online Accounts to Steal Intimate Images",
+  "url": "https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures",
+  "source": "TechCrunch",
+  "category": "Cybersecurity",
+  "summary": "The FBI has issued a warning about cybercriminals hacking into victims' social media accounts to steal intimate images and videos, often using social engineering tactics. Victims, including adults and children, face extortion, harassment, or public exposure of stolen content. Attackers exploit leaked passwords, impersonate customer service representatives, and use phishing emails. The FBI advises using unique passwords, enabling multi-factor authentication, and avoiding storage of intimate content online.",
+  "score": 9,
+  "tags": [
+    "Cybersecurity",
+    "Cybercrime",
+    "Hacking",
+    "Extortion",
+    "Social Engineering"
+  ],
+  "key_points": [
+    "Cybercriminals are targeting social media accounts to steal intimate images and videos.",
+    "Victims include adults and children, with student-athletes frequently targeted due to their public profiles.",
+    "Attackers use social engineering, brute-forcing passwords, impersonation, and phishing emails.",
+    "Stolen content is often used for extortion, harassment, or public exposure, leading to severe emotional distress.",
+    "The FBI recommends using unique passwords, password managers, multi-factor authentication, and skepticism toward unsolicited contact from alleged social media representatives.",
+    "Avoid storing intimate content in online accounts to reduce risk."
+  ],
+  "content_hash": "a174c0ad45447a08911dcfec80770e4eb7d283f2d3b41c0437e273d2159577b5",
+  "title_hash": "455efbfb5c438ccf07a9ec29bf98ab724118c3aa9aa10327ad98fae7405ff657",
+  "collected_at": "2026-08-12T17:05:19.198549+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, factual warning from the FBI about a critical cybersecurity threat. It includes actionable advice, avoids sensationalism, and maintains objectivity. The category is correctly assigned, and the content is well-structured with no signs of spam, clickbait, or hidden advertising. The summary and key points are accurate and informative."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-12T17:05:19.198549+07:00"
+}
