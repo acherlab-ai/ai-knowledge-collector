@@ -1,0 +1,48 @@
+{
+  "id": "8a514fdb6390d189",
+  "title": "What Sort of Maths Are LLMs Good At?",
+  "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "The article explores the current capabilities of large language models (LLMs) in mathematics, particularly focusing on the types of problems they excel at solving. The author, a mathematician, analyzes recent breakthroughs by LLMs, such as solving major problems in group theory and Ramsey theory, and discusses whether LLMs are particularly adept at finding counterexamples or proofs. The piece delves into the nuances of what constitutes a counterexample versus a theorem, using examples like Vinogradov’s three-primes theorem and Gluskin’s work on the Banach-Mazur compactum. The author argues that LLMs' strengths may lie in their vast mathematical knowledge and computational speed, enabling them to tackle problems differently than humans. However, the article concludes that LLMs are not yet universally superior to humans in all areas of mathematics, and their strengths may be more context-dependent.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Mathematics",
+    "Large Language Models",
+    "Theoretical Computer Science",
+    "Problem-Solving"
+  ],
+  "key_points": [
+    "LLMs have recently solved major mathematical problems, including constructing a non-sofic group and proving a superexponential growth for multicolour Ramsey numbers.",
+    "Despite these breakthroughs, LLMs are not yet better than humans at all aspects of mathematics, as evidenced by the lack of a flood of new results.",
+    "The article questions whether LLMs are particularly good at finding counterexamples, noting that many of their notable solutions involve counterexamples rather than proofs.",
+    "The distinction between a counterexample and a theorem is nuanced; it depends on the logical structure and the mathematical context of the statement (e.g., Vinogradov’s theorem vs. Gluskin’s result).",
+    "Counterexamples are often existence statements that disprove widely believed conjectures, but not all existence statements are considered counterexamples (e.g., non-separable Banach spaces).",
+    "LLMs' strengths may stem from their vast mathematical knowledge and computational speed, allowing them to attempt many solutions quickly and apply standard arguments effectively.",
+    "The author suggests that LLMs' problem-solving style differs from humans, potentially explaining their success in specific types of mathematical problems.",
+    "The article emphasizes that the capabilities of LLMs are rapidly evolving, and current observations may quickly become outdated."
+  ],
+  "content_hash": "24542a1f05ecd848429f6e9e5bdbf5b2f140a47176fe4bb0a06a44a83c70af3e",
+  "title_hash": "120210eb728a280ea249941ad3aca7f819d893bce2b2515c2ef2c29ae15ff77a",
+  "collected_at": "2026-08-12T18:59:09.517743+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_distinction": "clear",
+      "fabrication": false,
+      "details": "The article provides a well-researched, nuanced analysis of LLMs' mathematical capabilities, supported by specific examples (e.g., group theory, Ramsey theory). It distinguishes between factual observations (e.g., recent LLM breakthroughs) and the author's opinions (e.g., LLMs' problem-solving style differing from humans). The content is original, non-repetitive, and avoids sensationalism or hidden advertising. The category 'AI' is appropriate, and the tone remains objective despite the author's perspective."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-12T18:59:09.517743+07:00"
+}
