@@ -1,0 +1,45 @@
+{
+  "id": "fde51b3cb267fcab",
+  "title": "DEF CON attendees suspected in fake-hotspot attack on Delta flight",
+  "url": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight",
+  "source": "Ars Technica",
+  "category": "Cybersecurity",
+  "summary": "Passengers aboard Delta flight 591, many of whom had attended the DEF CON security conference in Las Vegas, allegedly spoofed the onboard Wi-Fi by creating a fake hotspot ('Delta WiFi Fast') with a phishing landing page to harvest credentials. The incident, described via ACARS messages and social media, involved an 'evil twin' attack. Delta confirmed the unauthorized Wi-Fi network but stated flight safety was unaffected, and no aircraft systems were compromised. The FBI is investigating, though no arrests have been made.",
+  "score": 9,
+  "tags": [
+    "Cybersecurity",
+    "Wi-Fi Spoofing",
+    "DEF CON",
+    "Evil Twin Attack",
+    "Phishing"
+  ],
+  "key_points": [
+    "Passengers on Delta flight 591 allegedly spoofed the onboard Wi-Fi using an 'evil twin' attack.",
+    "The fake hotspot, named 'Delta WiFi Fast,' included a phishing page to harvest credentials.",
+    "The incident occurred after the DEF CON security conference in Las Vegas, with suspects likely being attendees.",
+    "Delta confirmed the unauthorized network but assured flight safety was never at risk and no aircraft systems were affected.",
+    "The onboard Wi-Fi was disabled for 30 minutes; the FBI is investigating but no arrests have been made."
+  ],
+  "content_hash": "092575df27c813a54612bd99263fc372ee66c29e8b60f8d7256471b17615d987",
+  "title_hash": "e576b3f15e5955c3bb5ff6c737cdcec5f997ef951f71b76c136ad48bf0bee9ed",
+  "collected_at": "2026-08-12T11:28:26.933283+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, factual account of a cybersecurity incident involving an 'evil twin' attack on a Delta flight. It includes verified details from Delta and the FBI, avoids sensationalism, and maintains objectivity. The category is correctly assigned as 'Cybersecurity,' and the content is highly relevant to the field without signs of manipulation or misleading claims."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-12T11:28:26.933283+07:00"
+}
