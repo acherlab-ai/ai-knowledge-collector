@@ -1,0 +1,49 @@
+{
+  "id": "9428cc2bc3c996d8",
+  "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard: Advancing Agentic AI with Open Models and Smart Routing",
+  "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "NVIDIA has expanded its Nemotron 3 model family with Nemotron 3.5 Lightning, a 30-billion-parameter mixture-of-experts model optimized for high-efficiency, long-running agentic AI workloads. The model delivers up to 4x faster output speed and 30% faster task completion compared to peers, while being fully customizable for domain-specific tasks. Alongside, NVIDIA released NeMo Switchyard, an open-source library for intelligent model routing, enabling enterprises to dynamically direct requests to the most suitable model (open, proprietary, or NVIDIA) without rewriting applications. Together, these tools provide greater control over AI deployment, efficiency, and privacy across edge devices, workstations, data centers, and cloud environments.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Agentic AI",
+    "Open Source",
+    "Model Routing",
+    "NVIDIA",
+    "NeMo",
+    "Nemotron"
+  ],
+  "key_points": [
+    "Nemotron 3.5 Lightning is a 30B-parameter mixture-of-experts model designed for high-volume, specialized agentic tasks, offering up to 4x faster output speed and 30% faster task completion than comparable models.",
+    "The model is fully customizable and can be post-trained using NVIDIA NeMo on domain-specific data, tools, and workflows to improve accuracy for tasks like code review, security monitoring, and legal services.",
+    "Nemotron 3.5 Lightning supports deployment across diverse environments, including NVIDIA RTX PCs, DGX systems, Jetson edge devices, and cloud platforms, ensuring privacy and control over AI operations.",
+    "NVIDIA NeMo Switchyard is an open-source library for intelligent model routing, automatically directing prompts to the most capable and efficient model based on quality, latency, or cost requirements.",
+    "NeMo Switchyard reduces task completion costs to nearly one-third of using a single frontier model (e.g., Opus 4.8) while maintaining high accuracy, as demonstrated in internal benchmarks and partner integrations.",
+    "Partners like Boomi, Cadence, LangChain, and Ramp have integrated NeMo Switchyard, achieving significant cost reductions (up to 58%) and latency improvements (up to 21%) without sacrificing performance.",
+    "Both Nemotron 3.5 Lightning and NeMo Switchyard are available through platforms like Hugging Face, GitHub, and NVIDIA’s ecosystem of cloud partners, post-training, and inference platforms."
+  ],
+  "content_hash": "2686edfc2198b6528cb945d1828d79f1c974965804781ea4ad9c964fbb487d68",
+  "title_hash": "a195bf4a25bcffb4380a2a55afab71d77c7216f092b2e0ec9c91ed0724ceb03f",
+  "collected_at": "2026-08-12T16:01:01.302726+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a detailed, fact-based overview of NVIDIA's Nemotron 3.5 Lightning and NeMo Switchyard, including technical specifications, performance benchmarks, and real-world applications. It avoids clickbait, spam, or hidden advertising, and maintains a neutral tone while highlighting NVIDIA's advancements. The category is accurate, and the content is well-structured with no redundancy or fabrication. Minor deductions in score are due to the absence of critical perspectives (e.g., limitations or trade-offs), but this does not warrant rejection."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-12T16:01:01.302726+07:00"
+}

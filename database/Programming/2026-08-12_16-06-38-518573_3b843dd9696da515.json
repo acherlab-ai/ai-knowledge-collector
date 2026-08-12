@@ -1,0 +1,48 @@
+{
+  "id": "3b843dd9696da515",
+  "title": "Python 3.15.0 Beta 3 Release Announcement",
+  "url": "https://blog.python.org/2026/06/python-3150-beta-3",
+  "source": "Python Insider",
+  "category": "Programming",
+  "summary": "Python 3.15.0 Beta 3 has been released as part of the beta phase for Python 3.15, which is still in development. This release includes 195 bugfixes, build improvements, and documentation changes from 86 contributors. The beta phase aims to allow the community to test new features, report issues, and prepare projects for the upcoming stable release. Key features and PEPs introduced in Python 3.15 are highlighted, along with performance improvements and changes to the C API. The release is not recommended for production use.",
+  "score": 9,
+  "tags": [
+    "Python",
+    "Programming",
+    "OpenSource",
+    "Beta Release"
+  ],
+  "key_points": [
+    "Python 3.15.0 Beta 3 is the third of four planned beta releases for Python 3.15.",
+    "Includes 195 bugfixes, build improvements, and documentation changes from 86 contributors.",
+    "Beta releases are intended for community testing of new features and bug fixes.",
+    "Major new features include: PEP 810 (lazy imports), PEP 814 (frozendict), PEP 661 (sentinel type), PEP 799 (profiling package), PEP 831 (frame pointers), and PEP 686 (UTF-8 as default encoding).",
+    "Performance improvements: 8-9% speedup on x86-64 Linux and 12-13% on AArch64 macOS due to JIT compiler upgrades.",
+    "Windows 64-bit binaries now use the tail-calling interpreter.",
+    "New stable ABI for free-threaded builds and related C API changes.",
+    "Not recommended for production environments; production releases should wait for 3.15.0 RC1.",
+    "Next pre-release: Python 3.15.0 Beta 4, scheduled for 2026-07-18."
+  ],
+  "content_hash": "bdcc06aeade94ee4e824938e37fbadabe64b75a82af00d9eb1983d9d3c955077",
+  "title_hash": "5b1b475a002703857ca7c60c5affc0530a5a691136e215aa53fb0f9fd84686ff",
+  "collected_at": "2026-08-12T16:06:38.518573+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "fact_opinion_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, factual, and detailed announcement of Python 3.15.0 Beta 3, including key features, performance improvements, and community testing purposes. It is well-structured, objective, and aligns with the 'Programming' category. No spam, clickbait, or hidden ads detected. The information is accurate, non-redundant, and avoids excessive bias."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-12T16:06:38.518573+07:00"
+}

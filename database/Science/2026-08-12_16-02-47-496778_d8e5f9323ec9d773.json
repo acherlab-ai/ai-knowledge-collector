@@ -1,0 +1,46 @@
+{
+  "id": "d8e5f9323ec9d773",
+  "title": "Trump's Executive Order to Split MMR Vaccine Faces Backlash from Public Health Experts and Pharmaceutical Industry",
+  "url": "https://arstechnica.com/health/2026/08/trump-wants-big-pharma-to-split-mmr-vaccine-big-pharma-thinks-its-idiotic",
+  "source": "Ars Technica",
+  "category": "Science",
+  "summary": "The article discusses the strong opposition from public health organizations, medical experts, and the pharmaceutical industry to an executive order by Trump aiming to split the combined measles, mumps, and rubella (MMR) vaccine into three separate shots. The MMR vaccine is currently administered in two doses, but the proposed change would require six shots. Pharmaceutical companies, including Merck and GSK, argue that there is no scientific evidence supporting the separation of the MMR vaccine, and such a move would necessitate significant investment without any proven benefits. Public health experts criticize the order as unscientific and dangerous, emphasizing that vaccine policy should be based on rigorous, evidence-based science.",
+  "score": 8,
+  "tags": [
+    "vaccines",
+    "public health",
+    "MMR vaccine",
+    "pharmaceutical industry",
+    "science policy"
+  ],
+  "key_points": [
+    "Trump's executive order proposes splitting the MMR vaccine into three separate shots, increasing the number of injections from two to six.",
+    "Public health organizations and medical experts criticize the order as 'dangerous,' 'unscientific,' and 'false and misleading.'",
+    "The pharmaceutical industry, including PhRMA, Merck, and GSK, opposes the order, stating there is no scientific evidence supporting the separation of the MMR vaccine.",
+    "Individual vaccines for measles, mumps, and rubella do not currently exist in the U.S., requiring significant investment to develop and test new vaccines without scientific justification.",
+    "The current MMR combination vaccine is proven to be safe, effective, and convenient based on decades of use and data.",
+    "Critics argue that public health policy should be based on rigorous, evidence-based science rather than personal beliefs or unqualified opinions."
+  ],
+  "content_hash": "0d7dcff6b6ade72865e8a17fc16982784b886bca28c268ccc9ee97ea81e7c3c0",
+  "title_hash": "4d0a697b58e3a12026362b30ef81c687d2848abf30b951be94f777e02bfba04b",
+  "collected_at": "2026-08-12T16:02:47.496778+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 8.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "moderate",
+      "opinion_fact_separation": true,
+      "fabrication": false,
+      "details": "The article provides a well-researched and evidence-based discussion on a public health policy issue, citing credible sources (public health experts, pharmaceutical companies). It distinguishes between factual reporting (e.g., opposition from experts, lack of scientific evidence) and opinion (e.g., criticism of the order as 'dangerous'). While the topic is politically sensitive, the article maintains a focus on scientific and public health perspectives, avoiding overt manipulation or misleading claims. The category 'Science' is appropriate, though the political context is unavoidable. Minor deduction in score due to potential implicit bias in framing, but not severe enough to reject."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-12T16:02:47.496778+07:00"
+}

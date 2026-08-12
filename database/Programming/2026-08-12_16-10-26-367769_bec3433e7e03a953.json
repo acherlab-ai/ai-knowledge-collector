@@ -1,0 +1,47 @@
+{
+  "id": "bec3433e7e03a953",
+  "title": "Python 3.14.5 Released with Key Bugfixes and Reverted Garbage Collector",
+  "url": "https://blog.python.org/2026/05/python-3145-is-out",
+  "source": "Python Insider",
+  "category": "Programming",
+  "summary": "Python 3.14.5 is the fifth maintenance release of the 3.14 series, featuring 154 bugfixes, build improvements, and documentation changes. Notable changes include reverting the garbage collector to the generational model from Python 3.13 due to memory pressure issues in production. The macOS installer now uses Tcl/Tk 9.0.3. The release also highlights major features introduced in Python 3.14, such as free-threaded Python (PEP 779), deferred annotation evaluation (PEP 649), template string literals (PEP 750), and improved C API (PEP 741). Build changes include Sigstore for artifact verification and experimental JIT compiler support for macOS/Windows. The Windows installer is transitioning to a new install manager.",
+  "score": 9,
+  "tags": [
+    "Python",
+    "Programming",
+    "Software Release",
+    "Garbage Collection",
+    "Bugfixes"
+  ],
+  "key_points": [
+    "Python 3.14.5 is a maintenance release with 154 bugfixes and improvements.",
+    "The garbage collector reverted to the generational model from Python 3.13 due to memory pressure issues in production environments.",
+    "macOS installer updated to Tcl/Tk 9.0.3 (from 8.6.17).",
+    "Key Python 3.14 features: free-threaded Python (PEP 779), deferred annotations (PEP 649), template string literals (PEP 750), and multiple interpreters (PEP 734).",
+    "Build changes: Sigstore replaces PGP for release artifact verification; experimental JIT compiler included in macOS/Windows binaries.",
+    "Windows installer transitioning to a new install manager (available via Windows Store).",
+    "Deprecations and removals in C API and core Python features documented."
+  ],
+  "content_hash": "c7adefc7a633606605d8a72607845db8a9289cd0cd5f31fb8350186c647a3a83",
+  "title_hash": "dfc1b54725be5aef3e84671003a31208f65fec40faedf745cf0552d353ce3c56",
+  "collected_at": "2026-08-12T16:10:26.367769+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a detailed, accurate, and well-structured summary of Python 3.14.5's release, including key bugfixes, reverted changes (garbage collector), and major features introduced in Python 3.14. The content is factual, relevant to the 'Programming' category, and avoids spam, clickbait, or hidden advertising. Minor deductions in score are due to the absence of direct user feedback or real-world impact analysis, but this does not detract from its overall high quality."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-12T16:10:26.367769+07:00"
+}

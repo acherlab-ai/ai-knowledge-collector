@@ -1,0 +1,49 @@
+{
+  "id": "abd4bdd6bb50868d",
+  "title": "Python 3.15.0 Beta 4 Release Announcement",
+  "url": "https://blog.python.org/2026/07/python-3150-beta-4",
+  "source": "Python Insider",
+  "category": "Programming",
+  "summary": "Python 3.15.0 Beta 4 has been released as the final planned beta before the release candidate phase. This version includes 298 bugfixes, build improvements, and documentation changes since Beta 3. The community is encouraged to test new features and report issues to ensure stability before the final release. Key updates include performance improvements, new built-in types, enhanced profiling tools, and UTF-8 as the default encoding. The release also introduces several PEPs, such as lazy imports, `frozendict`, and stable ABI for free-threaded builds. Production use is not recommended until the release candidate (3.15.0rc1).",
+  "score": 9,
+  "tags": [
+    "Python",
+    "Programming",
+    "OpenSource",
+    "Software Development"
+  ],
+  "key_points": [
+    "Final beta release (3.15.0b4) before the release candidate phase (3.15.0rc1 scheduled for 2026-08-04).",
+    "298 bugfixes, build improvements, and documentation changes since Beta 3.",
+    "Call to action: Third-party maintainers urged to test compatibility and report issues.",
+    "Major new features include PEPs 810 (lazy imports), 814 (`frozendict`), 661 (sentinel type), and 799 (profiling tools).",
+    "Performance improvements: 8-9% speedup on x86-64 Linux and 12-13% on AArch64 macOS due to JIT compiler upgrades.",
+    "UTF-8 now the default encoding (PEP 686).",
+    "Stable ABI for free-threaded builds and related C API enhancements (PEPs 803, 820, 793).",
+    "Windows 64-bit binaries use the tail-calling interpreter; macOS binaries install free-threading support by default.",
+    "Not recommended for production use until 3.15.0rc1 to avoid ABI breaks.",
+    "Resources: Online documentation, bug tracker, and funding opportunities for Python development."
+  ],
+  "content_hash": "93ef24b756f251b9d194d9ea301ce5aa2db5b45be42963abd1957ec033845cef",
+  "title_hash": "730d1f089b308295796585f7948eeaa13c6660e9ad378bfa6bb0fb78e20d6cf5",
+  "collected_at": "2026-08-12T16:05:18.913148+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a detailed, accurate, and well-structured announcement of Python 3.15.0 Beta 4. It includes key updates, performance improvements, new features, and community calls to action without spam, clickbait, or hidden advertising. The content is factual, relevant to the 'Programming' category, and maintains neutrality while offering valuable insights for developers."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-12T16:05:18.913148+07:00"
+}

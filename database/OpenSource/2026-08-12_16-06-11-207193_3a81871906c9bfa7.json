@@ -1,0 +1,47 @@
+{
+  "id": "3a81871906c9bfa7",
+  "title": "Python Packaging Council Inaugural Election Dates and Process",
+  "url": "https://blog.python.org/2026/06/2026-packaging-council-election-dates",
+  "source": "Python Insider",
+  "category": "OpenSource",
+  "summary": "The Python Software Foundation (PSF) has announced the election timeline for the inaugural Python Packaging Council (PPC), established under PEP 772. The PPC will oversee Python packaging specifications, coordinate ecosystem efforts, and work with stakeholders like PyPA, the Python core team, and the PSF. The election runs parallel to the 2026 PSF Board election, with five seats to be filled: two for a two-year term (Cohort A) and three for a one-year term (Cohort B). Voting is open to Contributing, Supporting, or Fellow PSF members who affirm their intent to vote by August 25th. The article details the election timeline, voter eligibility, nomination process, and the role of the PPC.",
+  "score": 9,
+  "tags": [
+    "Python",
+    "OpenSource",
+    "Governance",
+    "Packaging",
+    "Election"
+  ],
+  "key_points": [
+    "The Python Packaging Council (PPC) is a new governance body established under PEP 772 to oversee Python packaging specifications and coordinate ecosystem efforts.",
+    "The inaugural PPC election will fill five seats: two for a two-year term (Cohort A) and three for a one-year term (Cohort B).",
+    "Election timeline mirrors the 2026 PSF Board election, with key dates including nominations (July 28th - August 11th) and voting (September 1st - 15th).",
+    "Voter eligibility requires PSF membership (Contributing, Supporting, or Fellow) and affirmation of voting intent by August 25th.",
+    "Candidates must be PSF voting members and should possess skills in open governance, community stewardship, technical expertise in Python packaging, or related areas.",
+    "The PPC will establish initial operating procedures, including defining its relationship with the Python Packaging Authority (PyPA).",
+    "Nomination statements must include the nominee’s relevant affiliations, and self-nominations or nominations of others are accepted."
+  ],
+  "content_hash": "70d3e1e0fe5799a4f148ed83725f181bade01246319498632b103c0106819dae",
+  "title_hash": "de534052c4cfea99bba5c94981d5d990f7fa6208d0a941d045223a5285584d49",
+  "collected_at": "2026-08-12T16:06:11.207193+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides clear, factual, and well-structured information about the Python Packaging Council election process. It is highly relevant to the OpenSource category, avoids spam/clickbait, and maintains neutrality. The content is original, non-repetitive, and adheres to the stated category. No hidden advertisements or manipulative elements were detected."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-12T16:06:11.207193+07:00"
+}

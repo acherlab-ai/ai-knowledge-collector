@@ -1,0 +1,47 @@
+{
+  "id": "ec90b19f172668bf",
+  "title": "Chrome adopts device-bound session credentials to combat account takeovers",
+  "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers",
+  "source": "Ars Technica",
+  "category": "Cybersecurity",
+  "summary": "Google Chrome has introduced Device-Bound Session Credentials (DBSCs), a new security feature designed to prevent session cookie theft, a growing threat as attackers adapt to multi-factor authentication (MFA) and passkeys. DBSCs store a unique encryption key in a hardware-based secure enclave (TPM on Windows, Secure Enclave on macOS/iOS), making it nearly impossible for attackers to extract or misuse stolen session cookies. The feature is currently in limited testing for Chrome versions 147 (Windows) and 150 (macOS).",
+  "score": 9,
+  "tags": [
+    "Cybersecurity",
+    "Chrome",
+    "Session Hijacking",
+    "TPM",
+    "Secure Enclave",
+    "Authentication"
+  ],
+  "key_points": [
+    "Session cookie theft has increased as attackers bypass traditional phishing methods due to the adoption of MFA and passkeys.",
+    "DBSCs bind session cookies to a device by storing a unique encryption key in hardware-based secure modules (TPM/Secure Enclave).",
+    "The private key cannot be extracted from the device, preventing attackers from using stolen cookies on other machines.",
+    "DBSCs work by requiring browsers to sign session cookies with the hardware-stored key, ensuring only the original device can authenticate.",
+    "Currently, DBSCs are supported in Chrome 147 (Windows) and 150 (macOS) for a limited set of users, with broader rollout expected.",
+    "This method aligns with passkeys and other modern authentication techniques that eliminate reliance on shared secrets."
+  ],
+  "content_hash": "9c07ecce121ae8ca2a30538b5964f0ae9c241b8ad82d93230f56c2a7de3274b7",
+  "title_hash": "99255da006fc38f42304e8e493bf391314188739e57c8af8980d95387ad57dd8",
+  "collected_at": "2026-08-12T16:02:51.275145+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides accurate, well-researched, and up-to-date information about Chrome's new DBSC security feature. It explains the technical mechanism clearly, avoids exaggeration, and maintains objectivity. The category is correctly assigned as 'Cybersecurity,' and there is no evidence of spam, clickbait, or hidden advertising. The content is highly relevant and useful for readers interested in cybersecurity advancements."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-12T16:02:51.275145+07:00"
+}

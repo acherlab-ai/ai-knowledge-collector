@@ -1,0 +1,46 @@
+{
+  "id": "d91cde2ff17a93e3",
+  "title": "India’s Yulu Raises $93M as Quick-Commerce Boom Fuels E-Bike Demand",
+  "url": "https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand",
+  "source": "TechCrunch",
+  "category": "Technology",
+  "summary": "Yulu, an Indian electric mobility startup, has raised $93 million to expand its fleet of electric two-wheelers, primarily used by gig economy delivery drivers. The funding will help grow its fleet from 50,000 to 200,000 vehicles over two years and introduce a new high-speed electric scooter for longer-haul deliveries. The company, which shifted focus from bike-sharing to delivery logistics during the COVID-19 pandemic, reports significant growth in revenue and operational scale, with plans to expand to more cities and move toward profitability.",
+  "score": 8,
+  "tags": [
+    "Electric Vehicles",
+    "Startups",
+    "Mobility",
+    "Quick-Commerce",
+    "India"
+  ],
+  "key_points": [
+    "Yulu raised $93 million ($63M equity, $30M debt) to expand its electric two-wheeler fleet for gig economy delivery drivers.",
+    "The startup currently operates 50,000 vehicles, logging 1.6 million zero-emission miles weekly and powering 750,000+ daily deliveries.",
+    "Funds will grow the fleet to 200,000 vehicles, including a new high-speed scooter (Yulu Express) for e-commerce and express parcel services.",
+    "Yulu pivoted from bike-sharing to delivery logistics during COVID-19, now generating 95% of revenue from weekly subscriptions for gig workers.",
+    "The company aims to expand to 20 cities, achieve profitability before interest and taxes in 2025, and plans an eventual public listing.",
+    "Yulu partners with major quick-commerce and e-commerce platforms (e.g., Amazon, Flipkart) but serves gig workers directly as customers."
+  ],
+  "content_hash": "d712f028c5515e8b9d3321011f4594291fdb00337747269b7d73347c0f627cdb",
+  "title_hash": "e11307c85082e94fa171cec1819deaac618af2a115b5d05aedb27219f8534b4e",
+  "collected_at": "2026-08-12T16:04:30.441602+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a well-researched, factual update on Yulu's funding, business model pivot, and growth plans. It includes specific data points (e.g., fleet size, revenue sources, partnerships) without exaggeration or misleading claims. The content is relevant to the 'Technology' category, particularly under electric mobility and startups. No spam, clickbait, or hidden advertising is detected. The tone is neutral and objective, focusing on business developments rather than promotional language."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-12T16:04:30.441602+07:00"
+}

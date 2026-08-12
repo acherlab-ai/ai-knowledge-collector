@@ -1,0 +1,50 @@
+{
+  "id": "56f5c7a106aed65a",
+  "title": "Making Holograms with a Pen Plotter: An Intuitive Approach to Hand-Etched Holography",
+  "url": "https://blog.jordan.matelsky.com/Penplotter-holography",
+  "source": "Hacker News",
+  "category": "Technology",
+  "summary": "The article explores an innovative method to create hand-etched holograms using a pen plotter, inspired by optical principles and intuitive physics. The author demonstrates how reflective ridges with varying curvature can simulate depth perception, akin to real-world holography, without requiring expensive lasers or complex equipment. The process involves etching patterns onto materials like CD jewel cases to produce a 3D-like effect when viewed under a point light source. The post includes practical insights, failed attempts, and lessons learned, emphasizing the accessibility and creativity of this technique.",
+  "score": 9,
+  "tags": [
+    "holography",
+    "optics",
+    "DIY technology",
+    "pen plotter",
+    "physics",
+    "3D visualization"
+  ],
+  "key_points": [
+    "Hand-etched holograms can be created using reflective ridges with curvature inversely proportional to the distance of points in a 3D scene.",
+    "The key insight is that the movement of light highlights on a surface depends on the curvature of the ridges, mimicking depth perception.",
+    "A pen plotter can automate the etching process, allowing for precise control over ridge shapes derived from mathematical formulas (e.g., hyperboloids).",
+    "Materials like CD jewel cases proved effective for etching, while flexible plastics and waxed paper failed due to instability or tearing.",
+    "The holographic effect works best with a point light source (e.g., a flashlight) and is less effective under ambient light.",
+    "The technique is accessible, requiring no expensive equipment, and retains holographic properties like scene retention in small cutouts.",
+    "The author references William Beaty’s work on hand-drawn holograms and Grant Sanderson’s educational video for further context.",
+    "Challenges included material selection, stylus sharpness, and balancing etch density to avoid surface roughness.",
+    "The project highlights the potential for ancient civilizations to have created similar artifacts with basic tools and geometric knowledge."
+  ],
+  "content_hash": "7421014150afe063e71a1401affdcbf552f7a82996f1a6257635cf264291ec83",
+  "title_hash": "c3931f410dbdfe11b44e3027480e7533860828cdc09f21bc615232f999d8d4fe",
+  "collected_at": "2026-08-12T16:02:04.242877+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "clear (review/opinion context)",
+      "fabrication": false,
+      "details": "The article provides a detailed, innovative, and practical exploration of hand-etched holography using a pen plotter. It includes technical insights, material experiments, and references to foundational work, ensuring high informational value. The content is well-structured, avoids spam/clickbait, and maintains objectivity while sharing personal experiences (e.g., failed attempts). The category 'Technology' is accurate, and the project's accessibility aligns with DIY tech principles. Minor bias is negligible as it stems from the author's enthusiasm rather than manipulation."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-12T16:02:04.242877+07:00"
+}

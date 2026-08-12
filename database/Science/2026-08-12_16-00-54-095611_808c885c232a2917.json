@@ -1,0 +1,48 @@
+{
+  "id": "808c885c232a2917",
+  "title": "The Lifesaving Role of Horseshoe Crab Blood in Medicine and Conservation Efforts",
+  "url": "https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species",
+  "source": "Hacker News",
+  "category": "Science",
+  "summary": "Horseshoe crabs, whose blue blood is critical for testing medical safety, face population decline due to harvesting for biomedical use and fishing bait. Their blood contains a unique compound that detects bacterial contamination in vaccines and injectable medicines. While around 200,000 crabs are harvested annually in Massachusetts, conservation efforts—such as harvest limits, seasonal bans, and lab-made alternatives—are showing signs of population recovery. Scientists and companies like Eli Lilly are transitioning to synthetic alternatives to reduce reliance on wild crabs, aiming to balance medical safety with species protection.",
+  "score": 8,
+  "tags": [
+    "biotechnology",
+    "conservation",
+    "medical testing",
+    "marine biology",
+    "sustainability"
+  ],
+  "key_points": [
+    "Horseshoe crab blood contains a compound that reacts to dangerous bacteria, making it essential for testing vaccines and injectable medicines for contamination.",
+    "Approximately 200,000 horseshoe crabs are harvested annually in Massachusetts for biomedical purposes, with a nationwide increase over the past 20 years.",
+    "Historically, about 15% of harvested crabs die during the biomedical extraction process, impacting their population.",
+    "Horseshoe crabs play a crucial ecological role, as their eggs are a food source for coastal wildlife, creating a ripple effect in the ecosystem.",
+    "Eli Lilly and other companies have developed a lab-made alternative for medical testing, reducing the need for wild crabs.",
+    "Massachusetts has implemented conservation measures, including harvest limits and seasonal bans, leading to signs of population recovery.",
+    "Other states like Connecticut and New York are enacting stricter protections, with New York banning harvest starting in 2029.",
+    "Despite progress, further efforts are needed to accelerate population recovery and eliminate unnecessary harvesting."
+  ],
+  "content_hash": "287652efa85ad9a4c8ab6d895b015b50be2402a0a62fd129d68d3c965dd40854",
+  "title_hash": "cc61a5dd8fdd4f3a567f6f21bea69c690a44a350163a6d9fc676a15e3ca804ca",
+  "collected_at": "2026-08-12T16:00:54.095611+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_distinction": "clear (where applicable)",
+      "fabrication": false,
+      "details": "The article provides well-researched, factual information about the role of horseshoe crab blood in medicine and conservation efforts. It balances scientific facts with conservation concerns, cites specific examples (e.g., Eli Lilly's synthetic alternative, state-level protections), and avoids sensationalism or hidden advertising. The category 'Science' is accurate, and the content is objective with no signs of manipulation or misleading claims."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-12T16:00:54.095611+07:00"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "89e711749c341be8",
+  "title": "Python 3.15.0 Beta 2 Release Announcement",
+  "url": "https://blog.python.org/2026/06/python-3150-beta-2",
+  "source": "Python Insider",
+  "category": "Programming",
+  "summary": "Python 3.15.0 Beta 2 has been released as part of the beta phase for Python 3.15. This pre-release is intended for testing new features, bug fixes, and preparing third-party projects for the upcoming stable release. Key changes include performance improvements, new built-in types, enhanced profiling tools, and UTF-8 as the default encoding. The release is not recommended for production environments.",
+  "score": 9,
+  "tags": [
+    "Python",
+    "Programming",
+    "OpenSource",
+    "Software Development"
+  ],
+  "key_points": [
+    "Python 3.15.0 Beta 2 is the second of four planned beta releases for Python 3.15.",
+    "Beta releases are for community testing of new features and bug fixes before the stable release.",
+    "Major new features include: PEP 810 (lazy imports), PEP 814 (frozendict), PEP 661 (sentinel type), PEP 799 (profiling package and Tachyon profiler), PEP 831 (frame pointers enabled by default), and UTF-8 as the default encoding (PEP 686).",
+    "Performance improvements: 8-9% speedup on x86-64 Linux and 12-13% on AArch64 macOS due to JIT compiler upgrades and tail-calling interpreter optimizations.",
+    "Windows 64-bit binaries now use the tail-calling interpreter for better performance.",
+    "New stable ABI for free-threaded builds and related C API improvements.",
+    "Features may still change or be removed before the release candidate phase (2026-08-04).",
+    "Third-party project maintainers are encouraged to test with 3.15 and report issues.",
+    "Production use is discouraged until the release candidate (3.15.0rc1).",
+    "Next pre-release: Python 3.15.0b3, scheduled for 2026-06-23."
+  ],
+  "content_hash": "b086e9f7f540368716a4e8f800c4f55a76a08d5edff3bf986c3c3d37c18b1071",
+  "title_hash": "fffc20aa79870ececc6bdd5d354b009b0b02479550b3a142a54f885f075d5ac7",
+  "collected_at": "2026-08-12T16:08:49.867360+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, detailed, and factual announcement of Python 3.15.0 Beta 2, including key changes, performance improvements, and release notes. It is highly relevant to the Programming category, avoids spam/clickbait, and maintains neutrality without hidden advertisements or bias. The information is well-structured and useful for developers preparing for the stable release."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-12T16:08:49.867360+07:00"
+}

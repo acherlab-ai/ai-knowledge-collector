@@ -1,0 +1,47 @@
+{
+  "id": "27ec3433bdc2630e",
+  "title": "The Human Is the Loop: Reflections on AI Dependency and Intentional Use",
+  "url": "https://brentfitzgerald.com/posts/the-human-is-the-loop",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "The author shares personal insights after taking a break from AI, reflecting on how over-reliance on AI tools can lead to unhealthy habits, intellectual laziness, and increased stress. They describe how AI became a crutch for avoiding direct engagement with tasks, leading to unfinished projects, guilt, and a cycle of productivity obsession. The post emphasizes the importance of intentional AI use, advocating for a balanced approach where humans remain in control and AI is used thoughtfully to augment—not replace—human effort.",
+  "score": 8,
+  "tags": [
+    "AI",
+    "Productivity",
+    "Human-AI Interaction",
+    "Tech Habits",
+    "Self-Reflection"
+  ],
+  "key_points": [
+    "AI can become a habit-forming crutch, reducing intellectual curiosity and confidence.",
+    "Overuse of AI may lead to unfinished tasks, guilt, and unrealistic productivity expectations.",
+    "AI tools can act as a psychological barrier, distancing users from direct engagement with stressful tasks.",
+    "The tech industry may encourage socioeconomic dependency on AI, justifying high valuations.",
+    "Intentional AI use involves clear constraints, context, and expectations to avoid misuse.",
+    "AI can be valuable for pattern-matching and searching large datasets but should not replace human judgment.",
+    "The goal should be to use AI to free up time for meaningful human activities, not to maximize tool usage."
+  ],
+  "content_hash": "9b67e4c8dda3481ad67a8aa58b06f1a2b538e48b635803c2711de5e92a9f1cb6",
+  "title_hash": "dcc9f85e9054563115d6d02ed9d0a29f8c873cb0ba5936b3a5149ce4609b9199",
+  "collected_at": "2026-08-12T15:59:57.268448+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "moderate (acceptable for opinion/reflection)",
+      "opinion_fact_separation": "clear (personal insights marked as subjective)",
+      "fabrication": false,
+      "details": "The article provides a thoughtful, self-reflective critique of AI dependency with actionable insights. It avoids sensationalism, spam, or hidden advertising. While it expresses a personal viewpoint, the arguments are grounded in observable behaviors (e.g., productivity cycles, psychological barriers) and clearly distinguished from factual claims. The category aligns with the content, and the quality of reasoning is strong, though slightly subjective by nature."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-12T15:59:57.268448+07:00"
+}

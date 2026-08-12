@@ -1,0 +1,44 @@
+{
+  "id": "f8971d0375d71be4",
+  "title": "Python 3.14.6 and 3.13.14 Maintenance Releases Now Available",
+  "url": "https://blog.python.org/2026/06/python-3146-31314",
+  "source": "Python Insider",
+  "category": "Programming",
+  "summary": "The Python development team has released Python 3.14.6 and 3.13.14, which are maintenance updates focusing on bug fixes, build improvements, and documentation changes. Python 3.14.6 includes approximately 179 fixes since 3.14.5, while Python 3.13.14 contains around 240 fixes since 3.13.13. These releases do not introduce new features but aim to enhance stability and performance for existing Python users.",
+  "score": 8,
+  "tags": [
+    "Python",
+    "Programming",
+    "OpenSource",
+    "Software Updates"
+  ],
+  "key_points": [
+    "Python 3.14.6 is the sixth maintenance release of Python 3.14, containing 179 bugfixes, build improvements, and documentation changes since 3.14.5.",
+    "Python 3.13.14 is the fourteenth maintenance release of Python 3.13, containing 240 bugfixes, build improvements, and documentation changes since 3.13.13.",
+    "No new features are introduced in these releases; they focus solely on stability and maintenance.",
+    "Users are encouraged to report bugs on GitHub and support the Python community through contributions or funding.",
+    "Release schedules and additional resources are available via PEPs 745 (3.14) and 719 (3.13)."
+  ],
+  "content_hash": "37960138eae781ea0242c24fc8e8fb1c99ed762b7e926034cd798869255eb2c5",
+  "title_hash": "a35dc75da1299103c1e259b4a82f722871e82604599ddde1c5030c5644e17f01",
+  "collected_at": "2026-08-12T16:07:56.975950+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias": false,
+      "opinion_fact_separation": "N/A (not a review/opinion piece)",
+      "fabrication": false,
+      "details": "The article provides accurate, up-to-date, and relevant information about Python maintenance releases. It is concise, well-structured, and free of spam, clickbait, or hidden advertisements. The category 'Programming' is correct, and the content is neutral, focusing on factual reporting without bias or fabrication."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-12T16:07:56.975950+07:00"
+}

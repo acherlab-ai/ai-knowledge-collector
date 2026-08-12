@@ -1,0 +1,46 @@
+{
+  "id": "9c620bb245888fd8",
+  "title": "llama.cpp: Run Frontier AI Models Locally on Your Machine",
+  "url": "https://llama.app",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "llama.cpp is an open-source project enabling users to run advanced AI models entirely on their local hardware without requiring API keys, telemetry, or internet connectivity. It prioritizes privacy, data ownership, and hardware flexibility, supporting a wide range of GPUs and CPUs, including Apple Silicon, NVIDIA, AMD, and Intel architectures. The tool integrates seamlessly with local coding agents and offers pre-optimized models like Qwen, Gemma, and GPT-OSS for tasks such as multimodal reasoning, coding, and agentic workflows.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "OpenSource",
+    "Local AI",
+    "Privacy",
+    "Machine Learning"
+  ],
+  "key_points": [
+    "Open-source and privacy-focused: No API keys, telemetry, or data leakage; all processing happens locally.",
+    "Hardware-agnostic: Optimized for CPUs, GPUs (NVIDIA, AMD, Intel), Apple Silicon, and edge devices like Jetson.",
+    "Supports frontier AI models: Includes Qwen, Gemma, and GPT-OSS for multimodal reasoning, coding, and agentic tasks.",
+    "Easy integration: Works with local coding agents via plugins (e.g., pi-llama) without complex configuration.",
+    "Simple setup: Install via script, package managers (Brew/Winget), or build from source.",
+    "Model flexibility: Supports dense and Mixture-of-Experts (MoE) variants with long-context capabilities (e.g., 128K tokens)."
+  ],
+  "content_hash": "424d2ee79f53e9e4d9fbc203041b8e70fc0603251f5905d0dd7c879dbdcffd41",
+  "title_hash": "d88649bdec421d66724b78088bb099c247b7c45492d04de66bb01e07189934a9",
+  "collected_at": "2026-08-12T15:58:33.298983+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, informative overview of llama.cpp, an open-source tool for running AI models locally. It is well-structured, fact-based, and avoids exaggeration or misleading claims. The content is highly relevant to the AI category, with no signs of spam, hidden ads, or bias. The summary and key points are concise, accurate, and useful for readers interested in local AI deployment. Minor deductions in score are due to the lack of comparative analysis with similar tools (e.g., Ollama, LM Studio), but this does not detract significantly from its overall value."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-12T15:58:33.298983+07:00"
+}
