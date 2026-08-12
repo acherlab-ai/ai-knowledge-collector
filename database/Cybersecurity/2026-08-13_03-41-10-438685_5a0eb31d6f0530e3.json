@@ -1,0 +1,48 @@
+{
+  "id": "5a0eb31d6f0530e3",
+  "title": "Building Security Agents That Cannot Escape Their Trust Boundary",
+  "url": "https://cynative.com/blog/agent-trust-boundaries",
+  "source": "Hacker News",
+  "category": "Cybersecurity",
+  "summary": "The article discusses the challenges and solutions for securely integrating AI-driven security agents into live infrastructure. It emphasizes the risks of granting AI models direct access to critical systems and proposes a two-sided architecture (sandbox + action-gate) to enforce strict trust boundaries. This ensures the agent operates in a read-only mode by design, preventing unauthorized modifications or data leaks. The solution, Cynative, is open-source and runs within the user's environment, maintaining data sovereignty and reducing operational overhead.",
+  "score": 9,
+  "tags": [
+    "Cybersecurity",
+    "AI",
+    "Infrastructure Security",
+    "Zero Trust",
+    "OpenSource"
+  ],
+  "key_points": [
+    "AI models with direct infrastructure access pose security risks (e.g., hallucinations leading to data deletion or misconfigurations).",
+    "Traditional SaaS security products mitigate risks via data lakes but introduce trade-offs (cost, sync delays, data sovereignty).",
+    "Attacker-defender asymmetry is exacerbated by attackers using advanced AI models and coding agents.",
+    "Least-privilege read-only access is necessary but insufficient due to potential IAM drift in large organizations.",
+    "Cynative's architecture includes a sandbox (isolated execution) and an action-gate (policy-enforced authorization) to enforce trust boundaries.",
+    "The agent is read-only by construction, preventing runtime boundary expansion or data exfiltration.",
+    "Cynative is deployed as a single binary within the user's environment, ensuring data sovereignty and compatibility with cloud-provider models.",
+    "Open-source framework allows customization for deep infrastructure research or building proprietary security agents."
+  ],
+  "content_hash": "101d3c4826318354de448998e7fd1fe4ff966ae9bd43ac46bab15d16b8eeec85",
+  "title_hash": "a8b33986477a25991733f53099c03a43ecc58ad712ad4b1c333608adcb859b8e",
+  "collected_at": "2026-08-13T03:41:10.438685+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "disguised_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a well-researched, technical discussion on securing AI-driven security agents within infrastructure, addressing real challenges like trust boundaries, IAM drift, and data sovereignty. It proposes a concrete, open-source solution (Cynative) with a clear architecture (sandbox + action-gate), avoiding vague claims. The content is original, non-repetitive, and aligns with the 'Cybersecurity' category. No spam, clickbait, or disguised ads are present. The tone is objective, focusing on technical merits rather than promoting a product. The summary and key points accurately reflect the content, and the tags are relevant."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-13T03:41:10.438685+07:00"
+}

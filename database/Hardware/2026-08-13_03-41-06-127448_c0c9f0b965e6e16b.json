@@ -1,0 +1,45 @@
+{
+  "id": "c0c9f0b965e6e16b",
+  "title": "JCB Hydromax sets new land speed record for hydrogen-powered cars at 406 mph",
+  "url": "https://arstechnica.com/cars/2026/08/jcb-sets-a-new-406-mph-speed-record-for-hydrogen-powered-cars",
+  "source": "Ars Technica",
+  "category": "Hardware",
+  "summary": "JCB, a UK-based manufacturer of heavy industrial and agricultural equipment, has set a new land speed record for hydrogen-powered cars. The JCB Hydromax, powered by two modified hydrogen-burning internal combustion engines, achieved a two-way average speed of 406.320 mph (653.91 km/h) on the Bonneville Salt Flats in Utah. This surpasses the previous hydrogen combustion record of 185.5 mph and the hydrogen fuel cell record of 303 mph. The achievement highlights advancements in hydrogen engine technology for high-performance applications.",
+  "score": 9,
+  "tags": [
+    "Hydrogen",
+    "Internal Combustion Engine",
+    "Land Speed Record",
+    "Automotive Technology",
+    "Sustainable Energy"
+  ],
+  "key_points": [
+    "JCB developed a hydrogen-burning internal combustion engine as an alternative to diesel for industrial equipment.",
+    "The JCB Hydromax car, powered by two 800 hp hydrogen engines, set a new land speed record for hydrogen-powered vehicles at 406.320 mph.",
+    "The engines were heavily modified from JCB’s original hydrogen engine design, including turbocharging, direct fuel injection, and improved cooling systems.",
+    "The record surpasses previous hydrogen combustion (185.5 mph) and hydrogen fuel cell (303 mph) land speed records.",
+    "The achievement demonstrates the potential of hydrogen combustion engines for high-performance and industrial applications."
+  ],
+  "content_hash": "d5d9f34d30dd937a9acfb843833867b3b8a3ae483e3d7a1b62db3f14c6c422fd",
+  "title_hash": "19c841d85b9fd86c01eb2fb43e4d89103fc6dc2ade95984e9c1615273e68490a",
+  "collected_at": "2026-08-13T03:41:06.127448+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a well-researched and factual account of JCB's hydrogen-powered land speed record. It includes technical details about the engine modifications, compares the achievement to previous records, and highlights the significance of hydrogen combustion technology. The content is objective, relevant to the 'Hardware' category, and free from spam, clickbait, or hidden advertising."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-13T03:41:06.127448+07:00"
+}
