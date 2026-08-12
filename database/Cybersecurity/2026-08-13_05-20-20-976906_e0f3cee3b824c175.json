@@ -1,0 +1,49 @@
+{
+  "id": "e0f3cee3b824c175",
+  "title": "Terabytes of credentials leaked in massive supply-chain attack on LiteLLM",
+  "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack",
+  "source": "Ars Technica",
+  "category": "Cybersecurity",
+  "summary": "A supply-chain attack on LiteLLM, an open-source AI tool, exposed terabytes of sensitive credentials from major organizations, including Microsoft, Amazon, Cisco, and Samsung. The breach occurred over a 40-minute window in March due to compromised versions of LiteLLM distributed via the Python Package Index. The attack, attributed to the hacker group TeamPCP, resulted in the exposure of cloud keys, repository tokens, SSH keys, and other critical secrets from over 2,500 organizations and 434,000 CI/CD pipelines. Security firms CloudSEK and Hudson Rock urge affected organizations to rotate all credentials immediately.",
+  "score": 9,
+  "tags": [
+    "Cybersecurity",
+    "Supply-Chain Attack",
+    "Data Breach",
+    "AI Security",
+    "DevOps"
+  ],
+  "key_points": [
+    "A supply-chain attack on LiteLLM, an open-source AI tool, led to the exposure of terabytes of sensitive credentials.",
+    "The breach affected major organizations like Microsoft, Amazon, Cisco, Samsung, and Salesforce, among others.",
+    "Compromised versions of LiteLLM (1.82.7 and 1.82.8) were distributed via the Python Package Index for a 40-minute window in March.",
+    "The attack exposed cloud keys, repository tokens, SSH keys, Kubernetes secrets, and AI provider keys from over 2,500 organizations.",
+    "A total of 434,000 CI/CD pipelines had credentials exposed due to the attack.",
+    "The hacker group TeamPCP, largely composed of teenagers, took credit for the attack, which was corroborated by researchers.",
+    "The attack was enabled by a previous supply-chain compromise of the vulnerability scanner Trivy and other software like KICS and Telnyx Python SDK.",
+    "Security firms CloudSEK and Hudson Rock urge organizations to rotate all credentials, audit their environments, and revoke compromised secrets.",
+    "The incident highlights the growing threat of supply-chain attacks and the risks of poor DevOps security practices in AI-driven development."
+  ],
+  "content_hash": "ece936a9c173eb703e92fc904dc54866e487066c2e46790d1b891bbcc72ab44c",
+  "title_hash": "bbb82acdc98739bc4a9ae99d91a72f16ec52e7439c2c38ab98f5c00027a4f142",
+  "collected_at": "2026-08-13T05:20:20.976906+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not applicable (factual reporting)",
+      "fabrication": false,
+      "details": "The article provides a detailed, well-sourced report on a significant cybersecurity incident involving a supply-chain attack on LiteLLM. It includes specific technical details, affected organizations, timeline, and actionable advice for mitigation. The content is factual, neutral, and aligns with the Cybersecurity category. No signs of spam, clickbait, or hidden advertising were detected."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-13T05:20:20.976906+07:00"
+}
