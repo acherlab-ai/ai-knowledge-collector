@@ -1,0 +1,47 @@
+{
+  "id": "60449cc957413aba",
+  "title": "Obituary: AmigaDOS Developer Dr. Tim King Has Passed Away",
+  "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
+  "source": "Hacker News",
+  "category": "OpenSource",
+  "summary": "Dr. Tim King, a key contributor to the development of AmigaDOS and a significant figure in early operating system history, has passed away. King developed the Tripos operating system during his studies at the University of Cambridge, which later became the foundation for AmigaDOS after he joined MetaComCo in 1984. He also founded Perihelion, focusing on operating systems and parallel processing, and later established the Internet service provider UK Online.",
+  "score": 8,
+  "tags": [
+    "AmigaDOS",
+    "Operating Systems",
+    "OpenSource",
+    "Legacy Software",
+    "Computer History"
+  ],
+  "key_points": [
+    "Dr. Tim King passed away at the end of July 2026.",
+    "He studied computer science at the University of Cambridge and earned his Ph.D. in 1979.",
+    "Developed the Tripos operating system, a preemptive multitasking system written in BCPL, during his time at Cambridge.",
+    "Joined MetaComCo in 1984, where Tripos was further developed and integrated into the Amiga as AmigaDOS.",
+    "Founded Perihelion in 1986, focusing on operating systems, parallel processing, and transputer technology.",
+    "Later founded UK Online, an early Internet service provider.",
+    "Made a significant contribution to the history of the Amiga and early operating systems."
+  ],
+  "content_hash": "3aca8b144d1948ba1b05ef955124e7fdfea3703a5201672fd9024afe8e44b050",
+  "title_hash": "439327e9fd3ef9842694dd823314237ba1e6ae7c914b8a1d2854bb13edbd3acb",
+  "collected_at": "2026-08-12T21:36:29.092236+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article is a well-researched obituary of Dr. Tim King, providing factual historical context about his contributions to AmigaDOS and early operating systems. It is informative, neutral, and relevant to the OpenSource category. No spam, clickbait, or hidden advertisements were detected. The content is original and does not exhibit bias or fabrication."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-12T21:36:29.092236+07:00"
+}

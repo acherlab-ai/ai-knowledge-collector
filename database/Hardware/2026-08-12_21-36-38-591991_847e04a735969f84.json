@@ -1,0 +1,47 @@
+{
+  "id": "847e04a735969f84",
+  "title": "Google unveils Pixel 11 lineup, Pixel Tag, and Gemini AI features at Made by Google 2026",
+  "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
+  "source": "TechCrunch",
+  "category": "Hardware",
+  "summary": "At the Made by Google 2026 event, Google introduced the Pixel 11 series (including Pixel 11, Pixel 11 Pro, Pixel 11 Pro Fold, and Pixel Watch 5), a new tracking device called Pixel Tag (a rival to Apple's AirTag), and enhanced Gemini AI features for accessibility and usability. Key hardware updates include improved durability, camera enhancements, and storage upgrades, while Gemini AI now supports American Sign Language transcription, a voice-input feature called Rambler, and expanded Circle to Search functionality.",
+  "score": 9,
+  "tags": [
+    "Hardware",
+    "AI",
+    "Mobile",
+    "Gadgets",
+    "Google"
+  ],
+  "key_points": [
+    "Pixel 11 series unveiled: Standard Pixel 11 features a thinner camera bar, 256GB base storage, and a $899 starting price (up $100 from Pixel 10).",
+    "Pixel 11 Pro and Pro XL offer improved drop resistance, anti-scratch display coating, and start at $1,099.",
+    "Pixel 11 Pro Fold is 10% lighter, 1mm thinner, with enhanced durability, a 48MP camera, and 30x Super Zoom.",
+    "Pixel Tag introduced as Google’s AirTag competitor, priced at $29 (or $99 for a four-pack), integrated with Android’s Find Hub and Pixel Watch.",
+    "Gemini AI updates: Live Transcribe now supports American Sign Language via Pixel Camera, Rambler improves voice-input for unstructured speech, and Circle to Search is more accessible from the camera.",
+    "Pixel Watch 5 adds health features like blood pressure and insulin resistance trend summaries, starting at $399 (41mm) and $429 (45mm).",
+    "Pixel Buds Pro available in a new Olive color."
+  ],
+  "content_hash": "477d0b8fe9fe9f6a8022b162ddab49118f9faa3b2da27fc56b03dcfa99f36fc8",
+  "title_hash": "28acee85e415eef52b9c95eb57c6388353dc95af10f435175692938de25e994d",
+  "collected_at": "2026-08-12T21:36:38.591991+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 8.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides detailed, factual information about Google's hardware and AI announcements at the Made by Google 2026 event. It is well-structured, avoids spam or clickbait, and maintains a neutral tone. The category 'Hardware' is accurate, though it also heavily features AI updates. The content is useful for tech enthusiasts and avoids misleading claims or hidden advertisements. Minor deduction in score due to slight overlap with AI-focused content, but overall high quality."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-12T21:36:38.591991+07:00"
+}

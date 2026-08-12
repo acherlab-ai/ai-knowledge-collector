@@ -1,0 +1,48 @@
+{
+  "id": "448053e841b1140e",
+  "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
+  "url": "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag",
+  "source": "Ars Technica",
+  "category": "Hardware",
+  "summary": "Google has announced its 2026 hardware lineup, including the Pixel 11 series, Pixel Watch 5, and the new Pixel Tag Bluetooth tracker. The Pixel 11 phones feature incremental design updates, AI-powered features like HiLight (an RGB LED notification system), and improved cameras with new software capabilities such as Magic Capture and Camera Looks. The Tensor G6 chip offers better power efficiency, though battery capacities have slightly decreased. The Pixel Watch 5 focuses on AI-driven health insights, proactive notifications, and improved fitness tracking. The Pixel Tag is Google’s first ultra-wideband-enabled tracker, competing with Apple’s AirTag.",
+  "score": 8,
+  "tags": [
+    "Hardware",
+    "Google",
+    "Pixel",
+    "AI",
+    "Wearables",
+    "Bluetooth Tracker"
+  ],
+  "key_points": [
+    "Pixel 11 series introduces HiLight, an RGB LED notification system for Gemini interactions and calls from specific contacts.",
+    "Tensor G6 chip promises 20% better power efficiency, 25% faster browsing, and 15% faster app loading, though official specs are undisclosed.",
+    "Pixel 11 Pro models feature brighter 3,600-nit displays and new scratch-resistant glass, while battery capacities have slightly decreased across the lineup.",
+    "New camera features include Magic Capture (auto-capture of photos/videos), Instant Night Sight (faster low-light photography), and Camera Looks (customizable HDR+ styles).",
+    "Pixel Tag is Google’s first Bluetooth tracker, leveraging ultra-wideband for precise location tracking via the Find Hub network.",
+    "Pixel Watch 5 enhances AI-driven proactive insights, health tracking (e.g., blood pressure trends, insulin sensitivity estimates), and fitness routines with improved GPS.",
+    "Pricing increases across the board: Pixel 11 starts at $899, Pixel 11 Pro Fold at $1,899, and Pixel Watch 5 at $399 (41mm) or $429 (45mm)."
+  ],
+  "content_hash": "f32711421dcec62f17fad0a4f99ad7e142c06189776bc0ed7052c9ff445286c9",
+  "title_hash": "0d8abfa2f94c7c1560ad17aff4566acdd448062ea91486ae377871876d1abf75",
+  "collected_at": "2026-08-12T21:36:33.870643+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 8.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides detailed, speculative yet plausible information about Google's 2026 hardware lineup, including the Pixel 11 series, Pixel Watch 5, and Pixel Tag. The content is well-structured, informative, and aligns with the 'Hardware' category. While it includes forward-looking statements (e.g., unreleased products), it does not cross into fabrication or misleading claims. The tone is neutral, and the focus remains on hardware features and innovations. Pricing details are presented as hypothetical, avoiding overt advertising. The quality score is slightly reduced due to the speculative nature of the content, but it remains valuable for tech enthusiasts."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-12T21:36:33.870643+07:00"
+}
