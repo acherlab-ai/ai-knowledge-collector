@@ -1,0 +1,47 @@
+{
+  "id": "ba0e4c3180b1bf02",
+  "title": "AI Code-Testing Startup Blacksmith’s Valuation Jumps Nearly 10x in Less Than a Year",
+  "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "Blacksmith, an AI-driven code-testing startup, has seen its valuation surge from $60 million to $550 million in under a year after raising a $45 million Series B led by Peak XV Partners. The company addresses the growing challenge of validating AI-generated code, serving over 5,000 customers, including Mercury and Expensify. Blacksmith’s platform combines continuous integration (CI) workloads with an AI agent, Codesmith, to automate code validation and fixes. Despite competition from GitHub Actions, AWS, and others, Blacksmith differentiates itself with faster testing and affordability. The startup plans to expand into a broader suite of coding tools to accelerate software development.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Startups",
+    "Software Development",
+    "Code Validation",
+    "Continuous Integration"
+  ],
+  "key_points": [
+    "Blacksmith’s valuation increased nearly 10x (from $60M to $550M) in less than a year after raising a $45M Series B.",
+    "The startup helps companies validate AI-generated code, addressing a bottleneck in software development.",
+    "Blacksmith serves over 5,000 customers, including Mercury, Supabase, and Expensify, up from 700 a year ago.",
+    "The platform combines CI workloads with an AI agent (Codesmith) to automate code testing and fixes.",
+    "Competitors include GitHub Actions, AWS, Microsoft Azure, and Google Cloud, but Blacksmith competes on speed and affordability.",
+    "Blacksmith plans to expand into a broader suite of coding tools to streamline development workflows.",
+    "The company has grown from 10 to 30 employees and reached a $10M+ annualized revenue run rate."
+  ],
+  "content_hash": "98ac4c170911e6f28b2afdf5cb243598bfc679a6802a5ca6fd086ee2da38e6e1",
+  "title_hash": "6bc7d70a041793df64559a77fd525290362c3f1985aa4feae7432c40ef79a30a",
+  "collected_at": "2026-08-12T18:11:22.402742+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides valuable, fact-based insights into Blacksmith's growth, funding, and technology without spam, clickbait, or hidden advertising. The information is well-structured, relevant to the AI and software development categories, and avoids excessive bias. Minor deductions in score are due to the lack of deeper technical or competitive analysis, but this does not detract from its overall quality."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-12T18:11:22.402742+07:00"
+}
