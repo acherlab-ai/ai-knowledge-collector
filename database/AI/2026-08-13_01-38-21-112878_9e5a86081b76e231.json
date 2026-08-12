@@ -1,0 +1,53 @@
+{
+  "id": "9e5a86081b76e231",
+  "title": "Introducing Delta: A Multiplayer Environment for Collaborative Coding with AI Agents",
+  "url": "https://zed.dev/blog/introducing-delta",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "Zed introduces Delta, a new multiplayer environment designed for collaborative coding with AI agents. Delta connects code and conversations in real time, preserving context and enabling seamless collaboration between developers and agents. Built on DeltaDB, it synchronizes worktrees and discussions, integrates with existing Git repositories, and supports real-time multiplayer interactions. Delta aims to improve code review, agentic development, and team collaboration by keeping all context anchored to evolving code and conversations.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Collaboration",
+    "IDE",
+    "Code Review",
+    "Multiplayer",
+    "DeltaDB",
+    "Git"
+  ],
+  "key_points": [
+    "Delta is a multiplayer environment for coding with AI agents, designed to keep code and conversations connected in real time.",
+    "Built on DeltaDB, which replicates conversations and worktrees together, integrating seamlessly with existing Git repositories.",
+    "Enables real-time collaboration where developers and agents work from the same context, with comments anchored to evolving code.",
+    "Supports multiplayer interactions, allowing teams to join threads, comment, and iterate on code or prompts collaboratively.",
+    "DeltaDB ensures that the worktree is collaborative, with all participants having synchronized local copies of the code.",
+    "Cloud support allows agents to continue working even when the user’s device is offline, with synchronized updates.",
+    "Delta is accessible via browser (compiled to WebAssembly and rendered through WebGL) or through third-party agent harnesses like Claude Code.",
+    "Designed for high performance, Delta renders full diffs and transcripts without truncation, enabling efficient interaction with agent outputs.",
+    "Conversations in Delta are treated as editable documents, allowing users to comment on specific parts of the code, plans, or agent outputs.",
+    "Delta is a new application built from the ground up to support DeltaDB, with plans to integrate its capabilities into Zed in the future.",
+    "Private beta access is now available, with invites being sent to early users."
+  ],
+  "content_hash": "a0f2a41f0aeb51c17f0b1023b71e7a6a84ef324e02492ed1671aa51478f05944",
+  "title_hash": "6b36b35668e63a677e9e17520b79405904d8aedc3153d531e57c7d8ab99c93e1",
+  "collected_at": "2026-08-13T01:38:21.112878+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not applicable (informational)",
+      "fabrication": false,
+      "details": "The article provides a detailed and informative introduction to Delta, a multiplayer environment for collaborative coding with AI agents. It clearly explains the technology (DeltaDB), its integration with Git, real-time collaboration features, and use cases. The content is well-structured, factual, and avoids exaggeration or misleading claims. No spam, hidden ads, or clickbait are detected. The category 'AI' is appropriate, and the article maintains a neutral tone while presenting technical details objectively."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-13T01:38:21.112878+07:00"
+}
