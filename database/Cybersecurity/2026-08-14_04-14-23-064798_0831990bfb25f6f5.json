@@ -1,0 +1,47 @@
+{
+  "id": "0831990bfb25f6f5",
+  "title": "Private security firms authorized to hack overseas cybercriminals under new US policy",
+  "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals",
+  "source": "Ars Technica",
+  "category": "Cybersecurity",
+  "summary": "The Trump administration has issued a National Security Presidential Memorandum allowing private security firms to conduct government-authorized offensive cyber operations against overseas-based transnational criminal organizations (TCOs) targeting US entities. The program, overseen by the Departments of Justice and Homeland Security, targets activities like ransomware, phishing, and financial fraud. Private firms must meet strict vetting standards, including a $1 million escrow deposit, and operations cannot result in critical outcomes like loss of life. Key details of the program remain undefined and will be finalized within 60 days.",
+  "score": 8,
+  "tags": [
+    "Cybersecurity",
+    "Government Policy",
+    "Offensive Security",
+    "Ransomware",
+    "Transnational Crime"
+  ],
+  "key_points": [
+    "Private security firms can now conduct federal government-authorized cyber operations against overseas cybercriminals.",
+    "Targeted activities include ransomware, sextortion, phishing, financial fraud, and impersonation scams.",
+    "Operations may involve cyber surveillance or destructive attacks but are prohibited from causing critical outcomes like loss of life.",
+    "Firms must undergo vetting by the Departments of Justice and Homeland Security and deposit $1 million in escrow.",
+    "The program is the first of its kind to authorize private companies for offensive cyber operations without prior court approval.",
+    "Concerns exist about incentives and potential conflicts of interest among private cybersecurity firms.",
+    "Specific operational details will be defined within 60 days by the Justice and Homeland Security departments."
+  ],
+  "content_hash": "ecd1df0b469add3c685ad978111e067175084e1a202f0e06a5837584695391eb",
+  "title_hash": "9ec5b61905db18027c2db1842179bdbea7096b7b698d3c18c5d749bdb9a0072d",
+  "collected_at": "2026-08-14T04:14:23.064798+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 8.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "disguised_ads": false,
+      "info_quality": "High - well-researched, factual, and provides clear details about a new policy with balanced coverage of concerns.",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "Minimal - presents multiple perspectives (e.g., concerns about conflicts of interest) while focusing on factual reporting.",
+      "opinion_fact_separation": "N/A (not a review/opinion piece; purely informational).",
+      "fabrication": false,
+      "notes": "The category 'AI' in the example was incorrect; the correct category is 'Cybersecurity'. The article is highly relevant, well-structured, and adheres to journalistic standards without overt bias or manipulation."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-14T04:14:23.064798+07:00"
+}

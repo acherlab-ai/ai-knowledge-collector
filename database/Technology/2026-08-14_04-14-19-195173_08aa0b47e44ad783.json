@@ -1,0 +1,46 @@
+{
+  "id": "08aa0b47e44ad783",
+  "title": "NP-Hard Problems Are Not as Intractable as Commonly Believed",
+  "url": "https://gruhn.me/blog/2026-08-13",
+  "source": "Hacker News",
+  "category": "Technology",
+  "summary": "The article challenges the pervasive myth that NP-hard problems are practically unsolvable, arguing that theoretical worst-case scenarios rarely occur in real-world applications. It highlights that many NP-hard problems, such as dependency resolution, type checking, scheduling, and SAT, can often be solved efficiently for most relevant inputs using optimized algorithms and heuristics. The author emphasizes that algorithmic advancements have significantly outpaced hardware improvements, making even traditionally 'hard' problems manageable at scale.",
+  "score": 8,
+  "tags": [
+    "NP-hard",
+    "Algorithms",
+    "Computer Science",
+    "Theory vs Practice",
+    "Optimization"
+  ],
+  "key_points": [
+    "NP-hard problems are often perceived as practically unsolvable due to theoretical worst-case complexity, but this perception is misleading.",
+    "Many NP-hard problems (e.g., dependency resolution, type checking) rarely encounter worst-case scenarios in real-world use.",
+    "Optimization problems like the Traveling Salesman Problem and SAT can be solved efficiently using heuristics or provably optimal algorithms.",
+    "Algorithmic speedups have far outpaced hardware improvements, with a cited 450-billion-fold speedup between 1991 and 2015.",
+    "Even archetypal NP-hard problems like SAT are routinely solved at scale (e.g., Amazon solving billions of SMT problems daily).",
+    "Practical solutions often involve timeouts or error handling, similar to handling failed HTTP requests, rather than waiting for theoretical worst-case outcomes."
+  ],
+  "content_hash": "3545d95897bf6caa482bbd017b4003a4ae8e8536c2727e37968b66c984710f45",
+  "title_hash": "d795d941f1e37c50e29621209fa759aefcbe8e366846956c64771e8e80b5a01f",
+  "collected_at": "2026-08-14T04:14:19.195173+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "disguised_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_distinction": "clear",
+      "fabrication": false,
+      "details": "The article provides a well-reasoned challenge to a common misconception in computer science, backed by specific examples and data (e.g., algorithmic speedups, real-world applications like Amazon's SMT problem-solving). It distinguishes between theoretical worst-case scenarios and practical solutions, maintaining a clear separation between opinion (e.g., 'NP-hard problems are not as intractable') and factual evidence (e.g., algorithmic advancements, real-world use cases). The content is original, non-repetitive, and aligns with the 'Technology' category. No spam, clickbait, or disguised ads are present."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-14T04:14:19.195173+07:00"
+}
