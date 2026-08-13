@@ -1,0 +1,50 @@
+{
+  "id": "f97516a261f8bda7",
+  "title": "ChatGPT Desktop (Codex) for Linux and Multi-Platform AI Coding Agents",
+  "url": "https://openai.com/codex",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "OpenAI's Codex is an AI-powered coding agent integrated into ChatGPT, designed to assist with software engineering tasks such as feature development, refactoring, migrations, and more. It supports multi-agent workflows, adapts to team-specific standards via 'Skills,' and automates routine tasks like issue triage and CI/CD monitoring. Codex is accessible across platforms (ChatGPT, IDE extensions, CLI) and is trusted by companies like Wonderful, Harvey, and Duolingo for improving code quality, reducing iteration time, and catching bugs early.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Codex",
+    "Software Engineering",
+    "Automation",
+    "OpenAI",
+    "Coding Agents"
+  ],
+  "key_points": [
+    "Codex is an AI coding agent integrated into ChatGPT, powered by OpenAI’s frontier coding models.",
+    "Handles end-to-end tasks: feature development, refactoring, migrations, and complex engineering work.",
+    "Supports multi-agent workflows with parallel project execution, reducing weeks of work to days.",
+    "Adapts to team workflows via 'Skills,' applying consistent standards with minimal supervision.",
+    "Automates routine tasks like issue triage, alert monitoring, and CI/CD to free up developer focus.",
+    "Improves code quality with thorough designs, comprehensive testing, and high-signal code reviews.",
+    "Accessible across platforms: ChatGPT, IDE extensions, and CLI, unified by a single ChatGPT account.",
+    "Trusted by companies like Wonderful, Harvey, and Duolingo for reducing iteration time and catching bugs.",
+    "Available now in the ChatGPT app for experimentation and integration into workflows."
+  ],
+  "content_hash": "7c675d76df27af32b984eb8a99a0fcd1e47ec27c79436b1feea21a109586960d",
+  "title_hash": "04ee19173c23911b2034040a334153bda600b482b9c82c57a2426b65eae1b36c",
+  "collected_at": "2026-08-13T17:03:03.812173+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a detailed and informative overview of OpenAI's Codex, its features, use cases, and benefits for software engineering. It avoids spam, clickbait, or hidden advertising, and the information is well-structured, accurate, and relevant to the AI category. The content is factual, with no signs of fabrication or excessive bias. The summary and key points align well with the title and tags, ensuring clarity and coherence."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-13T17:03:03.812173+07:00"
+}
