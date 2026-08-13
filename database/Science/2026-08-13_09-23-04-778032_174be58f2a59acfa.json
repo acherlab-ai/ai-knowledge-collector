@@ -1,0 +1,48 @@
+{
+  "id": "174be58f2a59acfa",
+  "title": "Rare Brain-Destroying Amoeba Infection in Toddler Highlights Diagnostic Challenges and Lessons for Doctors",
+  "url": "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it",
+  "source": "Ars Technica",
+  "category": "Science",
+  "summary": "A tragic case of a toddler infected with the ultra-rare amoeba *Balamuthia mandrillaris* underscores the difficulties in diagnosing and treating this often-fatal brain infection. The child's symptoms were initially misdiagnosed as childhood Takayasu arteritis, delaying appropriate treatment. The case report, published in *BMJ Case Reports*, details the diagnostic missteps, the eventual identification of the amoeba, and key lessons to improve early detection in future cases.",
+  "score": 8,
+  "tags": [
+    "medical science",
+    "infectious diseases",
+    "neurology",
+    "diagnostics",
+    "case study"
+  ],
+  "key_points": [
+    "The toddler presented with vomiting, lethargy, weakness, fever, and neurological symptoms, which progressed rapidly over 30 days.",
+    "Initial misdiagnosis of childhood Takayasu arteritis led to immunosuppressive treatment, which may have worsened the infection.",
+    "*Balamuthia mandrillaris* is an extremely rare amoeba with only about 200 recorded human cases worldwide, 90% of which are fatal.",
+    "The infection was eventually identified through a brain biopsy and metagenomic next-generation sequencing (mNGS) of cerebrospinal fluid.",
+    "Early detection is critical; a 2010 case showed that timely diagnosis (within 10 days) can lead to survival, though with significant neurological damage.",
+    "Doctors recommend testing cerebrospinal fluid for infectious microbes before starting or escalating immunosuppressive treatments in atypical cases.",
+    "The amoeba is found in soil and water globally, with infections likely occurring through inhalation of contaminated dust or contact with wounds.",
+    "Symptoms include fever, headache, vomiting, skin lesions (in some cases), and later neurological symptoms like seizures, paralysis, and confusion."
+  ],
+  "content_hash": "c49ded31aa9334757c4b01d46450a0d56ab038adaea8e099d450f741670724c4",
+  "title_hash": "041efb3dcbcd8bee91054d7f3711572dd1c106c24684e1a4fd6f0a1fe90054b1",
+  "collected_at": "2026-08-13T09:23:04.778032+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_distinction": "clear (case study with factual reporting)",
+      "fabrication": false,
+      "details": "The article provides a well-documented, factual case study on a rare medical condition, highlighting diagnostic challenges and lessons for clinicians. It is informative, scientifically accurate, and adheres to the 'Science' category. The content is neutral, with no signs of spam, clickbait, or hidden advertising. The distinction between facts (e.g., case details, medical data) and opinions (e.g., recommendations for doctors) is clear."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-13T09:23:04.778032+07:00"
+}

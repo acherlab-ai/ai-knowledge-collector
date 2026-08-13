@@ -1,0 +1,50 @@
+{
+  "id": "f99db56568112829",
+  "title": "Python 3.12.14, 3.11.16, and 3.10.21 Security Releases Now Available",
+  "url": "https://blog.python.org/2026/08/python-31214-31116-31021",
+  "source": "Python Insider",
+  "category": "Programming",
+  "summary": "The Python development team has released security updates for Python 3.12, 3.11, and 3.10. These releases address multiple critical vulnerabilities, including path traversal, HTTP header injection, XML parsing crashes, denial-of-service risks, and memory corruption issues. Key fixes involve modules like `tarfile`, `webbrowser`, `ftplib`, `http.cookies`, `xml.parsers.expat`, and `shutil`. Users are strongly encouraged to upgrade to mitigate security risks.",
+  "score": 9,
+  "tags": [
+    "Python",
+    "Security",
+    "Programming",
+    "Vulnerability",
+    "Patch"
+  ],
+  "key_points": [
+    "Security-focused releases for Python 3.12.14, 3.11.16, and 3.10.21 (source-only).",
+    "Fixes for **15+ CVEs**, including path traversal in `tarfile`, HTTP header injection in `wsgiref`, and XML parsing crashes in `xml.parsers.expat`.",
+    "`webbrowser.open()` now rejects URLs with leading dashes to prevent command injection.",
+    "`ftplib` no longer trusts IPv4 addresses from PASV commands by default (CVE-2021-4189 mitigation).",
+    "`shutil.unpack_archive()` skips ZIP files with Windows drive prefixes to prevent arbitrary file writes.",
+    "Denial-of-service protections added for `unicodedata.normalize()`, `html.parser`, and `csv.Sniffer`.",
+    "Memory corruption fixes in `lzma`, `bz2`, and `zlib` decompressors.",
+    "Updated bundled `libexpat` to version 2.8.3 for improved XML security.",
+    "ConfigParser and TOML parsing hardened against crafted inputs causing excessive CPU usage.",
+    "Highly recommended for all users of affected versions to upgrade immediately."
+  ],
+  "content_hash": "649fc1db1801cf74aac020a22e7209f22d13c7cd12e973e0da7f029d9f24e31d",
+  "title_hash": "f981cb9c66e4f3f69c656d9bfa41ffe7d8f6e5e4588afc705bfc38053c1d3091",
+  "collected_at": "2026-08-13T09:23:12.570289+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": false,
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, factual summary of Python security updates, listing specific vulnerabilities, affected modules, and mitigation steps. It is highly relevant to developers, free of spam/clickbait, and maintains neutrality by focusing on technical details without promotional language. The category 'Programming' is correct, and the content is well-structured with no redundancy or bias."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-13T09:23:12.570289+07:00"
+}
