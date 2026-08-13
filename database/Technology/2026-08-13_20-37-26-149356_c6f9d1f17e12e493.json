@@ -1,0 +1,46 @@
+{
+  "id": "c6f9d1f17e12e493",
+  "title": "Bluesky’s CEO and COO Discuss the Future of Social Media at TechCrunch Disrupt 2026",
+  "url": "https://techcrunch.com/2026/08/13/can-social-media-start-over-blueskys-ceo-and-coo-deliver-their-case-at-techcrunch-disrupt-2026",
+  "source": "TechCrunch",
+  "category": "Technology",
+  "summary": "At TechCrunch Disrupt 2026, Bluesky’s CEO Toni Schneider and COO Rose Wang will present their vision for a new era of social media built on open protocols rather than centralized platforms. The discussion focuses on whether decentralized networks like Bluesky can challenge established incumbents by prioritizing user connection and community over AI-driven feeds. Bluesky, emerging post-Twitter’s transformation into X, is positioning itself as a scalable alternative with a focus on execution and user-centric design.",
+  "score": 8,
+  "tags": [
+    "Social Media",
+    "Decentralization",
+    "Open Protocols",
+    "TechCrunch Disrupt",
+    "Bluesky"
+  ],
+  "key_points": [
+    "Bluesky is betting on open protocols to redefine social media, moving away from platform-centric models.",
+    "CEO Toni Schneider and COO Rose Wang will discuss Bluesky’s progress and vision at TechCrunch Disrupt 2026.",
+    "Bluesky aims to address user fatigue with AI-dominated feeds by emphasizing human-to-human connection.",
+    "The company is in a transitional phase, testing whether open-protocol networks can compete with entrenched platforms like Facebook and Twitter/X.",
+    "Bluesky’s leadership transition (Jay Graber to Toni Schneider) signals a shift toward scaling and execution.",
+    "Wang highlights the challenge for large platforms to pivot due to their size and AI-driven business models."
+  ],
+  "content_hash": "dbbc4e5b39617e4e5e2e5e37b1258e2314fb8fe368f33e41fc81516ab897887b",
+  "title_hash": "26db38cd392aa9fc4d3326097e9e7ee56dd9adacb179cf31e9a665f24548da34",
+  "collected_at": "2026-08-13T20:37:26.149356+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "disguised_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not applicable (news/discussion)",
+      "fabrication": false,
+      "details": "The article provides a well-researched, forward-looking discussion on decentralized social media, specifically Bluesky's vision. It avoids spam, clickbait, or disguised ads, and maintains a neutral tone while offering valuable insights into the future of social media. The category 'Technology' is accurate, and the content is original with no fabrication."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-13T20:37:26.149356+07:00"
+}

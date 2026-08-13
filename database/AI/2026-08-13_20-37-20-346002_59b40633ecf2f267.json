@@ -1,0 +1,53 @@
+{
+  "id": "59b40633ecf2f267",
+  "title": "Choosing an AI Model: One Prompt, 11 Models, Different Results",
+  "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "The article explores the performance and cost differences of 11 AI models when generating a static website for a local coffee shop using identical prompts on Netlify's platform. It highlights the integration of OpenRouter to expand model choices via Netlify's AI Gateway and Agent Runners, which now include models like Kimi K3, GLM 5.2, and DeepSeek V4. The analysis focuses on credit usage, design quality, and functionality of the generated sites, providing insights into trade-offs between cost and output quality. The article also introduces AXIS, an open-source tool for evaluating AI models, and discusses the practical implications of choosing between high-cost, high-detail models and more economical alternatives.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "AI Models",
+    "LLM",
+    "Netlify",
+    "OpenRouter",
+    "AI Evaluation",
+    "Web Development"
+  ],
+  "key_points": [
+    "Netlify partnered with OpenRouter to expand AI model options via its AI Gateway and Agent Runners, including models like Kimi K3, GLM 5.2, and DeepSeek V4.",
+    "Agent Runners is a coding agent within Netlify that supports multiple AI models, providing context about Netlify's capabilities (e.g., databases, AI Gateway) to generate projects.",
+    "The article tests 11 AI models using identical prompts for a static coffee shop website, comparing credit usage, design, and functionality.",
+    "Credit costs vary significantly across models, with DeepSeek V4 Flash (0731) being the most economical (2.4 credits on average) and Claude Opus 5 the most expensive (519 credits on average).",
+    "Claude Opus 5 generates highly detailed designs but with inconsistent credit usage, sometimes exceeding 1,000 credits for a single run.",
+    "GPT 5.6 Sol (low effort) and Terra models offer a balance between cost and design quality, with Terra providing a distinct visual style at a lower cost (39 credits on average).",
+    "Gemini 3.6 Flash outperforms Gemini 3.1 Pro in design quality, while Kimi K3 and GLM 5.2 show mixed results, with GLM being cost-effective but inconsistent.",
+    "DeepSeek V4 Pro and Flash models are economical but may produce errors (e.g., broken images) and simpler designs compared to commercial models.",
+    "The article emphasizes the importance of choosing models based on project needs, such as functionality, cost, and the level of ideation required.",
+    "AXIS, Netlify's open-source tool, is used internally to evaluate models based on functionality, ensuring they meet standards before being offered in Agent Runners.",
+    "Future posts will explore advanced use cases, such as dynamic web apps, and how models handle platform-specific features like databases, AI integration, and authentication."
+  ],
+  "content_hash": "30021d2585c04e8b6399597043eff0c4ff21098d47f5822411b782e7d1fac325",
+  "title_hash": "255119b01adfb7e4e95e28f87b4adbdaa217aa15b6a213dce80e6dc16ecb756e",
+  "collected_at": "2026-08-13T20:37:20.346002+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "clear (review/analysis context)",
+      "fabrication": false,
+      "details": "The article provides a detailed, comparative analysis of 11 AI models for a specific use case (static website generation), offering practical insights into cost, design quality, and functionality. It avoids spam, clickbait, or hidden advertising, and maintains objectivity by distinguishing between factual observations (e.g., credit costs, model outputs) and subjective evaluations (e.g., design preferences). The content is well-structured, non-repetitive, and aligns with the 'AI' category. Minor deductions in score are due to occasional subjective language (e.g., 'highly detailed designs') but this does not compromise neutrality or utility."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-13T20:37:20.346002+07:00"
+}
