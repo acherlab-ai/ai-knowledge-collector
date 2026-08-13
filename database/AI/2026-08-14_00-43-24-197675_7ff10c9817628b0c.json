@@ -1,0 +1,48 @@
+{
+  "id": "7ff10c9817628b0c",
+  "title": "Gemini 3.7 Flash: Next-Generation Multimodal AI Model",
+  "url": "https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "Gemini 3.7 Flash is the latest iteration in Google's Gemini 3 series, offering advanced multimodal capabilities, including support for text, image, video, audio, and PDF inputs. The model introduces new features such as structured outputs, function calling, file search, and grounding with Google Maps, while maintaining high token limits (1M input tokens, 65K output tokens). It also supports experimental features like code execution and 'thinking' modes (low, medium, high). The model is accessible via the Interactions API, with multiple consumption options including batch API, flex inference, and priority inference.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Multimodal Models",
+    "Google Gemini",
+    "API",
+    "Machine Learning"
+  ],
+  "key_points": [
+    "Gemini 3.7 Flash is a highly capable, natively multimodal model supporting text, image, video, audio, and PDF inputs.",
+    "Output is limited to text, with a maximum of 65,536 output tokens and 1,048,576 input tokens.",
+    "Key capabilities include function calling, file search, structured outputs, and grounding with Google Maps.",
+    "Experimental features: code execution, 'thinking' modes (low/medium/high), and URL context support.",
+    "Not supported: audio generation, image generation, and live API access.",
+    "Multiple consumption options: batch API, flex inference, and priority inference.",
+    "Stable version identifier: `gemini-3.7-flash`.",
+    "Latest update scheduled for August 2026 (as per documentation)."
+  ],
+  "content_hash": "0b7d198a0c9fc9d7fdadf4c158b16fd0f02b674d3450a0028bfd5bea81a7c158",
+  "title_hash": "1db3cc6e846af03d9918c79acfe9425f1d524b60a262b3ec51e97b597f4bcebd",
+  "collected_at": "2026-08-14T00:43:24.197675+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, detailed, and factual overview of Gemini 3.7 Flash's features, capabilities, and limitations. It avoids exaggeration, clickbait, or hidden advertising. The information is well-structured, relevant to the AI category, and maintains objectivity. Minor deductions in quality score are due to the lack of comparative analysis with other models, but this does not detract from its overall utility."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-14T00:43:24.197675+07:00"
+}

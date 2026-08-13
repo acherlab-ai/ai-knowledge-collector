@@ -1,0 +1,46 @@
+{
+  "id": "9ff06a4356e72284",
+  "title": "OpenAI Hires New Chief Revenue Officer Amid Executive Shake-Up",
+  "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "OpenAI has appointed Dali Rajic, former president and COO of Wiz (acquired by Google for $32 billion), as its new Chief Revenue Officer (CRO), replacing Denise Dresser after nine months. This move is part of a broader executive restructuring following the departures of COO Brad Lightcap and AGI deployment CEO Fidji Simo. OpenAI co-founder Greg Brockman highlighted Rajic's role in scaling revenue execution as the company focuses on enterprise deployment and measurable business impact. OpenAI serves over 1 billion weekly active users and 2 million businesses but has faced challenges in meeting revenue goals. The company has filed confidentially for a potential IPO and conducted a $7 billion tender offer for employee shares, possibly indicating a delayed public debut.",
+  "score": 8,
+  "tags": [
+    "AI",
+    "OpenAI",
+    "Executive Changes",
+    "Revenue Growth",
+    "Enterprise AI"
+  ],
+  "key_points": [
+    "OpenAI replaces CRO Denise Dresser with Dali Rajic, former Wiz president and COO.",
+    "Rajic’s appointment is part of a broader executive shake-up, including the departures of COO Brad Lightcap and AGI deployment CEO Fidji Simo.",
+    "Greg Brockman, OpenAI co-founder, emphasizes Rajic’s role in scaling revenue execution for enterprise deployment.",
+    "OpenAI serves over 1 billion weekly active users and 2 million businesses but has not met all revenue targets.",
+    "The company has filed confidentially for a potential IPO and conducted a $7 billion tender offer for employee shares.",
+    "CEO Sam Altman has shifted focus toward enterprise deployment, reducing experimental projects."
+  ],
+  "content_hash": "8a41a440b91e9b37a8e27e793d183729b16846db72dc3a357efc4eb9c8d9d978",
+  "title_hash": "7a9b41d47b65373dd813e92af91d56546dcbbe638e4412037238ff6d6cda1623",
+  "collected_at": "2026-08-14T00:43:19.925351+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides timely, factual, and well-sourced information about OpenAI's executive changes and strategic shifts. It avoids sensationalism, maintains neutrality, and aligns with the AI category. The summary and key points are concise, relevant, and free of redundancy or misleading claims. Minor deductions in score are due to the absence of direct quotes or deeper analysis, but this does not detract from its overall utility."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-14T00:43:19.925351+07:00"
+}

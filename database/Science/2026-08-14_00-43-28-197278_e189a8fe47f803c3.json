@@ -1,0 +1,48 @@
+{
+  "id": "e189a8fe47f803c3",
+  "title": "Introduction to the Tocharian Languages: History, Geography, and Linguistic Significance",
+  "url": "https://lrc.la.utexas.edu/eieol/tokol/0",
+  "source": "Hacker News",
+  "category": "Science",
+  "summary": "The article provides an in-depth academic introduction to the Tocharian languages, a branch of the Indo-European family. It covers their historical context, geographic distribution along the Silk Road, distinctions between Tocharian A and B, and their role in Buddhist texts. The piece also discusses the linguistic characteristics of Tocharian, its misattributed name, and its unique position as the easternmost Indo-European language, challenging traditional centum-satem dialectal divisions.",
+  "score": 8,
+  "tags": [
+    "Linguistics",
+    "Indo-European Languages",
+    "Historical Linguistics",
+    "Ancient Languages",
+    "Buddhism"
+  ],
+  "key_points": [
+    "Tocharian consists of two distinct but closely related Indo-European languages: Tocharian A and Tocharian B.",
+    "The languages were discovered in documents from the 6th to 8th centuries AD, primarily in the Tarim Basin (modern Xinjiang, China) along the Silk Road.",
+    "Tocharian A (East Tocharian/Turfanian) is found near Turfan and Qārāšahr, while Tocharian B (West Tocharian/Kuchean) spans from Turfan to Tumšuq.",
+    "Most Tocharian texts are Buddhist translations, with some secular documents (e.g., letters, graffiti) written in Tocharian B, suggesting Tocharian A may have been a liturgical language by that era.",
+    "The name 'Tocharian' is a misnomer, derived from a Turkic term (toxrï) misassociated with the Greek To'kʰaroi and Sanskrit Tukʰāra (Bactria). The languages’ native terms are ārśi (Tocharian A) and kuśiññe (Tocharian B).",
+    "Tocharian is a centum language, geographically isolated in the east, which disrupted the traditional centum-satem dialectal division of Indo-European languages.",
+    "Linguistic features include a reduced phonetic inventory (e.g., voiceless stops) and an agglutinative case system, likely influenced by contact with Uralic, Turkic, or Mongolian languages.",
+    "The article includes excerpts from Tocharian Buddhist texts and resources for further study, such as glossaries and dictionaries."
+  ],
+  "content_hash": "d2bd364a63fb007b1561b41c669e1cb91c8dee12802103f5822441a36ab8f97e",
+  "title_hash": "2e68935eda546269dcd5a27ee69f6d9345b62cda1f68d953589cfd8ff78f720c",
+  "collected_at": "2026-08-14T00:43:28.197278+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a well-researched, academic introduction to the Tocharian languages, covering historical, geographical, and linguistic aspects comprehensively. It is fact-based, avoids sensationalism, and adheres to scholarly standards. The category 'Science' (specifically linguistics/historical linguistics) is accurate. No spam, clickbait, or hidden advertising is detected. The content is neutral, with no overt bias or manipulation. Minor deduction in score due to the niche topic, which may limit broader accessibility, but this does not affect quality."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-14T00:43:28.197278+07:00"
+}
