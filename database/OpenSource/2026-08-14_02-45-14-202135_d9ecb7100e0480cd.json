@@ -1,0 +1,45 @@
+{
+  "id": "d9ecb7100e0480cd",
+  "title": "Announcing the Python Packaging Council Election Candidates for 2026",
+  "url": "https://blog.python.org/2026/08/2026-packaging-council-nominees",
+  "source": "Python Insider",
+  "category": "OpenSource",
+  "summary": "The Python Software Foundation (PSF) has announced the 17 nominees for the inaugural Python Packaging Council (PPC) election, which will fill 5 open seats. The election process includes two cohorts: Cohort A (top 2 vote-getters) with a two-year term and Cohort B (next 3 vote-getters) with a one-year term. Key dates include nomination cut-off (August 11), voter affirmation deadline (August 25), and voting period (September 1-15). Only PSF Voting Members (Supporting, Contributing, and Fellow) who affirm their intention to vote can participate. Ballots will be sent via OpaVote on September 1.",
+  "score": 8,
+  "tags": [
+    "Python",
+    "OpenSource",
+    "Governance",
+    "Election"
+  ],
+  "key_points": [
+    "17 nominees are running for 5 seats on the inaugural Python Packaging Council (PPC).",
+    "Top 2 vote-getters (Cohort A) will serve a two-year term; next 3 (Cohort B) will serve a one-year term.",
+    "Future elections will alternate cohorts for two-year terms to ensure staggered turnover.",
+    "Key election timeline: Nominations closed August 11, voter affirmation due August 25, voting September 1-15.",
+    "Only PSF Voting Members (Supporting, Contributing, Fellow) who affirm their voting intention can participate.",
+    "Ballots will be sent via email from OpaVote on September 1; check spam folders if missing."
+  ],
+  "content_hash": "f100b384ab81fb1e67b80fc70591ac49b178a00bdf12095c4aa1c5b13dac323f",
+  "title_hash": "3a8f22c0e89b833049500b7f8fa71a01df09ae10941d7036645d0a7b61f47cc0",
+  "collected_at": "2026-08-14T02:45:14.202135+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides clear, factual, and well-structured information about the Python Packaging Council election. It is highly relevant to the OpenSource category, avoids spam/clickbait, and maintains neutrality. The timeline, process, and key details are accurately presented without redundancy or bias. The category is correctly assigned as 'OpenSource' (not 'AI')."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-14T02:45:14.202135+07:00"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "d796dd4f41b1239b",
+  "title": "OpenAI introduces ‘Ultrafast,’ a new mode that accelerates GPT-5.6 Sol to 14x speed",
+  "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "OpenAI has launched 'Ultrafast,' a new mode for its GPT-5.6 Sol model that increases processing speed by 14 times, delivering up to 750 output tokens per second. This advancement enables real-time performance without sacrificing model size or specialization, targeting applications like incident response, customer service, financial analysis, and e-commerce. Ultrafast is powered by a partnership with chipmaker Cerebras and is currently in preview for select customers, with plans to expand access as capacity grows.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "OpenAI",
+    "GPT-5.6 Sol",
+    "LLM",
+    "Performance Optimization",
+    "Cerebras"
+  ],
+  "key_points": [
+    "OpenAI introduces 'Ultrafast,' a mode that accelerates GPT-5.6 Sol to 14x its standard speed.",
+    "Ultrafast delivers up to 750 output tokens per second, enabling real-time performance without model downsizing.",
+    "The feature is designed for corporate workflows like incident response, customer service, financial analysis, and e-commerce.",
+    "Powered by OpenAI’s partnership with chipmaker Cerebras.",
+    "Currently in preview for a limited group of customers; access will expand with capacity growth.",
+    "Competitors like Anthropic offer similar fast modes, but Ultrafast claims superior speed."
+  ],
+  "content_hash": "2422b0c19632fdccdf9f83b48612dd497d90afd1cf68fa4159fb28511e900ed7",
+  "title_hash": "35a86ca78477d6fb82b33fef86aedaf90a95ac20677e697ae559989d88a3a2eb",
+  "collected_at": "2026-08-14T02:45:18.220240+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides valuable, fact-based information about OpenAI's 'Ultrafast' mode for GPT-5.6 Sol, including technical specifications, use cases, and partnerships. It avoids spam, clickbait, or hidden advertising, and maintains a neutral tone without excessive bias. The category is accurate, and the content is well-structured with no redundancy or fabrication."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-14T02:45:18.220240+07:00"
+}

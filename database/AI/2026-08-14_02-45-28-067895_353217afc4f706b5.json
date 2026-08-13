@@ -1,0 +1,53 @@
+{
+  "id": "353217afc4f706b5",
+  "title": "Streamlining Robotics Data Loops with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+  "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+  "source": "Hugging Face",
+  "category": "AI",
+  "summary": "This article provides a detailed walkthrough of using Strands Robots, LeRobot, and Hugging Face Storage Buckets to create a seamless data loop for robotics applications. It covers recording robot demonstrations, storing data efficiently with byte-level deduplication, streaming datasets directly from the Hub for training, and deploying trained policies back to hardware. The process leverages Hugging Face's infrastructure to minimize data transfer costs and maximize efficiency in continuous robotics training pipelines.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Robotics",
+    "Machine Learning",
+    "Data Streaming",
+    "Hugging Face",
+    "AWS",
+    "LeRobot",
+    "Storage Optimization"
+  ],
+  "key_points": [
+    "Strands Robots is an open-source SDK from AWS (Apache 2.0) that provides robot abstractions, simulation, and integration with the LeRobot stack.",
+    "The data loop involves four stages: recording demonstrations, syncing data to Hugging Face Storage Buckets, streaming datasets for training, and deploying trained policies back to hardware.",
+    "Hugging Face Storage Buckets enable mutable, non-versioned object storage with byte-level deduplication via Xet, reducing data transfer costs significantly.",
+    "LeRobot's dataset format is widely adopted, supporting over 90,000 datasets and models on the Hub, ensuring compatibility without conversion.",
+    "Recordings are stored in Parquet and MP4 shards, optimizing for efficient syncing and streaming with minimal data transfer.",
+    "Streaming datasets directly from the Hub eliminates the need for full downloads, allowing GPUs to start training immediately with minimal local storage usage.",
+    "The process supports both simulation and physical hardware (e.g., SO-101 robots) with identical workflows for recording and syncing data.",
+    "Training can be performed using LeRobot's built-in trainer or custom PyTorch loops, with support for vision-language-action (VLA) models and large-scale GPU clusters.",
+    "Hugging Face's pre-warming and CDN capabilities ensure high-speed data access for training jobs, with regional storage options available for Enterprise plans.",
+    "The workflow is designed to be iterative, allowing continuous improvement of robot policies through daily data collection, training, and deployment cycles."
+  ],
+  "content_hash": "fe7eda64de430d8989a328ef21c42937e35519f1244b22cfe4f10cc4b688bf70",
+  "title_hash": "2ebb1c472000365bc8e1741e8a06f1667001ae90650308d2b6ae4525d89e18cb",
+  "collected_at": "2026-08-14T02:45:28.067895+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a highly detailed and technical walkthrough of integrating Strands Agents, LeRobot, and Hugging Face Storage Buckets for robotics data loops. It is informative, well-structured, and offers practical insights without spam, clickbait, or hidden advertisements. The content is fact-based, avoids redundancy, and maintains a neutral tone with minimal bias. The category 'AI' is accurate, and the information is sufficiently technical and actionable for the target audience."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-14T02:45:28.067895+07:00"
+}

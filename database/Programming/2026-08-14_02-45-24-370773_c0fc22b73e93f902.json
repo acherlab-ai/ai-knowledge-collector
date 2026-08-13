@@ -1,0 +1,48 @@
+{
+  "id": "c0fc22b73e93f902",
+  "title": "Pixy: A Visual Editor for Coding Agents, Enabling Live Site Editing Like Figma",
+  "url": "https://pixydesignapp.com",
+  "source": "Hacker News",
+  "category": "Programming",
+  "summary": "Pixy is a visual editor that integrates with live websites, allowing users to directly manipulate the DOM (e.g., moving, resizing, restyling, or rewriting elements) without mockups. Changes are recorded as structured edits and sent to a coding agent for implementation. The tool requires only a script tag to install and works across localhost, staging, and production environments. It emphasizes real-time editing on the actual site, maintaining the codebase as the source of truth while enabling collaboration with AI agents.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Web Development",
+    "Visual Editor",
+    "DOM Manipulation",
+    "Coding Agents",
+    "No-Code/Low-Code"
+  ],
+  "key_points": [
+    "Pixy transforms a live website into an editable canvas by adding a single script tag, supporting any tech stack.",
+    "Users can interact with the real DOM (e.g., drag elements, restyle, or rewrite text) without mockups or re-renders.",
+    "Edits are recorded as structured data (selector, property, from/to values) and sent to a coding agent for implementation.",
+    "No installation or account is required for basic use; edits persist only in the browser session.",
+    "Designed for real-time collaboration with AI agents, avoiding lossy exports or abstract design tools.",
+    "Features include image cropping on-canvas, granular AI agent access control, and team collaboration roles.",
+    "Privacy-focused: IP addresses are discarded after determining location, storing only city-level data."
+  ],
+  "content_hash": "62a71ffe3789fcb4f54c4e5d6cc5df7f8518512e80ca77ffc73098798e339115",
+  "title_hash": "c1f4e1c7188458fc5a3e2e584a7ef09afe95ac933448371f07b2ba51797600d5",
+  "collected_at": "2026-08-14T02:45:24.370773+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, detailed, and technically accurate overview of Pixy, a visual editor for coding agents. It avoids spam, clickbait, or hidden advertising, and the information is well-structured and useful for developers. The category 'Programming' is more accurate than 'AI' since the focus is on a development tool with AI integration, not AI itself. The content is neutral, factual, and does not exhibit bias or fabrication."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-14T02:45:24.370773+07:00"
+}
