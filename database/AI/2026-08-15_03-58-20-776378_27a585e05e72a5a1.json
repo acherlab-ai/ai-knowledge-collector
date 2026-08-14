@@ -1,0 +1,46 @@
+{
+  "id": "27a585e05e72a5a1",
+  "title": "Self-driving trucks begin testing on California highways under new DMV regulations",
+  "url": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "Aurora Innovation and Kodiak AI have received permits from the California DMV to test self-driving trucks on public highways, marking a significant step in autonomous vehicle deployment. The updated regulations, effective April 2026, lifted a previous ban on heavy-duty autonomous vehicles over 10,000 pounds. Testing requires a human safety operator and excludes low-speed roads unless on a direct route. Both companies previously focused operations in Texas due to California's restrictions. The move has sparked legal opposition from labor groups over economic and safety concerns.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Autonomous Vehicles",
+    "Transportation",
+    "Regulation",
+    "Self-Driving Technology"
+  ],
+  "key_points": [
+    "Aurora Innovation and Kodiak AI received California DMV permits to test self-driving trucks on public highways.",
+    "New DMV rules (April 2026) lifted a ban on heavy-duty autonomous vehicles (>10,000 lbs) in California.",
+    "Testing requires a human safety operator and restricts operations on roads with speed limits ≤25 mph unless on a direct route.",
+    "Both companies previously tested in Texas due to California’s prior restrictions; Kodiak has begun limited testing in Mountain View.",
+    "Aurora operates commercial routes in Texas (e.g., Dallas-Houston), while Kodiak expanded from off-road to on-highway operations in 2025.",
+    "Teamsters California filed a lawsuit alleging the DMV bypassed economic impact studies and safety risk assessments."
+  ],
+  "content_hash": "c83257997d2c66d50a4311ee5523a3616578a3884440b00dcce0dbfb17682f37",
+  "title_hash": "21fd1db3f5b9ab92eeff199bf324656fe7d401805f326f6049582e7df9633053",
+  "collected_at": "2026-08-15T03:58:20.776378+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides timely, well-researched information on the regulatory changes and industry developments regarding self-driving trucks in California. It includes key facts, company actions, and stakeholder perspectives (e.g., labor groups) without overt bias or promotional content. The summary and key points are concise, relevant, and fact-based. The category 'AI' is appropriate as the focus is on autonomous vehicle technology driven by AI."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-15T03:58:20.776378+07:00"
+}
