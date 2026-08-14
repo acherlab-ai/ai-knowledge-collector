@@ -1,0 +1,50 @@
+{
+  "id": "bc290ba394fd0d91",
+  "title": "State of Open Models: Summer 2026 Observations",
+  "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+  "source": "Hugging Face",
+  "category": "AI",
+  "summary": "An in-depth analysis of the open AI model ecosystem from January to August 2026, highlighting key trends such as the rapid growth of Chinese frontier models, the dominance of small models in practical usage, the shift in open-source leadership from model labs to hardware companies, and the rising influence of AI agents. The report also examines licensing trends, adoption patterns, and the ecosystem position of models like Qwen.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Open Source",
+    "Machine Learning",
+    "Model Ecosystem",
+    "Hugging Face"
+  ],
+  "key_points": [
+    "The number of public model repositories on Hugging Face grew from 2.43M to 2.96M, datasets from 711K to 1M, and Spaces from 1M to 1.44M between January and August 2026.",
+    "Chinese labs are leading in frontier model sizes, with monthly releases ranging from 754B to 2.78T parameters, while U.S. labs mostly stayed under 130B parameters, except for NVIDIA's Nemotron 3 Ultra (561B) and Thinking Machines Lab's Inkling (952B).",
+    "Hardware companies like AMD and NVIDIA are now the top contributors to open models, releasing over 200 new models each, shifting the center of gravity from traditional model labs like Google and Meta.",
+    "Attention (likes) and adoption (downloads) are decoupled: likes favor frontier models, while downloads favor small, stable models. For example, all-MiniLM-L6-v2 had 1.55B downloads but only 5,156 likes.",
+    "Chinese labs like Moonshot and MiniMax focus on frontier models (>70B parameters), while U.S. labs like Google and Microsoft focus on smaller models, with Qwen (Alibaba) adopting a full-spectrum strategy.",
+    "Open weights are increasingly licensed permissively (59% Apache 2.0, 22% MIT for Chinese models >20B parameters), with no non-commercial restrictions, indicating a shift in value accumulation toward APIs, cloud, and hardware ecosystems.",
+    "Qwen has become the dominant base model for community derivatives, with 151,448 derivatives (2.6× Meta's total and 4.7× Llama's), driven by consistent releases, broad size coverage, and permissive licensing.",
+    "Small models (<1B parameters) account for 83% of all-time downloads, while models >100B parameters account for just 1%. Local inference tools like llama.cpp enable running trillion-parameter models on consumer hardware.",
+    "AI agents are the fastest-growing user segment on Hugging Face, with traffic shifting rapidly between platforms like Claude Code and Codex. Nearly 25% of agent traffic comes from unregistered harnesses, indicating a dynamic and evolving market.",
+    "The first documented case of an autonomous AI agent conducting a sustained intrusion occurred, highlighting both the capabilities and risks of agentic AI systems."
+  ],
+  "content_hash": "5114b1c8d0172c3083857ad5bf503e7d21ce9bf196866464cf410783c8914af8",
+  "title_hash": "243f0ba61cd4812619e805efb527f14360cda9c510e28344be21259821e3fa95",
+  "collected_at": "2026-08-14T23:52:23.207656+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_distinction": "clear (where applicable)",
+      "fabrication": false,
+      "details": "The article provides a comprehensive, data-driven analysis of the open AI model ecosystem in 2026, with well-structured key points, clear trends, and supporting metrics. It avoids sensationalism, maintains objectivity, and distinguishes between factual observations (e.g., model growth statistics) and broader trends (e.g., shifts in open-source leadership). The content is original, non-repetitive, and aligns perfectly with the 'AI' category. No spam, clickbait, or hidden advertising is detected. The inclusion of diverse perspectives (e.g., U.S. vs. Chinese labs) and balanced discussion of risks (e.g., AI agent intrusions) further strengthens its neutrality and value."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-14T23:52:23.207656+07:00"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "3155ffa03750b1b6",
+  "title": "Apple Proposes 15% Commission on Purchases Made Outside the App Store",
+  "url": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store",
+  "source": "TechCrunch",
+  "category": "Mobile",
+  "summary": "Apple has submitted a proposal to the U.S. District Court of Northern California outlining its planned commission structure for purchases made via external links within iOS apps. The proposal includes a 15% commission for standard apps, with reduced rates for small businesses (5%), developers in special programs (10%), and subscription renewals (10%). This follows a legal battle with Epic Games and a Supreme Court decision rejecting Apple's attempt to delay the proceedings.",
+  "score": 8,
+  "tags": [
+    "Apple",
+    "App Store",
+    "iOS",
+    "Commission",
+    "Epic Games",
+    "Antitrust"
+  ],
+  "key_points": [
+    "Apple proposes a 15% commission on purchases made outside the App Store via external links in iOS apps.",
+    "Reduced commissions for small businesses (5%) and developers in special programs (10%).",
+    "Subscription renewals would incur a 10% commission.",
+    "The proposal follows a legal dispute with Epic Games over App Store policies.",
+    "Apple argued for delays, but the Supreme Court rejected its bid to pause lower court proceedings.",
+    "Apple justifies the fees as necessary to recoup investments in the App Store ecosystem.",
+    "Comparison made to Google Play's link-out fees (20% for standard apps, 15% for special programs, 10% for subscriptions)."
+  ],
+  "content_hash": "96dddc17c3cc5e09ab16d8984c2660bc134094c1c56e3105f56ced7688616242",
+  "title_hash": "54d889b8a4eea6f48c0b9d16f4f19ba6d6c4b37476a5ece64ae367166cf064cd",
+  "collected_at": "2026-08-14T23:52:11.826408+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 8.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "moderate",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": {
+        "useful_reason": "Provides clear, timely, and relevant information about Apple's proposed commission structure, which is valuable for developers and tech enthusiasts.",
+        "info_quality_reason": "Facts are well-sourced, structured, and supported by key points. Comparisons (e.g., Google Play) add context without misinformation.",
+        "bias_reason": "Presents Apple's perspective (e.g., justifying fees) but does not overly favor or attack it. Includes counterpoints (Epic Games dispute) for balance.",
+        "category_reason": "Content directly relates to mobile ecosystem policies, fitting the 'Mobile' category."
+      }
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-14T23:52:11.826408+07:00"
+}

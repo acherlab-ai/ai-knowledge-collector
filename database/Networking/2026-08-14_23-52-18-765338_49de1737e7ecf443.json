@@ -1,0 +1,46 @@
+{
+  "id": "49de1737e7ecf443",
+  "title": "Online SNMP MIB Database - Upload and View Your Own MIBs",
+  "url": "https://mib-viewer.com",
+  "source": "Hacker News",
+  "category": "Networking",
+  "summary": "MIB Viewer is a free online tool for browsing, searching, and analyzing SNMP MIB (Management Information Base) files. It allows users to upload their own MIB files (e.g., .mib, .txt) to explore object identifiers (OIDs), syntax, access levels, and descriptions directly in the browser. The platform hosts a database of over 11,000 MIBs and supports generating SNMP commands. It also provides educational context on MIBs, SNMP, and OIDs for users unfamiliar with these concepts.",
+  "score": 8,
+  "tags": [
+    "SNMP",
+    "MIB",
+    "Networking",
+    "OID",
+    "Monitoring"
+  ],
+  "key_points": [
+    "Free online SNMP MIB browser and database with support for uploading and viewing custom MIB files (.mib, .txt, .my).",
+    "Database includes over 11,000 MIBs from various vendors (e.g., A10, Huawei, 3Com).",
+    "Features include OID lookup, syntax validation, access level details, and SNMP command generation.",
+    "Explains core concepts: MIBs (structured documents defining SNMP-exposed data), SNMP (protocol for network device monitoring), and OIDs (numeric addresses for data objects).",
+    "Private browsing: Uploaded MIBs remain local to the browser session and are not added to the shared library.",
+    "Useful for network administrators, engineers, and developers working with SNMP-based monitoring tools."
+  ],
+  "content_hash": "cf427257014a2184db957c24619601b0d2bd2948e6ec3636a54294b5b34a63dd",
+  "title_hash": "a4f4f0689a3f70d41c6e803dd0194b091012de3243fa6e1852a2b5f0c54c8dc1",
+  "collected_at": "2026-08-14T23:52:18.765338+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, detailed, and practical overview of an online SNMP MIB database tool. It is highly useful for network administrators and engineers, with no signs of spam, clickbait, or hidden advertising. The information is accurate, well-structured, and educational, covering both technical features and foundational concepts. The category 'Networking' is correct, and the content maintains objectivity while offering value to its target audience."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-14T23:52:18.765338+07:00"
+}

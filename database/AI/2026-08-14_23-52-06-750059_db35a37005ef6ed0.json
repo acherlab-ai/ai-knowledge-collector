@@ -1,0 +1,48 @@
+{
+  "id": "db35a37005ef6ed0",
+  "title": "Google Allows Removal of Visible Watermarks from AI-Generated Content",
+  "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "Google has announced that users can now remove visible watermarks from AI-generated images, videos, and songs created using its Nano Banana, Omni, and Lyria models. The change applies to tools like Gemini and Flow, with Search support coming soon. While visible watermarks become optional, Google retains invisible SynthID watermarks and C2PA metadata for transparency. The company is also open-sourcing Credentio, a library for developers to embed local validation mechanisms in apps.",
+  "score": 8,
+  "tags": [
+    "AI",
+    "Google",
+    "Watermarking",
+    "SynthID",
+    "C2PA",
+    "Gemini",
+    "OpenSource"
+  ],
+  "key_points": [
+    "Google now allows users to remove visible watermarks from AI-generated content (images, videos, songs).",
+    "The feature applies to Nano Banana, Omni, and Lyria models via Gemini and Flow, with Search support coming soon.",
+    "Invisible SynthID watermarks and C2PA metadata remain intact for transparency and detection.",
+    "Users can toggle the visible watermark setting in Settings > Media Watermark.",
+    "Google is open-sourcing Credentio, a library for developers to embed local validation mechanisms in apps.",
+    "The move balances creative flexibility with safety, addressing professional and creative workflow needs."
+  ],
+  "content_hash": "af8409668a00f042e36ae1a77191906782fdaaa979f8dd86c32ffbbb8fe075e9",
+  "title_hash": "4f0c3698cca216a46bfbdb18472bad06b98bb8213f2a0cf2136001fd59663446",
+  "collected_at": "2026-08-14T23:52:06.750059+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides accurate, timely, and well-structured information about Google's policy change on AI-generated content watermarks. It includes technical details (SynthID, C2PA, Credentio) without oversimplification, avoids sensationalism, and maintains objectivity. The summary and key points are concise yet comprehensive, and the tags are relevant. The content balances user flexibility with transparency, addressing both creative and safety concerns without bias or hidden promotion."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-14T23:52:06.750059+07:00"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "70143ad5178ab97a",
+  "title": "Ars Live recap: How can we stop publishers from killing their own games?",
+  "url": "https://arstechnica.com/gaming/2026/08/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games",
+  "source": "Ars Technica",
+  "category": "Gaming",
+  "summary": "Bài viết tóm tắt buổi thảo luận trực tiếp của Ars Technica với Ross Scott, người sáng lập phong trào Stop Killing Games, về vấn đề bảo tồn trò chơi điện tử và đảm bảo chúng vẫn có thể chơi được sau khi nhà phát hành ngừng hỗ trợ máy chủ trực tuyến. Scott nhấn mạnh sự thiếu minh bạch trong chính sách ngừng hỗ trợ trò chơi, chi phí thấp để duy trì khả năng chơi sau khi ngừng hoạt động nếu được lên kế hoạch từ đầu, và những khó khăn trong việc vận động chính sách từ các cơ quan quản lý như EU.",
+  "score": 8,
+  "tags": [
+    "Gaming",
+    "Game Preservation",
+    "Digital Rights",
+    "Online Servers",
+    "EU Policy"
+  ],
+  "key_points": [
+    "Phong trào Stop Killing Games nhằm mục đích bảo tồn trò chơi điện tử sau khi nhà phát hành ngừng hỗ trợ máy chủ trực tuyến.",
+    "Ross Scott chỉ trích việc nhà phát hành ngừng hỗ trợ trò chơi mà không thông báo rõ ràng hoặc cung cấp giải pháp thay thế, điều không phổ biến trong các ngành khác như bảo hành sản phẩm.",
+    "Chi phí để duy trì khả năng chơi trò chơi sau khi ngừng hoạt động có thể rất thấp nếu được lên kế hoạch từ giai đoạn phát triển ban đầu, đặc biệt khi các nhà phát triển đã có sẵn môi trường thử nghiệm cục bộ.",
+    "Scott bày tỏ sự thất vọng về phản ứng của EU trong việc xử lý vấn đề này, nhưng vẫn hy vọng phong trào sẽ được đưa vào Đạo luật Công bằng Kỹ thuật số (Digital Fairness Act) của EU.",
+    "Phong trào đã thu hút sự ủng hộ từ Nghị viện EU và đang nỗ lực để đưa vấn đề bảo tồn trò chơi vào khuôn khổ pháp lý."
+  ],
+  "content_hash": "19c958cbaf608d8c6abd5dbe8572176a092b3a3c32bb4a9bd0dcc7ff392aefaa",
+  "title_hash": "e8362a95da19e16c32d818148a84217d7a91ea786631db24375b2a2f86279229",
+  "collected_at": "2026-08-14T23:51:09.403149+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 8.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "moderate (opinion-based but justified)",
+      "opinion_fact_separation": "clear (opinions are attributed to Ross Scott and framed as such)",
+      "fabrication": false,
+      "details": "The article provides a well-structured recap of a discussion on game preservation, a relevant and pressing issue in the gaming industry. It includes key insights from Ross Scott, founder of the Stop Killing Games movement, and maintains a balance between factual reporting and opinion. The summary and key points are coherent, non-repetitive, and align with the Gaming category. While the piece reflects Scott's perspective, it does not manipulate or mislead, and the advocacy is clearly framed as part of the movement's goals. The quality of information is high, with no signs of spam, clickbait, or hidden advertising."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-14T23:51:09.403149+07:00"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "63f337212a5a44c6",
+  "title": "Judge orders Google to simplify access to third-party app stores in Google Play within one week",
+  "url": "https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores",
+  "source": "Ars Technica",
+  "category": "Technology",
+  "summary": "US District Judge James Donato has ruled that Google's current implementation of third-party app store downloads in the Google Play Store is anticompetitive and unnecessarily cumbersome. Google was ordered to make changes within a week, including improving the visibility of alternative app stores in search results and simplifying the installation process by replacing the 'view' button with an 'install' button. This ruling stems from an antitrust case Google lost in 2023, which mandated the inclusion of third-party app stores to promote competition.",
+  "score": 8,
+  "tags": [
+    "Google",
+    "Antitrust",
+    "App Store",
+    "Android",
+    "Competition"
+  ],
+  "key_points": [
+    "Google was required by a 2023 antitrust ruling to include third-party app stores in the Play Store to foster competition.",
+    "Judge Donato found Google's implementation of third-party app store access to be anticompetitive, with unnecessary friction in navigation and search.",
+    "The judge ordered Google to make the alternative app store page more discoverable, including in search results for terms like 'app store' and 'Aptoide'.",
+    "Google must change the 'view' button to an 'install' button for third-party app stores to simplify the installation process.",
+    "Google has one week to comply with the court's orders, with Aptoide Games currently being the only third-party app store available.",
+    "Epic Games, a key player in the antitrust case, may release its own app store on Google Play following these changes."
+  ],
+  "content_hash": "197d4d4170299b106932cc5b5b86cae4eb4d18b8ab7258d2ce62c62c74b3cd14",
+  "title_hash": "e318e99b89ca1396fa8f4dd7b5d55251f48583c6af258138ee640da3be9e1357",
+  "collected_at": "2026-08-14T23:51:12.993377+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides factual, well-sourced information about a recent antitrust ruling against Google, with clear key points and no signs of spam, clickbait, or hidden advertising. The content is relevant to the Technology category and maintains a neutral tone while delivering high-quality, non-redundant information."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-14T23:51:12.993377+07:00"
+}

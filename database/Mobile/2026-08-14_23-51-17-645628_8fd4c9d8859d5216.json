@@ -1,0 +1,47 @@
+{
+  "id": "8fd4c9d8859d5216",
+  "title": "Unforgetful: A New Reminders App for Procrastinators by Marco Arment",
+  "url": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze",
+  "source": "TechCrunch",
+  "category": "Mobile",
+  "summary": "Unforgetful is a new reminders app for iOS and Mac, developed by Marco Arment, creator of Overcast and Instapaper. It integrates with Apple's Reminders database but is designed to address common frustrations with Apple's native app, such as ineffective snooze features, accidental dismissal of reminders, and missed notifications for tasks without deadlines. The app ensures reminders persist until completed, scales snooze intervals, and avoids overwhelming users with multiple tasks at once. It also supports voice reminders and widgets for Lock Screen and Control Center. Priced at $19.99 per year, Unforgetful is aimed at users who struggle with procrastination or need more reliable nudges to complete tasks.",
+  "score": 8,
+  "tags": [
+    "Mobile",
+    "iOS",
+    "Productivity",
+    "App Review"
+  ],
+  "key_points": [
+    "Developed by Marco Arment, creator of Overcast and Instapaper, and former Tumblr CTO.",
+    "Designed as an alternative to Apple's Reminders app for users who find it ineffective, particularly for procrastinators.",
+    "Integrates with Apple's existing Reminders database, eliminating the need to migrate data.",
+    "Notifications repeat until the task is completed and deleted, reducing the risk of losing reminders.",
+    "Snooze intervals scale dynamically to avoid overwhelming the user with multiple tasks at once.",
+    "No complex organization tools like tags or multiple views, keeping the interface simple.",
+    "Supports voice reminders via an in-app microphone and includes widgets for Lock Screen and Control Center.",
+    "Priced at $19.99 per year for use across iOS and Mac devices."
+  ],
+  "content_hash": "69ebf8ff81e190648b76360045ad7f5a1f79a97504b7b66944a8d44237c03bba",
+  "title_hash": "f49113c27de80c1c9360815affb0e0cda01a651db2b87778ed81dbe50c56db27",
+  "collected_at": "2026-08-14T23:51:17.645628+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "clear (review/opinion context)",
+      "fabrication": false,
+      "details": "The article provides a detailed and objective review of the 'Unforgetful' app, highlighting its features, pricing, and target audience without exaggeration or misleading claims. It distinguishes between factual information (e.g., developer background, app integration) and opinion (e.g., addressing frustrations with Apple's Reminders app). The content is well-structured, relevant to the 'Mobile' category, and avoids spam, clickbait, or hidden advertising. Minor deduction in score for not including user feedback or third-party validation, but overall, it is a high-quality, neutral, and useful piece."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-14T23:51:17.645628+07:00"
+}

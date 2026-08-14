@@ -1,0 +1,47 @@
+{
+  "id": "452ad631b601fbe9",
+  "title": "RustDesk Adds True Unattended Remote Access Support for Wayland",
+  "url": "https://rustdesk.com/blog/unattended-remote-access-wayland",
+  "source": "Hacker News",
+  "category": "OpenSource",
+  "summary": "RustDesk has introduced true unattended remote access support for Wayland, a significant advancement in Linux remote desktop capabilities. This feature allows users to connect to a remote machine without requiring manual approval for each session, even from the login screen after a reboot. Multi-monitor setups are also supported. The feature is currently available as a preview build for x86_64 Debian/Ubuntu-based systems and aims to expand to other distributions like Fedora and Arch Linux after further testing.",
+  "score": 9,
+  "tags": [
+    "OpenSource",
+    "Linux",
+    "Remote Access",
+    "Wayland",
+    "RustDesk"
+  ],
+  "key_points": [
+    "RustDesk now supports true unattended remote access on Wayland, eliminating the need for manual approval per session.",
+    "Multi-monitor setups are supported under this new feature.",
+    "Users can connect to a remote machine even from the login screen after a reboot.",
+    "The feature is currently available as a preview build for x86_64 Debian/Ubuntu-based systems.",
+    "Wayland support in remote desktop tools is still limited; competitors like AnyDesk and TeamViewer have partial or experimental support.",
+    "RustDesk plans to expand this feature to more Linux distributions, including Fedora and Arch Linux, after stability is confirmed.",
+    "Community testing is encouraged to identify and resolve issues before the feature becomes default."
+  ],
+  "content_hash": "89031967f90e2e5e300dcdf4bf2997e09db03de582852aadbb104dd8ae5ab338",
+  "title_hash": "08ef7ca2a2006e0cc4185dab5d1028ffa011f9bab3ccfc5e1d1f9de7a623e8bb",
+  "collected_at": "2026-08-14T23:52:15.198428+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "disguised_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, factual update about RustDesk's new unattended remote access feature for Wayland, including technical details, current limitations, and future plans. It is informative, relevant to the OpenSource category, and avoids spam, clickbait, or disguised advertising. The content is well-structured and objective, with no signs of bias or fabrication."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-14T23:52:15.198428+07:00"
+}
