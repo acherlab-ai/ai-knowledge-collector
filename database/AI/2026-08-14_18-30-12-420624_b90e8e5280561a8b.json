@@ -1,0 +1,55 @@
+{
+  "id": "b90e8e5280561a8b",
+  "title": "Inside Look: How an AI Agent (Vault Operator) Works with Your Knowledge Base",
+  "url": "https://pssah4.github.io/vault-operator/guides/capabilities",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "The article provides an in-depth technical overview of Vault Operator, an AI agent that integrates directly with a user's knowledge base (e.g., Obsidian vault). It explains how the agent reads, organizes, and acts on notes, offering features like inline AI chat, block-level provenance for sources, web clipping, multi-layer memory, semantic search, document generation, vault health checks, and plugin integration. The tool emphasizes user control, safety, and efficiency in managing personal knowledge workflows.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Knowledge Management",
+    "Productivity",
+    "OpenSource",
+    "Local AI"
+  ],
+  "key_points": [
+    "Vault Operator operates *inside* a user's knowledge base (e.g., Obsidian), unlike external AI tools that require copy-pasting.",
+    "Inline AI chat allows context-aware interactions (e.g., summarizing, translating, or rewriting selected text) without leaving the note.",
+    "Block-level provenance ensures every claim in a note links back to its exact source (PDFs, web clips, Office files), improving traceability.",
+    "Web clipping archives full articles as Markdown with local image storage, unlike tools that truncate content or use remote URLs.",
+    "Three-layer memory (Soul, Facts, History) retains preferences, structured data, and past conversations across sessions.",
+    "Semantic search surfaces connections between notes using a local index, avoiding reliance on filename-based searches.",
+    "Generates Word, Excel, and PowerPoint files from vault content, with PPTX in beta for draft presentations.",
+    "Vault Health tool identifies orphaned notes, broken links, inconsistent tags, and over-connected 'god nodes' to maintain organization.",
+    "MCP (Multi-Tool Chain Protocol) server allows integration with external AI tools (e.g., Claude, ChatGPT) to access the vault's memory and history.",
+    "Plugin discovery enables the agent to use installed Obsidian plugins (e.g., Dataview, Kanban) via generated skill files.",
+    "Auto-approval settings let users control which actions (reads, writes, web calls) require explicit consent.",
+    "Learns from repeated tasks to optimize workflows, reducing token usage and LLM calls over time.",
+    "Supports multi-agent delegation for complex tasks (e.g., combining vault research with web searches).",
+    "Model-aware routing uses budget, main, and frontier models based on task complexity to balance cost and performance.",
+    "Cost structure: Vault Operator is free/open-source; users pay only for their chosen AI model (local/cloud options available)."
+  ],
+  "content_hash": "9e04eb4f80bdc508118ca1e3cdb8cb68b0867c4f53cc8aa5f02714e4c5361f54",
+  "title_hash": "df2c1f21863dfca527b4db4a06bedf84a30bcb0c018581c60da3668eac9ec9f9",
+  "collected_at": "2026-08-14T18:30:12.420624+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a detailed, technical, and well-structured overview of Vault Operator, an AI agent for knowledge management. It is highly informative, avoids spam/clickbait, and maintains objectivity while explaining features. The content is original, non-repetitive, and aligns perfectly with the 'AI' category. No hidden ads or manipulation detected. The summary and key points are factual and supported by clear explanations."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-14T18:30:12.420624+07:00"
+}
