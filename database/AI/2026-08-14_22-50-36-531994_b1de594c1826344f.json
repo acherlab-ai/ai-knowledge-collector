@@ -1,0 +1,45 @@
+{
+  "id": "b1de594c1826344f",
+  "title": "Qwen3.8-27B: Alibaba Releases Open Weights for New Multimodal AI Model",
+  "url": "https://twitter.com/alibaba_qwen/status/2088280182356611304",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "Alibaba has released the open weights for Qwen3.8-27B, a multimodal dense AI model with 27 billion parameters. The model outperforms its predecessor, Qwen3.7-Plus, particularly in coding and office workflows. Key features include a native context length of 262K tokens (extendable to 1M via YaRN), high efficiency, and Apache 2.0 licensing. The release also includes Qwen3.8-2.4T-A95B for advanced use cases. Both models are available for download on Hugging Face and ModelScope.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Multimodal",
+    "OpenSource",
+    "Large Language Models",
+    "Apache 2.0"
+  ],
+  "key_points": [
+    "Qwen3.8-27B is a multimodal dense model with 27B parameters, outperforming Qwen3.7-Plus in real-world applications like coding and office workflows.",
+    "Features a native context length of 262K tokens, extendable to 1M tokens using YaRN.",
+    "Licensed under Apache 2.0, making it highly accessible for builders and developers.",
+    "Alibaba also released Qwen3.8-2.4T-A95B, a larger model for advanced use cases.",
+    "Both models are available for download on Hugging Face and ModelScope."
+  ],
+  "content_hash": "fb0a33fcf78da311e3b61336eb497eab099b6cfc06bd842cd445dcf7b507651a",
+  "title_hash": "b088ec57caf5e50445ad706d1816afb84e73a5c4407dccb5db1f4ebaa058bbf7",
+  "collected_at": "2026-08-14T22:50:36.531994+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, factual, and informative summary of Alibaba's release of Qwen3.8-27B, including key features, performance improvements, and accessibility. The content is well-structured, relevant to the AI category, and avoids spam, clickbait, or hidden advertising. The information is accurate, non-redundant, and maintains a neutral tone without excessive bias or fabrication."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-14T22:50:36.531994+07:00"
+}
