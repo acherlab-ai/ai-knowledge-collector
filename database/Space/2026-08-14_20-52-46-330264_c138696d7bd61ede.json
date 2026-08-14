@@ -1,0 +1,81 @@
+{
+  "id": "c138696d7bd61ede",
+  "title": "Rocket Report: Key Updates on Rocket Lab, Blue Origin, and Global Launch Industry Developments",
+  "url": "https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan",
+  "source": "Ars Technica",
+  "category": "Space",
+  "summary": "This edition of the Rocket Report covers critical updates in the space launch industry, including Rocket Lab's new portable spaceport system (GHOST), Blue Origin's two-pad plan post-explosion, financial and operational challenges faced by MaiaSpace and Firefly Aerospace, delays in Rocket Lab's Neutron rocket launch, and other significant developments from companies like Virgin Galactic, Rocket Factory Augsburg, and SpaceX.",
+  "score": 8,
+  "tags": [
+    "Space",
+    "Launch Vehicles",
+    "Rocket Lab",
+    "Blue Origin",
+    "SpaceX",
+    "Commercial Spaceflight"
+  ],
+  "key_points": [
+    {
+      "topic": "Rocket Lab's Flexibility and Expansion",
+      "details": "Rocket Lab introduces GHOST (Global Hypersonic & Orbital Spaceport Technology), a portable spaceport system enabling flexible launches from multiple locations, including Alaska. The company aims to enhance mobility for national security and multi-launch campaigns."
+    },
+    {
+      "topic": "Blue Origin's Recovery and Two-Pad Plan",
+      "details": "Blue Origin confirms the BE-4 engine valve as the cause of the New Glenn explosion in May. The company announces plans to restore Launch Complex 36A and develop a second pad (LC-36B) for its larger New Glenn 9×4 variant."
+    },
+    {
+      "topic": "Financial and Operational Challenges",
+      "details": [
+        "ArianeGroup allows MaiaSpace to continue operations despite a €37.5M loss in 2025, pushing shareholders' equity below zero.",
+        "Firefly Aerospace ramps up Alpha rocket production due to high demand but faces constraints in launch cadence.",
+        "Rocket Factory Augsburg delays its RFA One launch due to a tank issue, though it still targets a 2026 debut."
+      ]
+    },
+    {
+      "topic": "Neutron Rocket Delay",
+      "details": "Rocket Lab acknowledges that the Neutron rocket's first launch is unlikely in 2026, with a more plausible timeline shifting to 2027 due to integration and testing challenges."
+    },
+    {
+      "topic": "Virgin Galactic's Next-Gen Spaceship",
+      "details": "Virgin Galactic nears completion of its first Delta-class spaceship, with commercial service expected in February 2027. The public can vote on its name (Horizon, Explorer, Ascend, or Apeiron)."
+    },
+    {
+      "topic": "Chinese Rocket Failure",
+      "details": "A Long March 7A rocket explodes mid-flight, likely due to a first-stage issue during maximum dynamic pressure. The payload was believed to be a military communications satellite."
+    },
+    {
+      "topic": "Rocketdyne's Independence",
+      "details": "Rocketdyne re-emerges as a standalone company, focusing on launch-vehicle engines (e.g., RL-10), spacecraft propulsion, and space electronics after being acquired from L3Harris."
+    },
+    {
+      "topic": "SpaceX's Louisiana Expansion",
+      "details": "SpaceX nears a deal to acquire 130,000 acres of Louisiana marshland (Pecan Island) for potential future launch operations, though no official confirmation has been provided."
+    },
+    {
+      "topic": "Upcoming Launches",
+      "details": "Next three launches include Falcon 9 missions (USSF-366 and Globalstar 2-R) and a Long March 12 launch with an unknown payload."
+    }
+  ],
+  "content_hash": "e9d462903cd6670d3555a5cd29a6ecd732835c3900c7401597178ebf28bc65ed",
+  "title_hash": "e2b94825c3c2e6dff4a2bc5e945e4e1af1ec72e3765995240c5ccf47e3a4b09d",
+  "collected_at": "2026-08-14T20:52:46.330264+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not applicable (news summary)",
+      "fabrication": false,
+      "details": "The article provides a well-researched, comprehensive, and up-to-date summary of key developments in the space launch industry. It covers multiple companies and topics without bias, redundancy, or misleading claims. The category is correctly assigned, and the content is factual with no hidden advertising or spam. Minor deduction in score due to the absence of direct sourcing for some claims (e.g., Chinese rocket failure details), but this is common in industry roundups."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-14T20:52:46.330264+07:00"
+}
