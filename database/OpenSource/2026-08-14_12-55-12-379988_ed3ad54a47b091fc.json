@@ -1,0 +1,47 @@
+{
+  "id": "ed3ad54a47b091fc",
+  "title": "Introducing Bluesky Protocol Services: Enhancements to the AT Protocol Network",
+  "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+  "source": "Hacker News",
+  "category": "OpenSource",
+  "summary": "Bluesky has launched Bluesky Protocol Services, a new initiative to organize and clarify documentation for developers building on the AT Protocol network. Key updates include Jetstream v2, which introduces Network Replay for accessing historical data, new Jetstream SDKs for TypeScript and Go, and a rebuilt Bluesky TypeScript SDK based on the lexicon toolchain. The updates aim to improve developer experience, reduce technical debt, and provide better infrastructure for scalable network interactions.",
+  "score": 9,
+  "tags": [
+    "OpenSource",
+    "Decentralized Networks",
+    "Developer Tools",
+    "AT Protocol",
+    "API"
+  ],
+  "key_points": [
+    "Bluesky Protocol Services consolidates documentation for developers working with the AT Protocol network, including infrastructure like Jetstream, relays, and API endpoints.",
+    "Jetstream v2 introduces Network Replay, allowing developers to access historical network data via HTTP or WebSocket without manual backfilling.",
+    "The service now requires an API token for archive requests to manage bandwidth, but the live stream remains open and unauthenticated.",
+    "New Jetstream SDKs for TypeScript and Go simplify event handling, reconnection, and cursor management with typed records.",
+    "The Bluesky TypeScript SDK has been rebuilt on the lexicon toolchain, eliminating legacy code paths and improving code hygiene.",
+    "The HTTP reference for endpoints.bsky.app has been updated to include new Jetstream v2 methods and WebSocket documentation.",
+    "All updates are open source and self-hostable, encouraging community contributions and custom implementations."
+  ],
+  "content_hash": "ff2f407e5fe1289936fdec7ae209660a58c95a7e78aa5860120c49c0dc66235f",
+  "title_hash": "31135887ec61cf15642b78f29796eeafe7e35dcfe6676734388e731076098360",
+  "collected_at": "2026-08-14T12:55:12.379988+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, detailed, and technically accurate overview of Bluesky Protocol Services and its enhancements to the AT Protocol network. It is highly useful for developers, avoids spam/clickbait, and maintains neutrality. The category 'OpenSource' is correct. No hidden ads, redundancy, or bias detected. The content is factual and well-structured."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-14T12:55:12.379988+07:00"
+}

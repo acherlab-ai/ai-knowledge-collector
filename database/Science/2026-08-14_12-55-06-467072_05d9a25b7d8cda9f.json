@@ -1,0 +1,47 @@
+{
+  "id": "05d9a25b7d8cda9f",
+  "title": "US wait times for cancer surgeries are increasing, impacting patient outcomes",
+  "url": "https://arstechnica.com/health/2026/08/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer",
+  "source": "Ars Technica",
+  "category": "Science",
+  "summary": "A study published in JAMA Surgery reveals that wait times for cancer surgeries in the US have significantly increased from 2012 to 2023 for six types of cancer: breast, colon, lung, pancreatic, gastric, and esophageal. The delays, linked to poorer outcomes and increased patient distress, disproportionately affect socioeconomically vulnerable groups, including uninsured or Medicaid patients, Black patients, lower-income individuals, and those traveling longer distances for treatment. The trend coincides with healthcare system consolidation, raising concerns about patient bottlenecks at centralized, high-volume treatment centers.",
+  "score": 9,
+  "tags": [
+    "Healthcare",
+    "Cancer",
+    "Medical Research",
+    "Health Disparities"
+  ],
+  "key_points": [
+    "Wait times for cancer surgeries in the US have increased across six cancer types (breast, colon, lung, pancreatic, gastric, esophageal) from 2012 to 2023.",
+    "Delays are associated with poorer outcomes, including reduced survival rates and increased patient anxiety.",
+    "The study analyzed data from over 2.7 million patients with non-metastatic stage I–III cancers requiring surgery.",
+    "Wait times rose incrementally across four time periods: 2012–2015, 2016–2019, 2020–2021, and 2022–2023.",
+    "Proportions of patients experiencing prolonged waits (30+ days) and extreme waits (60+ days) also increased.",
+    "Healthcare system consolidation and centralization may contribute to bottlenecks at high-volume treatment centers.",
+    "Socioeconomically vulnerable groups, such as uninsured/Medicaid patients, Black patients, lower-income individuals, and those with longer travel distances, face disproportionately longer wait times.",
+    "Researchers suggest optimizing scheduling, increasing capacity at centralized centers, and selectively referring complex cases to mitigate delays."
+  ],
+  "content_hash": "cf004ed3b317ab809b761045b5def305a95e2fdea0b940326db98d0ef8de7c1b",
+  "title_hash": "cb414169f86c93b308a447219ba24347c263eaeb2fd2b070399cb462f14ebcc2",
+  "collected_at": "2026-08-14T12:55:06.467072+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not applicable (reporting on study)",
+      "fabrication": false,
+      "details": "The article provides a well-researched, evidence-based summary of a study published in *JAMA Surgery*, with clear key points, relevant tags, and no signs of manipulation or misleading content. The category 'Science' is accurate, and the content maintains objectivity while highlighting disparities without excessive bias. Minor deduction in score for lack of direct expert commentary, but overall highly informative and valuable."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-14T12:55:06.467072+07:00"
+}
