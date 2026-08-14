@@ -1,0 +1,46 @@
+{
+  "id": "880074dd244422e2",
+  "title": "Czinger 21C Spyder Debuts Topology-Optimized Brake Assemblies Using Additive Manufacturing",
+  "url": "https://arstechnica.com/cars/2026/08/czinger-debuts-topology-optimized-brakes-with-21c-spyder",
+  "source": "Ars Technica",
+  "category": "Hardware",
+  "summary": "Czinger has introduced a new integrated brake assembly called BrakeNode for its 21C Spyder, leveraging additive manufacturing (3D printing) and topology optimization to create a lighter, high-performance component. The BrakeNode combines the caliper, upright, and hydraulic fluid passages into a single structure made from an aluminum alloy, reducing unsprung mass by up to 30% compared to conventional brake assemblies. The design also simplifies servicing, with features like a drain plug for hydraulic fluid and easy access for pad and rotor replacement. The technology, previously showcased in prototype form, is now available on the 21C Spyder and can be retrofitted to existing 21C models.",
+  "score": 8,
+  "tags": [
+    "Hardware",
+    "Additive Manufacturing",
+    "Automotive Engineering",
+    "3D Printing",
+    "Topology Optimization"
+  ],
+  "key_points": [
+    "Czinger's BrakeNode is an integrated brake assembly combining caliper, upright, and hydraulic fluid passages into a single 3D-printed structure.",
+    "The BrakeNode reduces unsprung mass by up to 30% compared to traditional brake assemblies, improving vehicle performance.",
+    "The design is topology-optimized, resulting in organic, lightweight shapes that maintain structural integrity and performance.",
+    "Servicing the BrakeNode is simpler than conventional brakes, with features like a drain plug for bleeding hydraulic fluid and easy pad/rotor access.",
+    "The BrakeNode debuted on the Czinger 21C Spyder, a limited-production hybrid hypercar, and can be optioned or retrofitted to other 21C models.",
+    "Czinger's additive manufacturing technology has applications in both automotive and aerospace industries, with the company supplying parts to clients in these sectors."
+  ],
+  "content_hash": "d006c2dac55dfcbf9cd551d1ece8e8377f40dc374b9bd9d50d2f5d6a507c0163",
+  "title_hash": "ede94b9b2e13992d74456ce07face2c5e2ee13a40ccb074d0d644e8d4e0a01cc",
+  "collected_at": "2026-08-14T15:44:16.968740+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides detailed, factual information about Czinger's BrakeNode technology, its benefits, and applications. It is well-researched, relevant to the Hardware category, and avoids spam, clickbait, or hidden advertising. The content is neutral, focusing on technical innovation without excessive bias or fabrication."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-14T15:44:16.968740+07:00"
+}
