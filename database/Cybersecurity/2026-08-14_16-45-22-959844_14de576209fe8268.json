@@ -1,0 +1,46 @@
+{
+  "id": "14de576209fe8268",
+  "title": "Flock's New Tool Aims to Identify Police Abuse but Lacks Transparency on Functionality",
+  "url": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works",
+  "source": "TechCrunch",
+  "category": "Cybersecurity",
+  "summary": "Flock, a surveillance technology startup, has introduced new policies and tools, including 'Audit Assistance,' to curb abuse of its automated license plate reader systems and enhance accountability for law enforcement customers. While Flock claims the tool detects abnormal activity and flags it for review, the company has not provided detailed explanations of how the algorithm works, what data it uses, or its effectiveness. Privacy experts and critics argue that without independent audits or clear metrics, the tool's reliability remains questionable.",
+  "score": 8,
+  "tags": [
+    "Cybersecurity",
+    "Surveillance",
+    "Privacy",
+    "AI Ethics",
+    "Law Enforcement"
+  ],
+  "key_points": [
+    "Flock reduced data retention for police departments from 30 to 7 days, with exceptions for 'Evidence Mode.'",
+    "Introduced 'Audit Assistance,' a tool to detect abnormal activity in system usage, now mandatory for all customers by year-end.",
+    "Flock claims the tool has helped identify misuse but has not explained its algorithm, training data, or false positive/negative rates.",
+    "Privacy experts criticize the lack of transparency and demand independent audits to verify effectiveness.",
+    "Incidents of police abuse using Flock’s technology have been reported, including recent arrests of officers for stalking.",
+    "Flock states 'Audit Assistance' is not based on machine learning or AI but flags atypical search patterns for review."
+  ],
+  "content_hash": "83bf1300c974e95df44dc176dfb27ff771dfcaf30a75e67f0719a568e2fa5045",
+  "title_hash": "5e6072461ee8e1b91ca164c608fc05b59ad7bbdd78513717590644d4d29854bc",
+  "collected_at": "2026-08-14T16:45:22.959844+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 8.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "High - Provides detailed insights into Flock's new tool, privacy concerns, and expert critiques while maintaining factual reporting.",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "Moderate - Presents multiple perspectives (Flock's claims vs. privacy experts' concerns) but leans slightly toward skepticism of Flock's transparency.",
+      "opinion_fact_separation": "Clear - Distinguishes between Flock's stated policies (fact) and expert opinions/criticisms (opinion).",
+      "fabrication": false,
+      "notes": "Well-researched and balanced, though the category 'AI' was suggested incorrectly (correct category is 'Cybersecurity' or 'Privacy/Surveillance'). The article could benefit from deeper technical details on 'Audit Assistance' if available, but this aligns with its critique of Flock's lack of transparency."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-14T16:45:22.959844+07:00"
+}
