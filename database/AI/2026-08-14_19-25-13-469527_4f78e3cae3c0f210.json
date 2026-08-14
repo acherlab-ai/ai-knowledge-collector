@@ -1,0 +1,47 @@
+{
+  "id": "4f78e3cae3c0f210",
+  "title": "Why Opus 5 Feels Harder to Work With Than Previous AI Models",
+  "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "The author argues that while Anthropic's Opus 5 AI model outperforms its predecessors (Opus 4.7, Opus 4.8) and rivals Fable in benchmarks, it feels worse to work with in practice. The issue stems from Opus 5 making bold assumptions in ambiguous situations rather than seeking clarification, unlike earlier models that paused to ask questions. The author speculates this behavior is driven by two factors: the push for self-improving AI systems and the pressure to excel in benchmarks, which favor models that make confident (but not always contextually appropriate) decisions. This creates a mismatch between benchmark performance and real-world usability, where ambiguity and nuanced decision-making are critical.",
+  "score": 8,
+  "tags": [
+    "AI",
+    "Anthropic",
+    "Opus",
+    "Benchmarking",
+    "AI Usability",
+    "Coding Agents"
+  ],
+  "key_points": [
+    "Opus 5 is more capable in benchmarks but feels worse to work with compared to Opus 4.7/4.8 and Fable.",
+    "Earlier models (e.g., Opus 4.7/4.8) asked for clarification when intent was unclear, while Opus 5 makes assumptions without checking.",
+    "Benchmark-driven training favors models that make bold, usually-correct assumptions in ambiguous scenarios.",
+    "Real-world coding tasks often involve ambiguity, where pausing to ask questions is more valuable than guessing.",
+    "The push for self-improving AI and benchmark performance may inadvertently reduce usability in practical applications.",
+    "The author prefers models that prioritize seeking clarification over making unchecked assumptions, even if it means lower benchmark scores."
+  ],
+  "content_hash": "eee1d2f3042edc8a908b0edf2e51751035482df448dba89fca4eb1420d07b424",
+  "title_hash": "7611188f5f8e95a1916fc5ae5c4ccfacae7dee1e5219b4527909da94a85c3533",
+  "collected_at": "2026-08-14T19:25:13.469527+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "moderate (acceptable for opinion/review)",
+      "opinion_fact_separation": true,
+      "fabrication": false,
+      "details": "The article provides a well-reasoned critique of Opus 5's usability trade-offs, distinguishing between benchmark performance (fact) and subjective experience (opinion). It avoids spam, clickbait, or hidden ads, and the category is accurate. The content is original, non-repetitive, and offers valuable insights into AI usability challenges without excessive bias or manipulation."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-14T19:25:13.469527+07:00"
+}
