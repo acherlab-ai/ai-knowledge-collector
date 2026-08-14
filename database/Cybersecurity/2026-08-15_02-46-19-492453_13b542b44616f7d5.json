@@ -1,0 +1,48 @@
+{
+  "id": "13b542b44616f7d5",
+  "title": "Critical macOS Vulnerability (CVE-2026-65400) Under Active Exploitation",
+  "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation",
+  "source": "Ars Technica",
+  "category": "Cybersecurity",
+  "summary": "A high-severity macOS vulnerability (CVE-2026-65400) in the screen sharing feature is being actively exploited to gain full control of Macs. Attackers are installing Monero crypto miners after exploiting systems with port 5900 exposed to the internet. Apple has released patches for macOS Tahoe, Sequoia, and Sonoma. Users are advised to update immediately and disable screen sharing when not in use.",
+  "score": 9,
+  "tags": [
+    "macOS",
+    "vulnerability",
+    "exploit",
+    "CVE-2026-65400",
+    "screen sharing",
+    "cybersecurity"
+  ],
+  "key_points": [
+    "Vulnerability CVE-2026-65400 allows attackers to execute malicious code on macOS with a severity rating of 7.1/10.",
+    "The flaw stems from a bug in macOS screen sharing's state management, enabling remote control of affected systems.",
+    "Active exploitation has been observed, primarily to install Monero crypto miners, but risks include credential theft or more severe malware.",
+    "Port 5900 (used for screen sharing) must be exposed to the internet for exploitation; macOS firewall opens this port when screen sharing is enabled.",
+    "Apple released patches for macOS Tahoe, Sequoia, and Sonoma. Users should update immediately.",
+    "Mitigation includes disabling screen sharing when not in use, blocking port 5900, or using VPN/SSH tunneling for secure access.",
+    "No evidence yet of exploits beyond crypto mining, but the vulnerability poses broader risks."
+  ],
+  "content_hash": "30ce774821b6118f007ff68aac90ef134b271ea968ff60a6d089d541e417a845",
+  "title_hash": "19ed756bad73533bf4d526a4f5ffba3f2c859d5f2f2d7d49dc634975b8b68c03",
+  "collected_at": "2026-08-15T02:46:19.492453+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides timely, actionable, and well-researched information about a critical macOS vulnerability. It includes technical details, active exploitation evidence, mitigation steps, and official patches from Apple. The content is factual, neutral, and directly relevant to the 'Cybersecurity' category. No spam, clickbait, or hidden advertising detected. The summary and key points are concise and informative without redundancy."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-15T02:46:19.492453+07:00"
+}
