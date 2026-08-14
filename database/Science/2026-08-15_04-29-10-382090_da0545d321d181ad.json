@@ -1,0 +1,44 @@
+{
+  "id": "da0545d321d181ad",
+  "title": "New Lower and Upper Bounds for the Grothendieck Constant",
+  "url": "https://arxiv.org/abs/2608.11158",
+  "source": "Hacker News",
+  "category": "Science",
+  "summary": "The paper presents new mathematical bounds for the Grothendieck constant (K_G), a fundamental constant in computational complexity and functional analysis. The authors establish that the constant satisfies: 6π/11 ≤ K_G ≤ π/(2 log(1+√2)) - 10⁻⁴. The lower bound is derived by analyzing limitations of asymptotically optimal Krivine schemes, while the upper bound is achieved through the first asymptotic construction of rounding schemes. These results determine the previously unknown tenths digit of K_G to be 7. The research involved collaboration between human researchers and a long-horizon AI system designed for advanced mathematical exploration.",
+  "score": 9,
+  "tags": [
+    "Computational Complexity",
+    "Mathematics",
+    "Theoretical Computer Science",
+    "AI-Assisted Research"
+  ],
+  "key_points": [
+    "New bounds for the Grothendieck constant (K_G) are established: 6π/11 ≤ K_G ≤ π/(2 log(1+√2)) - 10⁻⁴.",
+    "The lower bound approach focuses on limitations of asymptotically optimal Krivine schemes rather than explicit gap instance constructions.",
+    "The upper bound is derived from the first asymptotic construction of rounding schemes, improving upon prior low-dimensional methods.",
+    "These bounds resolve the tenths digit of K_G, confirming it to be 7.",
+    "The research was conducted through a collaboration between human experts and a specialized AI system for long-horizon mathematical research."
+  ],
+  "content_hash": "a4427027e0d2686be9b3860fb75a29be65dfaa365de68c32f442c468ea2737d3",
+  "title_hash": "30e14b1e76b30328ae02e140d000ae5a32514c59c8259d7a6bf4edbf6a76af0b",
+  "collected_at": "2026-08-15T04:29:10.382090+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_distinction": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a rigorous and original contribution to the field of computational complexity and mathematics, specifically regarding the Grothendieck constant. The content is highly technical, well-structured, and presents new research findings with clear methodology and results. The collaboration with AI is mentioned transparently without overemphasis, avoiding promotional tone. The category 'Science' is more accurate than 'AI' as the primary focus is mathematical research, with AI as a supporting tool. No signs of spam, clickbait, or hidden advertising are present."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-15T04:29:10.382090+07:00"
+}
