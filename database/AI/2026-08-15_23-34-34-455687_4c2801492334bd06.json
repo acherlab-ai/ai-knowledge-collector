@@ -1,0 +1,45 @@
+{
+  "id": "4c2801492334bd06",
+  "title": "SpaceX officially closes its Cursor acquisition",
+  "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "SpaceX has completed the acquisition of AI coding startup Cursor, a deal initially announced in April 2026 with an option to acquire for $60 billion. Cursor will now integrate with SpaceX’s computing infrastructure, gaining access to its large fleet of GPUs to scale AI capabilities. The acquisition aims to leverage SpaceX’s resources to enhance Cursor’s AI-driven coding tools.",
+  "score": 8,
+  "tags": [
+    "AI",
+    "SpaceX",
+    "Acquisition",
+    "GPU",
+    "Coding Tools"
+  ],
+  "key_points": [
+    "SpaceX has officially acquired AI coding startup Cursor for $60 billion.",
+    "The acquisition was first announced in April 2026, with SpaceX gaining the option to buy Cursor.",
+    "Cursor will integrate with SpaceX’s computing infrastructure, accessing its large GPU fleet.",
+    "SpaceX’s infrastructure is already rented out to companies like Anthropic and Google.",
+    "The goal is to scale AI intelligence and apply it to Cursor’s coding tools."
+  ],
+  "content_hash": "6e2473e672bf68da4e0c6c79cb5a4e8128d54a65cb7986ea971ae21f332c200f",
+  "title_hash": "cdbc07726bcb757610d5e3da2126954106fef33c4f374d8d40f6bc191292f06b",
+  "collected_at": "2026-08-15T23:34:34.455687+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 8.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_distinction": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides factual and relevant information about SpaceX's acquisition of Cursor, including key details like the acquisition value, timeline, and integration plans. The content is concise, well-structured, and free of spam, clickbait, or hidden advertising. The category is correctly assigned, and the information is presented neutrally without excessive bias. No fabrication or redundancy is detected."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-15T23:34:34.455687+07:00"
+}
