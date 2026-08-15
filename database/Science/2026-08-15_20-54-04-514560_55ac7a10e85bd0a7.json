@@ -1,0 +1,47 @@
+{
+  "id": "55ac7a10e85bd0a7",
+  "title": "Analysis of US Power Plants Coming Online in 2026: The Dominance of Utility-Scale Solar and Batteries",
+  "url": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year",
+  "source": "Ars Technica",
+  "category": "Science",
+  "summary": "The article examines the 368 utility-scale power plants that began operation in the US from January to June 2026, highlighting the dominance of utility-scale solar and battery projects. Solar led with 207 projects totaling 11,458 MW, while batteries followed with 95 projects and 8,207 MW. Wind and natural gas projects were less prominent in this period. Texas, New Mexico, and Arizona accounted for half of the new capacity, with Texas focusing on batteries and gas for grid reliability. The data underscores the growing role of solar-plus-battery systems as a key energy solution, driven by policy and market trends.",
+  "score": 9,
+  "tags": [
+    "Energy",
+    "Renewable Energy",
+    "Solar Power",
+    "Battery Storage",
+    "US Energy Sector"
+  ],
+  "key_points": [
+    "Utility-scale solar dominated new US power plant additions in the first half of 2026, with 207 projects totaling 11,458 MW.",
+    "Battery storage was the second-largest category, with 95 projects adding 8,207 MW, often paired with solar installations.",
+    "Wind and natural gas projects were less significant in this period, with only 9 onshore wind projects and limited natural gas capacity additions.",
+    "Texas, New Mexico, and Arizona led in new generating capacity, with Texas prioritizing batteries and gas for grid reliability.",
+    "Illinois had the most utility-scale solar projects (36), reflecting state policies encouraging small and medium-size solar development.",
+    "The data highlights the shift toward solar-plus-battery systems as a primary energy solution, driven by ease of deployment and policy support.",
+    "Future trends suggest continued growth in utility-scale solar, while natural gas plant expansions are expected later in the decade."
+  ],
+  "content_hash": "9918c53a2cefedde27221e0f25eaad6d7382ac063387c41c5b7b1813a0628590",
+  "title_hash": "bd5303b29316ef5d2fa83b90e7b9d4027ff4a5f0086e5af859ddf68a2712fe59",
+  "collected_at": "2026-08-15T20:54:04.514560+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not applicable (data-driven analysis)",
+      "fabrication": false,
+      "details": "The article provides a well-researched, data-driven analysis of US power plant additions in 2026, focusing on utility-scale solar and battery storage. It is factual, cites specific figures, and avoids sensationalism or hidden agendas. The category 'Science' is appropriate, and the content is objective with no signs of manipulation or misleading claims. Minor deduction in score due to lack of deeper contextual analysis (e.g., policy impacts, economic drivers), but overall highly valuable."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-15T20:54:04.514560+07:00"
+}

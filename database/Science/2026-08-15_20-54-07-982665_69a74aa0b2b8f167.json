@@ -1,0 +1,56 @@
+{
+  "id": "69a74aa0b2b8f167",
+  "title": "Every Fusion Startup That Has Raised Over $100M",
+  "url": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m",
+  "source": "TechCrunch",
+  "category": "Science",
+  "summary": "An overview of fusion energy startups that have raised over $100 million in private capital, highlighting their technological approaches, funding, key milestones, and commercialization timelines. The article explores advancements in fusion energy driven by computational power, AI, and superconducting magnets, along with the scientific breakthroughs that have accelerated private investment in the sector.",
+  "score": 9,
+  "tags": [
+    "Fusion Energy",
+    "Clean Energy",
+    "Nuclear Fusion",
+    "Startups",
+    "Investment",
+    "Science"
+  ],
+  "key_points": [
+    "Fusion energy has transitioned from a distant prospect to a tangible technology attracting significant private investment due to advances in computing, AI, and superconducting magnets.",
+    "A U.S. Department of Energy lab achieved scientific breakeven in 2022, proving the underlying science of fusion energy and boosting investor confidence.",
+    "Common fusion reactor designs include tokamaks (e.g., Commonwealth Fusion Systems), stellarators (e.g., Proxima Fusion), field-reversed configurations (e.g., Helion, TAE Technologies), and inertial confinement (e.g., Pacific Fusion, Focused Energy).",
+    "Commonwealth Fusion Systems (CFS) leads in funding with $3.94 billion raised, focusing on a tokamak design and planning a commercial power plant by the late 2020s.",
+    "Helion aims to produce electricity by 2028 and has Microsoft as its first customer, using a field-reversed configuration reactor.",
+    "TAE Technologies, founded in 1998, plans to merge with Trump Media & Technology Group, valuing the combined entity at $6 billion.",
+    "Pacific Fusion raised over $1 billion in its Series A, using electromagnetic pulses for inertial confinement fusion.",
+    "Proxima Fusion leverages stellarator technology, raising $682.9 million and planning a net-energy demonstrator in the early 2030s.",
+    "Shine Technologies focuses on near-term revenue streams like neutron testing and medical isotopes while developing fusion technology.",
+    "Inertia Enterprises, founded by key figures from the National Ignition Facility, uses laser-based inertial confinement and has raised $450 million.",
+    "General Fusion employs magnetized target fusion (MTF) and recently went public via a reverse merger, raising $127 million.",
+    "Zap Energy uses an electric current to generate a magnetic field for plasma confinement and is exploring hybrid fusion-fission power plants.",
+    "Tokamak Energy and Type One Energy are developing compact tokamak and stellarator designs, respectively, with significant funding and milestones.",
+    "Kyoto Fusioneering focuses on developing balance-of-plant components for fusion power plants, raising $121 million.",
+    "First Light Fusion offers inertial confinement technology without using lasers or magnets, instead focusing on projectile-based compression."
+  ],
+  "content_hash": "da00635fdf520c443ddc4567f2688fc98a6616ccd041896765014aa63b511ab8",
+  "title_hash": "a3b2ec093a2213f46be8db7c924eccc441b99a07f1aa6107b30c5e71f5f155ea",
+  "collected_at": "2026-08-15T20:54:07.982665+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a well-researched, factual overview of fusion energy startups, their funding, technological approaches, and milestones. It is highly informative, avoids sensationalism, and maintains objectivity. The category 'Science' is correct, and the content aligns with the stated purpose without spam, hidden ads, or bias. The summary and key points are clear, concise, and supported by verifiable information."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-15T20:54:07.982665+07:00"
+}
