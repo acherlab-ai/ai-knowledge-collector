@@ -1,0 +1,45 @@
+{
+  "id": "915417ac39b7c717",
+  "title": "Triple Product Rule of Partial Derivatives",
+  "url": "https://en.wikipedia.org/wiki/Triple_product_rule",
+  "source": "Hacker News",
+  "category": "Science",
+  "summary": "The triple product rule, also known as Euler's chain rule, is a formula in multivariable calculus that relates the partial derivatives of three interdependent variables. Given three variables x, y, and z connected by a function f(x, y, z) = 0, the rule states that the product of their partial derivatives equals -1: (∂x/∂y)(∂y/∂z)(∂z/∂x) = -1. This rule is particularly useful in thermodynamics for simplifying complex partial derivatives and is derived using the implicit function theorem and reciprocity relations.",
+  "score": 9,
+  "tags": [
+    "Mathematics",
+    "Calculus",
+    "Thermodynamics",
+    "Partial Derivatives"
+  ],
+  "key_points": [
+    "The triple product rule relates partial derivatives of three interdependent variables: (∂x/∂y)(∂y/∂z)(∂z/∂x) = -1.",
+    "It is derived using the implicit function theorem and is applicable when variables are connected by a function f(x, y, z) = 0.",
+    "The rule allows substitution of difficult-to-evaluate partial derivatives with simpler quotients of partial derivatives.",
+    "Common applications include thermodynamics, where state variables like pressure, volume, and temperature are interrelated (e.g., ideal gas law).",
+    "Multiple derivations exist, including informal approaches using total differentials and geometric interpretations involving wave propagation.",
+    "The rule is a fundamental tool in mathematical analysis and physics for simplifying expressions involving partial derivatives."
+  ],
+  "content_hash": "dbfc597b5d9a137574ce410e2d723f25bfdf909f9b89bf7b3906906bc7f14d46",
+  "title_hash": "82d4b30f1affcbc3d0193f4627758758a5838a4beb2171fe0661c9f2a8debd65",
+  "collected_at": "2026-08-16T05:59:15.158805+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_distinction": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, accurate, and well-structured explanation of the triple product rule in multivariable calculus. It is highly useful for readers in mathematics, physics, or thermodynamics. The content is neutral, fact-based, and free from spam, clickbait, or hidden advertising. The category 'Science' is correct, and the information is presented without redundancy or bias. No fabrication or misleading claims are detected."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-16T05:59:15.158805+07:00"
+}
