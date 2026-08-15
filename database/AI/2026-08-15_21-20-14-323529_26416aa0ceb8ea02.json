@@ -1,0 +1,47 @@
+{
+  "id": "26416aa0ceb8ea02",
+  "title": "Secondhand Book Sales Surge: Is AI the Hidden Buyer?",
+  "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "Independent booksellers worldwide have observed a significant increase in bulk purchases of secondhand books, often shipped to warehouses. The trend is suspected to be driven by AI companies acquiring books for training large language models, following a 2025 US court ruling that permitted such use under copyright law. The process, known as 'destructive scanning,' involves digitizing books at scale, often resulting in their destruction. While the practice raises ethical concerns among booksellers, experts note that UK copyright laws differ and require permission for such use. The diverse range of books purchased suggests AI firms seek rare or unusual texts to enhance model training.",
+  "score": 8,
+  "tags": [
+    "AI",
+    "Copyright",
+    "Ethics",
+    "Large Language Models",
+    "Book Industry"
+  ],
+  "key_points": [
+    "Independent booksellers report unusual bulk purchases of secondhand books, often shipped to warehouses for unknown purposes.",
+    "AI companies are suspected of buying these books to train large language models, following a 2025 US court ruling that allowed such use under copyright law.",
+    "The process, termed 'destructive scanning,' involves digitizing books at scale, often leading to their destruction and recycling.",
+    "Internal documents from AI firm Anthropic revealed a project aimed at 'destructively scanning all the books in the world.'",
+    "Booksellers express ethical concerns, particularly about the destruction of rare or historically significant books.",
+    "UK copyright laws differ from the US, requiring permission from copyright owners for such use.",
+    "The diverse range of books purchased (e.g., obscure Latin texts, cowboy novels) suggests AI firms seek unique material to improve model training."
+  ],
+  "content_hash": "638d57cdfc30aba7344c2cc3153f1d438bca40f63b50160b24ea1f0f43b059a9",
+  "title_hash": "1cb11df239b89ddbe3a3445afeda385c0298f2e50ce10133b13762093afdc11e",
+  "collected_at": "2026-08-15T21:20:14.323529+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "moderate",
+      "opinion_fact_distinction": true,
+      "fabrication": false,
+      "details": "The article provides a well-researched and timely exploration of a relevant issue in AI and copyright law. It balances facts (e.g., US/UK legal differences, Anthropic's project) with ethical concerns from booksellers, avoiding excessive bias. The summary and key points are clear, non-repetitive, and align with the AI category. The title is engaging but not misleading. No hidden advertising or spam detected. Minor deduction in score due to slight emphasis on ethical concerns (opinion) without equal counter-perspectives from AI firms, but this does not warrant rejection."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-15T21:20:14.323529+07:00"
+}
