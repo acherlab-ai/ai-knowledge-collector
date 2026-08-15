@@ -1,0 +1,46 @@
+{
+  "id": "35a2a4845481df4e",
+  "title": "No-New-Physics Consciousness: A Reductionist Perspective on Experience, Brains, and Physics",
+  "url": "https://www.overcomingbias.com/p/no-new-physics-consciousness",
+  "source": "Hacker News",
+  "category": "Science",
+  "summary": "The article explores the relationship between consciousness (experience systems), brains, and physics from a reductionist viewpoint, arguing that consciousness can be fully explained by known physics without requiring new fundamental laws. The author, Robin Hanson, discusses two key exceptions to this reductionist framework: the distinction between 'actual' and 'possible' physical worlds, and the distinction between systems that 'actually feel' experiences versus 'zombie' systems that merely mimic feeling. The article concludes with two observations: (1) no physical or brain state can provide Bayesian evidence about whether an experience system truly feels, and (2) the most plausible rule for determining which systems feel is panpsychism—a simple, local hypothesis that all systems capable of calculating experiences actually feel them.",
+  "score": 8,
+  "tags": [
+    "consciousness",
+    "reductionism",
+    "panpsychism",
+    "philosophy of mind",
+    "physics"
+  ],
+  "key_points": [
+    "Consciousness (experience systems) can be reduced to brain systems, which in turn can be reduced to physical systems governed by known physics, with minimal exceptions.",
+    "Two claimed exceptions to this reductionist view are: (a) the distinction between 'actual' and 'possible' physical worlds, and (b) the distinction between systems that 'actually feel' experiences and 'zombie' systems that do not.",
+    "The 'actual vs. possible' distinction in physics is problematic because it implies additional rules beyond known physical laws, and it is unclear how 'possible' stuff could interact with 'actual' stuff.",
+    "The 'feeling vs. zombie' distinction suggests that some systems with identical physical and brain states may or may not truly feel, but this cannot be empirically verified or inferred from physical or brain data.",
+    "Under a Bayesian framework, no physical or brain state can provide evidence about whether an experience system truly feels, meaning such beliefs must be based on prior assumptions rather than data.",
+    "The author argues that the rule determining which systems feel is likely simple and local, favoring panpsychism—the idea that all systems capable of calculating experiences actually feel them—as the most plausible hypothesis."
+  ],
+  "content_hash": "7ab4eea3ce2382d0efe82cb5a0d6965cdb0091752c9095113e052087156151c3",
+  "title_hash": "ee3c7634c1f58f11029dd6d30f78e714a00cd702d225d9ea94cb528806736d2f",
+  "collected_at": "2026-08-16T05:00:31.826231+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "moderate (justified by philosophical perspective)",
+      "opinion_fact_distinction": "clear",
+      "fabrication": false,
+      "details": "The article provides a well-argued reductionist perspective on consciousness, grounded in physics and philosophy of mind. It avoids spam, clickbait, or hidden advertising, and the information is original, non-redundant, and of high quality. The author distinguishes opinion (e.g., panpsychism as the most plausible hypothesis) from fact (e.g., Bayesian evidence limitations). While the content reflects a specific philosophical stance, it does not manipulate or mislead. The category 'Science' is appropriate, though 'Philosophy of Science' or 'Cognitive Science' could also fit. The score reflects minor room for improvement in addressing counterarguments or alternative frameworks."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-16T05:00:31.826231+07:00"
+}
