@@ -1,0 +1,48 @@
+{
+  "id": "6e4841a10eb3b340",
+  "title": "The Impact of False Positives in U.S. Government Restricted-Party Screening Lists",
+  "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist",
+  "source": "Hacker News",
+  "category": "Cybersecurity",
+  "summary": "The article details the author's repeated experiences with false positives in U.S. government restricted-party screening lists, specifically the Entity List maintained by the Bureau of Industry and Security (BIS). The author, Sean Joseph Byrne, has been mistakenly flagged as a restricted individual due to a fabricated identity (Sean Byrne) created by an Irish company, Mac Aviation, for fraudulent purposes. Despite providing extensive identification, the author faces ongoing issues with companies like Apple, Nasdaq, DHL, and SpaceX. The article explores the broader implications of such false positives, the challenges in resolving them, and the growing industry of automated applicant screening tools that may exacerbate these issues.",
+  "score": 9,
+  "tags": [
+    "Cybersecurity",
+    "Identity Verification",
+    "Export Controls",
+    "False Positives",
+    "Government Screening Lists"
+  ],
+  "key_points": [
+    "The author was denied access to Apple's App Store Connect due to a match with a restricted-party entry on the U.S. government's Consolidated Screening List, despite providing extensive identification.",
+    "The restricted-party entry corresponds to a fabricated identity (Sean Byrne) created by Mac Aviation, an Irish company involved in illegal exports to Iran.",
+    "The U.S. government's Entity List includes this fabricated identity with minimal identifying information, leading to repeated false positives for the author.",
+    "The author has faced similar issues with Nasdaq, DHL (shipping for SpaceX), and other entities, requiring additional verification steps to resolve.",
+    "False positives in screening lists are a known issue, as illustrated by cases like the 'Robert Johnson' alias and legal cases involving credit bureaus.",
+    "The rise of remote hiring has led to an increase in identity fraud, prompting companies to adopt automated applicant screening tools that check against sanctions and restricted-party lists early in the hiring process.",
+    "These tools, while designed to prevent fraud, may propagate false positives across multiple employers, potentially harming legitimate applicants.",
+    "The author has sought resolution from the Bureau of Industry and Security but faces challenges due to the unique nature of the false positive (a fabricated identity)."
+  ],
+  "content_hash": "6aa581e5266e8f5e3ef72d1153711eb75e07f2e5d498b65a4fe4bd652a6e8df0",
+  "title_hash": "771f55cfe906f8632de0bc86aada54205da81e3eb3e323813878e8324453ad9b",
+  "collected_at": "2026-08-15T12:54:24.010303+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "moderate (opinionated but fact-based)",
+      "opinion_fact_separation": true,
+      "fabrication": false,
+      "details": "The article provides a detailed, firsthand account of the challenges posed by false positives in U.S. government restricted-party screening lists. It is well-researched, cites specific examples (e.g., Apple, Nasdaq, DHL), and explores broader implications for identity verification and automated screening tools. The author distinguishes between personal experiences (opinion) and factual context (e.g., legal cases, industry trends). The category is correctly assigned as 'Cybersecurity,' though it also touches on identity verification and export controls. The content is neutral in its critique of systemic issues without unfairly targeting specific entities."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-15T12:54:24.010303+07:00"
+}
