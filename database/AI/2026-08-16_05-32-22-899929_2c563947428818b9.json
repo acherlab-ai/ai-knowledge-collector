@@ -1,0 +1,49 @@
+{
+  "id": "2c563947428818b9",
+  "title": "LFM2.5-VL-3B: A Better and Faster Vision-Language Model for Edge Devices",
+  "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+  "source": "Hugging Face",
+  "category": "AI",
+  "summary": "LFM2.5-VL-3B is a vision-language model optimized for edge devices, offering improved screen/UI understanding, grounding, multi-image input reasoning, and function calling. It is trained on 34T tokens with 4x more vision data than previous versions and supports non-Latin scripts via an extended vocabulary. The model outperforms competitors in its size class across benchmarks for real-world image tasks, document/OCR understanding, and tool use. It is designed for low-latency, on-device inference, achieving high token generation speeds on CPUs, GPUs, and mobile devices. The model is available for download on Hugging Face and supports integration via popular inference frameworks like vLLM and ONNX.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Vision-Language Models",
+    "Edge Computing",
+    "On-Device AI",
+    "Machine Learning"
+  ],
+  "key_points": [
+    "LFM2.5-VL-3B is a vision-language model optimized for edge devices, enabling on-device AI applications with low latency.",
+    "Key improvements include enhanced screen/UI understanding, grounding, multi-image reasoning, and function calling capabilities.",
+    "Trained on 34T tokens (4x more vision data than prior versions) and supports non-Latin scripts via a 128K vocabulary.",
+    "Post-training involves supervised fine-tuning (SFT) with knowledge distillation and multi-reward reinforcement learning (RL).",
+    "Outperforms comparable models (e.g., Gemma, InternVL, Qwen) in benchmarks for real-world image tasks, document/OCR understanding, and tool use.",
+    "Achieves high inference speeds: 228 tokens/s on M5 Max CPU, 116 tokens/s on Ryzen AI Max+, and 20 tokens/s on Galaxy S26 Ultra.",
+    "GPU inference reaches ~11K tokens/s at high concurrency, outperforming larger 4B-class models.",
+    "Available on Hugging Face with support for frameworks like vLLM, ONNX, and llama.cpp; includes tutorials for fine-tuning and deployment.",
+    "Demonstrated use cases include multi-image inputs, grounding, OCR, and tool calling in real-time applications."
+  ],
+  "content_hash": "b3931b924c5a24fae0e9ac045ab55e4b0289cdbe1e69690d644803dee8cd39f5",
+  "title_hash": "f8dad69eb82b1fe4991f21b1561263a02fc6b819706b196b10b4f66c96a36c8c",
+  "collected_at": "2026-08-16T05:32:22.899929+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a detailed, technical, and well-structured overview of LFM2.5-VL-3B, a vision-language model for edge devices. It includes specific improvements, training data, benchmarks, performance metrics, and deployment options, making it highly useful for developers and researchers. The content is factual, neutral, and free of spam, clickbait, or hidden advertisements. The category is accurate, and the information is presented without significant bias or redundancy."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-16T05:32:22.899929+07:00"
+}

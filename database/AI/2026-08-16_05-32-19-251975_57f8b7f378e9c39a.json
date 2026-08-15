@@ -1,0 +1,50 @@
+{
+  "id": "57f8b7f378e9c39a",
+  "title": "Key Insights from Reproducing 2,200 ICML 2026 Papers Using AI Agents",
+  "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+  "source": "Hugging Face",
+  "category": "AI",
+  "summary": "A large-scale hackathon involving over 1,200 participants used AI coding agents to reproduce 2,226 papers from ICML 2026, uncovering critical findings about reproducibility, verification, and the role of humans in AI-driven research. The effort revealed that 51% of examined papers had at least one claim verified, while 23% had claims falsified or contested. The project highlighted both the potential and limitations of AI agents in scientific validation, emphasizing the need for human oversight in complex evaluations.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Reproducibility",
+    "Machine Learning",
+    "Research Validation",
+    "AI Agents"
+  ],
+  "key_points": [
+    "The hackathon aimed to reproduce 2,226 papers (34% of ICML 2026) using AI agents like Claude Code, Codex, and Cursor, resulting in 6,816 reproduction logbooks.",
+    "AI-driven research submissions are growing exponentially, outpacing human review capacity, raising concerns about reproducibility and verification.",
+    "51% of examined papers had at least one claim independently verified, with 266 papers fully reproduced and 632 partially reproduced without falsifications.",
+    "23% of papers had at least one claim falsified or contested, including 49 papers where all claims were falsified and 242 papers with conflicting verdicts from independent teams.",
+    "Key falsifications included mathematical proofs with errors, incorrect loss functions in code, and evaluation metrics diluted by padding tokens.",
+    "Human oversight remains critical, as AI agents struggled with local loops, scale-dependent behaviors, and perceptual evaluations (e.g., image quality).",
+    "The most reliable results came from human-AI collaboration, where humans steered agents, questioned assumptions, and validated complex outputs.",
+    "Authors of falsified papers responded positively, with corrections already submitted to arXiv in some cases.",
+    "The project demonstrated that AI agents can scale reproducibility efforts but require structured environments and human guidance to be effective.",
+    "All logbooks, verdicts, and artifacts from the hackathon are publicly available, setting a precedent for future large-scale reproducibility audits."
+  ],
+  "content_hash": "da975297f983970a5027b4989a76246a3a14f6869ceb2384b10b6d6e03119b2f",
+  "title_hash": "acc3f24eb5cd4c49faaaef9322a9cc5b3c21c36082f7a9a0dee0f7fa9edc5565",
+  "collected_at": "2026-08-16T05:32:19.251975+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "clear (where applicable)",
+      "fabrication": false,
+      "details": "The article provides a detailed, data-driven analysis of a large-scale AI reproducibility effort, with clear insights into the strengths and limitations of AI agents in research validation. The content is well-structured, cites specific metrics (e.g., 51% verified, 23% falsified), and avoids sensationalism. The summary and key points align with the title and category, offering actionable takeaways for the AI research community. Human oversight and collaboration are appropriately emphasized, and the public availability of logbooks adds transparency. No spam, clickbait, or hidden advertising detected."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-16T05:32:19.251975+07:00"
+}
