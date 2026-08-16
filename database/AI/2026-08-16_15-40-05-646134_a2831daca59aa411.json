@@ -1,0 +1,49 @@
+{
+  "id": "a2831daca59aa411",
+  "title": "LittleLearner: Language Models Under Pedagogically-Controlled Knowledge Exposure",
+  "url": "https://littlelearner-ll.github.io",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "LittleLearner is a research project investigating how large language models (LLMs) acquire knowledge when trained exclusively on a controlled dataset aligned with the U.S. elementary-school curriculum (K–5). The study filters an 88B-token corpus to exclude concepts, facts, and vocabulary beyond fifth grade, training models (0.6B, 1.3B, and 5B parameters) from scratch alongside unfiltered controls. Key findings show that scaling, post-training (e.g., GRPO), and in-context learning amplify in-scope (K–5) capabilities but fail to improve out-of-scope (beyond K–5) performance, indicating the pretraining filter sets the model's effective capability ceiling. The project provides model checkpoints, datasets, and a sandbox for further experimentation in RL, continual learning, and educational science comparisons between models and child learners.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "LLM",
+    "machine learning",
+    "knowledge acquisition",
+    "curriculum learning",
+    "NLP"
+  ],
+  "key_points": [
+    "Controlled training dataset: 88B-token corpus filtered to U.S. K–5 curriculum (LittleCurriculum), excluding material beyond fifth grade.",
+    "Models trained from scratch at three scales (0.6B, 1.3B, 5B) with matched unfiltered controls for comparison.",
+    "Findings: Scaling, post-training (e.g., GRPO), and in-context learning improve in-scope (K–5) performance but do not meaningfully enhance out-of-scope (beyond K–5) capabilities.",
+    "Pretraining filter acts as a hard boundary for model capabilities, limiting generalization beyond the exposed curriculum.",
+    "Post-training on out-of-scope data (e.g., beyond K–5) fails to recover advanced capabilities, reinforcing the ceiling effect.",
+    "In-context learning does not unlock new reasoning abilities for beyond-K–5 tasks in the 5B model.",
+    "Research directions: RL-driven capability discovery, continual learning of new concepts, and comparative studies between models and child learners.",
+    "Open-source resources: Model checkpoints (base, GRPO, chatty variants), dataset (LittleCurriculum), and interactive sandbox for experimentation."
+  ],
+  "content_hash": "4f9d9852549141ce027d9b6e176b568056ffc3db87f664ff01b4701341f3b191",
+  "title_hash": "25002031a4924d916143856505fb043b34f0ef891796d912371668bc879dd386",
+  "collected_at": "2026-08-16T15:40:05.646134+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a detailed, research-backed summary of the LittleLearner project, focusing on controlled knowledge exposure in LLMs. It is highly informative, well-structured, and free of spam, clickbait, or hidden advertisements. The content is original, non-redundant, and aligns perfectly with the 'AI' category. The findings are presented objectively, with clear distinctions between empirical results and proposed research directions. The study's methodology and open-source resources add significant value to the AI research community."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-16T15:40:05.646134+07:00"
+}
