@@ -1,0 +1,47 @@
+{
+  "id": "8d74bf58c156b708",
+  "title": "Wildfire smoke now a bigger prenatal threat than human sources of air pollution",
+  "url": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution",
+  "source": "Ars Technica",
+  "category": "Science",
+  "summary": "A study by the University of Maryland reveals that wildfire smoke is increasingly offsetting air quality improvements achieved through regulations like the Clean Air Act, posing significant prenatal health risks. The research highlights that exposure to wildfire-derived PM2.5 during pregnancy raises the likelihood of preterm births and low birth weights, disproportionately affecting low-income, rural, and Indigenous populations. While human-caused air pollution has decreased by 37%, wildfire contributions to unhealthy air have doubled, reversing health gains for vulnerable groups.",
+  "score": 9,
+  "tags": [
+    "Science",
+    "Environmental Health",
+    "Climate Change",
+    "Public Health"
+  ],
+  "key_points": [
+    "Wildfire smoke is now a greater prenatal health threat than pollution from human sources like vehicles and industry.",
+    "Prenatal exposure to wildfire smoke increases risks of preterm birth and low birth weight, leading to long-term health issues.",
+    "Between 2003 and 2019, human-caused air pollution (PM2.5) decreased by 37%, but wildfire contributions doubled, offsetting these gains.",
+    "Low-income, rural, and Indigenous communities face disproportionate exposure to wildfire smoke and limited access to neonatal care.",
+    "The study used EPA air quality data and birth records to model prenatal exposure to PM2.5 from wildfires and human sources.",
+    "Wildfire smoke's impact is exacerbated by climate change, creating warmer and drier conditions that intensify fires.",
+    "The research underscores the need for resources like clean-air shelters, air filters, and healthcare access to mitigate exposure risks.",
+    "Future projections suggest wildfire smoke's contribution to unhealthy air will continue to rise without intervention."
+  ],
+  "content_hash": "fb702cc9dffea96ca851748a7107e0190d381772cb3c2c099db9a036e3cee1a9",
+  "title_hash": "422451f70337751577f77e873e59ed2d845628c262e38d76984c1e435b365d7b",
+  "collected_at": "2026-08-16T18:29:10.479619+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not applicable (not a review/opinion piece)",
+      "fabrication": false,
+      "details": "The article provides well-researched, data-driven insights on the growing threat of wildfire smoke to prenatal health, backed by a credible study. It avoids sensationalism, maintains objectivity, and aligns with the 'Science' category. The summary and key points are clear, non-repetitive, and free of hidden advertising or bias. Minor deduction in score for lack of direct counter-perspectives, but this does not warrant rejection."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-16T18:29:10.479619+07:00"
+}
