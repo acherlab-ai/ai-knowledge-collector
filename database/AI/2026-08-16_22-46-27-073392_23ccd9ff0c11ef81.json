@@ -1,0 +1,49 @@
+{
+  "id": "23ccd9ff0c11ef81",
+  "title": "Baseten Integration as a Hugging Face Inference Provider",
+  "url": "https://huggingface.co/blog/baseten",
+  "source": "Hugging Face",
+  "category": "AI",
+  "summary": "Baseten is now a supported Inference Provider on the Hugging Face Hub, enabling serverless inference for a variety of AI models. This integration allows developers to access Baseten-hosted models, including popular open-weight LLMs like DeepSeek V4 Flash and GLM-5.2, directly through Hugging Face's UI, SDKs (Python and JavaScript), and Agent Harnesses. Users can authenticate via their Baseten API key or route requests through Hugging Face, with billing handled by the respective provider. The integration simplifies AI model deployment and expands the ecosystem of available models for developers.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "LLMs",
+    "Inference",
+    "Hugging Face",
+    "Serverless",
+    "API"
+  ],
+  "key_points": [
+    "Baseten is now an Inference Provider on Hugging Face Hub, supporting serverless inference for AI models.",
+    "Initial integration includes conversational and text-generation tasks with models like DeepSeek V4 Flash, Kimi K3, and GLM-5.2.",
+    "Accessible via Hugging Face's UI, Python SDK (`huggingface_hub >= 1.26.1`), and JavaScript SDK (`@huggingface/inference`).",
+    "Two authentication modes: direct (using Baseten API key) or routed through Hugging Face (billed via HF account).",
+    "Seamless integration with Agent Harnesses like Pi, OpenCode, and Hermes Agents for plug-and-play use.",
+    "Billing is provider-specific for direct requests; routed requests incur standard provider rates with no additional markup.",
+    "Hugging Face PRO users receive $2 monthly Inference credits for use across providers.",
+    "Future updates will expand support for additional model tasks and potential revenue-sharing agreements."
+  ],
+  "content_hash": "e76ffa9c1938cd1e73c790e883aabdafbf7e15b7c0d80b5b191d84131572ab0f",
+  "title_hash": "bf4a80cff43b3ba382c45ecff143f5f6bc523ca91333f3e6ca21f8512282e789",
+  "collected_at": "2026-08-16T22:46:27.073392+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, informative overview of Baseten's integration as an Inference Provider on Hugging Face Hub. It covers technical aspects (authentication, SDKs, billing) without exaggeration or misleading claims. The content is factual, well-structured, and directly relevant to the AI category. No spam, hidden ads, or clickbait detected. The summary and key points align with the title and avoid redundancy. The tone is neutral, focusing on practical benefits for developers without promotional bias."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-16T22:46:27.073392+07:00"
+}
