@@ -1,0 +1,48 @@
+{
+  "id": "16ac10544a8682f6",
+  "title": "The AI Credit Resale Economy: Who Are the Token Brokers?",
+  "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "The article explores the emerging market of token brokers who buy and resell unused AI inference credits from startups at steep discounts. It details the commercialization of this market, including direct outreach from brokers, online credit marketplaces, bulk discount platforms, and underground forums. The author investigates the scale of the market, estimating tens of millions of credits in circulation, and highlights potential risks of abuse as tokens become a pseudo-currency.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "LLM",
+    "Token Economy",
+    "AI Credits",
+    "Marketplace",
+    "Cybersecurity"
+  ],
+  "key_points": [
+    "Token brokers are individuals or entities that purchase unused AI inference credits from startups and resell them at discounts (30-80% off list prices).",
+    "The market has become commercialized, with brokers actively reaching out to founders via email and offering large volumes of credits (e.g., $100k/day in spend).",
+    "Online credit marketplaces like AI Credits and AICreditMart facilitate these transactions, allowing sellers to list credits from major cloud and inference providers.",
+    "Bulk-discount platforms (e.g., CheapCredits, Tokvana, Neokens) claim to offer discounts through bulk pricing, though the legitimacy of these discounts is questioned.",
+    "Underground marketplaces exist on platforms like Telegram and Reddit, where credits are traded in closed startup groups or public forums.",
+    "The market is estimated to involve tens of millions of credits, raising concerns about abuse and potential crackdowns as companies become more cost-conscious.",
+    "Brokers often act as proxies, forwarding requests through a pool of provider keys rather than handing them out directly, adding a layer of opacity to the transactions."
+  ],
+  "content_hash": "be094d0f7e124b5f845275bfc6f4eaf11735e8aec1f5b4a58f9958afed522346",
+  "title_hash": "e9f81a1bac4b5450e231fd9be8e1a14947094b57d2f0713ee1a5d0ce6c51fe87",
+  "collected_at": "2026-08-16T22:19:12.785020+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a well-researched and insightful exploration of the AI credit resale economy, offering valuable information about an emerging market. It avoids spam, clickbait, or hidden advertising, and maintains a neutral tone while presenting facts and observations. The content is original, non-repetitive, and aligns well with the AI category. The scale and risks of the market are clearly outlined without exaggeration or manipulation."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-16T22:19:12.785020+07:00"
+}
