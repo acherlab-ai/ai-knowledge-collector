@@ -1,0 +1,48 @@
+{
+  "id": "d8aa826fc3659222",
+  "title": "Zapping Rocks Unlocks Stimulated Geologic Hydrogen",
+  "url": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
+  "source": "Hacker News",
+  "category": "Science",
+  "summary": "The article explores Eden GeoPower's innovative technique of using high-voltage electrical pulses to fracture subterranean rocks, potentially stimulating the production of geologic hydrogen. This method, termed 'electrical reservoir stimulation,' aims to create permeable fracture networks in iron-rich rocks, enabling water to react with minerals and release hydrogen. The approach could revolutionize clean energy by providing a scalable, low-carbon hydrogen source, addressing challenges in traditional hydrogen production methods.",
+  "score": 9,
+  "tags": [
+    "Hydrogen",
+    "Clean Energy",
+    "Geology",
+    "Innovation",
+    "Electrical Engineering"
+  ],
+  "key_points": [
+    "Eden GeoPower uses high-voltage electrical pulses to fracture rocks underground, creating pathways for water to react with iron-rich minerals and produce hydrogen.",
+    "Stimulated geologic hydrogen is an emerging field aiming to artificially generate hydrogen from subterranean rock formations, offering a potential alternative to traditional hydrogen production methods.",
+    "Traditional hydrogen production relies on steam-methane reforming (a greenhouse gas-intensive process) or electrolysis (expensive and energy-intensive). Geologic hydrogen could provide a cleaner, more sustainable solution.",
+    "Natural geologic hydrogen deposits exist but are rare and difficult to locate in commercially viable quantities. Stimulated hydrogen production could overcome this limitation by creating hydrogen on-demand.",
+    "Eden's pulsed-power technique, inspired by Soviet-era research, generates plasma channels in rocks, inducing shock waves that fracture them more precisely than hydraulic fracturing (fracking).",
+    "The technology has been tested in various environments, including an abandoned mine in Colorado, where it increased rock permeability tenfold.",
+    "Challenges remain, including optimizing hydrogen production rates, reducing costs, and scaling the technology for commercial use.",
+    "ARPA-E has funded multiple projects, including Eden's, to advance stimulated geologic hydrogen research, highlighting its potential as a game-changer in clean energy."
+  ],
+  "content_hash": "1023301df380a1fe71c502fcfc15ae3b03e11c2152498fea8b80e5800c4c06ec",
+  "title_hash": "8c73d18d734810b57a5d78f23a89e12f1bf9d281093bd67e386fb91c0b9df2e9",
+  "collected_at": "2026-08-16T10:51:17.372777+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a well-researched, informative overview of an innovative technique for stimulated geologic hydrogen production. It is fact-based, cites credible sources (e.g., ARPA-E funding, Soviet-era research), and avoids sensationalism or hidden advertising. The content is relevant to the 'Science' category, with no significant bias or redundancy. The summary and key points are clear, accurate, and align with the title. Minor room for improvement exists in elaborating on potential environmental risks, but this does not detract from the overall high quality."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-16T10:51:17.372777+07:00"
+}
