@@ -1,0 +1,49 @@
+{
+  "id": "9ee438043669642d",
+  "title": "Gooseworks (YC W23) Is Hiring a Founding Engineer to Build Self-Improving AI Ad Creative Engines",
+  "url": "https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "Gooseworks, a Y Combinator-backed startup, is hiring a Founding Engineer/Builder to develop self-improving AI agents for growth marketing. The company focuses on automating ad creative generation, performance analysis, and optimization for consumer brands. With 200+ paying customers and 30,000+ AI-generated creatives, Gooseworks aims to replace manual creative processes with AI-driven solutions. The role requires strong full-stack engineering skills, experience with AI agents, and product thinking. Equity and competitive salary offered.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Startups",
+    "AdTech",
+    "Automation",
+    "Agentic Systems"
+  ],
+  "key_points": [
+    "Gooseworks builds self-improving AI agents for ad creative generation and growth marketing, targeting consumer brands.",
+    "The company has 200+ paying customers and has generated 30,000+ ad creatives in the last two months.",
+    "The Founding Engineer role combines engineering excellence with product thinking, focusing on AI-driven creative generation and multi-channel distribution.",
+    "Key responsibilities include building creative generation agents, scaling distribution architecture, and developing self-improving AI systems.",
+    "Requirements: strong technical background, experience with AI agents, product/design sense, and early-stage startup experience.",
+    "Preferred skills: TypeScript/Next.js, motion/video skills, and prior startup experience.",
+    "Stack: TypeScript, Express, Prisma, Postgres, Next.js, React, Tailwind, Claude Agent SDK, and Trigger.dev.",
+    "Location: San Francisco (in-person preferred), with remote options for exceptional candidates.",
+    "The company was founded in 2022, is part of YC W23 batch, and has a team of 5."
+  ],
+  "content_hash": "99423f0c62d1f638f72229f9faaff641a48a34b9c3a31a0a8beff1cc757c1c13",
+  "title_hash": "3e7ef5091c2db98da3a7d6fa4a256e175d578b4b34dfad10e56275ebccd4a076",
+  "collected_at": "2026-08-16T19:34:16.713657+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides clear, factual information about a startup hiring for an AI-focused role. It includes specific metrics (e.g., 200+ customers, 30,000+ creatives), technical requirements, and company background without exaggeration or misleading claims. The content is relevant to the 'AI' category and avoids spam, clickbait, or hidden advertising. The tone is neutral and professional, focusing on role details rather than promotional hype."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-16T19:34:16.713657+07:00"
+}
