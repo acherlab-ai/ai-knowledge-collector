@@ -1,0 +1,46 @@
+{
+  "id": "345b81487115ab84",
+  "title": "Stripe to Acquire AI Gateway Startup OpenRouter for Over $7 Billion",
+  "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "Stripe has reportedly finalized a deal to acquire OpenRouter, an AI gateway startup that helps customers select and access different AI models based on their needs and budget. The acquisition is valued at over $7 billion. OpenRouter, which raised $113 million in a Series B round at a $1.3 billion valuation, provides access to over 400 AI models and serves 8 million global users. The startup positions itself as a 'Stripe for AI,' offering a unified access point to prevent vendor lock-in.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Startups",
+    "Acquisitions",
+    "AI Models",
+    "Fintech"
+  ],
+  "key_points": [
+    "Stripe has finalized a deal to acquire OpenRouter for over $7 billion, according to Bloomberg.",
+    "OpenRouter acts as an AI gateway, allowing customers to select from over 400 AI models based on specific needs and budget.",
+    "The startup raised $113 million in a Series B round at a $1.3 billion valuation, with investors including Sequoia, Andreessen Horowitz, and Alphabet’s Capital G.",
+    "OpenRouter serves 8 million global users and aims to prevent vendor lock-in by providing a single access point for AI systems.",
+    "OpenRouter’s CEO, Alex Atallah, described the company as the 'Stripe for AI' due to its unified access model.",
+    "The acquisition discussions were previously reported by The Wall Street Journal before Bloomberg confirmed the deal."
+  ],
+  "content_hash": "b6d8bbaa408b932066b4b4319f4de27ae070be304ec9f495a30b2114d9e08513",
+  "title_hash": "49607851e1e47956ced16dae8ea51b6639509d35a5c1a8519390369e2dbb6285",
+  "collected_at": "2026-08-17T05:27:17.105767+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides timely, well-sourced, and relevant information about a major acquisition in the AI and fintech space. It includes verified details (e.g., funding, valuation, user base) and avoids sensationalism or misleading claims. The category is accurate, and the content is objective, focusing on factual reporting without overt bias or hidden promotional intent."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-17T05:27:17.105767+07:00"
+}
