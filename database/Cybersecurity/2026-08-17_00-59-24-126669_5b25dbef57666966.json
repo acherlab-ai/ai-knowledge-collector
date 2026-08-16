@@ -1,0 +1,48 @@
+{
+  "id": "5b25dbef57666966",
+  "title": "Ordinary WiFi Can Now Identify You with Near-Perfect Accuracy",
+  "url": "https://www.sciencedaily.com/releases/2026/08/260811052857.htm",
+  "source": "Hacker News",
+  "category": "Cybersecurity",
+  "summary": "Researchers from the Karlsruher Institut für Technologie (KIT) have demonstrated that standard WiFi networks can identify individuals with nearly 100% accuracy by analyzing unencrypted beamforming feedback information (BFI) transmitted between WiFi devices and routers. This method does not require specialized hardware, cameras, or the target to carry a connected device, raising significant privacy concerns as WiFi networks are ubiquitous in public and private spaces.",
+  "score": 9,
+  "tags": [
+    "Cybersecurity",
+    "Privacy",
+    "WiFi",
+    "Surveillance",
+    "Machine Learning"
+  ],
+  "key_points": [
+    "WiFi signals can be used to create radio-based images of people and identify them without cameras or special sensors.",
+    "The technique leverages unencrypted beamforming feedback information (BFI) from standard WiFi communications, eliminating the need for specialized hardware.",
+    "In tests with 197 participants, the system achieved nearly 100% identification accuracy, regardless of angle or walking style.",
+    "No connected device (e.g., smartphone or smartwatch) is required for identification; active WiFi devices in the vicinity suffice.",
+    "The method poses serious privacy risks, as WiFi networks in homes, offices, and public spaces could be repurposed for surveillance without user awareness.",
+    "Researchers warn of potential misuse by authorities or malicious actors, especially in authoritarian regimes to monitor protesters or other groups.",
+    "The team calls for privacy safeguards to be integrated into the upcoming IEEE 802.11bf WiFi standard to mitigate risks.",
+    "The findings were presented at the ACM Conference on Computer and Communications Security (CCS) in Taipei."
+  ],
+  "content_hash": "a60716761d7d2d31532964d485e563d7c80621369b5def4c0f9b1c7109a4cf97",
+  "title_hash": "9a2b78a241be7ffc17eb4659a93b74397223291f06bd9a569edc7a0bd7a0ccd9",
+  "collected_at": "2026-08-17T00:59:24.126669+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not applicable (informational)",
+      "fabrication": false,
+      "details": "The article provides a well-researched, factual summary of a significant cybersecurity and privacy concern. It cites credible sources (KIT researchers, ACM CCS conference), avoids sensationalism, and clearly distinguishes between the technical findings and potential implications. The category is correctly assigned as 'Cybersecurity,' and the content is objective, with no signs of manipulation, spam, or misleading claims."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-17T00:59:24.126669+07:00"
+}
