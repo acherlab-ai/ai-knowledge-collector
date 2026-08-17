@@ -1,0 +1,60 @@
+{
+  "id": "2b385af36e4880c9",
+  "title": "Fairphone 6 Main Camera Driver Development for PostmarketOS",
+  "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+  "source": "Hacker News",
+  "category": "OpenSource",
+  "summary": "The author has successfully developed a driver for the Fairphone 6's main camera to work with PostmarketOS, a Linux-based mobile operating system. The driver includes auto-focus and color correction, though the latter is still a work in progress. The post details improvements made, comparisons with Android image quality, and plans for further enhancements like laser rangefinder autofocus and selfie camera support. Additionally, the author discusses progress on emergency calling verification, confirmed working carriers, and long-term goals for a RISC-V Linux phone under a non-profit model.",
+  "score": 8,
+  "tags": [
+    "OpenSource",
+    "Linux",
+    "Mobile",
+    "Hardware",
+    "PostmarketOS",
+    "Fairphone"
+  ],
+  "key_points": [
+    "Developed a working main camera driver for Fairphone 6 on PostmarketOS, including auto-focus and color correction (still in progress).",
+    "Image quality improvements demonstrated, though graininess remains an issue compared to Android.",
+    "Plans to upstream the driver with collaboration from another developer (nondescriptpointer).",
+    "Emergency calling test approved for August 18, confirming functionality on Linux phones.",
+    "Four carriers confirmed to work with Fairphone 6 running PostmarketOS.",
+    "Future goals include laser rangefinder autofocus, selfie camera, fingerprint sensor, and extensive testing.",
+    "Long-term vision to create a RISC-V Linux phone under a non-profit company (Catcrafts).",
+    "Financial transparency provided via a live donation and expense dashboard.",
+    "Shipping restrictions announced due to liability insurance and sanctions (excludes US, CA, RU, BY, KP)."
+  ],
+  "content_hash": "3556e03c03d332c62907c3145accbdc0e438e9fea0cde0a982272ab692a4963e",
+  "title_hash": "9fe1d85be4eaa0ce240604692a9148a8a33321df60607cce96d70bdc8dda6236",
+  "collected_at": "2026-08-18T05:33:18.478999+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "clear (review/opinion context is technical and fact-based)",
+      "fabrication": false,
+      "details": [
+        "The article provides detailed technical insights into open-source driver development for Fairphone 6 on PostmarketOS, which is highly useful for developers and Linux mobile enthusiasts.",
+        "No spam or hidden advertisements detected; the content is purely technical and community-driven.",
+        "Title and summary accurately reflect the content without clickbait.",
+        "Information is well-researched, with clear comparisons (e.g., Android vs. PostmarketOS image quality) and future roadmaps.",
+        "No significant redundancy or repetition; the post is concise and structured.",
+        "Category 'OpenSource' is correct; tags are relevant.",
+        "Minimal bias; the author presents facts, progress, and limitations objectively (e.g., graininess issues, WIP status).",
+        "Opinions (e.g., long-term RISC-V vision) are clearly distinguished from technical facts (e.g., driver features, carrier compatibility).",
+        "No fabrication; claims are verifiable (e.g., emergency calling test date, financial transparency dashboard)."
+      ]
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-18T05:33:18.478999+07:00"
+}
