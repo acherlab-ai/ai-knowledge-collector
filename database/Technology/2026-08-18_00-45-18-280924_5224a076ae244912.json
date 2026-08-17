@@ -1,0 +1,46 @@
+{
+  "id": "5224a076ae244912",
+  "title": "Feedly Attributes Weeklong Slowdown to Bug, Not Its AI Pivot",
+  "url": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot",
+  "source": "TechCrunch",
+  "category": "Technology",
+  "summary": "Feedly, a leading RSS reader with 15 million users, experienced a weeklong slowdown in its web app, causing frustration among users and paying subscribers. The company attributed the issue to a bug related to the 'Mark as Read' feature on accounts with many folders, not its pivot to AI-driven cyber threat intelligence. Feedly's CEO confirmed that RSS functionality remains a priority despite the shift toward AI. Additional issues include the shutdown of Feedly Classic (a legacy mobile app) and problems with the iOS app, which the company is investigating.",
+  "score": 8,
+  "tags": [
+    "RSS",
+    "AI",
+    "Bug",
+    "App Performance",
+    "Tech Support"
+  ],
+  "key_points": [
+    "Feedly, the largest standalone RSS reader, suffered a weeklong slowdown in its web app, making it 'unusably slow' for users.",
+    "The issue was attributed to a bug in the 'Mark as Read' feature for accounts with many folders, not Feedly's pivot to AI.",
+    "Feedly's CEO stated that RSS functionality remains a priority, despite the company's focus on AI-driven cyber threat intelligence.",
+    "The Feedly Classic mobile app was retired without warning, affecting a small number of users.",
+    "Users reported issues with the iOS app, which Feedly is investigating and plans to fix quickly.",
+    "Feedly has 15 million users and competes with other RSS readers like Inoreader and NetNewsWire."
+  ],
+  "content_hash": "3d6f1db4316605d6c0f5aa4d85e8e04dae86202bc3b9bc98a7ec69509da7f3a2",
+  "title_hash": "aec41e425dc998c3f0759f46417e8504775316deb5e93b3cad0ab2887ee351a9",
+  "collected_at": "2026-08-18T00:45:18.280924+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "clear (where applicable)",
+      "fabrication": false,
+      "details": "The article provides a clear, factual report on Feedly's technical issues and their response, without exaggeration or misleading claims. It distinguishes between reported user experiences (opinion) and official statements (fact). The content is relevant to the Technology category, well-structured, and free of spam, clickbait, or hidden advertising. Minor deductions in score are due to the absence of deeper technical analysis (e.g., root cause of the bug), but this does not detract from its overall value."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-18T00:45:18.280924+07:00"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "b757c790781d8f2e",
+  "title": "The Gasolini AR1: A Low-Cost, Efficient Sports Car as an Alternative to Hypercars",
+  "url": "https://arstechnica.com/cars/2026/08/the-opposite-of-a-hypercar-is-fun-meet-the-gasolini-ar1",
+  "source": "Ars Technica",
+  "category": "Hardware",
+  "summary": "The Gasolini AR1 is a hand-built, lightweight sports car designed by Robert Ely as a sustainable and affordable alternative to high-performance hypercars and expensive sports cars. Utilizing parts from a 2017 Honda CBR500 motorbike, including its 47 hp engine, the AR1 weighs under 1,000 lbs and emphasizes driving enjoyment over speed. The car features a unique aerodynamic design, a tube chassis, and skinny tires from a Ford Ka. Ely also plans an electric version, the AR2, using a HyPer 9 motor and Jaguar I-Pace batteries. The AR1 can be built for under $7,000, with plans and build instructions available for purchase.",
+  "score": 8,
+  "tags": [
+    "Hardware",
+    "Automotive",
+    "DIY",
+    "Sustainability",
+    "Innovation"
+  ],
+  "key_points": [
+    "The Gasolini AR1 is a hand-built, low-cost sports car designed as an alternative to hypercars and expensive sports cars.",
+    "It uses a 47 hp engine from a 2017 Honda CBR500 motorbike and weighs less than 1,000 lbs (454 kg).",
+    "The car emphasizes fun and efficiency over high speed, with a focus on sustainability and affordability.",
+    "Features include a unique aerodynamic design, tube chassis, and skinny tires from a Ford Ka.",
+    "An electric version, the AR2, is in development, using a HyPer 9 motor and Jaguar I-Pace batteries.",
+    "The AR1 can be built for under $7,000, with plans and build instructions available for DIY enthusiasts."
+  ],
+  "content_hash": "d4dfe4a14cb70fba97d7a8d533935c49f502a5abcdc54e36118b8b0934178ecc",
+  "title_hash": "611867ef5b884b7c65191f07bd184834e439d6dd923e9712f62fc428e0ab79b1",
+  "collected_at": "2026-08-18T00:45:13.299566+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a detailed and informative overview of the Gasolini AR1, a low-cost, DIY sports car. It clearly explains the design philosophy, technical specifications, and future plans (AR2), making it highly useful for automotive and DIY hardware enthusiasts. The content is factual, well-structured, and free of spam, clickbait, or hidden advertisements. The category 'Hardware' is accurate, and the tone remains neutral with no excessive bias. No fabrication or misleading claims are detected."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-18T00:45:13.299566+07:00"
+}
