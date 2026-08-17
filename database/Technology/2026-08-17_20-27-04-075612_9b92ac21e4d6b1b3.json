@@ -1,0 +1,47 @@
+{
+  "id": "9b92ac21e4d6b1b3",
+  "title": "Uber Adds Zipline Drones to Its Eats Delivery Network",
+  "url": "https://techcrunch.com/2026/08/17/uber-adds-zipline-drones-to-its-eats-delivery-network",
+  "source": "TechCrunch",
+  "category": "Technology",
+  "summary": "Uber is partnering with drone delivery company Zipline to integrate drone deliveries into its Uber Eats platform, aiming to achieve one million daily deliveries by 2029. The collaboration will begin later this year in Zipline’s existing markets, with plans to expand to dozens of U.S. cities. Uber views this as a significant growth opportunity for its Eats service, leveraging Zipline’s drones to fulfill orders within 5-10 minutes. The partnership aligns with Uber’s strategy of investing in and collaborating with multiple autonomous and drone delivery providers to stay competitive in emerging technologies.",
+  "score": 8,
+  "tags": [
+    "Drones",
+    "Delivery",
+    "Autonomous Systems",
+    "Uber",
+    "Zipline",
+    "Logistics"
+  ],
+  "key_points": [
+    "Uber is partnering with Zipline to integrate drone deliveries into Uber Eats, targeting one million daily deliveries by 2029.",
+    "Deliveries will start by the end of 2026 in Zipline’s existing markets, with expansion planned for dozens of U.S. cities.",
+    "Uber aims to fulfill orders within 5-10 minutes using Zipline’s drones, positioning this as a major growth driver for Uber Eats.",
+    "The partnership reflects Uber’s broader strategy of collaborating with multiple autonomous and drone delivery providers to maintain a competitive edge.",
+    "Zipline recently raised $800 million in funding, valuing the company at $7.6 billion, highlighting its prominence in the drone delivery space.",
+    "Uber’s approach mirrors its earlier investments in autonomous vehicles, though past partnerships (e.g., with Waymo) have faced challenges."
+  ],
+  "content_hash": "c401ec45c8c6e651c2461fdf4c240fc097acb905099c44c1bfbe5a08ed90f927",
+  "title_hash": "5b3a7f390f3e84fb939080e760c1d49fbedaca84837ec949648adb491a4c3bd7",
+  "collected_at": "2026-08-17T20:27:04.075612+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_distinction": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, factual overview of Uber's partnership with Zipline for drone deliveries. It includes specific details (e.g., timeline, goals, funding) without exaggeration or misleading claims. The content is relevant to the 'Technology' category, avoids spam/clickbait, and maintains objectivity. Minor deduction in score for lacking deeper analysis (e.g., regulatory challenges, past failures in autonomous delivery), but this does not warrant rejection."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-17T20:27:04.075612+07:00"
+}
