@@ -1,0 +1,49 @@
+{
+  "id": "76963b852e28c23f",
+  "title": "AI-Generated GitHub Copilot 'Autofix' Introduced Critical Workflow Injection Vulnerability in Snowflake's Jira",
+  "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+  "source": "Hacker News",
+  "category": "Cybersecurity",
+  "summary": "Wiz Research's AI-powered security tool, Red Agent, discovered a critical script injection vulnerability in Snowflake's GitHub Actions workflow. The vulnerability was introduced via an AI-generated 'autofix' commit by GitHub Copilot, which replaced a secure input sanitization pattern with direct string interpolation, enabling arbitrary command execution. The flaw allowed unauthenticated users to exfiltrate Jira credentials, granting access to Snowflake's engineering and security projects. Snowflake patched the issue within hours of disclosure, and forensic analysis confirmed no unauthorized access occurred.",
+  "score": 9,
+  "tags": [
+    "Cybersecurity",
+    "AI",
+    "GitHub Actions",
+    "Vulnerability Disclosure",
+    "Automated Security"
+  ],
+  "key_points": [
+    "A critical script injection vulnerability was discovered in Snowflake's public GitHub repository (`snowflakedb/snowflake-connector-net`), introduced via an AI-generated commit by GitHub Copilot Autofix.",
+    "The vulnerability allowed unauthenticated users to execute arbitrary commands in a GitHub Actions runner by crafting a malicious issue title, leading to credential exfiltration.",
+    "The flaw was introduced on June 18, 2026, when Copilot Autofix replaced a secure `env` + `jq` parsing pattern with direct string interpolation in a shell script, removing existing input sanitization.",
+    "Wiz Red Agent, an autonomous AI-powered security tool, identified and exploited the vulnerability within five days of its introduction, demonstrating the speed of automated security discovery.",
+    "Exploitation involved crafting an issue title that broke out of the `echo` command, enabling out-of-band exfiltration of Jira credentials via a callback to an attacker-controlled server.",
+    "The exfiltrated token granted read access to Snowflake's Jira projects, including engineering, security compliance, and bug bounty tracking.",
+    "Snowflake remediated the issue on the same day (June 23, 2026) by restoring the secure parsing pattern, revoking the compromised token, and verifying no unauthorized access occurred during the exposure window.",
+    "Key takeaways highlight the need for rigorous oversight of AI-generated code, rapid patch cycles, and guardrails to prevent AI tools from reintroducing insecure patterns or removing security-hardened code.",
+    "The incident underscores the dual role of AI in both introducing and detecting vulnerabilities, emphasizing the importance of automated security tools in modern DevOps pipelines."
+  ],
+  "content_hash": "b1c8cea9d72062199e29d43bc62d0f2891d4f9e447e67bf861318fe024a0e757",
+  "title_hash": "0e22c6e7a4efe81faf7f3b23820c5bd228481683a999e8840e22581bedc6c4d9",
+  "collected_at": "2026-08-17T21:45:19.786633+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "clear (review/opinion context is analytical, not subjective)",
+      "fabrication": false,
+      "details": "The article provides a detailed, well-researched case study of an AI-generated vulnerability in a real-world scenario (Snowflake's GitHub Actions workflow). It includes technical specifics (e.g., the insecure string interpolation, exploitation method, and remediation steps), clear timelines, and actionable takeaways for cybersecurity practices. The content is neutral, fact-based, and avoids sensationalism or bias. The category 'Cybersecurity' is accurate, and the tags are relevant. No spam, clickbait, or hidden advertising is present. The analysis distinguishes between facts (e.g., the vulnerability's impact) and opinions (e.g., the need for AI oversight) effectively."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-17T21:45:19.786633+07:00"
+}

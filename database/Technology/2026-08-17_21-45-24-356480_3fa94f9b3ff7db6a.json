@@ -1,0 +1,49 @@
+{
+  "id": "3fa94f9b3ff7db6a",
+  "title": "How to Disable or Avoid Intrusive AI Features Across Platforms and Applications",
+  "url": "https://www.librarian.net/notoai",
+  "source": "Hacker News",
+  "category": "Technology",
+  "summary": "A practical guide providing step-by-step instructions to disable or avoid intrusive AI features in various software, operating systems, and devices. The article covers methods for Adobe products, Google services, Apple Intelligence, Windows 11, browsers (Chrome, Edge, Firefox), messaging apps (Slack, WhatsApp), and other platforms like Zoom and Yahoo Mail. It also includes additional resources for further AI removal and detection.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Privacy",
+    "Software",
+    "Operating Systems",
+    "User Control"
+  ],
+  "key_points": [
+    "Instructions to disable AI in Adobe Acrobat/Reader on Windows and macOS.",
+    "Steps to turn off Gemini features on Android, including in Messages and other apps.",
+    "How to disable Apple Intelligence and Siri learning features on iOS, iPadOS, and macOS.",
+    "Methods to disable AI features in browsers like Chrome, Edge, and Firefox, including extensions and settings.",
+    "Guides to opt out of AI in Google Workspace (Gmail, Docs) and DuckDuckGo search engine.",
+    "Disabling AI features in Slack, WhatsApp, and Zoom, including suggested replies and meeting transcriptions.",
+    "Steps to uninstall or disable Copilot in Windows 11, including in File Explorer, Notepad, and Office 365.",
+    "Additional tools and resources for removing AI features, such as O&O ShutUp 10 and Win11DeBloat.",
+    "Links to further reading on AI removal and detection, including the Library Freedom Project."
+  ],
+  "content_hash": "4ba2c56ffe177f6e9959653b1aa6b088ee0f952aa188529c68e3fdbdbc44fb56",
+  "title_hash": "85ba51d7169ca85b11e43fa0b9963c09998a1c412d2de664631fdff35d0efb47",
+  "collected_at": "2026-08-17T21:45:24.356480+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a comprehensive, step-by-step guide to disabling intrusive AI features across multiple platforms, which is highly practical and useful for users concerned about privacy and control. The content is well-researched, factual, and avoids spam, clickbait, or hidden advertisements. The category is correctly assigned as 'Technology,' and the information is presented neutrally without excessive bias. The article does not mix opinion with fact unnecessarily, and all claims are verifiable. The high quality of the guide justifies the score of 9, with minor room for improvement in depth for niche platforms."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-17T21:45:24.356480+07:00"
+}

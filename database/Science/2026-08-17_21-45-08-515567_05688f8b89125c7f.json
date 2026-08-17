@@ -1,0 +1,47 @@
+{
+  "id": "05688f8b89125c7f",
+  "title": "The Only Known Trebuchet Casualty in History: Skeleton 150’s Violent End",
+  "url": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history",
+  "source": "Ars Technica",
+  "category": "Science",
+  "summary": "Archaeological evidence from Stirling Castle reveals the only known victim of a trebuchet in history. Skeleton 150, a medieval defender, suffered catastrophic injuries consistent with a high-velocity impact from a trebuchet-launched projectile. Forensic analysis, including X-rays and micro-CT scans, confirmed the cause of death as a single, crushing blow from a heavy, fast-moving object. The discovery sheds light on the brutal realities of medieval siege warfare during the Scottish Wars of Independence.",
+  "score": 8,
+  "tags": [
+    "archaeology",
+    "medieval history",
+    "forensic science",
+    "siege warfare",
+    "Scottish history"
+  ],
+  "key_points": [
+    "Skeleton 150, discovered beneath Stirling Castle’s chapel, is the only confirmed trebuchet casualty in history.",
+    "Forensic analysis revealed 61 skull fractures and 60 rib fragments, indicating a high-energy impact from a trebuchet projectile traveling at 200–300 km/h.",
+    "The injuries ruled out other causes of death, such as falls, trampling, or blunt-force trauma from melee weapons.",
+    "Trebuchets were not designed as antipersonnel weapons but as siege engines to destroy fortifications; Skeleton 150’s death was likely a rare accident.",
+    "The skeleton dates to the 1304 siege of Stirling Castle during the Scottish Wars of Independence, a pivotal conflict between Scotland and England.",
+    "The siege involved 13 trebuchets, including Edward I’s massive 'War Wolf,' though Skeleton 150 likely died before its deployment.",
+    "Isotopic analysis of other remains, such as Sir John de Stricheley, provided clues about the origins and identities of the buried individuals."
+  ],
+  "content_hash": "446aa99e70e01757e83449cb31cfb3ec8d6ea046ba1cb37a70421605beb2c0de",
+  "title_hash": "3d58d1ed1117825765ffaf57fb5ac209190d8f81adc7af967e1e71406b3894e1",
+  "collected_at": "2026-08-17T21:45:08.515567+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_distinction": "not applicable (factual reporting)",
+      "fabrication": false,
+      "details": "The article provides a well-researched, factual account of an archaeological discovery with forensic analysis. It is highly informative, relevant to the 'Science' category (specifically archaeology and forensic science), and avoids sensationalism or bias. The content is original, non-repetitive, and adheres to academic standards without hidden agendas or misleading claims."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-17T21:45:08.515567+07:00"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "c7de0ac22c0c4ca3",
+  "title": "Wispr raises $280M at $2B valuation to expand beyond AI dictation",
+  "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "Wispr, a startup specializing in AI-powered dictation tools, has secured $280 million in Series B funding at a $2 billion valuation, led by Menlo Ventures. The company plans to use the funds to expand into new areas, including AI-powered meeting note-taking, and improve its speech recognition technology. Wispr also announced a new model, Canto, aimed at reducing dictation error rates from 30% to less than 10%. The startup is scaling its operations globally and exploring new interfaces for human-computer interaction through its Wispr Interface Labs.",
+  "score": 8,
+  "tags": [
+    "AI",
+    "Funding",
+    "Speech Recognition",
+    "Startups",
+    "Human-Computer Interaction"
+  ],
+  "key_points": [
+    "Wispr raised $280 million in Series B funding at a $2 billion valuation, bringing its total funding to $361 million.",
+    "The funding round was led by Menlo Ventures, with participation from existing and new investors.",
+    "Wispr is expanding beyond dictation into AI-powered meeting note-taking, competing with tools like Granola, Fireflies, and Read AI.",
+    "The company launched a new model, Canto, to improve speech recognition accuracy, reducing error rates from 30% to under 10%.",
+    "Wispr has scaled its operations in regions like India and the U.K. and partnered with hardware makers like the Oasis ring for silent dictation.",
+    "The startup established Wispr Interface Labs to explore new interfaces for human-computer interaction, led by Ariya Rastrow, a former Amazon Alexa team member."
+  ],
+  "content_hash": "6a7150c4c54ce431bcb0cd826ebc59522646feea38a268d985bcb5405e2c77d6",
+  "title_hash": "cecef647d808891dd5be87339f7f0d9847395b5e76c5f123ac8a42ec0b82e2e7",
+  "collected_at": "2026-08-17T21:45:13.096094+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides valuable, fact-based information about Wispr's funding, expansion plans, and technological advancements in AI-powered speech recognition. It is well-structured, avoids exaggeration, and does not contain spam, clickbait, or hidden advertisements. The category 'AI' is accurate, and the content maintains a neutral tone while clearly distinguishing factual reporting from any implied industry trends."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-17T21:45:13.096094+07:00"
+}
