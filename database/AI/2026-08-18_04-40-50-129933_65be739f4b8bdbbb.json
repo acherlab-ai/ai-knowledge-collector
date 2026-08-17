@@ -1,0 +1,47 @@
+{
+  "id": "65be739f4b8bdbbb",
+  "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+  "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "Relay, an AI-powered workflow automation startup founded in 2021, is shutting down. Its founder and CEO, Jacob Bank, along with some staff, will join Google’s Chrome team. Bank will serve as VP of Product for Google Chrome, focusing on AI integration. Relay’s service will end for paying customers on September 14, 2026, with free access already discontinued. Bank previously worked at Google and aims to leverage Chrome as a platform for AI-driven productivity tools.",
+  "score": 8,
+  "tags": [
+    "AI",
+    "Google",
+    "Chrome",
+    "Startup",
+    "Automation"
+  ],
+  "key_points": [
+    "Relay, an AI-powered workflow automation tool, is shutting down after being launched in 2021.",
+    "Founder and CEO Jacob Bank, along with some staff, will join Google’s Chrome team as VP of Product.",
+    "Relay’s paying customers will lose access on September 14, 2026; free users lost access on August 15, 2026.",
+    "Bank previously worked at Google for over six years, including roles in Gmail, Google Calendar, and Google Chat.",
+    "Relay aimed to streamline repetitive tasks like document drafting and project management using AI.",
+    "Bank’s move to Chrome aligns with Google’s broader AI integration strategy, including Gemini in Chrome and Search.",
+    "Google’s Gemini AI has surpassed 1 billion users, indicating strong adoption of AI tools."
+  ],
+  "content_hash": "13cc22f50d7158eebac37436f1b8d353a9166d66496828ba70afc6e47a1df99e",
+  "title_hash": "e481c8cd66a678127c3f94cb35b4fd016cf6ffc865e9389d44f195e782935bed",
+  "collected_at": "2026-08-18T04:40:50.129933+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, factual summary of Relay's shutdown and the transition of its team to Google Chrome. It includes relevant context about the startup's history, the founder's background, and Google's AI strategy. The information is well-structured, concise, and free of spam, clickbait, or hidden advertising. The category 'AI' is appropriate, and the content maintains neutrality without excessive bias or fabrication."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-18T04:40:50.129933+07:00"
+}
