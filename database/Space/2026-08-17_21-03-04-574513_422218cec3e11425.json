@@ -1,0 +1,53 @@
+{
+  "id": "422218cec3e11425",
+  "title": "Satellite Operators Face Worsening Launch Crisis Amid Rising Demand and Supply Constraints",
+  "url": "https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse",
+  "source": "Ars Technica",
+  "category": "Space",
+  "summary": "The satellite industry is experiencing a severe launch capacity crunch despite record rocket launches. Demand for satellite deployments is surging, but supply is constrained due to SpaceX's planned phase-out of Falcon 9, delays in new rockets like Vulcan and New Glenn, and limited alternatives from Europe, Japan, and India. The crisis may worsen before improving, with potential government intervention discussed but unlikely.",
+  "score": 9,
+  "tags": [
+    "Space",
+    "Satellite",
+    "Launch Industry",
+    "SpaceX",
+    "Falcon 9",
+    "Starship",
+    "Vulcan",
+    "New Glenn",
+    "Ariane 6"
+  ],
+  "key_points": [
+    "The launch industry has seen a three-fold increase in orbital rockets over the past decade, but satellite operators face a growing crunch in launch availability due to surging demand.",
+    "SpaceX's Falcon 9, the backbone of Western launch capacity, is being phased out in favor of Starship, creating uncertainty for commercial satellite operators who may lose access to launches after 2028.",
+    "The Ukraine War disrupted Russian launch services, leaving SpaceX as the sole major provider for Western satellite launches, exacerbating the supply-demand imbalance.",
+    "New rockets like Vulcan (ULA) and New Glenn (Blue Origin) are delayed, with Vulcan struggling with solid rocket booster issues and New Glenn offline until at least late 2026 after a launch pad explosion.",
+    "Europe’s Ariane 6, Japan’s H3, and India’s LVM3 have not filled the gap, with limited launch cadences and technical setbacks.",
+    "Next-gen medium-lift rockets (e.g., Stoke Space’s Nova, Rocket Lab’s Neutron, Relativity’s Terran R) are in development but unlikely to scale quickly enough to meet demand before 2028.",
+    "Industry experts predict the crisis will worsen in the next 2–4 years before new launch providers can ramp up production and cadence.",
+    "Potential government intervention to extend Falcon 9 operations is discussed but deemed unlikely due to logistical, political, and workforce challenges.",
+    "Long-term solutions include expanding spaceport infrastructure, international launch agreements, and supporting new entrants, but balance between supply and demand may not occur until the 2030s."
+  ],
+  "content_hash": "60a25517382f513c2f4da3ba4cb57082c48039f207b5b6af6c6a22fe66fba0a7",
+  "title_hash": "06b2cc2b10a2c250557e788d6a66ff9f99afa6155ff5d5323553802ddb2f900f",
+  "collected_at": "2026-08-17T21:03:04.574513+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not applicable (analytical, not review/opinion)",
+      "fabrication": false,
+      "details": "The article provides a well-researched, data-driven analysis of the satellite launch crisis, backed by industry trends and expert insights. It avoids sensationalism, clearly distinguishes between facts and projections, and maintains objectivity despite discussing commercial entities. The category is correctly assigned as 'Space'. Minor deduction in score for lack of direct industry source citations, but overall highly informative and relevant."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-17T21:03:04.574513+07:00"
+}
