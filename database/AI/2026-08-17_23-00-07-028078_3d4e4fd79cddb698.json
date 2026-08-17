@@ -1,0 +1,51 @@
+{
+  "id": "3d4e4fd79cddb698",
+  "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+  "url": "https://news.ycombinator.com/item?id=49332751",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "Speko is a platform that optimizes voice AI workflows by dynamically selecting the best combination of speech-to-text (STT), large language models (LLMs), and text-to-speech (TTS) models based on user-defined constraints (accuracy, latency, cost, or balanced). It eliminates the need for manual benchmarking and integration, providing an API-driven solution for enterprises and developers. The platform benchmarks models publicly, ensures failover during connection setup, and offers an open-source gateway for teams preferring self-hosted solutions. Speko addresses common pain points like outdated models, high error rates, and language-specific or domain-specific (e.g., medical) optimization challenges.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Voice AI",
+    "STT",
+    "TTS",
+    "LLM",
+    "OpenSource",
+    "Benchmarking"
+  ],
+  "key_points": [
+    "Speko dynamically selects optimal STT, LLM, and TTS models based on constraints (accuracy, latency, cost, or balanced).",
+    "Solves the problem of outdated voice AI stacks by continuously benchmarking and updating models.",
+    "Publicly benchmarks models and publishes results, including cases where alternatives outperform their selections.",
+    "Offers an API for seamless integration and a dashboard for easy model switching.",
+    "Includes failover mechanisms during connection setup to ensure reliability.",
+    "Open-sourced gateway (MIT license) for self-hosted deployments, avoiding extra network hops and key-sharing.",
+    "Supports domain-specific use cases (e.g., medical vocabulary) and multilingual optimization.",
+    "Charges for hosted routing and managed keys, while the gateway and BYOK setup remain free.",
+    "Trained an automatic TTS naturalness scorer that aligns with human rater preferences."
+  ],
+  "content_hash": "88e25fc77ea35ea5d2434cd4ea66a230d48f4b2835cfc0ef2a573d867d7d55a0",
+  "title_hash": "7b628776ecc176b9ca1be01b848b11f239db6dab3665d415eb75fe8b39ec51b0",
+  "collected_at": "2026-08-17T23:00:07.028078+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, detailed, and technically sound overview of Speko, a platform for optimizing voice AI workflows. It addresses a genuine pain point in the industry (outdated models, high error rates, domain-specific challenges) and offers a well-structured solution. The summary and key points are informative, non-repetitive, and free of exaggeration or misleading claims. The platform's transparency (public benchmarking, open-source gateway) and failover mechanisms add credibility. No spam, clickbait, or hidden ads are detected. The category 'AI' is accurate, and the content maintains a neutral, factual tone without excessive bias or fabrication."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-17T23:00:07.028078+07:00"
+}

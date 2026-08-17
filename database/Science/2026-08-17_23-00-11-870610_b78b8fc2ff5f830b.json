@@ -1,0 +1,45 @@
+{
+  "id": "b78b8fc2ff5f830b",
+  "title": "How to put 170 atoms in an atom",
+  "url": "https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom",
+  "source": "Hacker News",
+  "category": "Science",
+  "summary": "The article explains how scientists can fit multiple atoms inside a single atom by creating a Rydberg atom—a highly excited atom with an outermost electron orbiting at a much larger radius than usual. By cooling additional atoms to near absolute zero using a Bose-Einstein Condensate (BEC), these atoms can be trapped within the Rydberg atom's expanded orbital, forming a Rydberg polaron. This exotic quantum structure allows up to 170 atoms to coexist within another atom without violating physical laws, offering insights into quantum mechanics and atomic behavior.",
+  "score": 9,
+  "tags": [
+    "quantum mechanics",
+    "Rydberg atoms",
+    "Bose-Einstein Condensate",
+    "atomic physics",
+    "Rydberg polaron"
+  ],
+  "key_points": [
+    "Atoms are mostly empty space, with the nucleus being tens of thousands of times smaller than the electron's orbital radius.",
+    "Rydberg atoms are created by exciting an electron to a higher energy level, expanding the atom's size up to 1000 times larger than normal.",
+    "A Bose-Einstein Condensate (BEC) is used to cool atoms to near absolute zero, reducing their energy and allowing them to be packed closely together.",
+    "In 2018, scientists created a Rydberg polaron by exciting a strontium atom in a BEC, trapping up to 170 additional atoms within its expanded orbital.",
+    "Rydberg polarons provide valuable insights into quantum mechanics and atomic interactions, though their practical applications are not yet clear."
+  ],
+  "content_hash": "8e97af475b684545e6027646adb67005030232c09692c70c1edc3c8968d780c0",
+  "title_hash": "ea2976d1b9e451c5945bd276b5618cc89b4631de43b8f8435caa73aae70b9eab",
+  "collected_at": "2026-08-17T23:00:11.870610+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "disguised_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_distinction": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, accurate, and engaging explanation of Rydberg polarons, a complex quantum phenomenon. It avoids sensationalism, clickbait, or disguised advertising. The content is well-researched, fact-based, and aligns perfectly with the 'Science' category. The summary and key points are concise yet informative, offering valuable insights into atomic physics without redundancy or bias."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-17T23:00:11.870610+07:00"
+}
