@@ -1,0 +1,48 @@
+{
+  "id": "edd24dd0fb800932",
+  "title": "Nvidia Invests $1.5B in SoftBank Data Center Developer Linked to OpenAI",
+  "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "Nvidia announced a $1.5 billion investment in SB Energy, a data center developer backed by SoftBank and OpenAI. The deal makes Nvidia the exclusive supplier of compute infrastructure for OpenAI’s Ports-Pike data center in Ohio, with potential expansion from 4.25 GW to 8 GW. Nvidia will also extend up to $105 billion in credit for construction. The project includes a $33 billion natural gas power plant on a former uranium enrichment site, reflecting rising energy costs and potential future competition for natural gas resources.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "data centers",
+    "Nvidia",
+    "OpenAI",
+    "SoftBank",
+    "infrastructure",
+    "energy"
+  ],
+  "key_points": [
+    "Nvidia will invest $1.5 billion in SB Energy, a data center developer linked to SoftBank and OpenAI.",
+    "Nvidia becomes the sole supplier of compute infrastructure for OpenAI’s Ports-Pike data center in Ohio.",
+    "The data center may scale from 4.25 GW to 8 GW, with Nvidia providing up to $105 billion in credit for construction.",
+    "SB Energy will build a 9.2 GW natural gas power plant on a former U.S. Department of Energy uranium enrichment site.",
+    "The $33 billion power plant cost reflects a 66% increase in natural gas plant construction expenses over the past two years.",
+    "Future competition for natural gas could triple prices in some U.S. regions."
+  ],
+  "content_hash": "29714150e0847b3494803b4c999e2ec11ea01ef7ef684bfcbd80b111cba15ac9",
+  "title_hash": "5e559dd8b2bdac27266b6eb7a39c2b684faddba5a665c959839b82310e2fd67a",
+  "collected_at": "2026-08-17T22:39:05.370768+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, fact-based summary of Nvidia's investment in SB Energy, its implications for AI infrastructure, and energy-related challenges. The information is well-researched, relevant to the AI category, and avoids sensationalism or hidden advertising. The slight emphasis on energy costs does not constitute bias but rather highlights a critical aspect of data center development."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-17T22:39:05.370768+07:00"
+}
