@@ -1,0 +1,47 @@
+{
+  "id": "2d74080d5722957f",
+  "title": "Physicists discover a hidden gluon structure inside protons that could rewrite textbooks",
+  "url": "https://www.sciencedaily.com/releases/2026/08/260815064805.htm",
+  "source": "Hacker News",
+  "category": "Science",
+  "summary": "Physicists at Brookhaven National Laboratory have uncovered evidence suggesting that gluons, not just quarks, play a crucial role in carrying and conserving the baryon number in protons. Using data from the STAR detector at the Relativistic Heavy Ion Collider (RHIC), the team proposes that a Y-shaped 'gluon junction' may be responsible for this fundamental property, challenging the traditional view that baryon number is solely divided among the proton's three valence quarks. This discovery could reshape understanding of proton stability and matter's fundamental structure.",
+  "score": 9,
+  "tags": [
+    "Physics",
+    "Quantum Physics",
+    "Particle Physics",
+    "Proton Structure",
+    "Gluons",
+    "Baryon Number"
+  ],
+  "key_points": [
+    "New findings from the STAR detector at RHIC suggest gluons, arranged in a Y-shaped junction, may carry baryon number in protons, not just the three valence quarks as traditionally believed.",
+    "Baryon number conservation is critical for understanding proton stability and the matter-antimatter asymmetry in the universe.",
+    "The research challenges the simplified textbook model of protons, indicating a more complex internal structure involving gluons and quark-antiquark pairs.",
+    "High-energy collisions at RHIC showed an unexpected excess of baryons perpendicular to the beamline, supporting the gluon junction hypothesis.",
+    "The gluon junction mechanism could explain why baryon number is conserved even when valence quarks continue moving forward post-collision.",
+    "This discovery may lead to revisions in quantum chromodynamics (QCD) models and deepen understanding of fundamental matter properties."
+  ],
+  "content_hash": "fc3fbf19fd24f74b04b1b5c2a3841baa4fe5fc411327eacc98c5d0b92def4b65",
+  "title_hash": "49c0cdf7a57081078d5cd10fd5c133594ac6c9d21a4e8b18a696400546d1486f",
+  "collected_at": "2026-08-17T08:38:17.265872+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_distinction": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a well-researched and scientifically grounded summary of a significant discovery in particle physics. It clearly explains the implications of the findings, avoids sensationalism, and adheres to factual reporting. The category is correctly assigned as 'Science,' and the content is objective, with no signs of manipulation, hidden advertising, or spam. The quality of information is high, with no redundancy or fabrication."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-17T08:38:17.265872+07:00"
+}
