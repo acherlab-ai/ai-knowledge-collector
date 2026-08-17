@@ -1,0 +1,45 @@
+{
+  "id": "85e712827b2ba0c0",
+  "title": "WordPress.com Launches Free Student Plan to Train Next-Gen Web Creators",
+  "url": "https://techcrunch.com/2026/08/17/wordpress-com-targets-the-next-generation-of-web-creators-with-a-free-student-plan",
+  "source": "TechCrunch",
+  "category": "OpenSource",
+  "summary": "WordPress.com, operated by Automattic, introduces WordPress.com Education, a free plan for students and teachers. The program provides full WordPress.com domains, free domain names (.blog or .art), and plugin support without requiring a credit card. It includes 6 GB storage, backups, staging sites, and tools like SFTP/SSH and phpMyAdmin. The initiative aims to integrate WordPress into classrooms, improving students' employability and entrepreneurial skills. After the first free year, students can continue for $2/month or downgrade to a free plan while retaining their work.",
+  "score": 9,
+  "tags": [
+    "WordPress",
+    "Education",
+    "OpenSource",
+    "Web Development"
+  ],
+  "key_points": [
+    "WordPress.com Education is a free plan for students and teachers, launched by Automattic.",
+    "Includes a full WordPress.com domain, free .blog or .art domain, and plugin support without a credit card requirement.",
+    "Features 6 GB storage, backups, staging sites, SFTP/SSH, phpMyAdmin, and Studio Sync.",
+    "Piloted with 5,000 students across 27 countries; 88.9% of educators reported improved student employability.",
+    "After the first free year, students can subscribe for $2/month or downgrade to a free plan while keeping their work intact.",
+    "Aims to train the next generation of web professionals and integrate WordPress into underfunded schools."
+  ],
+  "content_hash": "6391e43d53d8cae07fce49dad35036fa725fedf66cdb8a3a68260cc97adc5c6f",
+  "title_hash": "606b33899997320cb47cbc2319bd4d3a403e4e41a381b103b8f3a0bfc270b7ee",
+  "collected_at": "2026-08-17T22:05:51.422849+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides valuable and accurate information about WordPress.com's free student plan, aligning well with the OpenSource category. It is factual, well-structured, and free from spam, clickbait, or hidden advertisements. The content is neutral, focusing on the initiative's benefits without excessive bias. The quality of information is high, with no redundancy or fabrication."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-17T22:05:51.422849+07:00"
+}
