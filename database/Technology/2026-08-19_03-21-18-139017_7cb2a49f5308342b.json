@@ -1,0 +1,46 @@
+{
+  "id": "7cb2a49f5308342b",
+  "title": "TikTok Explores Peer-to-Peer Payments via Direct Messages",
+  "url": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says",
+  "source": "TechCrunch",
+  "category": "Technology",
+  "summary": "TikTok is reportedly developing a feature to enable peer-to-peer (P2P) payments through direct messages (DMs) using its existing TikTok Pay system. References to the feature were discovered in the code of TikTok’s U.S. iPhone app, suggesting early-stage development. The feature would allow users to send money with accompanying messages, similar to Venmo. TikTok has not confirmed testing or a release timeline. This move aligns with TikTok’s broader expansion into financial services, including an application to operate as a fintech company in Brazil. Other social platforms like X (formerly Twitter) are also venturing into P2P payments.",
+  "score": 8,
+  "tags": [
+    "TikTok",
+    "FinTech",
+    "Social Media",
+    "Peer-to-Peer Payments",
+    "Mobile Apps"
+  ],
+  "key_points": [
+    "TikTok is developing a P2P payments feature via DMs, leveraging its TikTok Pay system already used in Southeast Asia for TikTok Shop.",
+    "The feature was discovered in the code of TikTok’s U.S. iPhone app, indicating early development stages.",
+    "Users would be able to 'tap to accept' payments and include messages, similar to Venmo’s functionality.",
+    "TikTok stated the feature is not currently being tested, and no release timeline has been confirmed.",
+    "This initiative follows TikTok’s broader push into financial services, including an application to operate as a fintech company in Brazil.",
+    "TikTok’s expansion mirrors trends in social media platforms (e.g., X’s X Money) integrating financial services."
+  ],
+  "content_hash": "3533584f3cbd74f840dd3a52197f64c2f9e2dce003e729762ca7dba1f0d76147",
+  "title_hash": "b18c20cb64080aadd203e1471ade5244ededa12f59af90b33f1eb87c7efff1ae",
+  "collected_at": "2026-08-19T03:21:18.139017+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides timely, well-researched information about TikTok's potential P2P payments feature. It cites credible sources (app code discovery) and contextualizes the development within broader industry trends. The content is factual, neutral, and avoids sensationalism or hidden advertising. The category 'Technology' is accurate, and the summary/key points are concise without redundancy."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-19T03:21:18.139017+07:00"
+}
