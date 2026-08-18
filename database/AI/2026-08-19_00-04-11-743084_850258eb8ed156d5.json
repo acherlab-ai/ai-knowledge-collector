@@ -1,0 +1,45 @@
+{
+  "id": "850258eb8ed156d5",
+  "title": "Claude: Degraded Performance for Multiple AI Models",
+  "url": "https://status.claude.com/incidents/q7txxvbsftgq",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "Anthropic's Claude status page reports degraded performance and elevated errors affecting multiple AI models, including Claude Mythos 5, Claude Fable 5, Claude Opus 5, Claude Sonnet 5, and Claude Haiku 4.5. The issue impacts claude.ai, the Claude API, Claude Code, and Claude Cowork. The team is investigating and will provide updates.",
+  "score": 8,
+  "tags": [
+    "AI",
+    "Anthropic",
+    "Claude",
+    "API",
+    "Service Outage"
+  ],
+  "key_points": [
+    "Degraded performance reported for multiple Claude AI models (Mythos 5, Fable 5, Opus 5, Sonnet 5, Haiku 4.5).",
+    "Elevated errors observed in requests to affected models.",
+    "Incident impacts claude.ai, Claude API (api.anthropic.com), Claude Code, and Claude Cowork.",
+    "Anthropic's team is actively investigating the issue.",
+    "Updates will be provided as the situation progresses."
+  ],
+  "content_hash": "d64f3e019d03f94ec663a13c08d7c452b17a44f115b04d1c3c71fe0ab2d7d61b",
+  "title_hash": "13ed78f8ad97b53a95963a4b2532a439975fae780e12a44c8e4b41e6fd132bff",
+  "collected_at": "2026-08-19T00:04:11.743084+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides timely, factual, and relevant information about a service outage affecting multiple Claude AI models. It is concise, well-structured, and free from spam, clickbait, or hidden advertisements. The content is neutral, focusing on the incident without bias or opinion. The category is correctly assigned, and the information is accurate and useful for users relying on Claude's services."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-19T00:04:11.743084+07:00"
+}
