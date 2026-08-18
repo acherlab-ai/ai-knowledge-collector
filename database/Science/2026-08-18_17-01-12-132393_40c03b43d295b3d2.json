@@ -1,0 +1,46 @@
+{
+  "id": "40c03b43d295b3d2",
+  "title": "Theban tomb reveals how Egyptian burial trends evolved over time",
+  "url": "https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time",
+  "source": "Ars Technica",
+  "category": "Science",
+  "summary": "A study of Theban Tomb 209 in Egypt's western necropolis provides insights into the evolution of ancient Egyptian burial practices from the 25th Dynasty to the Ptolemaic period. Researchers used an integrated archaeothanatological approach to analyze burial patterns, revealing shifts from individual, elaborate burials to the reuse of tombs with increased density and vertical superposition of bodies. The study highlights changes in coffin use, body positioning, and the inclusion of funerary artifacts over time, reflecting broader reconfigurations in Egyptian funerary traditions.",
+  "score": 8,
+  "tags": [
+    "archaeology",
+    "Egyptology",
+    "burial practices",
+    "ancient history"
+  ],
+  "key_points": [
+    "Theban Tomb 209, dating from the 25th Dynasty (754–656 BCE) to the Ptolemaic period (305–30 BCE), was studied to understand evolving burial trends.",
+    "Early burials featured individual interments in elaborate coffins, often with gender separation, and included artifacts like amphorae, amulets, and beads.",
+    "Later stages saw increased reuse of tombs, leading to higher burial density and vertical stacking of bodies, with a decline in coffin use.",
+    "Changes in body positioning (e.g., arms stretched vs. folded) and the dispersion of funerary artifacts were observed over time.",
+    "The study suggests a shift in funerary practices, prioritizing the integrity of the body and ritual efficacy over the coffin as the primary burial container.",
+    "Evidence of flooding, human intervention, and even fire (in one chamber) contributed to the complex stratigraphy of the tomb.",
+    "The tomb is described as a 'dynamic mortuary environment' where space, objects, and rituals evolved to maintain funerary continuity."
+  ],
+  "content_hash": "c00c4c177322831b138815e2a2ca1a6d9f65f5f258808784b3b1b046eebc1617",
+  "title_hash": "25a0b3dd533752558aafe0f9a62857a067f3174254ddb043e2949e41b0217c0b",
+  "collected_at": "2026-08-18T17:01:12.132393+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a well-researched, factual account of archaeological findings related to ancient Egyptian burial practices. It is informative, objective, and aligns with the 'Science' category. The summary and key points are clear, supported by evidence, and free from spam, clickbait, or hidden advertising. The content is original and does not exhibit significant bias or redundancy."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-18T17:01:12.132393+07:00"
+}
