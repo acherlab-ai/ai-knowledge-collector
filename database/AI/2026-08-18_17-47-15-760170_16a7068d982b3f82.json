@@ -1,0 +1,45 @@
+{
+  "id": "16a7068d982b3f82",
+  "title": "Google Acquires Crashed Airline Spirit’s Data for AI Training",
+  "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "Google purchased a large dataset from the defunct airline Spirit at auction for $10 million, comprising over 100 million emails, 30 million recorded customer service calls, operational flight data, and other business records. The acquisition aims to enhance Google’s AI models, particularly for specialized domains like aviation and customer service. The data was deidentified to protect personal information, though concerns remain about potential privacy risks.",
+  "score": 8,
+  "tags": [
+    "AI",
+    "Data Acquisition",
+    "Machine Learning",
+    "Aviation",
+    "Privacy"
+  ],
+  "key_points": [
+    "Google acquired Spirit’s data for $10 million after the airline’s liquidation in 2026.",
+    "The dataset includes 100M+ emails, 30M+ recorded calls, Teams/SharePoint files, and operational flight data.",
+    "Google intends to use the data to improve AI models, possibly for aviation or financial applications.",
+    "The data was deidentified, but risks of residual personal information persist.",
+    "AI companies increasingly value domain-specific datasets over generic large language models."
+  ],
+  "content_hash": "792bf1d9751140b54d266740b0096ee19475f3d5bbe34f0503a8556a4c6eb3ba",
+  "title_hash": "6a2bb97af58d676f80e4251ebd3fbd961e410b8b0d88aef8ab8f6e7ba8f7686b",
+  "collected_at": "2026-08-18T17:47:15.760170+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not applicable (news report)",
+      "fabrication": false,
+      "details": "The article provides a well-researched, factual report on Google's acquisition of Spirit's data for AI training. It includes specific details (e.g., dataset size, price, intended use) without exaggeration or misleading claims. Privacy concerns are acknowledged objectively, and the content aligns with the 'AI' category. No spam, clickbait, or hidden advertising detected. The information is valuable for readers interested in AI advancements and data utilization."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-18T17:47:15.760170+07:00"
+}
