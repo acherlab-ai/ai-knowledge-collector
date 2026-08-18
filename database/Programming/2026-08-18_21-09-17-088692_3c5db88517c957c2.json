@@ -1,0 +1,48 @@
+{
+  "id": "3c5db88517c957c2",
+  "title": "Python Polars Cheatsheet: The Definitive Guide for Data Transformation and Analysis",
+  "url": "https://opensource.posit.co/resources/cheatsheets/polars",
+  "source": "Hacker News",
+  "category": "Programming",
+  "summary": "A comprehensive cheatsheet for Python Polars, a high-performance DataFrame library. It covers installation, core data structures (Series, DataFrame, LazyFrame), eager and lazy APIs, data types, reading/writing data, transforming data (selecting, filtering, sorting, reshaping), summarizing/aggregating, joining/concatenating DataFrames, and expressions for data manipulation.",
+  "score": 9,
+  "tags": [
+    "Python",
+    "DataFrame",
+    "Polars",
+    "Data Analysis",
+    "Data Transformation"
+  ],
+  "key_points": [
+    "Polars is a fast and expressive DataFrame library for Python, first released in 2020.",
+    "Core data structures: Series (1D), DataFrame (2D), and LazyFrame (query plan without data).",
+    "Eager API executes immediately; Lazy API optimizes query plans (predicate/projection pushdown) and supports out-of-core processing.",
+    "Supports a wide range of data types (numeric, temporal, nested, categorical, etc.) based on Apache Arrow.",
+    "Key operations: reading/writing data (CSV, Parquet, JSON, etc.), transforming data (filtering, sorting, reshaping), aggregating, and joining DataFrames.",
+    "Expressions are trees of operations for constructing Series or columns, supporting arithmetic, comparisons, boolean logic, and conditionals.",
+    "Polars favors immutability, method chaining, and lacks a row index (unlike pandas).",
+    "Useful for handling large datasets efficiently with features like streaming, partitioning, and lazy evaluation."
+  ],
+  "content_hash": "8f17c7dd5a96f85e2257e3665d6089e65449ad1973af70f22c15998274eb9d08",
+  "title_hash": "278d88e651cbd4ea7796dca2b486791a34159a596379c1c482653a30bc17853e",
+  "collected_at": "2026-08-18T21:09:17.088692+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a comprehensive and well-structured cheatsheet for Python Polars, covering essential topics like installation, core data structures, APIs, data types, and operations. The content is highly useful for developers working with data transformation and analysis. The summary and key points are accurate, non-redundant, and free of spam, clickbait, or hidden advertisements. The category 'Programming' is correct, and the content maintains a neutral, factual tone without excessive bias or fabrication."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-18T21:09:17.088692+07:00"
+}

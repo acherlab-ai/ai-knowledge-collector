@@ -1,0 +1,47 @@
+{
+  "id": "e563a9f72ac09ead",
+  "title": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
+  "url": "https://techcrunch.com/2026/08/18/anthro-energy-breaks-ground-on-factory-that-could-pave-the-road-to-solid-state-batteries",
+  "source": "TechCrunch",
+  "category": "Hardware",
+  "summary": "Anthro Energy has started construction on a factory in Louisville, Kentucky, capable of producing battery materials for over 300,000 electric vehicles. The facility, set to begin production in 2028, aims to supply domestic, China-free electrolytes to support the U.S. battery supply chain. Anthro's polymer electrolyte, Proteus, is designed to enable solid- and semi-solid-state batteries, addressing challenges like energy density, fire risk, and dendrite formation. The project received significant federal and state funding to scale production and overcome manufacturing hurdles.",
+  "score": 9,
+  "tags": [
+    "battery technology",
+    "solid-state batteries",
+    "electrolytes",
+    "EV infrastructure",
+    "manufacturing"
+  ],
+  "key_points": [
+    "Anthro Energy's Louisville factory will produce 25 GWh of electrolytes, supporting U.S. battery manufacturers seeking China-free materials.",
+    "The facility is strategically located within a 12-hour drive of 70% of U.S. battery production sites.",
+    "Anthro received $24.9M from the DOE and $18.4M in tax credits under the Inflation Reduction Act, plus $2.3M in state incentives for 110 jobs.",
+    "Proteus, Anthro’s polymer electrolyte, can integrate into existing production lines and later transition to solid-state formulations.",
+    "Solid-state batteries promise higher energy density, reduced fire risk, and prevention of dendrite-related short circuits.",
+    "Anthro’s manufacturing process involves a liquid-to-solid electrolyte transition, enhancing cell strength and flexibility.",
+    "The startup aims to address scalability challenges that have hindered solid-state battery adoption in EVs, drones, and robotics."
+  ],
+  "content_hash": "8c0c4cc09db447c6ac3b8408e6069d95b0f4b92ad5e999dfc89554ecc94b3c36",
+  "title_hash": "117c7eb2cda8e7708a1496d3a4b9a557fffe9e38e7dc89e1d4732afe090baf2f",
+  "collected_at": "2026-08-18T21:09:13.041009+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not applicable (news report)",
+      "fabrication": false,
+      "details": "The article provides a well-researched, factual report on Anthro Energy's new factory and its implications for solid-state battery technology. It includes specific data (funding, production capacity, strategic location) and avoids sensationalism or hidden advertising. The category 'Hardware' is correct, and the content maintains objectivity while highlighting industry advancements."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-18T21:09:13.041009+07:00"
+}
