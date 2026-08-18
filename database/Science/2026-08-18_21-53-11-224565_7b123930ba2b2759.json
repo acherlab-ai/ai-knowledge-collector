@@ -1,0 +1,46 @@
+{
+  "id": "7b123930ba2b2759",
+  "title": "Early-life sugar exposure linked to lower cancer risk and slower biological aging in adulthood",
+  "url": "https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873",
+  "source": "Hacker News",
+  "category": "Science",
+  "summary": "A study analyzing data from over 64,000 individuals born in Britain between 1951 and 1956 found that reduced sugar exposure during the first 1,000 days of life (from conception to age two) was associated with a lower risk of developing certain cancers and slower biological aging in adulthood. The research leveraged the natural experiment of postwar sugar rationing in Britain, which ended in 1953, to compare health outcomes across different levels of early-life sugar exposure.",
+  "score": 9,
+  "tags": [
+    "Science",
+    "Health",
+    "Nutrition",
+    "Epidemiology",
+    "Aging"
+  ],
+  "key_points": [
+    "Individuals exposed to sugar rationing during their first 1,000 days of life had a lower incidence of five types of cancer: breast, prostate, liver, rectal, and lung cancer, with the strongest effect observed for liver cancer (69% lower risk).",
+    "Early-life sugar restriction was associated with slower biological aging, as evidenced by longer telomeres and lower levels of granzyme B, a protein linked to immune system aging.",
+    "The effects of early sugar exposure persisted into adulthood, influencing dietary habits even 50 years later. Those with less early-life sugar exposure consumed less sugar overall and had healthier, more diverse diets.",
+    "The study highlights two potential mechanisms: biological (impact on metabolism, organ development, and immune system) and behavioral (formation of taste preferences for less sweetness).",
+    "Other research using the same historical context found lower risks of type 2 diabetes, hypertension, dementia, Alzheimer’s disease, heart disease, and stroke among those with reduced early-life sugar exposure.",
+    "The findings underscore the long-term impact of nutrition during critical developmental periods, even if the exposure differences are relatively small and short-lived."
+  ],
+  "content_hash": "ec15cc7af7e23a71a5f872e7a5d234137a30ae27b71c048261da34d2ea5dfa9e",
+  "title_hash": "eae5ec6b902573053fd220cc791a66e6d43a921b7dbe9a0d6b927a23d77b2e92",
+  "collected_at": "2026-08-18T21:53:11.224565+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a well-researched, evidence-based summary of a scientific study on early-life sugar exposure and its long-term health effects. It is informative, cites specific findings (e.g., cancer risk reduction, biological aging markers), and avoids sensationalism. The category is correctly labeled as 'Science,' and the content is neutral, focusing on empirical data without overt bias or manipulation. No spam, clickbait, or hidden advertising is detected. The quality of information is high, with clear distinctions between study findings and broader implications."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-18T21:53:11.224565+07:00"
+}

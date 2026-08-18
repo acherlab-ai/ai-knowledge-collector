@@ -1,0 +1,47 @@
+{
+  "id": "ac6126c61ae7a87f",
+  "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+  "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked",
+  "source": "Ars Technica",
+  "category": "Cybersecurity",
+  "summary": "Researchers at Varonis discovered a critical vulnerability in Microsoft 365 Copilot Enterprise that allowed attackers to exfiltrate sensitive user data, such as passwords and email addresses, without requiring explicit user confirmation. The exploit was made possible after Copilot inadvertently disclosed an undocumented URL parameter (`?autorun=1`) that bypassed built-in guardrails. Microsoft silently patched the vulnerability in February by disabling the ability to inject text via the `?q=` parameter without manual user input, followed by additional fixes in August.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Cybersecurity",
+    "Microsoft",
+    "LLM",
+    "Exploit",
+    "Data Exfiltration"
+  ],
+  "key_points": [
+    "Researchers exploited Microsoft 365 Copilot Enterprise to extract sensitive data (e.g., passwords, email addresses) without user confirmation by leveraging an undocumented URL parameter (`?autorun=1`).",
+    "The vulnerability was discovered by querying Copilot about its internal guardrails, which inadvertently revealed the secret parameter that bypassed user consent requirements.",
+    "The attack involved crafting malicious URLs (e.g., `https://copilot.microsoft.com/?q=&autorun=1`) that auto-executed prompts when clicked, leaking data to attacker-controlled servers via encoded base64 payloads.",
+    "Microsoft mitigated the issue in two phases: first by disabling auto-injection of text via `?q=` (February) and later with broader fixes (August).",
+    "A secondary attack, dubbed 'Co-Snitch,' demonstrated how prompt injections in webpages could poison Copilot’s permanent memory, persisting across sessions and device changes.",
+    "The incident highlights the reactive nature of LLM security guardrails, which often fail to proactively prevent exploits, relying instead on post-hoc restrictions."
+  ],
+  "content_hash": "0ae1960e08aed8e1cabd4b83fee0680b3aa463333191a59fbb49baf9f03d4fb5",
+  "title_hash": "d87368ed959de217e152206409aea2e0dd71ae36b291dc0f840b19b9f6b9c0bd",
+  "collected_at": "2026-08-18T21:53:06.135576+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a detailed, fact-based analysis of a critical vulnerability in Microsoft 365 Copilot Enterprise, including technical specifics (e.g., `?autorun=1` parameter, attack vectors, and mitigation steps). The content is well-researched, cites credible sources (Varonis researchers), and avoids sensationalism. It adheres to cybersecurity reporting standards, distinguishes between facts (e.g., Microsoft's patches) and expert analysis (e.g., LLM security guardrails' reactive nature), and does not exhibit bias or promotional intent. The category 'Cybersecurity' is accurate, and the tags are relevant."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-18T21:53:06.135576+07:00"
+}
