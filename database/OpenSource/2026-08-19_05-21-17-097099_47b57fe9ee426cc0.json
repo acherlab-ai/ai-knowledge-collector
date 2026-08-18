@@ -1,0 +1,46 @@
+{
+  "id": "47b57fe9ee426cc0",
+  "title": "Cursor Launches Origin, a New Code Hosting Platform to Rival GitHub",
+  "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform",
+  "source": "TechCrunch",
+  "category": "OpenSource",
+  "summary": "Cursor, an AI startup under SpaceXAI, has launched Origin, a new code hosting platform designed to address developer frustrations with GitHub, particularly its recent outages and performance issues. Origin supports collaborative coding, pull requests, and repository storage while allowing interoperability with GitHub. The platform aims to integrate 'agent native' AI features and an app ecosystem. Despite GitHub's dominance with 180 million users, Cursor seeks to capitalize on growing dissatisfaction with GitHub's reliability.",
+  "score": 8,
+  "tags": [
+    "OpenSource",
+    "AI",
+    "GitHub",
+    "Code Hosting",
+    "Developer Tools"
+  ],
+  "key_points": [
+    "Cursor, now part of SpaceXAI, has launched **Origin**, a new code hosting platform to compete with GitHub.",
+    "Origin supports core GitHub functionalities like collaborative coding, pull requests, and repository storage.",
+    "The platform is designed to **interoperate with GitHub**, allowing developers to sync and work across both platforms.",
+    "Cursor plans to introduce **AI-driven 'agent native' features** and an app ecosystem for Origin.",
+    "GitHub has faced **257 outages in the past year**, leading to frustration and a visible exodus of high-profile users.",
+    "Despite GitHub's dominance (180M+ users), Cursor aims to attract developers by addressing reliability concerns."
+  ],
+  "content_hash": "8020a83ac88777580e13448bbc09f236650e30901128c9b11d7b600a0aa27621",
+  "title_hash": "6b479af1f013b616f0f40852155422b3ec596549efac06140b922d7325615b46",
+  "collected_at": "2026-08-19T05:21:17.097099+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 8.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "disguised_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "moderate",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, informative overview of Origin's launch and its competitive positioning against GitHub. It includes factual data (e.g., GitHub outages, user base) and avoids excessive bias, though it leans slightly toward highlighting GitHub's shortcomings. The category 'OpenSource' is appropriate, and the content is well-structured without redundancy or disguised advertising. Minor deduction in score due to slight emphasis on GitHub's negatives, but not enough to reject."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-19T05:21:17.097099+07:00"
+}
