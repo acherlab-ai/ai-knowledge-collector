@@ -1,0 +1,51 @@
+{
+  "id": "bf50ec5ce617ac83",
+  "title": "Same Cluster, 33 Points More Utilization: Optimizing GPU Allocation Order for Enterprise AI",
+  "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+  "source": "Hugging Face",
+  "category": "AI",
+  "summary": "The article presents a case study by Dharma-AI on improving GPU cluster utilization through a constraint-aware allocator. By reordering job scheduling (prioritizing based on workload type and demand curves) instead of using a FIFO approach, the team achieved up to 33 percentage points higher GPU utilization and 105% more priority-weighted output on identical hardware. The solution focuses on treating real-time inference as an elastic demand curve and batch jobs as priority-based allocations, avoiding static reservations that waste capacity.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "GPU Management",
+    "Resource Allocation",
+    "Enterprise AI",
+    "Scheduling Optimization"
+  ],
+  "key_points": [
+    "GPU utilization, not intelligence, is the next major constraint in enterprise AI.",
+    "A constraint-aware allocator improved GPU utilization by up to 33 percentage points and priority-weighted output by up to 105% compared to FIFO scheduling.",
+    "The core problem is managing two incompatible workload shapes: batch-like jobs (training, batch inference, quantization) needing contiguous GPU blocks, and elastic real-time inference driven by demand curves.",
+    "FIFO scheduling wastes capacity due to static reservations for peak real-time demand and suboptimal job ordering under contention.",
+    "The allocator treats real-time demand as a curve, allocating GPUs dynamically, while batch jobs are placed by priority across the entire scheduling horizon.",
+    "Five constraints define legal allocations: single job per GPU per timestep, demand range adherence, contiguous blocks for batch jobs, GPU swap limits for real-time jobs, and no preemption of running jobs.",
+    "The objective function balances priority-weighted batch job rewards and penalties for unmet real-time demand, enforcing service-level policies within the optimization.",
+    "The allocator runs in 1-15 milliseconds, making it feasible for per-request decisions, and includes a 'full mode' for periodic optimization reviews.",
+    "Accurate demand forecasting is critical, with specialized estimators for training, quantization, and real-time inference workloads.",
+    "The system optimizes a 24-hour horizon but commits only the current timestep, re-running every 30-60 minutes to absorb forecast errors and avoid the 'end-of-world effect'.",
+    "The approach generalizes beyond AI: encoding operational constraints into decision-making can significantly improve resource utilization."
+  ],
+  "content_hash": "09d0ef6651e726be9b0f87b9d69b0f2e48e26b8efa723507ed5e8adf18f2a1d6",
+  "title_hash": "db19ec2c3c500f45809284d645c503f5030637badefd2b3aec083506b41bfdd6",
+  "collected_at": "2026-08-18T10:28:23.059931+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a detailed, data-driven case study on optimizing GPU allocation for enterprise AI, with clear technical insights and measurable outcomes. It avoids spam, clickbait, or hidden advertising, and maintains objectivity while presenting a specific solution. The category is accurate, and the content is well-structured with no redundancy or fabrication. The focus on constraints and optimization aligns with factual reporting, and the summary/tagging is precise."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-18T10:28:23.059931+07:00"
+}
