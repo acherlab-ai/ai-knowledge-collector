@@ -1,0 +1,48 @@
+{
+  "id": "07b8b27c7e3af9c5",
+  "title": "California's New Tire Efficiency Rules Could Save Drivers $1B Annually and Reduce Emissions",
+  "url": "https://grist.org/transportation/californias-new-tire-efficiency-rules-could-save-drivers-1b-a-year",
+  "source": "Hacker News",
+  "category": "Technology",
+  "summary": "California has approved the nation's first tire efficiency standards to ensure replacement tires are as energy-efficient as original equipment tires. The regulation aims to save drivers approximately $1 billion per year, reduce carbon dioxide emissions by 2 million tons annually, and improve EV range. The rule includes a phased implementation starting in 2029, a leaf rating system for consumer awareness, and exemptions for specific tire types like snow and competition tires. Industry reactions are mixed, with some manufacturers supporting the move and others criticizing the cost and timeline.",
+  "score": 9,
+  "tags": [
+    "Technology",
+    "Sustainability",
+    "Automotive",
+    "Regulation",
+    "Energy Efficiency"
+  ],
+  "key_points": [
+    "California is the first state to implement tire efficiency standards for replacement tires to improve fuel economy and reduce emissions.",
+    "The rule targets inefficient tires in two phases: starting in 2029 and a stricter standard in 2033.",
+    "A leaf rating system will help consumers identify energy-efficient tires, similar to Energy Star labels.",
+    "The regulation is projected to save drivers $1 billion annually and reduce CO2 emissions by 2 million tons, equivalent to removing 400,000 cars from the road.",
+    "Exemptions include snow tires, competition tires, and all-weather tires (though the latter may be regulated in the future).",
+    "Industry reactions are divided: some manufacturers support the rule, while others argue it will increase costs for consumers.",
+    "The state estimates net savings of $85 to $153 over a tire's lifetime, offsetting the higher initial cost of efficient tires.",
+    "California's large market influence may lead other states, like Washington and Rhode Island, to adopt similar regulations."
+  ],
+  "content_hash": "535fc996e8259c7a18c412945f5b6b1e7ef3deb1d72cc02085c4a69682ab785c",
+  "title_hash": "5e4a033677c232f262526d2be574d4b25e8269eaedae37bbf607b01c8f6cc0ad",
+  "collected_at": "2026-08-18T11:09:16.269352+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "clear (industry reactions are labeled as opinions)",
+      "fabrication": false,
+      "details": "The article provides a well-researched, factual overview of California's new tire efficiency regulations. It includes key data (savings, emissions reduction), phased implementation, exemptions, and balanced industry reactions. The summary is concise, and the tags are relevant. The content is neutral, avoiding manipulation or misleading claims, while clearly distinguishing opinions (e.g., manufacturer criticism) from facts."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-18T11:09:16.269352+07:00"
+}
