@@ -1,0 +1,47 @@
+{
+  "id": "26abc1950a12af9b",
+  "title": "Startup Silicon Data Aims to Standardize AI Compute Pricing for Wall Street",
+  "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "Startup Silicon Data has raised $30 million in Series A funding to establish a reference price for GPU rental and an index for AI compute, enabling Wall Street to trade compute futures. The company plans to launch compute futures trading on the CME on October 5th, pending regulatory approval. The initiative addresses the lack of a standardized pricing mechanism for AI compute, which has become a major cost for AI product development. The discussion also highlights the disparity between market headlines about depreciating chips and the actual health of the AI infrastructure buildout.",
+  "score": 8,
+  "tags": [
+    "AI",
+    "GPU",
+    "Startups",
+    "Finance",
+    "Data Centers",
+    "Futures Trading"
+  ],
+  "key_points": [
+    "AI compute is the largest cost for companies building AI products, yet there is no standardized way to price it.",
+    "Silicon Data aims to create a reference price for GPU rental and an index for AI compute futures trading.",
+    "The startup plans to launch compute futures on the CME on October 5th, subject to regulatory approval.",
+    "Silicon Data raised $30 million in Series A funding to support this initiative.",
+    "The company’s research suggests the AI infrastructure buildout is healthier than headlines about depreciating chips and stalled data centers imply.",
+    "This development could enable firms to hedge against price fluctuations in AI compute costs."
+  ],
+  "content_hash": "5b6dcd3d701aeabcd81c0bd226ae80d14491ff3fb8def5c6ba6bb558db3140d4",
+  "title_hash": "3b2a24dcc622ee5db394421dc882833972d67a7824f9122cf5bfb4d91937fca4",
+  "collected_at": "2026-08-20T00:30:05.725300+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not applicable (news report)",
+      "fabrication": false,
+      "details": "The article provides valuable insights into a novel financial instrument (AI compute futures) and its potential impact on the AI and finance sectors. It is well-researched, cites funding and regulatory milestones, and avoids sensationalism. The discussion on AI infrastructure health adds depth without bias. No spam, hidden ads, or clickbait detected. The category 'AI' is appropriate."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-20T00:30:05.725300+07:00"
+}
