@@ -1,0 +1,51 @@
+{
+  "id": "b50674804e745fe6",
+  "title": "Collaborative Human-Agent Protocol (CHAP)",
+  "url": "https://github.com/BrightbeamAI/chap",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "CHAP is an open protocol designed to create a structured, auditable record of interactions between humans and AI agents during collaborative work. It provides a standardized way to track decisions, edits, and overrides made by humans on AI-generated outputs (e.g., code reviews, ticket triaging, contract reviews), ensuring these interactions are queryable, replayable, and verifiable over time. The protocol uses content hashing to chain interactions, enabling efficient auditing and analysis of human-agent collaboration patterns.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "collaboration",
+    "audit",
+    "protocol",
+    "human-AI interaction",
+    "open-source"
+  ],
+  "key_points": [
+    "CHAP addresses the problem of tracking human edits or approvals of AI-generated work, which are often scattered across logs, chat threads, or application code, making audits difficult.",
+    "The protocol introduces a structured 'envelope' to record AI drafts, human overrides (with diffs, rationales, and tags), and approvals, all linked by content hashes for traceability.",
+    "Key features include:",
+    "  - **Audit chain**: Persistent, queryable record of all interactions, resistant to log expiry or key rotation.",
+    "  - **Structured overrides**: Human edits include metadata like `intent_preserved` (refining vs. substituting decisions) and customizable `tags` for analysis.",
+    "  - **Composability**: Works alongside existing protocols like MCP (Multi-Tool Calling Protocol) and A2A (Agent-to-Agent) without replacing them.",
+    "  - **Security**: Optional profiles for OIDC-bound signatures (`security-signed/1.0`) and transparency logs (`audit-scitt/1.0`).",
+    "Reference implementations are available in TypeScript and Python, with support for HTTP/SQLite storage and integrations with frameworks like LangGraph, AutoGen, and LlamaIndex.",
+    "CHAP includes a conformance harness, analytics tools to analyze override patterns (e.g., false positives, framework misreads), and twelve real-world scenarios (e.g., solo dev workflows, GMP-regulated manufacturing).",
+    "The protocol is open-source (Apache 2.0 for code, CC-BY 4.0 for specs) and designed for cross-language deployment."
+  ],
+  "content_hash": "3203eaec797074946c19f178713c3fbe4d0289b8ce00de326d72412ffcdc0e5d",
+  "title_hash": "cacf9cea3d244478914d1bd43bcc75bab3b338c0aa27ce8af6758624e48e75c6",
+  "collected_at": "2026-08-20T05:41:52.362191+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a detailed, structured, and technically accurate overview of the Collaborative Human-Agent Protocol (CHAP). It is highly informative, addresses a clear problem (auditing human-AI interactions), and offers concrete features, use cases, and implementation details. The content is well-organized, free of spam/clickbait, and avoids excessive bias. The category (AI) is appropriate, and the information is neither redundant nor fabricated. Minor deductions in score are due to the absence of direct user feedback or real-world adoption examples, but this does not detract significantly from its value."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-20T05:41:52.362191+07:00"
+}

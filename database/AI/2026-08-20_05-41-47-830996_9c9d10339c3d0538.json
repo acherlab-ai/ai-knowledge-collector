@@ -1,0 +1,47 @@
+{
+  "id": "9c9d10339c3d0538",
+  "title": "Waymo’s next-gen Ojai robotaxi expands to all riders in Los Angeles, Phoenix, and San Francisco",
+  "url": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "Waymo has launched its sixth-generation autonomous robotaxi, the Ojai, to all riders in Los Angeles, Phoenix, and San Francisco. The Ojai, built in partnership with Zeekr, is designed to be cheaper to build, operate, and maintain compared to Waymo’s previous Jaguar I-Pace fleet. It features Waymo’s latest self-driving system, a modular design for scalability, and Google’s Gemini AI as an in-car assistant. Waymo plans to expand the Ojai to Denver, Las Vegas, and San Diego later in 2026, with a goal of importing 5,000 units by year-end despite tariffs on Chinese-built vehicles.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Autonomous Vehicles",
+    "Robotaxis",
+    "Waymo",
+    "Zeekr",
+    "Self-Driving Technology"
+  ],
+  "key_points": [
+    "Waymo has opened its next-gen Ojai robotaxi to all riders in Los Angeles, Phoenix, and San Francisco.",
+    "The Ojai is built on Zeekr’s SEA-M platform and is designed to be more cost-effective and durable than Waymo’s previous Jaguar I-Pace fleet.",
+    "The vehicle features Waymo’s sixth-generation self-driving system, a modular design for multi-vehicle compatibility, and Google’s Gemini AI as an in-car assistant.",
+    "Waymo plans to expand the Ojai to Denver, Las Vegas, and San Diego later in 2026, with a target of 5,000 units imported by the end of the year.",
+    "Import tariffs on Chinese-built vehicles increase costs, but Waymo is scaling production to meet demand.",
+    "The Ojai is part of Waymo’s long-term strategy to achieve profitability and mass-scale deployment of autonomous ride-hailing services."
+  ],
+  "content_hash": "1bb6a7a905702041c64e9bccf6141d1fcd3a35f95716b71e484f473714570ab6",
+  "title_hash": "6179d71075ffbec8f0561d1cbfb069a921444ad1cdc9e397e441b2e4105c2ea0",
+  "collected_at": "2026-08-20T05:41:47.830996+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, factual update on Waymo’s Ojai robotaxi expansion, including technical details, partnerships, and future plans. It avoids exaggeration, maintains objectivity, and aligns well with the AI/autonomous vehicles category. No spam, clickbait, or hidden ads detected. The content is informative, well-structured, and supports its claims with specific data (e.g., production targets, partnerships)."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-20T05:41:47.830996+07:00"
+}
