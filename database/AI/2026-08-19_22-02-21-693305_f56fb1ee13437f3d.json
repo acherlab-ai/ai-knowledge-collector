@@ -1,0 +1,47 @@
+{
+  "id": "f56fb1ee13437f3d",
+  "title": "LFM2.5 Q4_0 Checkpoints from Quantization-Aware Distillation",
+  "url": "https://huggingface.co/blog/LiquidAI/qad",
+  "source": "Hugging Face",
+  "category": "AI",
+  "summary": "LiquidAI releases Q4_0 GGUF checkpoints for LFM2.5 models (230M, 350M, 1.2B-Instruct, and 2.6B) using Quantization-Aware Distillation (QAD). This method recovers 97% of BF16 accuracy lost during quantization while maintaining the speed and memory efficiency of 4-bit models. Benchmarks show QAD checkpoints outperform traditional post-training quantization (PTQ) across reasoning, instruction-following, tool use, and agentic tasks. The models are optimized for edge deployment on devices like MacBook Pro, Raspberry Pi 5, and Samsung Galaxy S26 Ultra.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Quantization",
+    "Edge AI",
+    "Model Optimization",
+    "GGUF"
+  ],
+  "key_points": [
+    "Quantization-Aware Distillation (QAD) is used to train 4-bit checkpoints for LFM2.5 models, recovering 97% of BF16 accuracy lost during quantization.",
+    "QAD checkpoints maintain the same memory footprint and speed as native Q4_0 GGUFs while significantly improving performance over post-training quantization (PTQ).",
+    "Benchmark results show QAD checkpoints retain 96.5% to 97.4% of their BF16 baseline performance across tasks like GPQA Diamond, MMLU-Pro, IFEval, and GSM8K/AIME25.",
+    "The 230M and 350M QAD Q4_0 checkpoints match Q5_K_M quality with 4-33% higher decode throughput, while the 1.2B and 2.6B checkpoints match Q4_K_M quality with 3-14% higher throughput.",
+    "QAD checkpoints are optimized for edge deployment, with tested performance on devices like MacBook Pro (GPU), Raspberry Pi 5 (Arm CPU), and Samsung Galaxy S26 Ultra (Arm CPU).",
+    "The models are available in GGUF format and can be used with tools like `llama.cpp` for inference.",
+    "Links to the checkpoints are provided for LFM2.5-230M, LFM2.5-350M, LFM2.5-1.2B-Instruct, and LFM2.5-2.6B."
+  ],
+  "content_hash": "77360726cc9e21b441f02ae381d45392cc0336a0139349681e51d340c2cd66f8",
+  "title_hash": "4330cc4029606ef8af644212885f32e1021b317f06ac3c4378308bcf0040a938",
+  "collected_at": "2026-08-19T22:02:21.693305+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a detailed, technical, and well-supported overview of LiquidAI's Q4_0 GGUF checkpoints for LFM2.5 models using Quantization-Aware Distillation (QAD). It includes specific benchmarks, performance comparisons, and deployment optimizations, making it highly useful for AI practitioners. The content is factual, neutral, and free from spam, clickbait, or hidden advertising. The category is accurate, and the information is presented without excessive bias or redundancy."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-19T22:02:21.693305+07:00"
+}

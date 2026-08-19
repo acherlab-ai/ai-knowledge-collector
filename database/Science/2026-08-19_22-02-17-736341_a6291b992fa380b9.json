@@ -1,0 +1,46 @@
+{
+  "id": "a6291b992fa380b9",
+  "title": "Moderna reports first positive Phase 3 results for mRNA neoantigen therapy in melanoma",
+  "url": "https://twitter.com/NoubarAfeyan/status/2090050162441752787",
+  "source": "Hacker News",
+  "category": "Science",
+  "summary": "Moderna and Merck announced positive Phase 3 trial results for 'intismeran autogene,' an individualized mRNA-based neoantigen therapy for melanoma, used in combination with KEYTRUDA. The trial met its primary endpoint of recurrence-free survival and a key secondary endpoint of distant metastasis-free survival. This marks the first successful Phase 3 result for an individualized neoantigen therapy and an mRNA-based cancer treatment, representing a significant milestone in mRNA medicine development.",
+  "score": 9,
+  "tags": [
+    "mRNA",
+    "cancer therapy",
+    "melanoma",
+    "clinical trials",
+    "biotechnology"
+  ],
+  "key_points": [
+    "Moderna and Merck reported positive Phase 3 results for 'intismeran autogene,' an mRNA-based individualized neoantigen therapy for melanoma.",
+    "The therapy was tested in combination with KEYTRUDA in patients with completely resected stage IIB-IV melanoma.",
+    "The trial met its primary endpoint of recurrence-free survival and a key secondary endpoint of distant metastasis-free survival.",
+    "This is the first successful Phase 3 result for an individualized neoantigen therapy and an mRNA-based cancer treatment.",
+    "The milestone highlights the potential of mRNA technology beyond vaccines, particularly in personalized cancer treatment.",
+    "The achievement reflects over a decade of research and perseverance in mRNA medicine development."
+  ],
+  "content_hash": "d0981cd51999e84ecd62557e0b345c694111cc44de5ad596ba7941a74483bfcb",
+  "title_hash": "ad5ab89041e0a1cbfdd263c431732f9272b8731601b2d28c05f7fd1782bfbb45",
+  "collected_at": "2026-08-19T22:02:17.736341+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides accurate, well-sourced, and significant scientific information about a breakthrough in mRNA-based cancer therapy. It is objective, avoids sensationalism, and aligns with the 'Science' category. The content is factual, with no evidence of spam, hidden ads, or fabrication. The summary and key points are concise and informative."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-19T22:02:17.736341+07:00"
+}
