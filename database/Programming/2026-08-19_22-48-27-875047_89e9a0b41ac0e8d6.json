@@ -1,0 +1,46 @@
+{
+  "id": "89e9a0b41ac0e8d6",
+  "title": "2026 Python Packaging Council Nominations Opening Soon",
+  "url": "https://blog.python.org/2026/07/2026-packaging-council-nominations",
+  "source": "Python Insider",
+  "category": "Programming",
+  "summary": "The Python Software Foundation (PSF) has announced the nomination period for the inaugural Python Packaging Council (PPC), a technical decision-making body for Python packaging interoperability specifications. Nominations open on July 28th and close on August 11th, 2026. The PPC will coordinate efforts among packaging tool maintainers, the Python core team, and the broader community to improve the Python packaging ecosystem.",
+  "score": 9,
+  "tags": [
+    "Python",
+    "Packaging",
+    "OpenSource",
+    "Governance"
+  ],
+  "key_points": [
+    "The Python Packaging Council (PPC) will oversee technical decisions for Python packaging standards, including how packages are built, distributed, and installed.",
+    "The inaugural PPC election will fill five seats, with terms of two years (Cohort A) and one year (Cohort B) based on vote rankings.",
+    "Candidates should have experience in Python packaging, community stewardship, open governance, or related technical expertise.",
+    "Nomination period: July 28th to August 11th, 2026 (2:00 pm UTC).",
+    "Only PSF voting members (Supporting, Contributing, and Fellow) in good standing by August 25th can vote.",
+    "Nominees must submit their own nomination statements, including relevant affiliations.",
+    "Voting will take place from September 1st to September 15th, 2026."
+  ],
+  "content_hash": "eccd31854466a20a1e90ca556f8d53e7403f4b6c60ce99e03cf6b7a76137fab6",
+  "title_hash": "2270cf1d06fa068fabf83b9276c3ab198e381f300c0c4e49f1dcc892d8a1d44c",
+  "collected_at": "2026-08-19T22:48:27.875047+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides timely, accurate, and valuable information about the Python Packaging Council nominations. It is well-structured, factual, and relevant to the Programming category. No spam, clickbait, or hidden advertisements are present. The content is neutral, objective, and adheres to community standards for technical governance updates."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-19T22:48:27.875047+07:00"
+}

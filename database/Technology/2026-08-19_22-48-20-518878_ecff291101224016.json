@@ -1,0 +1,47 @@
+{
+  "id": "ecff291101224016",
+  "title": "Ukrainian drones overwhelm Russian tanks’ new active protection system—for now",
+  "url": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-overwhelm-russian-tanks-new-active-protection-system-for-now",
+  "source": "Ars Technica",
+  "category": "Technology",
+  "summary": "The article analyzes the effectiveness of Russia's Arena-M active protection system (APS) in countering Ukrainian drone attacks during combat in Donetsk Oblast. While the system successfully intercepted some drones, Ukrainian forces overwhelmed it by deploying large numbers of cheap, expendable drones (15-20 per tank). The Arena-M, originally designed for missiles and rockets, struggles with slow, unpredictable drone movements. The incident highlights an ongoing arms race in drone warfare, where militaries seek cost-effective ways to neutralize high-value armored vehicles. Similar limitations were observed in Israel's Trophy APS against Hezbollah's fiber-optic-controlled drones. The article also discusses future threats, including AI-powered autonomous drone swarms.",
+  "score": 9,
+  "tags": [
+    "Military Technology",
+    "Drones",
+    "Active Protection Systems",
+    "Electronic Warfare",
+    "AI in Defense"
+  ],
+  "key_points": [
+    "Russia deployed the Arena-M APS in combat for the first time, but Ukrainian drones overwhelmed it by sheer numbers (15-20 drones per tank).",
+    "The Arena-M system, designed for missiles/rockets, struggles to detect slow, unpredictable drones effectively.",
+    "Cheap drones (as low as $400 each) remain cost-effective against multi-million-dollar tanks, even with APS defenses.",
+    "Pro-Kremlin analysts acknowledge Arena-M's limitations and call for layered air defenses to protect tanks.",
+    "Israel's Trophy APS faced similar challenges against Hezbollah's fiber-optic-controlled drones, which are immune to jamming.",
+    "Future threats include AI-powered autonomous drone swarms, which could further shift the balance in favor of drones.",
+    "The US and European militaries are investing in APS like Trophy but remain uncertain about their effectiveness in drone-dominated battlefields."
+  ],
+  "content_hash": "2498ff4625f188c7db79899238634c20493699e277a364fa78d5cf9ebafd4b29",
+  "title_hash": "dff6204c50e6650becfb63b66e0f0354ac5c6e7f4bf028f4952fc706bd5dfe9c",
+  "collected_at": "2026-08-19T22:48:20.518878+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "moderate (balanced with pro-Kremlin analyst perspectives)",
+      "opinion_fact_separation": "clear (analysis distinguishes between reported facts and expert opinions)",
+      "fabrication": false,
+      "details": "The article provides a well-researched, technical analysis of military drone warfare and APS limitations, supported by specific examples (Arena-M, Trophy) and expert insights. It avoids sensationalism, maintains objectivity by including counter-perspectives (e.g., pro-Kremlin analysts), and aligns with the 'Technology' category. Minor bias exists but does not undermine factual accuracy or neutrality."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-19T22:48:20.518878+07:00"
+}

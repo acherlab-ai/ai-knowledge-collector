@@ -1,0 +1,47 @@
+{
+  "id": "31674a0328314a04",
+  "title": "TerraPower’s Nuclear Reactor Design Offers Unique Advantages for Powering AI Data Centers",
+  "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers",
+  "source": "TechCrunch",
+  "category": "Technology",
+  "summary": "TerraPower, a nuclear power startup founded by Bill Gates, is positioning its molten salt-cooled reactor as an ideal solution for powering AI data centers due to its integrated energy storage capability. The reactor maintains high capacity factor (92.5%) while addressing the challenge of fluctuating power demands from AI workloads. Instead of ramping reactor output, excess heat is stored in molten sodium, allowing rapid response to demand spikes without stressing equipment. This design also makes the reactor compatible with renewable energy integration, offering flexibility for both grid and data center applications.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "nuclear power",
+    "data centers",
+    "energy storage",
+    "renewable energy",
+    "Technology"
+  ],
+  "key_points": [
+    "TerraPower plans to announce its first AI data center project in 2026, with construction expected in 2027.",
+    "Traditional nuclear reactors struggle with rapid power demand fluctuations, which is critical for AI data centers.",
+    "TerraPower’s 345-megawatt molten salt-cooled reactor stores excess heat in molten sodium, enabling quick response to demand spikes without adjusting reactor output.",
+    "This design maintains high capacity factor (92.5%) while reducing stress on equipment, improving cost efficiency.",
+    "The energy storage approach also makes the reactor compatible with intermittent renewable energy sources like wind and solar.",
+    "Meta has agreed to purchase eight of TerraPower’s Natrium power plants, indicating industry interest in this technology."
+  ],
+  "content_hash": "f58856763a48d9d289162f93a9cce6070131a647bf064ae64e2212da494c3f03",
+  "title_hash": "498c7907b8b5e5fb83aae3201a667292440d86d6a1109afc28f94ab07cbed5d1",
+  "collected_at": "2026-08-19T22:48:33.634055+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "disguised_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a well-researched, factual overview of TerraPower’s nuclear reactor design and its potential applications for AI data centers. It includes specific technical details (e.g., capacity factor, molten salt storage) and industry developments (e.g., Meta’s agreement), demonstrating high informational value. The content is objective, avoids sensationalism, and aligns with the Technology category. No spam, clickbait, or disguised ads are present. The slight emphasis on TerraPower’s advantages is justified by the focus on innovation and industry adoption, not manipulative intent."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-19T22:48:33.634055+07:00"
+}
