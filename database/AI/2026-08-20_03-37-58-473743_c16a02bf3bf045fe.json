@@ -1,0 +1,48 @@
+{
+  "id": "c16a02bf3bf045fe",
+  "title": "Rillet raises $100M Series C at $1B valuation, highlighting rapid growth in AI-driven ERP solutions",
+  "url": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "AI accounting startup Rillet has secured a $100 million Series C funding round at a $1 billion valuation, led by Iconiq, with participation from Andreessen Horowitz and Sequoia. Emerging from stealth in 2024, Rillet uses AI to automate financial bookkeeping by integrating with platforms like Salesforce and Brex. The company serves over 600 customers and has doubled its annual recurring revenue (ARR) in the last three months. The funding underscores investor enthusiasm for AI startups disrupting legacy SaaS players in enterprise resource planning (ERP).",
+  "score": 8,
+  "tags": [
+    "AI",
+    "Startups",
+    "Enterprise Software",
+    "Funding",
+    "ERP"
+  ],
+  "key_points": [
+    "Rillet, an AI-driven accounting startup, raised $100M in Series C funding at a $1B valuation.",
+    "The round was led by Iconiq, with returning investors Andreessen Horowitz and Sequoia.",
+    "Rillet emerged from stealth in 2024 and focuses on automating financial bookkeeping using AI.",
+    "The company integrates with platforms like Salesforce and Brex to pull financial data automatically.",
+    "Rillet has over 600 customers and doubled its ARR in the past three months.",
+    "The funding round was finalized in under 48 hours due to strong investor interest.",
+    "Rillet has raised over $200M to date, including a $70M Series B in 2025 and a $25M Series A in 2024.",
+    "The rapid growth reflects investor confidence in AI startups disrupting legacy ERP systems like NetSuite."
+  ],
+  "content_hash": "911a12d23f3607cbb57b4b6de2d0178e9534a3a20f76c08f66a8cb9687d2c571",
+  "title_hash": "ede0f89fe0a77f7fe7734574bc170e54a7f46a84e4bb1e4e98205cf94b0018c2",
+  "collected_at": "2026-08-20T03:37:58.473743+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides valuable, factual information about Rillet's funding round, growth metrics, and AI-driven ERP solutions. It is well-structured, free of spam/clickbait, and maintains neutrality by focusing on verifiable data (e.g., funding amounts, investor names, customer count). The category 'AI' is accurate, and the content avoids excessive bias or misleading claims. Minor deduction in score for lacking deeper technical insights into Rillet's AI implementation, but this does not warrant rejection."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-20T03:37:58.473743+07:00"
+}

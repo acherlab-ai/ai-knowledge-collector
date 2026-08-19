@@ -1,0 +1,47 @@
+{
+  "id": "dc686c12b25f983d",
+  "title": "Framework addresses BIOS update issues bricking Ryzen 7040 laptops",
+  "url": "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops",
+  "source": "Ars Technica",
+  "category": "Hardware",
+  "summary": "Framework has acknowledged reports that a BIOS update (version 3.20) for its Ryzen 7040-series Framework Laptop 13 is causing some systems to become non-bootable. The update, released in June 2026, was intended to add support for new hardware features and fix existing issues but has resulted in bricked devices for a subset of users. Framework is investigating the root cause and offering out-of-warranty motherboard replacements for affected customers. Additionally, the company is introducing a 'Crisis Recovery Mode' to help recover failed updates in future BIOS releases.",
+  "score": 8,
+  "tags": [
+    "Hardware",
+    "BIOS",
+    "Ryzen",
+    "Framework",
+    "Laptop"
+  ],
+  "key_points": [
+    "Framework released BIOS 3.20 for Ryzen 7040-series Framework Laptop 13 in June 2026, aiming to add features and fix bugs.",
+    "Multiple users reported the update stalling during installation, resulting in bricked laptops that cannot be powered down or rebooted.",
+    "Framework confirmed a 'small percentage' of devices are affected and is investigating the root cause.",
+    "Some users were initially told they needed a paid motherboard replacement if out of warranty, but Framework is now making exceptions for confirmed BIOS-related failures.",
+    "Framework is introducing 'Crisis Recovery Mode' in future BIOS updates to enable recovery from failed updates.",
+    "A blogger suggested the issue may stem from a software bug causing erratic memory behavior during the update process.",
+    "Reports of BIOS update issues with Ryzen 7040-based Framework Laptop 13 devices date back to at least March 2025."
+  ],
+  "content_hash": "48abfa3feb5cf9254dc0d5c98e0164eb36b73afdb99c262571239e0eb8e57b52",
+  "title_hash": "a0caa118fd77a526d88bbe29f9b16b2f3f2771e1a6cb38b85f956435f23fb936",
+  "collected_at": "2026-08-20T03:37:53.612170+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, factual report on a BIOS update issue affecting Framework laptops, including user impacts, company response, and technical context. The information is well-sourced, relevant to the Hardware category, and avoids sensationalism or bias. The summary and key points are concise and informative, with no evidence of spam, hidden ads, or fabrication."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-20T03:37:53.612170+07:00"
+}
