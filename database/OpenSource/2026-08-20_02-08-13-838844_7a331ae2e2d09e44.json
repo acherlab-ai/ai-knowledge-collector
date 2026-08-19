@@ -1,0 +1,49 @@
+{
+  "id": "7a331ae2e2d09e44",
+  "title": "Introducing MicroLighter: A Lightweight Client-Side Syntax Highlighter Using CSS Custom Highlights API",
+  "url": "https://daverupert.com/2026/08/microlighter",
+  "source": "Hacker News",
+  "category": "OpenSource",
+  "summary": "MicroLighter is a minimal, dependency-free client-side syntax highlighter leveraging the CSS Custom Highlights API. It avoids DOM mutation by using `::highlight()` pseudo-elements, supports on-demand loading of Textmate language grammars, and simplifies theming with `light-dark()` for unified light/dark mode styles. The core library focuses on highlighting, while additional features like line numbers are handled via a separate `<micro-lighter>` web component.",
+  "score": 9,
+  "tags": [
+    "OpenSource",
+    "WebComponents",
+    "CSS",
+    "SyntaxHighlighting",
+    "Textmate"
+  ],
+  "key_points": [
+    "Zero dependencies, ~2KB minified+gzipped.",
+    "Uses CSS `::highlight()` pseudo-elements instead of injecting `<span>` tags, avoiding DOM mutation.",
+    "Leverages Textmate language grammars (used by VS Code) for robust syntax support.",
+    "Auto-loads language grammars on-demand to minimize bundle size.",
+    "Simplifies theming with `light-dark()` for unified light/dark mode styles.",
+    "Core library focuses solely on syntax highlighting; additional features (e.g., line numbers) are delegated to a `<micro-lighter>` web component (~1KB).",
+    "Supports ESM, self-initializing bundles, and custom element integration.",
+    "Human-readable token categories for easier styling (e.g., `--syntax-comment`, `--syntax-function`).",
+    "Extensible via web component class inheritance for custom features."
+  ],
+  "content_hash": "da79143582b2c1184d1528daa5eba2188e477bf33d916ba03ec15315137b12c9",
+  "title_hash": "7b6990b9b0c3d4e272dd06d02429aa53e89a58a4b230ce90691df6486ef6f6f4",
+  "collected_at": "2026-08-20T02:08:13.838844+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias": "minimal",
+      "fact_opinion_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, technical introduction to MicroLighter, a lightweight syntax highlighter. It is well-structured, informative, and directly relevant to the OpenSource category. The key points are specific, factual, and demonstrate the tool's advantages without exaggeration or misleading claims. The summary and tags align with the content, and there is no evidence of spam, clickbait, or hidden advertising. The content is neutral, focusing on technical merits rather than subjective opinions."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-20T02:08:13.838844+07:00"
+}
