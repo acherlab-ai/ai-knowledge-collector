@@ -1,0 +1,46 @@
+{
+  "id": "3e24031df83f42b3",
+  "title": "Relativity Networks raises $22 million to develop faster hollow-core fiber for data centers",
+  "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers",
+  "source": "TechCrunch",
+  "category": "Hardware",
+  "summary": "Relativity Networks, a company specializing in hollow-core fiber technology, has secured $22 million in SAFE note funding and a $40 million follow-on order from an unnamed hyperscaler. Hollow-core fiber transmits data 30% faster than conventional fiber by using a vacuum chamber instead of glass, reducing latency from 5 microseconds to 3.5 microseconds per kilometer. This advancement could significantly impact large-scale AI compute deployments by enabling data centers to span greater distances without latency issues, optimizing geographical constraints in data center buildouts.",
+  "score": 9,
+  "tags": [
+    "Hardware",
+    "Data Centers",
+    "Fiber Optics",
+    "AI Infrastructure",
+    "Networking"
+  ],
+  "key_points": [
+    "Relativity Networks raises $22 million in SAFE note funding from investors like Rhapsody Venture Partners and Bell Ventures Inc.",
+    "The company secured a $40 million follow-on order from an unnamed hyperscaler.",
+    "Hollow-core fiber transmits data 30% faster than conventional fiber by using a vacuum chamber, reducing latency to 3.5 microseconds per kilometer.",
+    "This technology could alleviate spatial constraints in data center buildouts, allowing for larger distances between compute resources without latency issues.",
+    "CEO Jason Eisenholz highlights the potential for multi-campus data center deployments, enabling synchronized operations across geographically dispersed sites.",
+    "The advancement is particularly relevant for large-scale AI compute projects, where latency and geographical optimization are critical."
+  ],
+  "content_hash": "5775864c506186197b0313048fb5b0404015417483128f6f4aa4ccad3c015dc3",
+  "title_hash": "cf898ed2ae20eb05dfa208309c9feec672ca34d44b1803df2f55a06694729600",
+  "collected_at": "2026-08-19T17:04:28.671722+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "disguised_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides valuable, well-researched information about a technological advancement in fiber optics for data centers. It is factual, cites specific metrics (e.g., latency reduction), and includes credible sources (e.g., funding details, CEO statement). The category 'Hardware' is accurate, and the content avoids spam, clickbait, or disguised advertising. The summary and key points are concise and informative, with no significant bias or redundancy."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-19T17:04:28.671722+07:00"
+}
