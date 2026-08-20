@@ -1,0 +1,48 @@
+{
+  "id": "2f17e3b184ca196a",
+  "title": "Meta AI’s new Mac app enables system-wide dictation and contextual assistance",
+  "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "Meta has launched a new Mac app for Meta AI that integrates system-wide dictation and contextual screen-based assistance using its Muse Spark model. The app allows users to interact with applications via voice commands and queries, similar to tools like Wispr Flow and Superwhisper. Additionally, Meta is targeting businesses by enabling integration with Instagram, Facebook, Meta ad campaigns, and Google Workspace (Gmail, Docs, Sheets, Slides) to provide insights, automate document creation, and analyze competitor data. The update aligns with Meta’s broader strategy to expand AI-driven automation for business workflows and customer support across its platforms.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Meta",
+    "Dictation",
+    "Business Automation",
+    "Mac App"
+  ],
+  "key_points": [
+    "Meta AI’s new Mac app features system-wide dictation, working across all applications.",
+    "The app uses the Muse Spark model to answer context-based questions by analyzing the current screen.",
+    "Competitors like Google’s Gemini app also offer similar system-wide dictation features.",
+    "Businesses can connect Meta AI to Instagram, Facebook, Meta ad campaigns, and Google Workspace for insights and automation.",
+    "Meta AI can generate proposal decks, draft documents, and spreadsheets for business users.",
+    "The tool provides performance metrics and competitor intelligence based on publicly available data.",
+    "Meta is expanding AI-driven automation for customer support and business workflows across WhatsApp, Instagram, and other platforms.",
+    "CEO Mark Zuckerberg highlighted the opportunity to sell AI agents to businesses during Meta’s Q2 2026 earnings call."
+  ],
+  "content_hash": "20abbde0eddc31fa04371fe4f2eb97ec86ad12df1b2db15fb1f3e352794815bc",
+  "title_hash": "1236e40219e4b43dfeb611f295f1f9ad47cc6d8fb99aaaf1fa72661bbeb06453",
+  "collected_at": "2026-08-20T19:43:11.535614+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, informative overview of Meta AI’s new Mac app, its features, and business applications. It includes factual comparisons (e.g., Google’s Gemini) and references to Meta’s official strategy (e.g., Q2 2026 earnings call). No spam, clickbait, or hidden ads detected. The content is well-structured, non-repetitive, and aligns with the 'AI' category. Minor deduction in score for lacking deeper technical insights (e.g., Muse Spark model specifics), but overall highly valuable."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-20T19:43:11.535614+07:00"
+}
