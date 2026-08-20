@@ -1,0 +1,46 @@
+{
+  "id": "e12d9d45f15f9938",
+  "title": "Castelion raises $1B at $13B valuation to mass-produce hypersonic missiles",
+  "url": "https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles",
+  "source": "TechCrunch",
+  "category": "Hardware",
+  "summary": "Castelion, a defense tech startup founded by former SpaceX executives, has secured a $1 billion Series C funding round at a $13 billion valuation. The company aims to address the U.S. hypersonic missile gap by leveraging faster and more cost-effective manufacturing processes. The funding will support production of its Blackbeard hypersonic missiles and other weapons at its New Mexico facility. Castelion has already secured over $500 million in U.S. military contracts.",
+  "score": 8,
+  "tags": [
+    "defense tech",
+    "hypersonic missiles",
+    "fundraising",
+    "startups",
+    "military contracts"
+  ],
+  "key_points": [
+    "Castelion is a missile startup founded in 2022 by former SpaceX executives.",
+    "The company raised $1 billion in a Series C round at a $13 billion valuation, co-led by Andreessen Horowitz, Carlyle, and JP Morgan Chase.",
+    "Castelion focuses on mass-producing hypersonic missiles (Mach 5+) at lower costs and faster speeds than traditional defense contractors.",
+    "The startup has secured over $500 million in U.S. military contracts to date.",
+    "Funds will be used to produce Blackbeard hypersonic missiles and other weapons at its New Mexico facility.",
+    "The Pentagon seeks to close the hypersonic missile gap with China, driving demand for Castelion's technology."
+  ],
+  "content_hash": "d7e165652f4ba94dd9a4de7a79b102be73d2dbbb4d5d97d143fa7224352571f1",
+  "title_hash": "0ce1b1b36bc86191f4b8f8db8e77dc6db93fc70f565148b08ea0df02bfc0af02",
+  "collected_at": "2026-08-21T02:04:09.057909+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "disguised_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides valuable, well-sourced information about Castelion's funding, technology, and military contracts. It avoids sensationalism, clickbait, or disguised advertising. The content is factual, relevant to the 'Hardware' category, and maintains a neutral tone despite the defense tech focus. No significant bias, redundancy, or fabrication detected."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-21T02:04:09.057909+07:00"
+}

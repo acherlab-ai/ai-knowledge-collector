@@ -1,0 +1,47 @@
+{
+  "id": "198b29ec6415644c",
+  "title": "Genesis GV90: A New Luxury Electric SUV with Innovative Features",
+  "url": "https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90",
+  "source": "Ars Technica",
+  "category": "Hardware",
+  "summary": "Genesis has launched the GV90, its new flagship electric SUV, based on the Neolum concept. The GV90 features a sleek design, advanced safety features like the world's first roof airbag, and high-end technology including a retractable 3.5-inch OLED 'Cinematic Display' and a 25-speaker 3D sound system. It uses Hyundai's 800V E-GMP platform, enabling fast charging (10-80% in 22 minutes) and offers a range of up to 310 miles. The GV90 comes in four-seat and seven-seat configurations, with the high-end GV90 Neolum variant featuring pillarless coach doors and premium interior materials.",
+  "score": 8,
+  "tags": [
+    "Electric Vehicles",
+    "SUV",
+    "Automotive Technology",
+    "Luxury Vehicles",
+    "Genesis"
+  ],
+  "key_points": [
+    "Genesis GV90 is a new luxury electric SUV based on the Neolum concept, now in production.",
+    "Features include a four-seat and seven-seat configuration, with the high-end GV90 Neolum offering pillarless coach doors (Neolum Arch Gate).",
+    "World’s first roof airbag included, along with 11 other airbags for enhanced safety.",
+    "Retractable 3.5-inch OLED 'Cinematic Display' that expands when parked, paired with a 25-speaker Bang & Olufsen 3D sound system.",
+    "Uses Hyundai’s 800V E-GMP platform, supporting fast charging (10-80% in 22 minutes) and a range of up to 310 miles.",
+    "Dual motor setup delivers 657 hp (490 kW) and 590 lb-ft (800 Nm) of torque, split between front and rear axles.",
+    "No official details yet on U.S. release date or pricing."
+  ],
+  "content_hash": "772a4b03a84596a914eb79396d220cb457aec6a8d35983d290ee33379a0d6b59",
+  "title_hash": "d7c1889549d6a6de9a66ee3e02b596541dd286d3be420df9834bc4bc1d2b781d",
+  "collected_at": "2026-08-21T02:04:04.629843+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a detailed, fact-based overview of the Genesis GV90's features, specifications, and innovations. It is informative, well-structured, and relevant to the 'Hardware' category. No spam, clickbait, or hidden advertisements were detected. The content is neutral, focusing on technical and design aspects without excessive bias or manipulation. Minor deduction in score due to lack of pricing and U.S. release details, but this does not significantly impact overall quality."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-21T02:04:04.629843+07:00"
+}

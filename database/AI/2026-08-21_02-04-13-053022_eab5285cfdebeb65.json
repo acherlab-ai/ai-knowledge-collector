@@ -1,0 +1,47 @@
+{
+  "id": "eab5285cfdebeb65",
+  "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+  "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+  "source": "Hugging Face",
+  "category": "AI",
+  "summary": "The article introduces DSpark, a speculative decoding technique for the LFM2.5 family of models (1.2B-Instruct, 2.6B, and 8B-A1B), which significantly accelerates inference speeds without compromising output quality. DSpark achieves up to 3.18x throughput improvement on GPUs and up to 2.87x on-device (e.g., M4 Max MacBook). The method combines parallel backbone processing, a lightweight sequential head, and a confidence-scheduled verifier to optimize token acceptance rates. The draft models are small (~300M parameters) and support frameworks like llama.cpp and SGLang. Benchmark results show consistent speedups across datasets, with notable latency reductions for function-calling tasks.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "LLM",
+    "Inference Optimization",
+    "Speculative Decoding",
+    "On-Device AI",
+    "OpenSource"
+  ],
+  "key_points": [
+    "DSpark is a speculative decoding technique for LFM2.5 models, offering up to 3.2x faster inference on GPUs and on-device hardware without altering output quality.",
+    "The method uses a lightweight draft model (~300M parameters) to generate candidate tokens, verified by the target model in a single forward pass, reducing memory-bound latency.",
+    "Three components of DSpark: parallel backbone (DFlash-style), sequential Markov head for inter-token dependency, and confidence-scheduled verifier for pruning low-confidence tokens.",
+    "Benchmark results show significant throughput improvements: e.g., LFM2.5-2.6B achieves 140+ tokens/s on a MacBook, surpassing many proprietary cloud models.",
+    "DSpark reduces function-calling latency by 57% on average for LFM2.5-2.6B and supports frameworks like llama.cpp and SGLang with open-source integrations.",
+    "Draft models are available in Safetensors and GGUF formats on Hugging Face, with day-one support for Metal kernels and experimental optimizations."
+  ],
+  "content_hash": "0950fa6f37569d0114c880ccc581690916082b471e68c54e1443ce9f601dca32",
+  "title_hash": "666d617b7f9f353c4f14c9dc838e316d6f764efbdc011da4a373d234110e01b4",
+  "collected_at": "2026-08-21T02:04:13.053022+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a detailed, technical explanation of DSpark, a speculative decoding technique for LFM2.5 models, with clear benchmarks, methodology, and open-source support. It is highly informative, well-structured, and free of spam, clickbait, or hidden advertising. The content is neutral, focusing on technical merits without excessive bias or manipulation. The category 'AI' is accurate, and the information is original with no redundancy or fabrication."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-21T02:04:13.053022+07:00"
+}
