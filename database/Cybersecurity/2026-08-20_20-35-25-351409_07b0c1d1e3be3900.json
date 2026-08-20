@@ -1,0 +1,46 @@
+{
+  "id": "07b0c1d1e3be3900",
+  "title": "AI data giant Alation confirms cyberattack",
+  "url": "https://techcrunch.com/2026/08/20/ai-data-giant-alation-confirms-cyberattack",
+  "source": "TechCrunch",
+  "category": "Cybersecurity",
+  "summary": "Alation, an enterprise data and AI software company serving over 500 global clients, including half of the Fortune 1000, confirmed a cyberattack after reporting an incident causing 'degraded availability' for some customers. The company acknowledged unauthorized activity in one of its systems but did not disclose the attack's nature, root cause, affected customers, or whether data was stolen. The incident reflects a growing trend of cyberattacks targeting tech giants handling sensitive corporate data.",
+  "score": 8,
+  "tags": [
+    "Cybersecurity",
+    "AI",
+    "Data Breach",
+    "Enterprise",
+    "Cyberattack"
+  ],
+  "key_points": [
+    "Alation confirmed a cyberattack after an incident causing 'degraded availability' for some customers.",
+    "The company detected unauthorized activity in one of its systems but provided no details on the attack's nature or root cause.",
+    "Alation serves over 500 global companies, including ~50% of the Fortune 1000, using AI-driven data software.",
+    "The company did not disclose whether customer data was stolen or if affected clients were notified.",
+    "The incident was resolved within an hour, but its impact on data security remains unclear.",
+    "This attack aligns with a recent surge in cyber incidents targeting tech firms handling sensitive or proprietary data."
+  ],
+  "content_hash": "34608a6905f100de171273692024e18000e1196d8cf8319f10c93422ae089548",
+  "title_hash": "a532f5de0415bd34b3ce9a53a43750a1b059900f12ce0b9eb7b883c56a19f687",
+  "collected_at": "2026-08-20T20:35:25.351409+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides timely, relevant, and factual information about a cyberattack on Alation, a major enterprise data company. It avoids sensationalism, clickbait, or hidden advertising. The content is well-structured, cites credible sources implicitly (e.g., Fortune 1000 context), and aligns with the Cybersecurity category. No significant bias or fabrication is detected. The summary and key points are concise and informative, though the lack of specific attack details (e.g., nature, data theft) slightly limits depth."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-20T20:35:25.351409+07:00"
+}

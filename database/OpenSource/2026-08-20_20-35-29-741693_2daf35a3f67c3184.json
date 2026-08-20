@@ -1,0 +1,49 @@
+{
+  "id": "2daf35a3f67c3184",
+  "title": "Browser De-Slop: How to Remove Bloatware from Modern Browsers Using Policy Files",
+  "url": "https://www.sacredheartsc.com/blog/browser-de-slop",
+  "source": "Hacker News",
+  "category": "OpenSource",
+  "summary": "The article provides a detailed guide on how to remove unnecessary features and bloatware from modern browsers (Firefox and Chromium-based browsers) using policy files. It includes specific file paths for different operating systems, configuration examples for disabling telemetry, AI-related features, built-in password managers, and other unwanted functionalities. The guide also covers the installation and configuration of uBlock Origin for ad-blocking and privacy protection.",
+  "score": 9,
+  "tags": [
+    "OpenSource",
+    "Privacy",
+    "Browser",
+    "Firefox",
+    "Chromium",
+    "Configuration"
+  ],
+  "key_points": [
+    "Modern browsers come with excessive bloatware that can be disabled via settings or policy files.",
+    "Policy file locations vary by OS and browser (e.g., `/etc/firefox/policies/policies.json` for Firefox on Ubuntu).",
+    "Firefox policy file example disables telemetry, AI features, Pocket, DNS-over-HTTPS, and configures uBlock Origin with specific filter lists.",
+    "Firefox settings include disabling search suggestions, setting DuckDuckGo as the default search engine, and blocking tracking cookies.",
+    "Chromium policy file example disables telemetry, Google Cloud Print, Chromecast, browser sync, and configures uBlock Origin Lite.",
+    "Chromium settings include disabling search suggestions, setting DuckDuckGo as the default search engine, and blocking third-party cookies.",
+    "Custom certificate authorities can be added in Firefox via policy files but require workarounds for Chromium.",
+    "Policy files enforce settings system-wide, making them ideal for privacy-focused or minimalist browser setups."
+  ],
+  "content_hash": "f21ec223071e4b6ae0291de3029cece0254c743850235b3515cd29af8c1c7867",
+  "title_hash": "a618842499d266768cf46e290da2d2292e81b3c4fd62a0a30f05a90f86454c1b",
+  "collected_at": "2026-08-20T20:35:29.741693+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "clear (where applicable)",
+      "fabrication": false,
+      "details": "The article provides a highly detailed, practical, and well-structured guide on removing bloatware from browsers using policy files. It includes accurate technical instructions, OS-specific paths, and configuration examples for both Firefox and Chromium-based browsers. The content is fact-based, with clear distinctions between instructions (fact) and recommendations (opinion). No spam, clickbait, or hidden ads were detected. The category 'OpenSource' is appropriate, and the article maintains a neutral tone while offering actionable advice."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-20T20:35:29.741693+07:00"
+}
