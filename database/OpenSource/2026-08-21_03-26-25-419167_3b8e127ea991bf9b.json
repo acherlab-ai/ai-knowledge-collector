@@ -1,0 +1,45 @@
+{
+  "id": "3b8e127ea991bf9b",
+  "title": "Tidal Cycles – Live Coding Music with Algorithmic Patterns",
+  "url": "https://tidalcycles.org",
+  "source": "Hacker News",
+  "category": "OpenSource",
+  "summary": "Tidal Cycles (or 'Tidal') is a free and open-source live coding environment for creating algorithmic music patterns. Written in Haskell, it leverages SuperCollider for sound synthesis and MIDI. Tidal enables users to generate complex sequences, including polyphonic and polyrhythmic patterns, through code. It has inspired similar open-source projects like Strudel and fosters a vibrant community of musicians and developers focused on algorithmic music composition and improvisation.",
+  "score": 8,
+  "tags": [
+    "OpenSource",
+    "Music",
+    "Algorithmic Patterns",
+    "Live Coding",
+    "Haskell"
+  ],
+  "key_points": [
+    "Tidal Cycles is a free/open-source live coding environment for algorithmic music patterns.",
+    "Written in Haskell and uses SuperCollider for synthesis and MIDI.",
+    "Allows creation of flexible sequences (polyphonic, polyrhythmic, generative).",
+    "Inspired a family of similar open-source tools, including web-based Strudel.",
+    "Supported by a diverse community for composition, improvisation, and exploration of algorithmic music."
+  ],
+  "content_hash": "b1060cd1aee72ce585fa71dd4b1b7fe1d3b1b821f86732184e75045ac4dec00d",
+  "title_hash": "dd7750fbe8e05b3a2d09ab49e09fe78c555ba6002fcd0f669198ed190e603e80",
+  "collected_at": "2026-08-21T03:26:25.419167+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "originality": true,
+      "details": "The article provides a clear, factual, and well-structured overview of Tidal Cycles, an open-source live coding tool for algorithmic music. It avoids spam, clickbait, or hidden advertising, and the information is accurate, relevant, and non-redundant. The category 'OpenSource' is correct, and the content maintains a neutral, informative tone without excessive bias. No issues with opinion/fact separation were detected as the piece is descriptive rather than opinion-based."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-21T03:26:25.419167+07:00"
+}

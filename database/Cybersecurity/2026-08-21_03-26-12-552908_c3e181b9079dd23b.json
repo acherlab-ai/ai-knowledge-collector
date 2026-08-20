@@ -1,0 +1,46 @@
+{
+  "id": "c3e181b9079dd23b",
+  "title": "Hackers Targeted Security Researchers Using a Fake Crypto Conference as a Lure",
+  "url": "https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure",
+  "source": "TechCrunch",
+  "category": "Cybersecurity",
+  "summary": "A malicious actor targeted cybersecurity professionals by impersonating a representative of a leading crypto news site and luring them with a fake crypto conference. The attacker used social media platform X to contact attendees of Black Hat and Def Con conferences, then employed Google Docs with a deceptive sidebar to trick victims into installing malware. The campaign involved infostealers for macOS, repurposed remote desktop tools for Windows, and fake Ledger wallet installers. The hacker leveraged Google App Script to customize the Google Docs interface, making the phishing attempt appear more legitimate.",
+  "score": 9,
+  "tags": [
+    "Cybersecurity",
+    "Malware",
+    "Phishing",
+    "Social Engineering",
+    "Google Docs"
+  ],
+  "key_points": [
+    "A hacker targeted cybersecurity professionals during Black Hat and Def Con conferences using a fake crypto conference as bait.",
+    "The attacker contacted victims via X (Twitter) through public replies and direct messages (DMs).",
+    "A legitimate Google Doc was used to host a deceptive sidebar, tricking targets into entering a fake decryption key.",
+    "The campaign aimed to install malware, including an infostealer for macOS, a repurposed remote desktop tool for Windows, and a fake Ledger wallet installer.",
+    "Google App Script was utilized to customize the Google Docs interface, enhancing the credibility of the phishing attempt.",
+    "This campaign highlights the ongoing threat of sophisticated social engineering attacks targeting security researchers."
+  ],
+  "content_hash": "f9a4fbc63960a504a0ed11be3ea3a083d194de420dd84bcd7176b52e3b3c0f6f",
+  "title_hash": "38d8c17c6cc9d28a5cf095f9c31db5a5e83c3d85748171f901b2370c14d25711",
+  "collected_at": "2026-08-21T03:26:12.552908+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a detailed and factual account of a sophisticated phishing campaign targeting cybersecurity professionals. It includes specific techniques used by the attacker, such as leveraging Google Docs and social engineering tactics, which are highly relevant to the cybersecurity category. The information is well-researched, actionable, and does not exhibit spam, clickbait, or hidden advertising. The content is neutral, focusing on the threat without unnecessary bias or opinion."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-21T03:26:12.552908+07:00"
+}
