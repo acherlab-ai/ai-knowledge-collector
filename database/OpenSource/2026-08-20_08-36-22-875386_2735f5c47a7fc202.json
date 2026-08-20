@@ -1,0 +1,58 @@
+{
+  "id": "2735f5c47a7fc202",
+  "title": "Reverse-Engineering a macOS Driver for the Orphaned Drobo 5D Using AI Assistance",
+  "url": "https://fetzu.ch/blog/20260819_claudevsdrobo",
+  "source": "Hacker News",
+  "category": "OpenSource",
+  "summary": "The author documents their process of using an AI assistant (Claude) to reverse-engineer and develop a macOS driver for the Drobo 5D, a discontinued RAID array, to maintain compatibility with future macOS versions. The project involved analyzing the existing Drobo Dashboard software, decoding the proprietary ESA management protocol, and building a functional driver and CLI/GUI replacement without official support or documentation.",
+  "score": 9,
+  "tags": [
+    "OpenSource",
+    "macOS",
+    "Driver Development",
+    "Reverse Engineering",
+    "AI-Assisted Coding",
+    "Hardware",
+    "RAID"
+  ],
+  "key_points": [
+    "Drobo 5D, a discontinued RAID array, faces compatibility issues with newer macOS versions due to the lack of updated drivers and Rosetta 2 deprecation.",
+    "The author used Claude (an AI assistant) to analyze the Drobo Dashboard software and firmware, identifying why it fails on newer macOS versions.",
+    "The project followed a 5-phase plan: data protection, protocol validation, payload decoding, CLI development, and a full driver replacement.",
+    "Key challenges included macOS's lack of SCSITaskUserClient support for the Drobo, requiring reverse-engineering of the ESA protocol via a working iMac setup.",
+    "The author disabled System Integrity Protection (SIP) on a spare MacMini to test the AI-generated driver, encountering multiple entitlement and compilation issues.",
+    "After troubleshooting, the driver successfully read device information (e.g., array health, drive serials) and was packaged into a GUI app (ReDrobo) with features like notifications and diagnostics export.",
+    "The project highlights the potential of AI-assisted coding for niche hardware support but notes the lack of deep learning due to the hands-off approach.",
+    "Source code and documentation are available on GitHub (fetzu/ReDrobo) for others to extend the Drobo's lifespan, though it requires disabling SIP."
+  ],
+  "content_hash": "64cd5c0ecb2da1e9311a7da1b44ce5b70edcd223310d66933812ae2da35490dc",
+  "title_hash": "d34730b41c4ab2751a19450a7befc25c21223bbfa0da667c87e8e0162ba095c4",
+  "collected_at": "2026-08-20T08:36:22.875386+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "excellent",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "clear (review/opinion context)",
+      "fabrication": false,
+      "details": [
+        "The article provides a highly detailed, technical walkthrough of reverse-engineering a macOS driver for discontinued hardware, offering significant value to developers and open-source enthusiasts.",
+        "No spam, clickbait, or hidden advertisements detected. The content is purely technical and project-focused.",
+        "The category 'OpenSource' is accurate, as the project is open-source and the article discusses community-driven development.",
+        "The author clearly distinguishes between factual steps (e.g., protocol analysis, SIP disabling) and opinions (e.g., AI's role in niche hardware support).",
+        "No fabrication; the project is documented on GitHub, and the methodology is transparent.",
+        "Minor bias exists (e.g., enthusiasm for AI-assisted coding), but it does not manipulate or mislead the reader.",
+        "The summary and key points are well-structured, avoiding redundancy while covering all critical aspects."
+      ]
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-20T08:36:22.875386+07:00"
+}

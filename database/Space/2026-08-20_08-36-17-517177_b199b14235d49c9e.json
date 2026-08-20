@@ -1,0 +1,46 @@
+{
+  "id": "b199b14235d49c9e",
+  "title": "NASA calls off mission to rescue Swift gamma-ray observatory",
+  "url": "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory",
+  "source": "Ars Technica",
+  "category": "Space",
+  "summary": "NASA and Katalyst Space Technologies have abandoned a robotic mission to rescue the Swift gamma-ray telescope due to technical failures in the rescue satellite, Link. The mission aimed to extend Swift's operational life by boosting its orbit, but ongoing attitude control issues with Link's reaction wheels and thrusters made the rescue unfeasible. Despite the setback, the mission provided valuable insights for future satellite servicing technologies.",
+  "score": 8,
+  "tags": [
+    "Space",
+    "NASA",
+    "Satellite Servicing",
+    "Gamma-Ray Astronomy"
+  ],
+  "key_points": [
+    "NASA and Katalyst Space Technologies canceled the mission to rescue the Swift gamma-ray observatory due to technical issues with the rescue satellite, Link.",
+    "The Link satellite experienced failures in two of its three reaction wheels and cold gas thrusters, preventing it from completing the rescue mission.",
+    "The Swift observatory, launched nearly 22 years ago, has outlived its original two-year design but remains critical for detecting gamma-ray bursts.",
+    "Swift lacks thrusters to maintain its orbit, making the rescue mission the only viable option to extend its operational life.",
+    "Katalyst developed and launched the Link satellite in just nine months under a $30 million NASA contract, demonstrating rapid innovation despite the tight timeline.",
+    "The mission provided valuable data and lessons for future satellite servicing, rendezvous, and proximity operations.",
+    "Swift is expected to reenter Earth's atmosphere and burn up later this year, ending its mission."
+  ],
+  "content_hash": "07cf0950b20021ec5e31413763d06965b60895be94b6ff391dcbf8a87bb6bc6a",
+  "title_hash": "a8dd956fa1785e4dbc5768408d117a0006bc3fbf1ac1ff62e11b5bb1a16daa4a",
+  "collected_at": "2026-08-20T08:36:17.517177+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, factual, and well-structured summary of NASA's decision to cancel the Swift gamma-ray observatory rescue mission. It includes technical details, context about the satellite's history, and insights into the broader implications for satellite servicing technology. The content is informative, relevant to the 'Space' category, and avoids sensationalism or bias. Minor deduction in score due to the category being explicitly provided as 'Space' (not 'AI')."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-20T08:36:17.517177+07:00"
+}
