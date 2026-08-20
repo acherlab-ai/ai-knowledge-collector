@@ -1,0 +1,45 @@
+{
+  "id": "7cca4edec26f1d66",
+  "title": "Don't Paste the AI, Please: A Call for Thoughtful AI-Assisted Communication",
+  "url": "https://dontpastetheai.com",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "The article critiques the practice of directly copying and pasting AI-generated responses without adding personal insight or context. It argues that such behavior undermines the value of human judgment and encourages users to engage critically with AI tools instead of acting as mere intermediaries. The piece suggests using AI as a drafting partner, refining its output, and contributing original thoughts to conversations.",
+  "score": 8,
+  "tags": [
+    "AI",
+    "Productivity",
+    "Communication",
+    "Ethics"
+  ],
+  "key_points": [
+    "Directly pasting AI-generated answers without personal input is often unhelpful, as recipients likely have access to the same tools.",
+    "AI should be used as a drafting partner, not a replacement for human judgment, context, or taste.",
+    "Users should read AI outputs, extract the most relevant parts, and add their own perspective or critique.",
+    "Quoting AI-generated content is acceptable if accompanied by personal validation or explanation (e.g., 'I checked with Claude and this part lines up').",
+    "If no additional insight can be provided, it is better to acknowledge it (e.g., 'No strong opinion here') rather than pasting raw AI output.",
+    "The article provides a polite and a more direct version of its message for sharing with others who rely too heavily on AI-generated responses."
+  ],
+  "content_hash": "e202d6a0ecb707016a741db05594f0938bc6e3ab90ed8b5d0be8f1ac07ef916d",
+  "title_hash": "836a28f726b3675f1ea548eae138805e9d2deb3223b3b2b051414d1081df8844",
+  "collected_at": "2026-08-20T17:47:14.154032+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_distinction": "clear",
+      "fabrication": false,
+      "details": "The article provides a thoughtful critique of over-reliance on AI-generated responses without human input, offering practical suggestions for better AI-assisted communication. It distinguishes between opinion and fact, avoids spam/clickbait, and maintains a balanced perspective. The category is accurate, and the content is original with no fabrication."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-20T17:47:14.154032+07:00"
+}
