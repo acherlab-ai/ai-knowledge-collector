@@ -1,0 +1,47 @@
+{
+  "id": "b469503bee2420cb",
+  "title": "Apollo Atomics Aims to Reduce Nuclear Power Costs by Innovating Steam Generators",
+  "url": "https://techcrunch.com/2026/08/20/apollo-atomics-wants-to-make-nuclear-power-cheaper-by-shrinking-an-overlooked-part",
+  "source": "TechCrunch",
+  "category": "Technology",
+  "summary": "Apollo Atomics, a startup founded by Assil Halimi and Drew Walker, is focusing on reducing nuclear power costs by redesigning the steam generator, a critical but often overlooked component of nuclear reactors. Their compact, mass-manufacturable design aims to improve efficiency and significantly reduce the size and cost of nuclear power plants. The company recently secured $26 million in seed funding and plans commercial deployment by 2028, targeting electricity generation at 3 cents per kilowatt hour to compete with natural gas.",
+  "score": 9,
+  "tags": [
+    "Nuclear Power",
+    "Clean Energy",
+    "Innovation",
+    "Startups",
+    "Technology"
+  ],
+  "key_points": [
+    "Apollo Atomics is addressing nuclear power costs by redesigning the steam generator, a large and inefficient component in traditional reactors.",
+    "Their compact design allows for mass manufacturing and reduces the reactor size by 40 times compared to conventional systems.",
+    "The startup's approach leverages MIT research and focuses on improving heat transfer efficiency through needle-thin channels in a metal block.",
+    "Apollo plans to assemble reactors in factories rather than on-site, reducing labor costs and construction time (targeting under 24 months for a 300-megawatt plant).",
+    "The company projects electricity generation costs at 3 cents per kilowatt hour, aiming to compete with natural gas.",
+    "Apollo has built a 40-kilowatt demonstration reactor and plans to offer reactors ranging from 10 MW to 300 MW.",
+    "The startup recently closed a $26 million seed round, with participation from multiple venture capital firms and institutions."
+  ],
+  "content_hash": "54deba1a95f0c5c3dc059b231a930341d06d91fdeaacd9aa45c4e42f9fdfab7e",
+  "title_hash": "83e27140f35dad5ed34fef342c1cd44593e10eec4fb721eddf7703c330a0e19d",
+  "collected_at": "2026-08-20T21:21:17.276384+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a well-researched, factual overview of Apollo Atomics' innovative approach to nuclear power cost reduction. It includes specific technical details, funding information, and clear projections without exaggeration or misleading claims. The content is relevant to the Technology category and maintains objectivity while highlighting a promising startup in clean energy."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-20T21:21:17.276384+07:00"
+}

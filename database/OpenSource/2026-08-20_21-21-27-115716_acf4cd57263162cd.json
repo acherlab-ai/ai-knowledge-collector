@@ -1,0 +1,48 @@
+{
+  "id": "acf4cd57263162cd",
+  "title": "Hacking with Claude on a $27 Smart Watch: Building a Custom Watch Face Using AI",
+  "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+  "source": "Hacker News",
+  "category": "OpenSource",
+  "summary": "The author details their experience using AI coding assistants (primarily open-weight models like Kimi and DeepSeek) to develop a custom watch face for the PineTime, a $27 open-source smartwatch. The project leverages the watch's open-source firmware (InfiniTime), well-documented ecosystem, and simulator (InfiniSim) to create a functional prototype with AI guidance. The post highlights the iterative process, challenges (e.g., performance limitations, text positioning), and solutions (e.g., using a fullscreen background image for static elements). The author shares their code and lessons learned on GitHub for others to replicate or build upon.",
+  "score": 8,
+  "tags": [
+    "OpenSource",
+    "AI",
+    "EmbeddedSystems",
+    "Firmware",
+    "SmartWatch"
+  ],
+  "key_points": [
+    "The PineTime is a $27 open-source smartwatch with customizable firmware (InfiniTime) and a simulator (InfiniSim) for development.",
+    "AI coding assistants (e.g., Claude, Kimi, DeepSeek) can accelerate firmware development by generating code, orchestrating tasks, and iterating on feedback.",
+    "The project started with replicating a Casio-style watch face from a reference image, using an existing InfiniTime watch face as a template.",
+    "Initial AI-generated code required manual refinement due to inaccuracies in text sizing and positioning, but provided a usable starting point.",
+    "A hybrid approach was used: static elements were rendered as a fullscreen background image, while dynamic elements (e.g., time) were programmed separately to optimize performance.",
+    "Performance limitations were encountered on the physical device (e.g., slow Bluetooth transfers, delayed screen refreshes), but the prototype remained functional.",
+    "The author emphasizes the value of AI in low-stakes, exploratory projects, enabling rapid iteration and reducing barriers to entry for firmware development.",
+    "All code and documentation (including an AGENTS.md guide) are shared on GitHub for community reuse."
+  ],
+  "content_hash": "64f29ed517c0b2e923f16c2487a6269df80623e7f729cc0bc47a8f03b00d9a97",
+  "title_hash": "32d59cd5968629aa0d0cd65a931f48a0ba6a866a21358e6356215c4337fce560",
+  "collected_at": "2026-08-20T21:21:27.115716+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "clear",
+      "fabrication": false,
+      "details": "The article provides a detailed, practical guide on using AI to develop a custom watch face for an open-source smartwatch. It includes technical challenges, solutions, and lessons learned, making it highly useful for developers interested in embedded systems, open-source firmware, or AI-assisted coding. The content is well-structured, fact-based, and distinguishes opinions (e.g., author's experience with AI tools) from technical facts. No spam, clickbait, or hidden ads are detected. The category 'OpenSource' is appropriate, and the post maintains a neutral, informative tone without excessive bias or manipulation."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-20T21:21:27.115716+07:00"
+}
