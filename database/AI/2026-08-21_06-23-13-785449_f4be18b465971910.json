@@ -1,0 +1,47 @@
+{
+  "id": "f4be18b465971910",
+  "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+  "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "New data from Ramp, a corporate credit card and expense management company, shows OpenAI is regaining traction among U.S. business users after losing its lead to Anthropic in May 2026. While Anthropic held nearly 44% market share in July compared to OpenAI's 40%, OpenAI is currently growing faster in Q3. The data, covering over 70,000 businesses, highlights market volatility as companies switch between AI providers based on new model releases. Both OpenAI and Anthropic are expanding their enterprise AI adoption, with 56% of Ramp's customers paying for AI services by July 2026.",
+  "score": 8,
+  "tags": [
+    "AI",
+    "OpenAI",
+    "Anthropic",
+    "Enterprise AI",
+    "Market Trends"
+  ],
+  "key_points": [
+    "OpenAI lost its lead to Anthropic in May 2026, with Anthropic reaching 41% market share vs. OpenAI's 39%.",
+    "As of July 2026, Anthropic holds ~44% market share, while OpenAI has ~40%.",
+    "OpenAI is currently growing faster in Q3 2026 among Ramp's business users.",
+    "The data covers 70,000+ U.S. businesses, primarily in the tech industry, but excludes large enterprises using other spend-management tools.",
+    "Market volatility is high as businesses switch between AI providers based on new model releases (e.g., OpenAI's GPT-5.6 Sol vs. Anthropic's Fable 5).",
+    "Anthropic's Fable 5 faced criticism for data retention policies and pricing, impacting adoption.",
+    "Enterprise AI adoption is expanding, with 56% of Ramp's customers paying for AI services by July 2026."
+  ],
+  "content_hash": "58b4ed976147ff7b57ada976f21cca5298f5f59c191ec2b70efb8f06d752130f",
+  "title_hash": "1c8db2081fdbcfd0772d477b7580f1bcd3dfb7fd84587eeca375075f71e9cb01",
+  "collected_at": "2026-08-21T06:23:13.785449+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not applicable (data-driven analysis)",
+      "fabrication": false,
+      "details": "The article provides valuable, data-driven insights into AI market trends among business users, backed by credible sources (Ramp). It avoids clickbait, spam, or hidden advertising, and maintains objectivity by presenting facts without overt bias. The category is accurate, and the content is well-structured with no redundancy or fabrication."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-21T06:23:13.785449+07:00"
+}

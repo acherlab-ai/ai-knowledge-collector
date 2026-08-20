@@ -1,0 +1,47 @@
+{
+  "id": "5139cb7756590ae9",
+  "title": "ChatGPT Launches Apple Messages Plugin for Automated Text Management",
+  "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "OpenAI has introduced an Apple Messages plugin for ChatGPT, enabling users to manage their text messages through the AI chatbot. The plugin allows sorting, analyzing, editing, drafting, sending, and deleting messages. It supports both personal and professional use via Codex and ChatGPT Work. Privacy concerns are noted, as the plugin runs locally but specifics remain unclear. OpenAI advises users to monitor ChatGPT's actions and avoid enabling persistent approval to maintain control over sent messages.",
+  "score": 8,
+  "tags": [
+    "AI",
+    "ChatGPT",
+    "Apple",
+    "Messaging",
+    "Automation",
+    "Privacy"
+  ],
+  "key_points": [
+    "OpenAI released an Apple Messages plugin for ChatGPT, integrating AI with iMessage.",
+    "Users can sort, analyze, edit, draft, send, and delete messages via ChatGPT.",
+    "The plugin works with Codex and ChatGPT Work for professional use cases.",
+    "OpenAI claims the plugin runs locally on the user's device, but privacy details are vague.",
+    "Persistent approval for message sending is discouraged to retain user oversight.",
+    "Potential privacy risks exist despite local processing assurances."
+  ],
+  "content_hash": "aeccf171fe0f4aa207cbef2300ae5810cc598fe65357f81dc45862ee522ed9d5",
+  "title_hash": "6b7d696bd13ae57609e51267600dddbc0d7eaf0055fb7fc0748c1504e8683989",
+  "collected_at": "2026-08-21T06:23:17.211312+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, informative overview of OpenAI's new Apple Messages plugin for ChatGPT. It covers key functionalities, use cases, and privacy considerations without exaggeration or misleading claims. The content is well-structured, fact-based, and relevant to the AI category. Minor deductions in score are due to vague privacy details, which could be clarified further, but this does not warrant rejection."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-21T06:23:17.211312+07:00"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "cb2878459dd14e6d",
+  "title": "Detecting Scraper Bots Through Scroll Behavior Using Burstiness and Memory Metrics",
+  "url": "https://niki.cat/detecting-scraper-bots-through-scroll-behaviour",
+  "source": "Hacker News",
+  "category": "Cybersecurity",
+  "summary": "The article explores a method to distinguish human users from scraper bots by analyzing scroll behavior patterns. It leverages two metrics—Burstiness (B) and Memory (M)—derived from research on complex systems to quantify the non-uniform, bursty nature of human interactions, such as scrolling. The author tests these metrics on a dataset from the 'FP-Agent' study, which recorded scroll events from humans and AI browsing agents. Results show that humans exhibit higher Burstiness and lower Memory in scroll behavior compared to most bots, with ChatGPT Agent being the closest to human patterns. A LightGBM model trained on these metrics achieved 73.4% accuracy in classifying interactions, though it struggled to differentiate humans from ChatGPT Agent. The approach is promising for websites requiring scrolling but requires additional features (e.g., mouse movement) for higher accuracy in real-world applications.",
+  "score": 8,
+  "tags": [
+    "Cybersecurity",
+    "Bot Detection",
+    "Machine Learning",
+    "User Behavior Analysis",
+    "Web Scraping"
+  ],
+  "key_points": [
+    "Humans exhibit bursty, non-uniform scroll behavior, unlike most bots, which scroll linearly or predictably.",
+    "Burstiness (B) and Memory (M) metrics from complex systems research can quantify these differences in scroll patterns.",
+    "A dataset from the 'FP-Agent' study was used to compare scroll behavior between humans and AI agents (e.g., ChatGPT Agent, ClaudeBot).",
+    "Humans showed higher Burstiness and near-zero Memory in scroll events, while bots (except ChatGPT Agent) had distinct distributions.",
+    "A LightGBM model trained on B and M achieved 73.4% accuracy in classifying interactions but confused humans with ChatGPT Agent due to limited features and dataset size.",
+    "Scroll behavior analysis is most effective for content-heavy sites (e.g., blogs, Wikipedia) but may not work for non-scrollable pages.",
+    "Combining scroll metrics with other behavioral features (e.g., mouse movement, typing patterns) could improve bot detection accuracy.",
+    "The method is a step toward creating generalizable models to protect websites from scraper bots."
+  ],
+  "content_hash": "d54b9101cbbe04b9d6af386f47b56d6648b997bd45158431ea1c73ef72403417",
+  "title_hash": "4b47c6afc8c95719fa4658709c6ef0c06be9723c649c3beb0dbd38f5741b9656",
+  "collected_at": "2026-08-21T06:23:21.187887+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "clear (where applicable)",
+      "fabrication": false,
+      "details": "The article provides a well-researched, technical exploration of bot detection using scroll behavior metrics (Burstiness and Memory). It is highly relevant to cybersecurity, avoids spam/clickbait, and maintains objectivity by distinguishing between factual results (e.g., model accuracy) and limitations (e.g., dataset constraints). The category is correct, and the content is neither redundant nor biased. Minor room for improvement exists in discussing real-world deployment challenges, but this does not detract from its overall high quality."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-21T06:23:21.187887+07:00"
+}
