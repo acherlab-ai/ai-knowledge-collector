@@ -1,0 +1,44 @@
+{
+  "id": "ad375fd86a353f24",
+  "title": "Harvest hikes bills by 1500% after acquisition by Bending Spoons",
+  "url": "https://www.bbc.com/news/articles/clyq011414eo",
+  "source": "Hacker News",
+  "category": "Technology",
+  "summary": "Harvest, a popular invoicing and timesheet tracking software, has increased its prices by up to 1500% following its acquisition by Italian tech company Bending Spoons. Customers, including UK consultancy firm Salentis, report significant bill hikes, with one user's monthly fee rising from $130 to $2,110. The new usage-based pricing model charges businesses based on active projects, clients, tasks, and invoiced revenue, leading to criticism for lack of transparency and corporate greed. Bending Spoons, known for acquiring tech firms and raising prices, has faced similar backlash with other acquisitions like Evernote, WeTransfer, and Vimeo.",
+  "score": 8,
+  "tags": [
+    "SaaS",
+    "Pricing Strategy",
+    "Corporate Acquisition",
+    "Business Software"
+  ],
+  "key_points": [
+    "Harvest, an invoicing and timesheet app, increased prices by up to 1500% after being acquired by Bending Spoons in 2025.",
+    "Customers report drastic bill hikes, e.g., a UK firm's monthly fee rose from $130 to $2,110.",
+    "The new pricing model is usage-based, charging for active projects, clients, tasks, and invoiced revenue, leading to unpredictability and criticism.",
+    "Bending Spoons has a history of raising prices post-acquisition, as seen with Evernote, WeTransfer, and Vimeo.",
+    "Critics label the move as 'corporate greed' and a failure in transparency, with many businesses planning to migrate to alternatives."
+  ],
+  "content_hash": "3e31b442b14d55faea8ad3f246a0bbcd125921e61b657bf244ab640ead0f84d8",
+  "title_hash": "79d6083615cf401a04b51cbe7d715173fd1f8a4be742a1416b47205793e75b59",
+  "collected_at": "2026-08-20T22:06:35.059411+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 8.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "moderate (balanced critique of corporate actions)",
+      "opinion_fact_distinction": "clear (opinions labeled as criticism, facts supported by examples)",
+      "fabrication": false,
+      "notes": "The article provides a well-researched critique of Harvest's pricing changes post-acquisition, with clear examples and context. While it leans toward criticism of Bending Spoons' practices, it remains factual and does not manipulate or mislead. The category is correct, and the content is valuable for readers evaluating SaaS pricing strategies or acquisition impacts."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-20T22:06:35.059411+07:00"
+}

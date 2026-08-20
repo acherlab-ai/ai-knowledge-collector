@@ -1,0 +1,47 @@
+{
+  "id": "2a9c77f6a7b305eb",
+  "title": "FCC Abolishes Gigabit Speed Goal, Citing Technological Neutrality Concerns",
+  "url": "https://arstechnica.com/tech-policy/2026/08/fcc-abolishes-gigabit-speed-goal-suggesting-it-is-unfair-to-slower-technologies",
+  "source": "Ars Technica",
+  "category": "Networking",
+  "summary": "The Federal Communications Commission (FCC) has eliminated the long-term gigabit speed goal (1Gbps download/500Mbps upload) set during the Biden administration, arguing it was not 'technologically neutral' and unfair to slower technologies like satellite and fixed wireless. The decision, led by Republican Chairman Brendan Carr, maintains the current broadband benchmark of 100Mbps downstream/20Mbps upstream. The FCC also concluded that broadband deployment in the U.S. is 'reasonable and timely,' with 94% of Americans having access to 100/20Mbps wireline service and 99.7% when including satellite. Critics, including Democratic Commissioner Anna Gomez, argue the move lowers standards and ignores affordability and usability issues.",
+  "score": 8,
+  "tags": [
+    "FCC",
+    "Broadband",
+    "Networking",
+    "Regulation",
+    "Telecommunications"
+  ],
+  "key_points": [
+    "The FCC abolished the long-term gigabit speed goal (1Gbps/500Mbps), citing it as non-neutral toward slower technologies like satellite and fixed wireless.",
+    "The current broadband benchmark remains at 100Mbps downstream and 20Mbps upstream, set in 2024.",
+    "The FCC claims 94% of Americans have access to 100/20Mbps wireline service, rising to 99.7% when including satellite and fixed wireless.",
+    "Critics argue the decision lowers standards and ignores affordability, usability, and competition issues (e.g., 40.6% of households have only one wired broadband provider).",
+    "The FCC no longer considers broadband affordability in its deployment analysis, despite evidence of rising prices from advocacy groups.",
+    "Satellite broadband (e.g., Starlink) faces limitations like congestion, capacity constraints, and demand surcharges in high-usage areas.",
+    "The change does not affect government-funded programs (e.g., Rural Digital Opportunity Fund), which still require gigabit speeds for deployments."
+  ],
+  "content_hash": "87fc65b379dc281ad15836dae72063f1453af2231af1fc6200aa3fb799fb955a",
+  "title_hash": "400e20eddcfdb8dda7baaf11033fac7af0891605103ba13211f40ffb216fc2aa",
+  "collected_at": "2026-08-20T22:06:18.867592+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "moderate (balanced perspectives from both sides)",
+      "opinion_fact_distinction": "clear (opinions labeled as critiques, facts cited with sources)",
+      "fabrication": false,
+      "details": "The article provides a well-researched, factual overview of the FCC's decision to abolish the gigabit speed goal, including arguments from both supporters and critics. It avoids sensationalism, clearly distinguishes between facts and opinions, and maintains a balanced tone. The category is correctly assigned, and the content is highly relevant to networking and telecommunications policy."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-20T22:06:18.867592+07:00"
+}

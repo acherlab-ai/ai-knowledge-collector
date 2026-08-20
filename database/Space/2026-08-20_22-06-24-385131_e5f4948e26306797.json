@@ -1,0 +1,47 @@
+{
+  "id": "e5f4948e26306797",
+  "title": "The floodgates are open after another Chinese company lands a reusable rocket",
+  "url": "https://arstechnica.com/space/2026/08/the-floodgates-are-open-after-another-chinese-company-lands-a-reusable-rocket",
+  "source": "Ars Technica",
+  "category": "Space",
+  "summary": "China's space industry is rapidly advancing in reusable rocket technology, with LandSpace successfully landing its Zhuque-3 rocket's first stage. This marks China's first successful land-based recovery of an orbital-class booster, following earlier attempts by other Chinese companies. The achievement signals growing competition in reusable launch systems, with multiple Chinese firms developing similar technologies. The Zhuque-3, powered by methane, resembles SpaceX's Falcon 9 and aims to support China's satellite mega-constellations. China's progress contrasts with the U.S., where SpaceX dominates reusable launches but faces potential gaps as it transitions to Starship.",
+  "score": 9,
+  "tags": [
+    "Space",
+    "Reusable Rockets",
+    "China",
+    "SpaceX",
+    "Launch Technology"
+  ],
+  "key_points": [
+    "LandSpace successfully landed the first stage of its Zhuque-3 rocket, marking China's first land-based recovery of an orbital-class booster.",
+    "The Zhuque-3 uses methane fuel and resembles SpaceX's Falcon 9, with grid fins and landing legs for recovery.",
+    "China's state-owned and commercial space companies are actively developing reusable rockets, with multiple firms achieving milestones in booster recovery.",
+    "LandSpace plans to reuse each Zhuque-3 booster at least 20 times, targeting deployment for China's satellite mega-constellations like Guowang and Qianfan.",
+    "China's progress in reusable rockets could narrow the gap with the U.S., where SpaceX currently dominates but may phase out the Falcon 9 in favor of Starship.",
+    "Other U.S. companies like Rocket Lab and Relativity Space are developing reusable rockets, but none are as advanced as SpaceX or China's emerging players.",
+    "China's Long March 9, a Starship-like rocket, is in development but not expected to fly before 2030."
+  ],
+  "content_hash": "3bae90c23328c843fdadfe18a29609c2dda8d7ebf67f68bb4a2e48f01333a388",
+  "title_hash": "5b17709b3cbe848dfbc7a9049b6b1639ca91cedf5a27415dc569553f741c4f81",
+  "collected_at": "2026-08-20T22:06:24.385131+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "moderate",
+      "opinion_fact_distinction": "clear",
+      "fabrication": false,
+      "details": "The article provides a well-researched and informative overview of China's advancements in reusable rocket technology, specifically LandSpace's Zhuque-3 milestone. It compares developments in China with those in the U.S., offering context without excessive bias. The summary and key points are accurate, relevant, and supported by facts. The category 'Space' is correct, and the content avoids spam, clickbait, or hidden advertising. Minor bias exists in framing competition between China and the U.S., but it does not undermine the factual basis or neutrality of the article."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-20T22:06:24.385131+07:00"
+}
