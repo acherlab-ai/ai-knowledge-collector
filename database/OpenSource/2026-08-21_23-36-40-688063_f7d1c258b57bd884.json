@@ -1,0 +1,45 @@
+{
+  "id": "f7d1c258b57bd884",
+  "title": "Omacom Foundation Launches with $8M to Advance Open-Source Computing",
+  "url": "https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million",
+  "source": "Hacker News",
+  "category": "OpenSource",
+  "summary": "The Omacom Foundation has been launched as a nonprofit organization with $8 million in funding from eight founding patrons, including CEOs of major tech companies like Shopify, Stripe, Dell Technologies, and Cloudflare. The foundation aims to support and accelerate the development of open-source projects, infrastructure, and the broader adoption of malleable computing systems, with a long-term vision of transforming how people interact with computers. It will hold trademarks, fund infrastructure, and promote open-source initiatives.",
+  "score": 8,
+  "tags": [
+    "OpenSource",
+    "Nonprofit",
+    "Tech Foundations",
+    "Linux",
+    "Computing"
+  ],
+  "key_points": [
+    "Omacom Foundation is established as a nonprofit with $8 million in funding.",
+    "Eight founding patrons, including CEOs of Shopify, Stripe, Dell Technologies, and Cloudflare, each contributed $1 million.",
+    "The foundation will hold trademarks, fund infrastructure, and support open-source projects and developers.",
+    "The mission is to make malleable computing broadly accessible and transform human-computer interaction.",
+    "The foundation aims to fulfill the vision of 'The Year of Linux on the Desktop.'"
+  ],
+  "content_hash": "d1cdbe7d35a9186d34bd40b90776bf5b47d99aa6b70b098c68da5ddff8fc7236",
+  "title_hash": "e08c5fe3a4e5dd3b1d07de6591ba2ca98787d9a373b085ae6bc0fd89178ed0fb",
+  "collected_at": "2026-08-21T23:36:40.688063+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "fact_opinion_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides valuable and factual information about the launch of the Omacom Foundation, its funding, mission, and key supporters. It is well-structured, objective, and aligns with the OpenSource category. No signs of spam, clickbait, hidden ads, or bias were detected. The content is original and does not repeat existing information unnecessarily."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-21T23:36:40.688063+07:00"
+}
