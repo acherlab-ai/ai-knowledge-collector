@@ -1,0 +1,46 @@
+{
+  "id": "222c598dc67fd386",
+  "title": "Oura Faces Lawsuit Over Allegedly Misleading Sleep-Tracking Accuracy Claims",
+  "url": "https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy",
+  "source": "TechCrunch",
+  "category": "Hardware",
+  "summary": "A proposed class action lawsuit accuses Oura, a smart ring manufacturer, of deceiving consumers about the accuracy of its sleep-tracking features. The lawsuit alleges that Oura rings cannot measure physiological signals required to assess sleep quality or stages accurately and instead rely on AI-generated estimates with questionable reliability. The complaint highlights discrepancies between Oura's marketing claims (e.g., 79%-95% accuracy compared to clinical sleep labs) and the device's actual capabilities, arguing that sleep tracking requires clinical-grade equipment. The lawsuit seeks injunctive relief and restitution for affected consumers.",
+  "score": 8,
+  "tags": [
+    "Hardware",
+    "Wearables",
+    "AI",
+    "Consumer Rights",
+    "Lawsuit"
+  ],
+  "key_points": [
+    "Oura is accused of misleading consumers about the accuracy of its sleep-tracking smart rings.",
+    "The lawsuit claims Oura rings cannot measure physiological signals needed for accurate sleep stage detection and rely on AI estimates with low reliability.",
+    "Oura marketed its rings as offering 'unparalleled accuracy' (up to 95% compared to clinical sleep labs), but the complaint argues such claims are false.",
+    "Sleep tracking requires clinical-grade equipment (e.g., scalp electrodes, eye sensors), which Oura rings lack.",
+    "The lawsuit seeks to stop Oura from falsely advertising its products and demands restitution for consumers.",
+    "Users have previously expressed frustration with the device's accuracy, reporting discrepancies between perceived and tracked sleep quality."
+  ],
+  "content_hash": "88bb3ea04e2b2fc211caac1fdf843c6a3dc33c75b123e4f41fd884f21938e2b8",
+  "title_hash": "4f7041f468f942cdacb60b31d8334b7f65bb3d9ab612cd395ff0248344689e2f",
+  "collected_at": "2026-08-21T22:09:25.737007+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_distinction": "clear",
+      "fabrication": false,
+      "details": "The article provides a well-researched and balanced overview of the lawsuit against Oura, including key allegations, marketing claims, and user frustrations. It distinguishes between factual reporting (e.g., lawsuit details, technical limitations) and opinion (e.g., user dissatisfaction). The category 'Hardware' is correct, as the focus is on a hardware product (smart ring) and its alleged shortcomings. The content is neutral, avoiding manipulative language or excessive bias. The summary and key points are concise, informative, and free of redundancy."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-21T22:09:25.737007+07:00"
+}

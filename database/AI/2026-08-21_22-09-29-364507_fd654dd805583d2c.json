@@ -1,0 +1,46 @@
+{
+  "id": "fd654dd805583d2c",
+  "title": "Claudette: A Tool to Simplify Claude AI's Verbose Responses",
+  "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "Claudette is an open-source tool (GitHub project) designed to convert Claude AI's verbose, BuzzFeed-style responses into concise, engineer-friendly language. It leverages the Gemini CLI to translate Claude's output while preserving technical accuracy, offering different modes for engineers, managers, and executives. The tool addresses a common frustration with Claude's overly dramatic or clickbait-like phrasing in technical discussions.",
+  "score": 8,
+  "tags": [
+    "AI",
+    "OpenSource",
+    "Productivity",
+    "NLP"
+  ],
+  "key_points": [
+    "Claudette is a Claude Code skill that reformats Claude AI's responses to remove excessive theatrics and clickbait-style language.",
+    "It uses Gemini CLI to translate responses into plain English while preserving technical details like file paths and code blocks.",
+    "Three output modes: 'colleague' (default, detailed for engineers), 'manager' (shorter, no code), and 'director' (executive summary).",
+    "Works by piping Claude's output to Gemini with style instructions, ensuring no reintroduction of the original verbose tone.",
+    "Requires Claude Code and authenticated Gemini CLI (`npm install -g @google/gemini-cli`).",
+    "Open-source (MIT license) and available on GitHub for installation via simple commands.",
+    "Handles errors transparently, showing Gemini's errors directly or falling back to a labeled Claude rewrite if needed."
+  ],
+  "content_hash": "4ff92f2d09e9cdc237a4b0e6e492c1367fef73f269498915007b31799caa5975",
+  "title_hash": "02b312d18bac0b930d16400a2ca50b77105e365e5ca41a75da25c86d099dd5f1",
+  "collected_at": "2026-08-21T22:09:29.364507+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "disguised_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, factual overview of Claudette, an open-source tool designed to improve Claude AI's output readability. It is highly useful for technical audiences frustrated with verbose AI responses. The content is well-structured, free of spam/ads, and avoids clickbait. Technical details (e.g., modes, installation) are accurate and practical. No significant bias or fabrication detected. The category 'AI' is appropriate."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-21T22:09:29.364507+07:00"
+}

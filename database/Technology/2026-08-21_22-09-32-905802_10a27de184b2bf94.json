@@ -1,0 +1,45 @@
+{
+  "id": "10a27de184b2bf94",
+  "title": "The Decline of Search Quality and Its Impact on Critical Thinking",
+  "url": "https://blog.8ball.space/what-we-lost-when-search",
+  "source": "Hacker News",
+  "category": "Technology",
+  "summary": "The article discusses the deterioration of search engine quality over recent years, driven by SEO manipulation, AI-generated content, and ranking algorithms prioritizing engagement over accuracy. It highlights how these changes reduce the need for users to engage in critical thinking, such as evaluating sources, forming hypotheses, and synthesizing information. The author expresses concern that reliance on AI-generated summaries and tools that bypass cognitive effort may erode research skills and independent thinking over time.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Search Engines",
+    "Critical Thinking",
+    "SEO",
+    "Digital Literacy"
+  ],
+  "key_points": [
+    "Search results have degraded due to SEO-optimized and AI-generated content, which often prioritizes ranking over accuracy.",
+    "AI-generated summaries in search results reduce the need for users to verify sources, increasing the risk of misinformation.",
+    "The shift toward convenience in search tools may erode critical research skills, such as comparing sources and forming independent conclusions.",
+    "Generative AI tools, while useful, can weaken underlying skills by replacing the cognitive effort required for tasks like writing or problem-solving.",
+    "The trade-off between convenience and cognitive engagement is often overlooked but has long-term implications for how people learn and think."
+  ],
+  "content_hash": "1f123580212515b7940a4549ec591c9fd801233aed777c7a205b606c8399a35d",
+  "title_hash": "d5ceec44eb147efc85b88a4ed71f83deb64bd890360d90b2639ace8c1fb4dac3",
+  "collected_at": "2026-08-21T22:09:32.905802+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "moderate (opinion-based but justified)",
+      "opinion_fact_separation": "clear distinction maintained",
+      "fabrication": false,
+      "details": "The article provides a well-reasoned critique of search engine quality and its impact on critical thinking, supported by logical arguments and relevant examples. It avoids spam, clickbait, or hidden advertising while maintaining a clear distinction between opinion and fact. The content is original, non-repetitive, and aligns with the Technology category. While it expresses a viewpoint, it does so without manipulative intent or serious misinformation."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-21T22:09:32.905802+07:00"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "578010e7f32a1bc4",
+  "title": "Kagi Search and Assistant Updates: New Features and Improvements",
+  "url": "https://kagi.com/changelog",
+  "source": "Hacker News",
+  "category": "Technology",
+  "summary": "Kagi has introduced several updates to its search engine and AI Assistant, including a revamped Stocks widget with price charts, a new setting to automatically remove paywalled links from search results, and enhancements to the Kagi Assistant for smoother everyday use. Key improvements include richer message rendering, more powerful search across threads, customizable thread retention settings, and various bug fixes for both search and Assistant functionalities.",
+  "score": 8,
+  "tags": [
+    "Search Engine",
+    "AI Assistant",
+    "Productivity",
+    "Privacy",
+    "User Experience"
+  ],
+  "key_points": [
+    "Revamped Stocks widget now supports exchange-traded funds (ETFs) and includes animated price charts for better visualization of fluctuations.",
+    "New setting to automatically remove paywalled links from search results, improving user experience by filtering out inaccessible content.",
+    "Kagi Assistant updates: richer message rendering (links, Markdown, LaTeX), enhanced search across threads with sorting and filtering options.",
+    "Customizable thread retention settings (24h, 7 days, or 30 days) for temporary threads, with a calmer and easier-to-scan settings interface.",
+    "Bug fixes and improvements for Kagi Search, Assistant, and Translate, including URL handling, syntax highlighting, mobile app gestures, and login issues."
+  ],
+  "content_hash": "a776df2b2a5e2486b9229120338d1e3f0a64cf6a81a5014a3ea94ef11d86b340",
+  "title_hash": "6507139cab1c1da76b0200c423333e637dc023fb7273ce5d3a23889a4002fd79",
+  "collected_at": "2026-08-21T22:09:36.462063+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "disguised_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_distinction": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, detailed, and factual summary of Kagi's updates, focusing on new features and improvements without exaggeration or misleading claims. The content is well-structured, relevant to the 'Technology' category, and avoids spam, clickbait, or disguised advertising. The information is concise, accurate, and useful for users interested in search engines and AI assistants. No significant bias or redundancy is detected."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-21T22:09:36.462063+07:00"
+}
