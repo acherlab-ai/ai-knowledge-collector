@@ -1,0 +1,50 @@
+{
+  "id": "a929f58b03d3d95b",
+  "title": "Quick impressions: A week of using Codex more than Claude for coding tasks",
+  "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "A developer shares hands-on impressions after using GitHub Codex more frequently than Anthropic's Claude for a week, comparing their performance in coding, debugging, and workflow integration. The analysis highlights differences in code output style, speed, architectural decisions, error handling, and user experience between the two AI assistants.",
+  "score": 8,
+  "tags": [
+    "AI",
+    "Codex",
+    "Claude",
+    "Coding Assistants",
+    "Software Development"
+  ],
+  "key_points": [
+    "Codex can utilize Claude's existing skills by transforming them, reducing setup redundancy.",
+    "Familiarity with Claude made it the preferred choice for urgent debugging tasks despite Codex's capabilities.",
+    "Codex generated Ruby/Ruby on Rails code with fewer comments, which the author found preferable.",
+    "Codex's output felt more technical and direct, akin to a precise tool, while Claude's felt more conversational and collaborative.",
+    "Codex encouraged maintaining multiple focused sessions rather than one large session, improving workflow organization.",
+    "Codex executed initial code changes faster, but the overall time saved was negligible due to extensive testing and review processes.",
+    "Codex proposed simpler, more contained code architectures compared to Claude, which often introduced additional abstractions and type systems.",
+    "Codex made errors in branching and rebasing, requiring explicit instructions to avoid complex merge conflicts.",
+    "Codex struggled with Jira/Atlassian CLI integration, often switching between browser and CLI, whereas Claude adapted better to user preferences.",
+    "Codex followed instructions precisely without overreaching, while Claude attempted to anticipate and fulfill broader user intentions, sometimes causing issues."
+  ],
+  "content_hash": "72e9d78a35fe5d7b7608a9e6b8e61d21a30de7b47bb5f2a03bf1631919bb1487",
+  "title_hash": "2b4b00769e01470959126bf7b8713679935bcc130656c3d38ed851b53a19c7cb",
+  "collected_at": "2026-08-22T03:52:17.821250+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "moderate",
+      "opinion_fact_separation": true,
+      "fabrication": false,
+      "details": "The article provides a detailed, hands-on comparison of GitHub Codex and Claude for coding tasks, offering practical insights into their performance, workflow integration, and user experience. The content is well-structured, avoids spam/clickbait, and clearly distinguishes between factual observations and the author's opinions. While the author expresses preferences, the analysis remains balanced and does not exhibit manipulative or misleading tendencies. The category (AI) is appropriate, and the information is original with no significant redundancy or fabrication."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-22T03:52:17.821250+07:00"
+}
