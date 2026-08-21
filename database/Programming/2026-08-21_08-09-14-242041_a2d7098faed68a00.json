@@ -1,0 +1,45 @@
+{
+  "id": "a2d7098faed68a00",
+  "title": "The Evolution of Software Teams: Why Modularity and Parallel Development Are Becoming Essential",
+  "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team",
+  "source": "Hacker News",
+  "category": "Programming",
+  "summary": "The article discusses how modern software development, driven by AI coding agents and parallel workflows, is transforming team structures. Small teams today can generate output comparable to large teams of the past due to modular architectures (e.g., microservices) and automation. Modularity reduces merge conflicts, enables parallel agent execution, and lowers overhead costs, making it a critical design consideration for efficiency and scalability.",
+  "score": 8,
+  "tags": [
+    "Programming",
+    "Software Development",
+    "Microservices",
+    "AI Agents",
+    "Modularity"
+  ],
+  "key_points": [
+    "Traditional small software teams (5-10 people) could manage workflows without extreme modularity, but modern teams using AI agents generate significantly more output (e.g., 500 commits/100 PRs daily).",
+    "Uber’s microservices approach, once seen as extreme, may become standard due to its scalability and parallel development benefits.",
+    "Modular codebases (e.g., microservices) enable 'embarrassingly parallel' workflows, allowing AI agents to work independently with minimal conflicts.",
+    "Modularity reduces coordination overhead, as agents handle boilerplate, CI config, and plumbing, making splitting services cheaper than before.",
+    "Small modules improve AI agent performance by fitting within context windows, making modular design a priority from the start."
+  ],
+  "content_hash": "ca7beeb8b6ae8848ec5dec796a1aa2d64aa1b4e7fdf79a2d53c7a9eba649875e",
+  "title_hash": "00f441771511764b6c43bb26750750f9e54bbb8e925375b2d4b648017da8ae3f",
+  "collected_at": "2026-08-21T08:09:14.242041+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a well-researched and insightful analysis of modern software team evolution, focusing on modularity and parallel development. It cites practical examples (e.g., Uber's microservices) and explains technical concepts clearly without spam, clickbait, or hidden advertising. The content is fact-based, with no fabrication, and aligns well with the 'Programming' category. The slight emphasis on AI agents is justified as part of the broader trend in software development."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-21T08:09:14.242041+07:00"
+}
