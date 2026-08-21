@@ -1,0 +1,57 @@
+{
+  "id": "3aee0ddae247bc5e",
+  "title": "Another Better Lower Bound for n=17 Square Packing",
+  "url": "http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html",
+  "source": "Hacker News",
+  "category": "Science",
+  "summary": "The article discusses advancements in determining the smallest square side length, s(17), required to pack 17 unit squares. It builds upon previous work by Trevor Green and Sam Burns, presenting a new lower bound of 4.5058 for s(17). The author, Gustavo Massaccesi, explains the methodologies, including geometric proofs, linear programming, and computational verification, to refine the bounds. The post also includes technical details, code modifications, and visualizations to support the findings.",
+  "score": 8,
+  "tags": [
+    "Mathematics",
+    "Computational Geometry",
+    "Algorithms",
+    "Optimization"
+  ],
+  "key_points": [
+    "Definition of s(n) as the side of the smallest square into which n unit squares can be packed.",
+    "Historical context: s(15) = 4 (proven by Erich Friedman in 1999) and s(17) ≤ 4.6756 (demonstrated by John Bidwell in 1998).",
+    "Trevor Green's 2000 proof established a lower bound of 4.4452 for s(17).",
+    "Sam Burns, using ChatGPT, proposed an improved lower bound of 4.4811, though it remains unverified by the community.",
+    "Gustavo Massaccesi presents a new lower bound of 4.5058 for s(17), achieved through linear programming and computational verification.",
+    "The new bound uses 168 weighted points in a 29x29 grid within a square of side 4.5058, with a total weight sum of 16.9166.",
+    "Methodology involves symmetrization, linear programming for weight selection, and brute-force search for optimal grid configurations.",
+    "The result also improves lower bounds for s(18), s(19), and s(20).",
+    "Includes Python and Racket code for verification and visualization of the bounds.",
+    "Future work includes exploring non-symmetrical versions and refining grid sizes for potentially better bounds."
+  ],
+  "content_hash": "857ba35cf9c4faf77319581577132520370020e8b39339b862a3259c58b83cf1",
+  "title_hash": "ca31cff509c829ea5febe795e3810bf39c6fbf178fc767c2c0350cb587e599a0",
+  "collected_at": "2026-08-22T00:45:34.214049+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": [
+        "The article provides a detailed and technical discussion on advancements in square packing problems, which is highly relevant and useful for the fields of mathematics and computational geometry.",
+        "No signs of spam, clickbait, or hidden advertising are present.",
+        "The information is well-researched, supported by methodologies, code, and visualizations, ensuring high quality and reliability.",
+        "The content is original and does not repeat or overlap unnecessarily with existing knowledge.",
+        "The category 'Science' is accurate given the focus on mathematical proofs and computational methods.",
+        "The article maintains a neutral and objective tone, focusing on factual advancements and methodologies without undue bias.",
+        "While the article includes references to computational tools (e.g., ChatGPT), it does not misrepresent facts or fabricate results."
+      ]
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-22T00:45:34.214049+07:00"
+}
