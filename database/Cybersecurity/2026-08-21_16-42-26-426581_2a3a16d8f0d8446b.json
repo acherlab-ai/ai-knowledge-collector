@@ -1,0 +1,47 @@
+{
+  "id": "2a3a16d8f0d8446b",
+  "title": "Reverse-lookup service exposed millions of photos of people’s faces",
+  "url": "https://arstechnica.com/gadgets/2026/08/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces",
+  "source": "Ars Technica",
+  "category": "Cybersecurity",
+  "summary": "Independent security researcher Jeremiah Fowler discovered that ClarityCheck, a reverse image search tool, left over 9 million image files (including faces of adults, teenagers, and children) publicly exposed in an unsecured Amazon S3 bucket. The misconfiguration also exposed email addresses and phone numbers via API manipulation. While ClarityCheck secured the data after being notified, the exposure highlights risks of biometric data leaks, potential misuse by AI training or scammers, and the broader issue of insecure data handling in people-search tools.",
+  "score": 9,
+  "tags": [
+    "Cybersecurity",
+    "Data Privacy",
+    "Biometric Data",
+    "AI Risks",
+    "Cloud Security"
+  ],
+  "key_points": [
+    "ClarityCheck, a people-search tool, exposed ~450GB of images (9M+ files) in an unsecured Amazon S3 bucket, including folders labeled 'faces' and 'profiles'.",
+    "The exposed data included photos of adults, teenagers, and children, accessible via direct URLs found in the company’s public website code.",
+    "A second misconfiguration allowed API manipulation to reveal email addresses and phone numbers by entering names into URLs.",
+    "ClarityCheck disputes the 'exposure' claim, arguing the data required knowledge of unindexed URLs, but security experts define exposure as unauthorized access risk.",
+    "The incident raises concerns about biometric data misuse (e.g., AI training, scams) and the lack of user consent for image inclusion in such databases.",
+    "ClarityCheck secured the data after being contacted by WIRED but had previously failed to respond to the researcher’s alerts.",
+    "The tool’s face-search feature claims to identify individuals and link to social media profiles, raising ethical and privacy questions."
+  ],
+  "content_hash": "a28d5ea3d7beaac4ac75bb0c340a7201cb771bbd7377bf30a27827047af1ef9d",
+  "title_hash": "e7d5253b25f3b64d3a5bc89198b1d80795e2f033ee5c7b89a66f11d7892795cd",
+  "collected_at": "2026-08-21T16:42:26.426581+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "clear (where applicable)",
+      "fabrication": false,
+      "details": "The article provides a well-researched, factual account of a significant cybersecurity incident involving biometric data exposure. It includes key details (e.g., volume of data, types of exposed information, responses from involved parties) without sensationalism. The summary and key points are accurate, relevant to the 'Cybersecurity' category, and avoid excessive bias. The inclusion of ClarityCheck's counterargument adds balance, and the ethical/privacy concerns are presented as industry-wide issues rather than targeted accusations."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-21T16:42:26.426581+07:00"
+}
