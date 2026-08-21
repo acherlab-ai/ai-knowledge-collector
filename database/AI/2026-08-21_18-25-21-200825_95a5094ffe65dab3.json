@@ -1,0 +1,50 @@
+{
+  "id": "95a5094ffe65dab3",
+  "title": "DeepSeek-v4-flash-vision-exp: Vision Model API Guide",
+  "url": "https://api-docs.deepseek.com/guides/vision",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "The DeepSeek-v4-flash-vision-exp model supports multimodal input, allowing users to analyze images alongside text for tasks like image description, text extraction from screenshots, and chart analysis. The guide details supported image formats (JPEG, PNG, GIF, WebP), three methods for image input (Base64-encoded, external URL, Files API), and key technical specifications such as token usage, limits, and compatibility with OpenAI and Anthropic APIs.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Multimodal Models",
+    "API",
+    "Computer Vision",
+    "DeepSeek"
+  ],
+  "key_points": [
+    "Supports JPEG, PNG, GIF, and WebP image formats, detected by file content, not extensions or MIME types.",
+    "Three methods to provide images: Base64-encoded (inline), external URL, or Files API (for reusing images or larger files).",
+    "Base64-encoded images count toward a 48 MiB request body limit; external URLs must be ≤8192 characters and images ≤32 MiB.",
+    "Files API allows images up to 64 MiB and avoids re-uploading for repeated use.",
+    "Image detail level can be set to 'low' (downscaled to 512×512), 'high', or 'original' (default: 'auto').",
+    "Images are resized before tokenization: smaller images are scaled up, larger ones scaled down to ~800×800 pixels, capping at 384 tokens per image.",
+    "Token usage is calculated based on resized dimensions, with an image token calculator available for estimation.",
+    "Key limits: 600 images per request, max 64 MiB total size (200 MiB with Files API), and max dimension of 8192 px (4096 px if ≥15 images).",
+    "Images are only supported in user messages and with the deepseek-v4-flash-vision-exp model.",
+    "Compatible with OpenAI Chat Completions, Anthropic Messages, and OpenAI Responses APIs, with minor differences in request structure."
+  ],
+  "content_hash": "6c4385430f53fbe3c26f2b38c8e34f0948ca10ddd50911fa0fa24be872d4a2c8",
+  "title_hash": "daa3cbec28f08a985a4f22b8e9332a7dea6e1b30bfaa7d14d710eca8def07d15",
+  "collected_at": "2026-08-21T18:25:21.200825+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, detailed, and technically accurate guide for the DeepSeek-v4-flash-vision-exp model API. It covers supported formats, input methods, technical specifications, and compatibility with minimal bias. The content is well-structured, factual, and directly relevant to the 'AI' category. No spam, clickbait, or hidden advertisements were detected. The information is concise yet comprehensive, with no unnecessary repetition."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-21T18:25:21.200825+07:00"
+}
