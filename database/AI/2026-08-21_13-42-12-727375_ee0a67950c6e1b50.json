@@ -1,0 +1,46 @@
+{
+  "id": "ee0a67950c6e1b50",
+  "title": "Nevada Approves Thousands of Robotaxis for Tesla, Uber, and Waymo",
+  "url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "The Nevada Transportation Authority has approved permits for Tesla, Uber, and Waymo to operate up to 8,000 robotaxis in Clark County, Nevada, over the next 12 months. Tesla can deploy up to 5,000 vehicles, while Uber and Waymo are each approved for 1,000. However, companies acknowledge they may not reach these numbers due to operational and logistical challenges. The approvals have sparked debates about workforce impacts, road congestion, and competition among autonomous vehicle providers.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Autonomous Vehicles",
+    "Robotaxis",
+    "Transportation",
+    "Nevada"
+  ],
+  "key_points": [
+    "Nevada Transportation Authority approved permits for Tesla (5,000 robotaxis), Uber (1,000), and Waymo (1,000) to operate in Clark County, including Las Vegas.",
+    "Companies admit they may not deploy the full approved numbers within a year due to non-technical challenges.",
+    "Uber’s robotaxis will operate through partnerships with Motional and Zoox, the latter already holding a permit for 100 vehicles.",
+    "Local taxi and livery operators oppose the permits, citing concerns over industry oversaturation and road congestion, particularly in the 'Golden Triangle' area.",
+    "Uber advocates for a hybrid model combining human drivers and robotaxis to manage demand and integration gradually.",
+    "The deployment could significantly impact jobs, either creating new roles for vehicle maintenance or displacing human drivers."
+  ],
+  "content_hash": "dea86615a9bfd1eb71bbe0992b77262dc6fd46e7536b0399f687867586e3d18a",
+  "title_hash": "26b18675a7e87ba063436ad8a787e4113134dea0f1688c32f9eb1d8303f1c908",
+  "collected_at": "2026-08-21T13:42:12.727375+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a well-researched, factual overview of Nevada's approval of robotaxis for Tesla, Uber, and Waymo. It includes key details about permit numbers, operational challenges, industry reactions, and potential impacts (e.g., workforce, congestion). The content is balanced, citing both proponents and opponents of the deployment. No spam, clickbait, or hidden ads are present. The category 'AI' is appropriate given the focus on autonomous vehicle technology."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-21T13:42:12.727375+07:00"
+}
