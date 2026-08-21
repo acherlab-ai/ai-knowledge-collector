@@ -1,0 +1,48 @@
+{
+  "id": "4c72e6a3e0a59bbe",
+  "title": "Tesla’s Solar Roof Failure: Key Reasons Behind Its Discontinuation",
+  "url": "https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong",
+  "source": "TechCrunch",
+  "category": "Hardware",
+  "summary": "Tesla has discontinued its solar roof product after nearly a decade of development and limited market success. The product, which integrated solar cells into roof tiles, faced high costs, manufacturing challenges, performance issues, and low adoption rates. Despite initial ambitions, Tesla struggled to scale production beyond 20-40 installations per week, far below its target of 1,000. The solar roof's unique design led to inefficiencies, overheating problems, and underproduction of electricity. Tesla is now redirecting customers to traditional solar panels, though other companies continue to explore integrated solar roof solutions.",
+  "score": 9,
+  "tags": [
+    "Hardware",
+    "Solar Power",
+    "Tesla",
+    "Renewable Energy",
+    "Manufacturing"
+  ],
+  "key_points": [
+    "Tesla has discontinued its solar roof product, removing all public-facing references from its website.",
+    "The solar roof was positioned as a luxury product, with quotes reportedly reaching $200,000 for installation.",
+    "Production never met Tesla’s goals, peaking at 20-40 installations per week instead of the targeted 1,000.",
+    "High costs stemmed from custom manufacturing equipment and low sales volume, making per-unit expenses unsustainable.",
+    "Performance issues included overheating, warping of non-solar components, and underproduction of electricity due to poor heat dissipation.",
+    "Standard solar panels benefited from economies of scale, while Tesla’s custom tiles lacked cost efficiency.",
+    "Other companies like GAF and Merlin Solar continue to pursue integrated solar roof solutions, but Tesla’s exit may impact market confidence.",
+    "Tesla is now redirecting customers to traditional solar panels, signaling a shift in its renewable energy strategy."
+  ],
+  "content_hash": "11e9c6461085acde6ccad7eb4e2faaca7837455dfbf5b193611da15f153aa92c",
+  "title_hash": "8f948fa788a47bb10097c4f890b8247ff063725f3022e03dbd9bf0dbefb110ca",
+  "collected_at": "2026-08-22T02:00:13.395763+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "clear (review/analysis with factual basis)",
+      "fabrication": false,
+      "details": "The article provides a well-researched, factual analysis of Tesla's solar roof discontinuation. It avoids sensationalism, clearly distinguishes between reported facts (e.g., production numbers, costs) and industry context (e.g., market trends, competitor efforts). The content is relevant to the 'Hardware' category, with no evidence of spam, hidden ads, or misleading claims. Minor deductions in score are due to the absence of direct quotes from Tesla or third-party experts, though this does not significantly impact overall quality."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-22T02:00:13.395763+07:00"
+}

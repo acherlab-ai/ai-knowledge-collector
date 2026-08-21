@@ -1,0 +1,46 @@
+{
+  "id": "1566561af79d1ffa",
+  "title": "Chinese regulators order Tesla to recall nearly 3 million cars for safety fixes",
+  "url": "https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars",
+  "source": "Ars Technica",
+  "category": "Hardware",
+  "summary": "Chinese regulators have mandated Tesla to recall approximately 2.98 million Model 3 and Model Y vehicles to address safety concerns. The recall requires Tesla to add warning labels clarifying how to open rear doors during power loss emergencies and to deploy a software update that automatically lowers windows in a collision. Additionally, Tesla must update the driver monitoring system in 2.74 million vehicles to use the interior camera for tracking driver gaze instead of relying solely on steering wheel torque sensors, addressing vulnerabilities like system evasion using dolls.",
+  "score": 8,
+  "tags": [
+    "Tesla",
+    "Automotive Safety",
+    "Recall",
+    "Hardware",
+    "Regulation"
+  ],
+  "key_points": [
+    "Chinese regulators are enforcing stricter safety measures for Tesla vehicles in response to incidents where occupants were trapped in burning cars due to electronically controlled doors.",
+    "Tesla must add physical warning labels to 2.98 million Model 3 and Model Y vehicles to clarify emergency door-opening procedures during power loss.",
+    "A software update will be pushed to automatically lower all windows in the event of a collision.",
+    "New regulations in China require all newly approved vehicles from next year to follow specific handle dimensions for safety.",
+    "Tesla is also required to update the driver monitoring system in 2.74 million vehicles to use the interior camera for tracking driver gaze, replacing the current torque sensor-based system.",
+    "The current driver monitoring system can be bypassed by mounting a doll’s head in front of the camera, highlighting a significant safety vulnerability."
+  ],
+  "content_hash": "8adb43ba6c057952bac2d990922a28a9a7b0f6ea6b3df617ac0ef46b0d4cb7ca",
+  "title_hash": "029ecd9095fe20c6b4356d46b3ac9515183e23bf1cebcd3edb83e9de1a1e997c",
+  "collected_at": "2026-08-22T02:00:04.000872+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides factual, well-sourced information about a Tesla recall mandated by Chinese regulators, addressing critical safety concerns. It is relevant to the 'Hardware' category, avoids spam/clickbait, and maintains objectivity without hidden advertisements or bias. The key points are clear, non-repetitive, and supported by regulatory actions."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-22T02:00:04.000872+07:00"
+}
