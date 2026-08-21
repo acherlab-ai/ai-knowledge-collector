@@ -1,0 +1,48 @@
+{
+  "id": "05f582b31c0a37a3",
+  "title": "Starcloud raises $250 million for orbital data centers amid constrained launch options",
+  "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up",
+  "source": "TechCrunch",
+  "category": "Space",
+  "summary": "Starcloud, a startup developing AI inference satellites, has secured a $250 million funding extension, valuing the company at $2.3 billion. The capital will expand manufacturing and advance its orbital data center spacecraft, Starcloud-3, targeting deployment via SpaceX’s Starship. The company faces challenges due to limited launch capacity, with SpaceX phasing out Falcon 9 by 2028 and competitors like Blue Origin and ULA still scaling up. Starcloud plans to launch two 8 kW compute satellites in 2027 for orbital AI tasks, primarily for U.S. government clients. The funding round included investments from Nvidia and Cisco, with Nvidia collaborating on a space-optimized GPU. Starcloud aims to leverage Starship’s cost reductions to compete with terrestrial data centers.",
+  "score": 9,
+  "tags": [
+    "Space",
+    "AI",
+    "Orbital Data Centers",
+    "Satellites",
+    "SpaceX",
+    "Funding",
+    "Nvidia"
+  ],
+  "key_points": [
+    "Starcloud raised $250M in a funding extension, valuing the company at $2.3B, led by Manhattan West Ventures with participation from Nvidia and Cisco.",
+    "The funds will expand manufacturing and accelerate development of Starcloud-3, an orbital data center spacecraft intended for SpaceX’s Starship.",
+    "Launch capacity is a major constraint; SpaceX’s Falcon 9 is set to retire by 2028, and alternatives like Blue Origin’s New Glenn and ULA’s Vulcan are not yet fully operational.",
+    "Starcloud plans to launch two 8 kW AI inference satellites (Starcloud-2) in 2027 via rideshare flights, targeting U.S. government contracts.",
+    "The company is collaborating with Nvidia to develop a space-optimized GPU, the Vera Rubin Space-1, leveraging data from its existing orbital H100 GPU.",
+    "Starcloud’s long-term strategy relies on Starship’s cost efficiency to enable competitive orbital data centers, though delays in Starship’s reusability pose risks."
+  ],
+  "content_hash": "1c6c9389df7c8614b5b95226ae01b12844e267d78c8090e25caddf0be74e37e8",
+  "title_hash": "4f4ba35486943b33450244824e3e55827f2263b0163ec76006b48e442087f879",
+  "collected_at": "2026-08-21T22:57:22.807751+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not applicable (news report)",
+      "fabrication": false,
+      "details": "The article provides a well-researched, factual report on Starcloud's funding, technology, and challenges. It includes specific data points (e.g., funding amount, valuation, launch timelines) and cites credible sources (Nvidia, SpaceX, U.S. government contracts). The category 'Space' is accurate, and the content avoids sensationalism or hidden advertising. Minor bias may exist in framing Starship's cost efficiency as a competitive advantage, but it is not manipulative or misleading."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-21T22:57:22.807751+07:00"
+}

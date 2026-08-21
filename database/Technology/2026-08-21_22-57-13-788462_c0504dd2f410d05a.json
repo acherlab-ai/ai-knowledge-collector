@@ -1,0 +1,49 @@
+{
+  "id": "c0504dd2f410d05a",
+  "title": "Waymo doubles lobbying spending in robotaxi battle with Uber",
+  "url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber",
+  "source": "Ars Technica",
+  "category": "Technology",
+  "summary": "Waymo, owned by Alphabet, has significantly increased its lobbying expenditures to over $2 million in the first half of 2026, aiming to accelerate the approval of fully autonomous taxi services in the U.S. This move intensifies its competition with Uber, which advocates for a gradual rollout involving both human drivers and robotaxis. Waymo's lobbying efforts focus on creating a federal framework to ease robotaxi deployment, while Uber pushes for hybrid networks. Both companies are actively lobbying in key states like New York, New Jersey, and Washington, D.C., amid regulatory pushback and concerns over job displacement for drivers.",
+  "score": 8,
+  "tags": [
+    "Autonomous Vehicles",
+    "Robotaxis",
+    "Lobbying",
+    "Regulation",
+    "Waymo",
+    "Uber"
+  ],
+  "key_points": [
+    "Waymo spent over $1 million on federal lobbying between April and June 2026, doubling its expenditure from the previous year.",
+    "The company aims for a federal framework to expedite the rollout of fully autonomous taxi services.",
+    "Uber advocates for a hybrid model, combining human drivers and robotaxis, to ensure a gradual transition.",
+    "Waymo has outspent Uber and other rivals like Zoox and Tesla in lobbying efforts at both federal and local levels.",
+    "Waymo is pushing for robotaxi approvals in key markets such as New York, New Jersey, and Washington, D.C., facing resistance from politicians and labor groups.",
+    "Waymo proposed a $20 million fund to support drivers affected by autonomous vehicle deployment in New York.",
+    "Uber has invested over $10 billion in autonomous vehicle technology and lobbies for hybrid networks to maintain its platform's relevance.",
+    "Critics accuse Uber of attempting regulatory capture to limit competition and control the transition to autonomous vehicles."
+  ],
+  "content_hash": "bd6bf6228abb06ad49678cf467a4bd0e827c2d21e1dcbe533f63391c9dbde5f2",
+  "title_hash": "709b67962fe829484a651fde544ae5044cbca6bc5310cd11ee1a5b41168f5996",
+  "collected_at": "2026-08-21T22:57:13.788462+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "moderate (balanced perspectives from both Waymo and Uber, though critical of Uber's motives)",
+      "opinion_fact_separation": "clear (facts are well-sourced; opinions are attributed to critics or stakeholders)",
+      "fabrication": false,
+      "details": "The article provides a well-researched, data-driven comparison of Waymo and Uber's lobbying efforts, regulatory strategies, and industry impact. It includes specific figures, key markets, and stakeholder perspectives without sensationalism. The category 'Technology' is more accurate than 'AI' since the focus is on autonomous vehicles and policy, not AI tech itself. Minor bias exists in framing Uber's motives but does not cross into manipulation or misinformation."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-21T22:57:13.788462+07:00"
+}

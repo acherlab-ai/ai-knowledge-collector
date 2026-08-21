@@ -1,0 +1,46 @@
+{
+  "id": "ba3c81099b8c2fc3",
+  "title": "Tesla recalls 3 million cars in China over hidden emergency door handles",
+  "url": "https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles",
+  "source": "TechCrunch",
+  "category": "Hardware",
+  "summary": "Tesla is recalling nearly 3 million vehicles in China as part of a nationwide effort to address safety concerns with hidden emergency door releases. The recall follows a two-year review by Chinese authorities, which will ban hidden, electronically actuated exterior door handles starting in 2027. Eleven automakers, including Tesla, Xiaomi, Xpeng, and Geely, are issuing recalls to install warning labels and push software updates to improve accessibility to manual door releases. The issue stems from electronic door latches, which can fail in emergencies, leaving occupants trapped. Tesla and other automakers are redesigning their door systems to enhance safety.",
+  "score": 8,
+  "tags": [
+    "Tesla",
+    "Electric Vehicles",
+    "Automotive Safety",
+    "Recall",
+    "Hardware"
+  ],
+  "key_points": [
+    "Tesla is recalling nearly 3 million vehicles in China due to hidden emergency door releases that could trap occupants in emergencies.",
+    "China is banning hidden, electronically actuated exterior door handles starting in 2027 after a two-year safety review.",
+    "Eleven automakers, including Tesla, Xiaomi, Xpeng, and Geely, are involved in the recall, installing warning labels and pushing software updates.",
+    "Electronic door latches, while convenient, can fail in collisions or power loss, necessitating manual releases that are often poorly located.",
+    "The U.S. is also investigating Tesla’s door-latching system, with potential new safety regulations under consideration.",
+    "Other automakers like Rivian and Ford have faced similar issues, leading to recalls and redesigns of their door systems."
+  ],
+  "content_hash": "b9035a8a5dc68ae6b8807dbdc303b4b57d49f3f82af2ca8bae8fa0d56408fe6b",
+  "title_hash": "0a9d3636b1bdf41375eb2a0a7b0868b0eb26ea04c64512f08da4985d3dbd956c",
+  "collected_at": "2026-08-21T22:57:26.414542+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides factual, well-researched information about a significant automotive safety recall involving Tesla and other automakers in China. It covers regulatory actions, technical issues, and industry-wide responses without sensationalism or bias. The category is correctly labeled as 'Hardware,' and the content is objective, citing official sources and broader industry trends."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-21T22:57:26.414542+07:00"
+}

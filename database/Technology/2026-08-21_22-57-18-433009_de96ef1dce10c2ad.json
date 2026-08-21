@@ -1,0 +1,46 @@
+{
+  "id": "de96ef1dce10c2ad",
+  "title": "Walmart to Start Accepting Apple Pay and Google Pay After Years of Resistance",
+  "url": "https://techcrunch.com/2026/08/21/walmart-to-finally-start-accepting-apple-pay-and-google-pay",
+  "source": "TechCrunch",
+  "category": "Technology",
+  "summary": "Walmart has announced it will begin accepting Apple Pay and Google Pay at its stores, including Walmart and Sam’s Club locations, starting August 24, 2026. The rollout will begin at select stores and expand to all locations by the end of the year, with fuel stations following in mid-2027. This marks a significant shift for Walmart, which had previously promoted its own payment solutions like Walmart Pay and even attempted to launch an alternative mobile payment system, CurrentC, in 2016. The decision reflects growing customer demand for modern tap-and-pay technology, which is now accepted at 85% of U.S. retailers.",
+  "score": 8,
+  "tags": [
+    "Fintech",
+    "Mobile Payments",
+    "Retail",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "key_points": [
+    "Walmart will accept Apple Pay and Google Pay starting August 24, 2026, at select stores, with full rollout by year-end.",
+    "Fuel stations will support the payment methods by mid-2027.",
+    "Walmart previously resisted adopting Apple Pay and Google Pay, promoting its own solutions like Walmart Pay and Scan-and-Go.",
+    "The company attempted to launch an alternative payment system, CurrentC, in 2016, which failed.",
+    "Customer demand and widespread adoption of tap-and-pay technology (85% of U.S. retailers) influenced Walmart’s decision.",
+    "Walmart frames the change as offering customers more payment choices."
+  ],
+  "content_hash": "0e3031625913042567eda73b82e28bbd8788b1697e253ade1f7366f967fa965e",
+  "title_hash": "eb34faf445b6edffe58408aeb5c7393383c9ffd11ccc441dfaa3332587fdf37f",
+  "collected_at": "2026-08-21T22:57:18.433009+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides timely, relevant, and well-researched information about Walmart's adoption of Apple Pay and Google Pay. It includes key details like rollout dates, historical context (e.g., Walmart Pay, CurrentC), and industry trends (85% U.S. retailer adoption). The content is factual, neutral, and avoids exaggeration or hidden advertising. The category 'Technology' is accurate, and the summary aligns with the title without clickbait."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-21T22:57:18.433009+07:00"
+}
