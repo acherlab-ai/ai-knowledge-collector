@@ -1,0 +1,47 @@
+{
+  "id": "cba8417ecebda099",
+  "title": "Google introduces 'Preferred Sources' button to help publishers combat AI-driven traffic losses",
+  "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "Google has launched a new interactive 'Preferred Sources' button for publishers to embed on their websites, allowing readers to mark them as trusted sources. This feature aims to mitigate traffic losses caused by AI-powered search and content discovery tools. When selected, preferred sources are highlighted more frequently in Google Search, Discover, and Google News. Google reports that users are twice as likely to click through to preferred sources. Additionally, Google is introducing AI-powered customization for Discover feeds and audio briefings in the Google News app.",
+  "score": 8,
+  "tags": [
+    "AI",
+    "Google",
+    "Publishers",
+    "Search",
+    "Traffic Optimization"
+  ],
+  "key_points": [
+    "Google introduces a 'Preferred Sources' button for publishers to embed on their websites, allowing readers to mark them as trusted sources.",
+    "Preferred sources are highlighted more often in Google Search, Discover, and Google News, potentially driving more traffic to publishers.",
+    "Google reports users are twice as likely to click through to preferred sources when available.",
+    "The feature is part of Google's effort to address traffic losses caused by AI-powered search and content discovery tools.",
+    "Over 345,000 unique sources have already been selected as preferred since the feature's launch in May.",
+    "Google is also introducing AI-powered customization for Discover feeds, allowing users to refine their content preferences using natural language commands.",
+    "Android users will soon be able to customize audio daily briefings in the Google News app."
+  ],
+  "content_hash": "4ff030d3bf78f5ea7ef2e8c4adbf3731bb0ecc4169257f87f3e51f35bff49c41",
+  "title_hash": "549f33f34fcea49127e5a0866727c8daf51f9d24e20fce3bb2bf25c64bac00a4",
+  "collected_at": "2026-08-21T19:45:50.678418+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, factual overview of Google's new 'Preferred Sources' feature and related AI-driven updates. It includes specific data (e.g., 345,000 sources marked as preferred) and avoids exaggeration or misleading claims. The content is relevant to the 'AI' category, well-structured, and free of spam, clickbait, or hidden advertising. The tone is neutral, focusing on the feature's purpose and impact without undue bias."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-21T19:45:50.678418+07:00"
+}
