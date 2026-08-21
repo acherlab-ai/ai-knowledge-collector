@@ -1,0 +1,47 @@
+{
+  "id": "5c8ecd9b34427d52",
+  "title": "GNU Emacs Release History and Upcoming Version 31.1",
+  "url": "https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY",
+  "source": "Hacker News",
+  "category": "OpenSource",
+  "summary": "The article provides a detailed historical record of GNU Emacs releases, from its initial version in 1985 to the upcoming Emacs 31.1, scheduled for release on August 24, 2026. It outlines the evolution of Emacs, starting from its origins as TECO macros in 1976, through major version milestones, and includes release dates for each stable version. The document also references foundational documents and the open-source licensing of GNU Emacs under the GNU General Public License.",
+  "score": 8,
+  "tags": [
+    "OpenSource",
+    "Emacs",
+    "Text Editors",
+    "GNU",
+    "Software History"
+  ],
+  "key_points": [
+    "Emacs originated as TECO macros in late 1976, inspired by earlier editors like Stanford's E editor.",
+    "GNU Emacs development began in 1984 as a fresh implementation with a Lisp core for GNU systems.",
+    "The first public release of GNU Emacs was version 13 on March 20, 1985.",
+    "The document lists all stable GNU Emacs releases, including version numbers, release dates, and repository tags where applicable.",
+    "Notable major versions include Emacs 19 (1993), 21 (2001), 24 (2012), and 29 (2023).",
+    "The upcoming Emacs 31.1 is scheduled for release on August 24, 2026.",
+    "GNU Emacs is open-source software distributed under the GNU General Public License version 3."
+  ],
+  "content_hash": "9b448fa008380439e478cea4bec07d45756f6becf3680a6d3e42dcda5fbd8c3a",
+  "title_hash": "f5cb5dac8ad80c17e639176cf030af1c98cb17b1990220db0bb8d9df89589f4e",
+  "collected_at": "2026-08-21T15:59:18.084366+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a well-researched, factual timeline of GNU Emacs releases with accurate historical context. It is highly informative for users interested in open-source software history, avoids promotional content, and maintains objectivity. The category 'OpenSource' is correct, and the content is free of spam, clickbait, or hidden advertisements. Minor deduction in score for lack of deeper analysis (e.g., impact of major versions), but overall excellent."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-21T15:59:18.084366+07:00"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "cae619eff42e9b9b",
+  "title": "Seed: A Minimal, Self-Modifying AI Agent Framework",
+  "url": "https://github.com/vivekhaldar/seed",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "Seed is a minimalist, self-modifying AI agent framework that starts with a small Python loop (seed.py) connecting a language model to a single tool (exec for bash). The agent grows its own tools, memory, and skills over time by writing to a self/ directory, with no external framework dependencies. Each agent instance is unique, diverging based on its experiences, and maintains a session transcript for self-study. Configuration is handled via Simon Willison's llm library, supporting multiple model providers like OpenAI, Anthropic, Gemini, and OpenRouter.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Autonomous Agents",
+    "Self-Modifying Code",
+    "OpenSource",
+    "LLM"
+  ],
+  "key_points": [
+    "Minimal starting point: A single Python file (seed.py) with a loop connecting an LLM to a bash exec tool.",
+    "Self-modifying: The agent grows its own tools, memory, and skills by writing to a self/ directory over sessions.",
+    "No framework dependencies: Everything is built by the agent itself, session by session.",
+    "Unique instances: Each directory planted with Seed grows a distinct agent based on its experiences.",
+    "Session transcripts: All interactions are recorded in self/sessions/*.json for later analysis (not loaded at boot).",
+    "Model support: Uses Simon Willison's llm library, with default model openai-codex/gpt-5.6-sol and support for OpenAI, Anthropic, Gemini, and OpenRouter.",
+    "Local execution: Run agents via ./run_seed.sh without reinstalling dependencies.",
+    "Design philosophy: Inspired by McCarthy's metacircular eval and homoiconicity, documented in docs/DESIGN.md."
+  ],
+  "content_hash": "3f49391da7f307c736a70e9ceef8d3e6bd056d6b63ef364fac37c4bd8bc1bcd2",
+  "title_hash": "cc2bd3421270d15c6063b6f941093e319c334b675f351f80e6429b00253df121",
+  "collected_at": "2026-08-21T15:59:32.503341+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, detailed, and technically accurate summary of the 'Seed' AI framework. It is informative, well-structured, and free of spam, clickbait, or hidden advertisements. The content is original, non-repetitive, and aligns well with the 'AI' category. The framework's design philosophy and technical aspects are explained objectively without excessive bias or manipulation. The summary avoids fabrication and maintains a neutral tone while conveying factual information."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-21T15:59:32.503341+07:00"
+}
