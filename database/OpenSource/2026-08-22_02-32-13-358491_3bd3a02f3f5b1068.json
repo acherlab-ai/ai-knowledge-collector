@@ -1,0 +1,50 @@
+{
+  "id": "3bd3a02f3f5b1068",
+  "title": "Cobalt: Open-Source App Platform for Kobo E-Readers",
+  "url": "https://bandarlabs.github.io/Cobalt",
+  "source": "Hacker News",
+  "category": "OpenSource",
+  "summary": "Cobalt is an open-source application platform for Kobo e-readers, enabling users to install and run apps directly on their devices. It includes a launcher, a signed App Store, a Rust SDK, and a runtime that isolates each app in its own unprivileged process. Installation is done once via USB, with subsequent app management (installation, updates, removal) handled over Wi-Fi. The platform supports static ARM binaries, verified signatures, and allows a return to the stock Kobo reader with a reboot.",
+  "score": 9,
+  "tags": [
+    "OpenSource",
+    "E-Reader",
+    "Rust",
+    "SDK",
+    "ARM"
+  ],
+  "key_points": [
+    "Cobalt is an open-source platform for Kobo e-readers, enabling app installation and execution.",
+    "Includes a launcher, signed App Store, Rust SDK, and runtime with process isolation for security.",
+    "Apps are static ARMv7 binaries running as unprivileged processes on stock hardware.",
+    "App Store handles installation, updates, and removal over Wi-Fi with signature verification.",
+    "Platform supports multiple apps, including arXiv paper reader, Sudoku, Morse code sender, and AI tools like Sidekick.",
+    "SDK allows developers to create apps in Rust with declarative UI and capability-gated access to device resources.",
+    "Apps are published as signed packages via GitHub releases, independent of platform updates.",
+    "Initial installation requires USB; subsequent updates and app management are Wi-Fi-based.",
+    "Only the Kobo Clara BW (N365) model is officially supported and hardware-tested.",
+    "Cobalt is not affiliated with Rakuten Kobo and does not replace the device's boot chain."
+  ],
+  "content_hash": "552731adb5d867a83947a520a91d0b86e30d118e46849d34675e5d00e71dc784",
+  "title_hash": "db5a205b2608c748ed82813cf46de88f9a99e5556d96b9994b7f28c6f61d8948",
+  "collected_at": "2026-08-22T02:32:13.358491+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, detailed, and factual overview of Cobalt, an open-source platform for Kobo e-readers. It covers technical aspects, features, and developer tools without exaggeration or misleading claims. The content is well-structured, informative, and aligns with the OpenSource category. No spam, hidden ads, or bias detected. The summary and key points are accurate and useful for both users and developers."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-22T02:32:13.358491+07:00"
+}
