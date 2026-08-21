@@ -1,0 +1,46 @@
+{
+  "id": "cf340a2b28bbd7f9",
+  "title": "Better Batteries: Social Architecture Behind Standard Libraries",
+  "url": "https://matklad.github.io/2026/08/20/better-batteries.html",
+  "source": "Hacker News",
+  "category": "Programming",
+  "summary": "The article discusses the debate around the ideal size of a programming language's standard library, arguing that the key factor is not size but the social architecture that ensures high-quality APIs. It compares Python, Go, and Rust, highlighting how their differing institutional capacities and design philosophies shape their standard libraries and ecosystem extensions.",
+  "score": 8,
+  "tags": [
+    "Programming",
+    "Standard Library",
+    "Python",
+    "Go",
+    "Rust",
+    "API Design"
+  ],
+  "key_points": [
+    "The debate over minimal vs. encompassing standard libraries is misplaced; the focus should be on the social architecture that produces high-quality libraries.",
+    "Python's standard library is criticized for uneven quality, but its early availability of features enabled rapid adoption and innovation (e.g., data science).",
+    "Go's standard library is well-regarded due to the Go team's institutional capacity to design and maintain high-quality APIs, supplemented by `golang.org/x`.",
+    "Rust's standard library (e.g., collections and iterators) is praised for its design, but the ecosystem struggles with organizational challenges, such as delayed or stalled extensions (e.g., `rust-lang-nursery`).",
+    "Solving technical problems in language ecosystems (e.g., adding OS random byte streams in Rust) often requires complex organizational coordination, including funding and stakeholder alignment."
+  ],
+  "content_hash": "08da430437d8ac5296b7220fbdc39c573cf67fc611459229cf7837d8568f2ab8",
+  "title_hash": "857e521f5a7912082482bed437be85eee1f1140241262f3b3d91f299a54fa238",
+  "collected_at": "2026-08-21T18:53:13.893685+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "moderate (acceptable for opinion/review)",
+      "fact_opinion_separation": "clear in review/analysis context",
+      "fabrication": false,
+      "details": "The article provides a well-researched, insightful analysis of standard library design across Python, Go, and Rust, focusing on social architecture rather than just technical aspects. It avoids spam, clickbait, or hidden advertising, and maintains a balanced perspective while allowing for opinionated analysis. The category is correctly assigned, and the content is original with no fabrication."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-21T18:53:13.893685+07:00"
+}

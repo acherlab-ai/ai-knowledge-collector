@@ -1,0 +1,58 @@
+{
+  "id": "29ff6fb816f0a351",
+  "title": "Can Recycled Wastewater, Including Urine, Help Cool Data Centers?",
+  "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee",
+  "source": "TechCrunch",
+  "category": "Technology",
+  "summary": "The article explores the feasibility of using alternative water sources, including treated wastewater and urine, to cool data centers. While a humorous marketing campaign by Liquid Death suggested using urine directly, experts clarify that treated recycled water—often sourced from wastewater—is already being used to reduce the environmental impact of data centers. The process involves advanced treatment methods like membrane bioreactors and reverse osmosis. However, scaling this infrastructure remains a challenge, especially in rural areas. The article also highlights industry efforts, such as Meta's investments in wastewater infrastructure, and policy proposals like tax credits to accelerate adoption.",
+  "score": 8,
+  "tags": [
+    "Data Centers",
+    "Water Recycling",
+    "Sustainability",
+    "Infrastructure",
+    "Environmental Impact"
+  ],
+  "key_points": [
+    "Data centers consume massive amounts of water for cooling, raising environmental concerns.",
+    "Recycled wastewater, including treated sewage (which contains urine), is already used to cool data centers, reducing reliance on potable water.",
+    "Direct use of untreated urine is impractical due to contaminants like salts, urea, and bacteria, which would require constant cleaning and maintenance.",
+    "Advanced water treatment technologies (e.g., membrane bioreactors, reverse osmosis, UV light) make recycled water safe for industrial use, and in some cases, even potable.",
+    "Infrastructure limitations, particularly in rural areas, hinder the widespread adoption of recycled water for data center cooling.",
+    "Loudoun County, Virginia, exemplifies the challenge: data centers there use 200 million gallons of recycled water daily, but still rely on 260 million gallons of potable water.",
+    "Companies like Meta are investing in wastewater infrastructure to support sustainable data center operations.",
+    "Policy proposals, such as a 30% tax credit for recycled water infrastructure, could accelerate adoption across industries.",
+    "Public awareness of data center water usage is growing, with 70% of Americans opposing data centers in their communities due to environmental concerns."
+  ],
+  "content_hash": "1b5f5ce31536e4c28e4422d5b6090a78f4ffece286958a82d62161c2e3af6b77",
+  "title_hash": "16b7c2f532bdae4ed93a605eb1c985374a89070b650c4fea15803ac28af194ce",
+  "collected_at": "2026-08-21T18:53:10.016000+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_distinction": "clear (where applicable)",
+      "originality": true,
+      "details": [
+        "The article provides a well-researched and informative exploration of using recycled wastewater for data center cooling, addressing both technical feasibility and industry trends.",
+        "No spam or hidden advertising detected; the mention of 'Liquid Death' is contextual and humorous, not promotional.",
+        "Title and summary accurately reflect the content without sensationalism or clickbait.",
+        "Information is fact-based, with clear distinctions between expert opinions and established facts (e.g., treatment methods vs. direct urine use).",
+        "No significant redundancy or repetition; the article flows logically from problem to solutions and challenges.",
+        "Category is correctly assigned as 'Technology,' with a focus on sustainability and infrastructure.",
+        "Minimal bias; presents multiple perspectives (industry efforts, policy proposals, public concerns) without favoring one over another.",
+        "High originality; the topic is niche but relevant, and the article avoids regurgitating generic sustainability content."
+      ]
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-21T18:53:10.016000+07:00"
+}
