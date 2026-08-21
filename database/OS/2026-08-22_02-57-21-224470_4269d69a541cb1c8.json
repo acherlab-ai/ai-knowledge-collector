@@ -1,0 +1,48 @@
+{
+  "id": "4269d69a541cb1c8",
+  "title": "Tumble Forth – From Assembly to OS with a C Compiler",
+  "url": "https://tumbleforth.hardcoded.net",
+  "source": "Hacker News",
+  "category": "OS",
+  "summary": "A series of educational articles by Virgil Dupras, author of Collapse OS and Dusk OS, aimed at guiding programmers with limited low-level experience through the process of building an operating system from scratch. The series starts with bare-metal programming on the PC platform, progresses through creating a Forth system, and culminates in developing a partial C compiler within Dusk OS.",
+  "score": 9,
+  "tags": [
+    "OS",
+    "Low-Level Programming",
+    "Forth",
+    "C Compiler",
+    "Bare Metal",
+    "Dusk OS",
+    "Collapse OS"
+  ],
+  "key_points": [
+    "Targeted at programmers familiar with high-level development but new to low-level programming.",
+    "Step-by-step guide to building a Forth system from scratch on bare metal.",
+    "Transition to Dusk OS and development of a partial C compiler.",
+    "Focuses on broadening perspectives on computing fundamentals and reducing modern software complexity.",
+    "Structured as a series of articles with clear objectives and story arcs.",
+    "Encourages reader engagement and feedback for clarification."
+  ],
+  "content_hash": "aa6da78402197919f6d81b9a728aec8fbb02a62f328728eafd06bdc4ace3d581",
+  "title_hash": "dfb7dd72f9ddb980a81d56d483184c68f757575aaddd5233b28dec9873dce181",
+  "collected_at": "2026-08-22T02:57:21.224470+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "not_spam": true,
+      "no_clickbait": true,
+      "no_disguised_ads": true,
+      "information_quality": "high",
+      "no_redundancy": true,
+      "category_correct": true,
+      "no_excessive_bias": true,
+      "opinion_fact_distinction": "not_applicable",
+      "no_fabrication": true,
+      "details": "The article is a well-structured educational series targeting programmers interested in low-level OS development. It provides clear, step-by-step guidance without spam, clickbait, or disguised ads. The information is high-quality, non-redundant, and aligns with the 'OS' category. While it reflects the author's perspective (e.g., focus on Collapse OS/Dusk OS), it does not exhibit manipulative bias or misinformation. The content is factual and instructional, with no need for opinion-fact separation."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-22T02:57:21.224470+07:00"
+}
