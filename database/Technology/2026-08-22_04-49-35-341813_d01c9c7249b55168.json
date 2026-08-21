@@ -1,0 +1,46 @@
+{
+  "id": "d01c9c7249b55168",
+  "title": "Apple is reportedly cutting hundreds of jobs from Siri and Vision Pro teams",
+  "url": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams",
+  "source": "TechCrunch",
+  "category": "Technology",
+  "summary": "Apple is reducing its workforce by over 200 positions, primarily affecting teams working on Siri, Vision Pro (its VR headset), and AI integration (Intelligent Systems Experience). The cuts are part of a strategic shift to refocus on newer AI initiatives and devices. Apple confirmed the layoffs, stating it aims to evolve its business while creating new roles. The company is navigating challenges in AI, supply chain costs, and legal disputes (e.g., suing OpenAI for alleged trade theft).",
+  "score": 8,
+  "tags": [
+    "Apple",
+    "AI",
+    "Hardware",
+    "Vision Pro",
+    "Layoffs",
+    "Siri"
+  ],
+  "key_points": [
+    "Apple is cutting over 200 jobs, with ~100 from the Vision Pro team and ~100 from Siri/AI integration teams.",
+    "The layoffs are part of a restructuring to prioritize newer AI efforts and devices.",
+    "Apple confirmed the cuts, emphasizing business evolution and potential new role creation.",
+    "The company faces broader challenges: AI competition, rising production costs (due to AI-driven memory shortages), and legal action against OpenAI.",
+    "Recent price hikes on Macs/iPads and a new leasing plan aim to offset costs and expand customer access."
+  ],
+  "content_hash": "18d16af3f41b0c7fbba2f9cfcd73fe3153962b26e28e23ba815e1535b2071fa8",
+  "title_hash": "3cd602c1f9afe55a0af88fbe9b91315021c84406582eec449da6fe7b5f0c0105",
+  "collected_at": "2026-08-22T04:49:35.341813+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not applicable (news report)",
+      "fabrication": false,
+      "details": "The article provides timely, well-sourced information about Apple's layoffs and strategic shifts, with clear key points and relevant context. It avoids sensationalism, maintains objectivity, and aligns with the Technology category. Minor deduction in score for slight ambiguity in exact team-wise layoff numbers (e.g., '~100'), but this does not significantly impact overall quality."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-22T04:49:35.341813+07:00"
+}
