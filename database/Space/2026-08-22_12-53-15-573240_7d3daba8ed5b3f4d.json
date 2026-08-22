@@ -1,0 +1,59 @@
+{
+  "id": "7d3daba8ed5b3f4d",
+  "title": "Trump's Space Transportation Policy Aims to Expand US Spaceport Infrastructure for Surge in Launches",
+  "url": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches",
+  "source": "Ars Technica",
+  "category": "Space",
+  "summary": "The Trump administration's new national space transportation policy focuses on expanding US spaceport infrastructure to support over 1,000 launches and reentries annually by 2030. Key updates include prioritizing infrastructure investments, improving range scheduling transparency, identifying new federal land for spaceports, and enhancing geographic resiliency with additional heavy-lift launch sites. The policy also emphasizes responsive launch operations and commercial missions to the Moon and Mars.",
+  "score": 8,
+  "tags": [
+    "Space",
+    "Spaceports",
+    "Space Policy",
+    "Commercial Space",
+    "Launch Infrastructure"
+  ],
+  "key_points": [
+    "The policy replaces a 2013 directive, reflecting the significant growth in the launch sector (e.g., 176 US orbital launches in 2023 vs. ~18 in 2013).",
+    "Targets over 1,000 launches/reentries per year by 2030, driven by commercial and military demand for communications, surveillance, and orbital data centers.",
+    "Directs the Pentagon and NASA to coordinate infrastructure investments to boost capacity at federal spaceports (e.g., Cape Canaveral, Vandenberg, Wallops).",
+    "Calls for transparent range scheduling to optimize launch capacity and balance commercial/government needs.",
+    "Identifies federal lands for new spaceports, including potential offshore sites using abandoned oil rigs.",
+    "Supports a third heavy-lift launch site for geographic resiliency, as recommended by a Pentagon study.",
+    "Encourages responsive launch operations (e.g., 48-hour payload deployment) and portable launch infrastructure.",
+    "Aligns with NASA’s commercial lunar/Mars transportation goals and ongoing efforts to streamline permitting and user fees."
+  ],
+  "content_hash": "7efe6fc4a939de45c02eec67d5db3fa10753a3b5f411fcb3ba1ad2ef4c3a6880",
+  "title_hash": "9fd310cf86dd36f4353999e656563d2fadaf1706c7383251d6881c0f153056ac",
+  "collected_at": "2026-08-22T12:53:15.573240+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 8.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "moderate",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": {
+        "useful": "The article provides detailed insights into the Trump administration's space transportation policy, including specific goals, infrastructure plans, and industry context. It is informative for readers interested in space policy and commercial spaceflight.",
+        "spam": "No signs of spam; the content is substantive and relevant to the topic.",
+        "clickbait": "The title accurately reflects the content and does not exaggerate or mislead.",
+        "hidden_ads": "No evidence of disguised advertising or promotional content for specific companies or products.",
+        "info_quality": "The information is well-researched, with clear references to policy updates, historical context (e.g., 2013 directive), and specific targets (e.g., 1,000 launches by 2030). Data points like launch numbers (176 in 2023 vs. ~18 in 2013) add credibility.",
+        "redundancy": "The content is concise and avoids unnecessary repetition.",
+        "category_accuracy": "The category 'Space' is appropriate for the topic.",
+        "bias_level": "The article presents policy details objectively but is framed within the context of the Trump administration's initiatives. While it does not overtly endorse or criticize, the tone leans toward highlighting achievements, which may introduce mild bias. However, it does not cross into manipulation or misinformation.",
+        "opinion_fact_separation": "The article is primarily factual, reporting on policy directives and industry trends. No personal opinions or reviews are included, so this criterion is not applicable.",
+        "fabrication": "No fabricated claims detected; the content aligns with known space policy developments and industry growth."
+      }
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-22T12:53:15.573240+07:00"
+}

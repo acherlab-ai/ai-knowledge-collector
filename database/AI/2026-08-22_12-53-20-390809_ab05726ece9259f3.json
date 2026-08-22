@@ -1,0 +1,49 @@
+{
+  "id": "ab05726ece9259f3",
+  "title": "Michael Polansky is training an AI model on living human skin tissue",
+  "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "Outer Biosciences, co-founded by Michael Polansky, is developing an AI-driven platform that uses living human skin tissue (sourced ethically from surgical discards) to accelerate dermatological research. The company keeps tissue alive for up to a month—far longer than industry norms—enabling long-term studies of biological processes like UV damage recovery. Their AI model predicts chemical effects on skin, refines predictions through experimental feedback, and identifies novel cosmetic ingredients. The startup collaborates with beauty and pharma partners, avoids FDA drug approvals by focusing on cosmetics, and plans to license discoveries rather than build a consumer brand.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Biotech",
+    "HealthTech",
+    "Machine Learning",
+    "Dermatology",
+    "Ethical Research"
+  ],
+  "key_points": [
+    "Outer Biosciences uses *living human skin tissue* (ethically sourced from surgical discards) to train AI models, extending tissue viability to **30 days** (vs. industry standard of days).",
+    "The company’s **closed-loop system** combines: (1) long-lived human tissue, (2) controlled experiments, and (3) AI predictions to discover novel cosmetic ingredients without animal testing.",
+    "AI predicts chemical effects on skin functions (e.g., collagen remodeling, pigmentation), with results fed back into the model to improve accuracy. Current pace: **1 new candidate every 6 weeks**.",
+    "Focuses on *cosmetic ingredients* (not drugs), avoiding FDA approvals. Ingredients are commercialized via licensing to beauty/pharma partners after OECD safety testing.",
+    "Competitive edge: **Unique dataset** from living tissue (no ‘biology internet’ to scrape) and **on-premise AI** (data not stored in the cloud for security).",
+    "Funding: $23M raised; backers include Wing Ventures, Initialized, and Polansky’s firm, Hawktail. Team of 19, mostly based near Cambridge, MA.",
+    "Applications: Collaborates with pharma (e.g., studying cancer drug side effects) and beauty brands (e.g., validating product claims). Four of six current leads may reach commercialization.",
+    "Ethics: Tissue is de-identified, sourced via NIH-funded networks (e.g., National Disease Research Interchange) with donor consent and IRB oversight."
+  ],
+  "content_hash": "cf94f067d7d6a2e4ac77a76e99b639c117b18b63114d112c7832e5cf55b9df62",
+  "title_hash": "ff95e1342e320a292a08eb4c36837cd57138c3c5073f46a6afd4cb0403164493",
+  "collected_at": "2026-08-22T12:53:20.390809+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_distinction": "clear",
+      "fabrication": false,
+      "details": "The article provides a detailed, well-researched overview of Outer Biosciences' innovative AI-driven dermatological research platform. It is highly informative, with clear distinctions between factual reporting (e.g., funding, methodology, collaborations) and contextual analysis (e.g., competitive edge, ethical sourcing). The content avoids spam, clickbait, or hidden advertising, and the category 'AI' is accurate. The ethical considerations and technical depth (e.g., closed-loop system, OECD safety testing) are well-explained, and the tone remains neutral despite the novel subject matter. Minor deduction in score for lack of direct peer-reviewed validation references, but this is typical for startup-focused tech reporting."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-22T12:53:20.390809+07:00"
+}
