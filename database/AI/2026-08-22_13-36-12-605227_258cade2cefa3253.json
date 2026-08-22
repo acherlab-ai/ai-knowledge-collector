@@ -1,0 +1,50 @@
+{
+  "id": "258cade2cefa3253",
+  "title": "OpenAI Announces 20% Price Reduction for GPT-5.6 Sol Model",
+  "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "OpenAI has introduced a 20% reduction in input pricing and a 33% reduction in output pricing for its GPT-5.6 Sol model, a frontier model designed for complex professional work. The new pricing is $4 per million input tokens and $20 per million output tokens, available at least through November 21, 2026. The model features a 1,050,000-token context window, supports reasoning efforts from none to max, and includes various endpoints and tools like web search, code interpreter, and hosted shell.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "OpenAI",
+    "GPT-5.6",
+    "Pricing",
+    "API"
+  ],
+  "key_points": [
+    "GPT-5.6 Sol is OpenAI's latest frontier model for complex professional tasks.",
+    "20% reduction in input token pricing ($4 per 1M tokens) and 33% reduction in output token pricing ($20 per 1M tokens).",
+    "Promotional pricing available until at least November 21, 2026.",
+    "1,050,000-token context window with support for up to 128,000 output tokens.",
+    "Supports reasoning efforts: none, low, medium (default), high, xhigh, and max.",
+    "Knowledge cutoff: February 16, 2026.",
+    "Modalities: Text input/output, image input only; audio and video not supported.",
+    "Tools supported: Web search, file search, image generation, code interpreter, hosted shell, apply patch, computer use, MCP, and tool search.",
+    "Rate limits vary by usage tier, with automatic increases as usage grows.",
+    "Snapshots available for consistent model performance and behavior."
+  ],
+  "content_hash": "032756272d9d8aafbdf55d00a5f9323ffe1e4adc94c0e950eeef76236615da9b",
+  "title_hash": "6430a1ecf82861459f2e5a7b4cf208495c41dda7887f01725907b78aa9a3c607",
+  "collected_at": "2026-08-22T13:36:12.605227+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides clear, factual, and detailed information about OpenAI's pricing update for the GPT-5.6 Sol model. It is highly relevant to the AI category, avoids spam or clickbait, and does not contain hidden advertising. The content is well-structured, non-repetitive, and maintains a neutral tone while delivering actionable insights for professionals. The promotional pricing is transparently stated, and no misleading claims are present."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-22T13:36:12.605227+07:00"
+}
