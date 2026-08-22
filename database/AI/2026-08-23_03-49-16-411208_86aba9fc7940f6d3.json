@@ -1,0 +1,62 @@
+{
+  "id": "86aba9fc7940f6d3",
+  "title": "Knowing When to Stop: The Art of Making a Loop Converge",
+  "url": "https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "The article explores the challenges and principles of designing effective loops in AI systems, particularly focusing on how AI models determine when a task is 'done.' It discusses the importance of verifiers, target states, observable current states, precise change mechanisms, and stopping rules to ensure loops converge meaningfully rather than running indefinitely or inefficiently. The piece also highlights the economic and infrastructural considerations of loop engineering, emphasizing the need for explicit cost management and robust verification systems.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Loop Engineering",
+    "Autonomous Agents",
+    "Verification",
+    "Test-Time Compute"
+  ],
+  "key_points": [
+    "AI models lack an inherent sense of 'done' and rely on external signals (e.g., tests, deadlines, approvals) to determine completion, similar to humans.",
+    "Loop engineering involves automating the cycle of generation, verification, and iteration, but the loop's effectiveness depends on the quality of its verifier.",
+    "Verifiers must align with user intent, not just proxy metrics (e.g., tests), to avoid convergence on superficial goals (e.g., memorizing test inputs).",
+    "Four conditions are critical for loop convergence: (1) a clear target state, (2) an observable current state, (3) precise mechanisms for making changes, and (4) a reliable stopping rule.",
+    "Code-based loops (e.g., software engineering) converge more easily due to editability and strong verifiers, while open-ended tasks (e.g., image generation) struggle with verification and local edits.",
+    "Loops are domain-specific and tuned to their stack; assumptions in one context may not generalize to others, requiring trial-and-error discovery.",
+    "Economic considerations are vital: test-time compute yields diminishing returns, and loops often waste resources on marginal or negative improvements without cost controls.",
+    "Infrastructure (e.g., environments, state management, verifiers) is key to loop success, as the loop itself is often a simple control structure.",
+    "The distinction between inference-time loops (searching for better outputs) and training-time loops (updating model weights) is important, though both rely on strong verifiers.",
+    "Future challenges include making loop economics explicit (e.g., cost per iteration, progress per dollar) and building infrastructure to monitor and terminate loops efficiently."
+  ],
+  "content_hash": "6c17a0097f8294d00cc6032ecbf4750bef4db70aacf4a630d801e64e8f2c1a15",
+  "title_hash": "d217cba56e1d098be9cf1c3d592b6584a6330700adbb2fe6558cbc8734643ab1",
+  "collected_at": "2026-08-23T03:49:16.411208+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "clear (where applicable)",
+      "originality": true,
+      "details": [
+        "The article provides a deep, technical exploration of loop convergence in AI systems, addressing a niche but critical aspect of AI engineering. The content is highly relevant to the AI category and offers actionable insights for practitioners.",
+        "No spam or hidden advertisements detected. The focus remains on educational and technical value.",
+        "The title and summary accurately reflect the content without exaggeration or sensationalism.",
+        "Information is well-researched, structured, and supported by logical arguments. Key points are coherent and build upon each other effectively.",
+        "No significant redundancy or repetition; each section adds unique value.",
+        "Category alignment is correct (AI), with tags and content matching the topic.",
+        "While the article presents a perspective on loop engineering, it maintains objectivity by distinguishing between factual observations (e.g., verifier requirements) and reasoned opinions (e.g., economic considerations).",
+        "No evidence of manipulation, misleading claims, or fabricated content. The discussion is grounded in technical principles and real-world challenges."
+      ],
+      "minor_feedback": [
+        "The article could briefly acknowledge counterarguments or limitations of loop engineering (e.g., edge cases where verifiers fail), but this does not detract from its overall quality."
+      ]
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-23T03:49:16.411208+07:00"
+}
