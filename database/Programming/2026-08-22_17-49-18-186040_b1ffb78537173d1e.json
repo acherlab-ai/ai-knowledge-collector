@@ -1,0 +1,49 @@
+{
+  "id": "b1ffb78537173d1e",
+  "title": "The Cost of Software Performance Optimization Has Dropped Dramatically",
+  "url": "https://danluu.com/perf-opt",
+  "source": "Hacker News",
+  "category": "Programming",
+  "summary": "The article argues that advancements in AI, particularly large language models (LLMs), have significantly lowered the barrier to performance optimization in software development. Tasks that previously required specialized expertise and substantial time—such as writing JIT compilers, multi-threading algorithms, or workload-specific optimizations—can now be accomplished with minimal human effort. The author demonstrates this through examples like optimizing a regex engine (FRE), building a game AI, and improving ripgrep performance, showing that even complex optimizations can be achieved in minutes or hours rather than days or weeks. The reduction in cost and effort enables dynamic, workload-specific optimizations and makes high-performance software more accessible, though it also introduces risks like overfitting and reduced rigor in experimental design.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Performance Optimization",
+    "Software Development",
+    "JIT Compilers",
+    "Regex Engines",
+    "Workload-Specific Optimization"
+  ],
+  "key_points": [
+    "AI and LLMs have drastically reduced the cost and effort required for performance optimizations, making tasks like writing JIT compilers or multi-threading algorithms accessible to non-experts.",
+    "Workload-specific optimizations, such as tailoring a regex engine to a user's specific queries, can now be done in minutes with minimal human input, though risks like overfitting remain.",
+    "Examples include the FRE regex engine, which was optimized using AI and benchmarked against standard tools like ripgrep, achieving significant speedups for specific workloads.",
+    "The author built a world-class game AI (Azul) with minimal effort, leveraging AI for optimizations like multi-threading and native code compilation, which would have taken orders of magnitude more time manually.",
+    "Performance optimizations that were previously deemed too costly or risky (e.g., due to verification time) are now feasible, as the cost of experimentation has dropped by factors of 1000x or more.",
+    "AI-driven optimizations can outperform human experts on bounded problems (e.g., Jamie Brandon's performance take-home task), but may struggle with open-ended or experimental design challenges.",
+    "Dynamic, custom software tailored to specific workloads is becoming a realistic outcome, as seen in projects like pgrust and BitFunnel, though scaling such approaches requires careful handling of overfitting and regime changes.",
+    "The trade-off between rapid experimentation and rigor is highlighted: while AI enables faster iteration, the time required for rigorous validation and write-ups remains a bottleneck."
+  ],
+  "content_hash": "bd9fdc564c94feec8fe68430c8c8efe480048cb486b5b26c42ab29178378a3c6",
+  "title_hash": "373e3682cb4878c671f8f19f1cb029a001315731577e128ee02e14a395b34028",
+  "collected_at": "2026-08-22T17:49:18.186040+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "moderate (acceptable for opinion/review)",
+      "opinion_fact_separation": "clear (review/opinion with supported examples)",
+      "fabrication": false,
+      "details": "The article provides a well-researched, insightful analysis of how AI (specifically LLMs) has lowered the cost of performance optimization in software development. It includes concrete examples (e.g., FRE regex engine, Azul game AI, ripgrep optimizations) to support its claims, demonstrating both the benefits and risks of AI-driven optimizations. The content is original, non-repetitive, and aligns with the 'Programming' category. While it expresses a clear perspective (AI's impact on optimization), it distinguishes opinion from fact and avoids manipulative or misleading language. The trade-offs (e.g., overfitting, reduced rigor) are acknowledged, maintaining objectivity. The category is correctly assigned, and the summary/key points accurately reflect the content."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-22T17:49:18.186040+07:00"
+}
