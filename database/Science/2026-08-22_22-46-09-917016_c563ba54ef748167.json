@@ -1,0 +1,50 @@
+{
+  "id": "c563ba54ef748167",
+  "title": "Putting mice into hibernation causes a major loss of synapses but preserves memories",
+  "url": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone",
+  "source": "Ars Technica",
+  "category": "Science",
+  "summary": "Researchers induced a hibernation-like state in mice, resulting in the loss of over half of their synaptic connections. Despite this dramatic reduction, the mice retained their memories, challenging the hypothesis that memories are stored in individual synapses. The study found that clustered engram synapses, particularly those connected to multisynaptic boutons, were preserved during hibernation, suggesting that memory storage may rely on broader neural architecture rather than specific synapses. The findings also hint at the brain's potential to reset to a default state after hibernation, which could have implications for treating neurological conditions like epilepsy.",
+  "score": 9,
+  "tags": [
+    "neuroscience",
+    "memory",
+    "hibernation",
+    "synapses",
+    "brain research"
+  ],
+  "key_points": [
+    "Researchers used a technique to induce a hibernation-like state (QIH) in mice by activating Q neurons in the hypothalamus, reducing body temperature, heart rate, and breathing rate.",
+    "During QIH, over 50% of synapses in the mice's brains were lost, and neuronal activity dropped by about 70%.",
+    "Despite the significant loss of synapses, mice retained memories from tasks learned before hibernation, such as contextual fear conditioning and maze navigation.",
+    "Brain activity recordings and place cell firing patterns confirmed that memories remained intact post-hibernation.",
+    "Synapses that reappeared after hibernation often returned to the same locations on dendrites, with 82% accuracy.",
+    "Engram synapses (memory-storing connections) arranged in tight spatial clusters were preserved during hibernation, while isolated engram synapses were eliminated.",
+    "A third of the surviving clustered engram synapses were connected to multisynaptic boutons, a rare structure where one presynaptic terminal connects to multiple postsynaptic spines.",
+    "The study suggests that memory storage may depend on the broader neural architecture rather than individual synapses.",
+    "Preliminary findings indicate that hibernation might reset the brain to a default state, potentially suppressing the development of epilepsy in mice models.",
+    "The research is still in early stages, with many challenges remaining before potential clinical applications in humans can be explored."
+  ],
+  "content_hash": "4723099421a6ac8cb8e4de131eb13b2de61ae65b9435078c073d3da5bf9e6419",
+  "title_hash": "eb31a3b5ad028e46f9398a337b23efa01ef6199754ca2bc4724f85193fce0ed9",
+  "collected_at": "2026-08-22T22:46:09.917016+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not applicable (research-based)",
+      "fabrication": false,
+      "details": "The article provides a well-structured, evidence-based summary of a neuroscience study on hibernation and memory retention in mice. It clearly distinguishes between observed facts (e.g., synaptic loss, memory preservation) and broader implications (e.g., neural architecture, potential clinical applications). The content is highly informative, aligns with the 'Science' category, and avoids spam, clickbait, or hidden advertising. Minor deduction in score due to the preliminary nature of some findings, but this is transparently noted."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-22T22:46:09.917016+07:00"
+}
