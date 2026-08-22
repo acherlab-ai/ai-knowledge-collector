@@ -1,0 +1,48 @@
+{
+  "id": "1ed10f47b192ae6f",
+  "title": "hdiutil Deprecation in macOS 27 Golden Gate: Transition to diskutil image",
+  "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
+  "source": "Hacker News",
+  "category": "OS",
+  "summary": "Apple has deprecated the `hdiutil` command-line tool in macOS 27 Golden Gate, replacing it with `diskutil image` for disk image operations. While most functionality is preserved, some options like `-puppetstrings` and `-srcfolder`-related flags are missing. Performance improvements are noted with `diskutil image`, but issues such as lack of verbose logging, permission handling, and the absence of a `-scrub` equivalent remain. The transition may disrupt existing workflows and scripts reliant on `hdiutil`.",
+  "score": 8,
+  "tags": [
+    "macOS",
+    "diskutil",
+    "hdiutil",
+    "deprecation",
+    "command-line tools"
+  ],
+  "key_points": [
+    "Apple deprecates `hdiutil` in macOS 27 Golden Gate, directing users to `diskutil image` for disk operations.",
+    "`diskutil image` supports subcommands like `attach`, `create`, `resize`, `info`, and `chpass`, but lacks some `hdiutil` options (e.g., `-puppetstrings`, `-srcfolder` flags).",
+    "`diskutil image` is significantly faster (40-45s vs. 110-115s) and produces smaller disk images compared to `hdiutil`.",
+    "`diskutil image` does not trigger authentication prompts for root-owned files, unlike `hdiutil`, leading to failures without manual intervention.",
+    "`diskutil image` behaves as if the `-scrub` option is enabled by default, excluding `.Trash/` and temporary files.",
+    "Key limitations: poor verbose logging, no built-in permission error handling, and missing `-scrub` option.",
+    "Deprecation may break existing scripts and apps (e.g., Knox) that rely on `hdiutil`.",
+    "Persistent bug: Both tools still fail to handle `.bnnsir` files (Siri/CoreSpeech data) correctly."
+  ],
+  "content_hash": "d0b0bc5e4b80c978440cc0657c336ed92507053ba1adaf8f85e83d78cfd784da",
+  "title_hash": "ddb90d7a782aad18e92a888f3f794de33686aa67fb713a16045ff2c73a279e62",
+  "collected_at": "2026-08-23T02:21:23.427161+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "correct_category": true,
+      "excessive_bias": false,
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a detailed, factual comparison of `hdiutil` deprecation and the transition to `diskutil image` in macOS 27 Golden Gate. It highlights key changes, performance improvements, limitations, and potential workflow disruptions without bias or exaggeration. The category is correctly assigned as 'OS', and the content is well-structured, informative, and free of spam or hidden advertising."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-23T02:21:23.427161+07:00"
+}

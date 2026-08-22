@@ -1,0 +1,46 @@
+{
+  "id": "e0cf4087263d4676",
+  "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ outperformed Anthropic and OpenAI at replicating research",
+  "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "Inherent, a London-based AI lab founded by Google DeepMind alumni, has developed an AI agent named Faraday that outperformed larger models from Anthropic and OpenAI in independently replicating the findings of published scientific papers. Faraday operates on a smaller model (Qwen 3.6 with 27 billion parameters) and demonstrates 'research taste'—an ability to design and prioritize experiments effectively—using reinforcement learning. The startup focuses on building AI capable of scientific discovery, not just verification, and emphasizes collaboration and efficiency in its development approach.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "DeepMind",
+    "Reinforcement Learning",
+    "Scientific Research",
+    "AI Agents"
+  ],
+  "key_points": [
+    "Inherent, founded by DeepMind alumni, has developed an AI agent (Faraday) that outperformed Anthropic’s Claude Opus 4.8 and OpenAI’s GPT-5.5 in replicating scientific research findings.",
+    "Faraday uses a smaller model (Qwen 3.6 with 27 billion parameters) compared to larger frontier models, reducing computational costs.",
+    "The AI demonstrates 'research taste,' an ability to prioritize and design experiments effectively, trained via reinforcement learning.",
+    "Inherent’s goal is to build AI capable of discovering new scientific knowledge, not just verifying existing results.",
+    "The startup avoids redundant development (e.g., using OpenAI’s GPT-5.5 Codex for coding tasks) and focuses on collaboration and efficiency.",
+    "Inherent operates in London, leveraging the city’s AI talent pool, and plans to expand its team to 20-25 employees by year-end."
+  ],
+  "content_hash": "d42d6633bbfcd1948501ed6dc4b8e72cec719d060c3efbd1309fe469813b456a",
+  "title_hash": "709e264e58ef75c7a78d72b46bb82ab7f7c439436e81bbac1392761f83a78ba4",
+  "collected_at": "2026-08-23T02:21:19.893155+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a well-researched and informative overview of Inherent's AI agent, Faraday, and its capabilities in scientific research replication. It includes specific technical details (e.g., model size, reinforcement learning) and contextualizes the startup's goals without exaggeration or misleading claims. The comparison with Anthropic and OpenAI is presented as a factual benchmark, and the summary avoids sensationalism. The content is original, non-repetitive, and aligns with the AI category. No hidden advertisements, spam, or bias are detected."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-23T02:21:19.893155+07:00"
+}
