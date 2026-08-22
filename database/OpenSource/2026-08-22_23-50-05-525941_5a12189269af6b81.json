@@ -1,0 +1,45 @@
+{
+  "id": "5a12189269af6b81",
+  "title": "Python Documentation Now Available in Russian",
+  "url": "https://blog.python.org/2026/08/the-python-documentation-is-now-available-in-russian",
+  "source": "Python Insider",
+  "category": "OpenSource",
+  "summary": "The official Python documentation has been translated into Russian, expanding accessibility for Russian-speaking developers. The translation was made possible by community contributions, and the project welcomes further volunteer efforts to maintain and expand translations into other languages.",
+  "score": 8,
+  "tags": [
+    "Python",
+    "OpenSource",
+    "Documentation",
+    "Translation",
+    "Community"
+  ],
+  "key_points": [
+    "The Python documentation is now available in Russian, thanks to community contributions.",
+    "This effort aims to make Python more accessible to Russian-speaking developers worldwide.",
+    "The translation project relies on volunteers to maintain accuracy and update content.",
+    "Python’s documentation is available in multiple languages, with ongoing needs for contributors.",
+    "Interested individuals can participate by following the translation guide in the Python Developer’s Guide or using the Translation dashboard."
+  ],
+  "content_hash": "ccb592cd9c8737fefaa7f0d9ec17ee201a9053c7c1f0f106fcbf27eea57f5642",
+  "title_hash": "b06235da32f8f78cdddd917128067bc8117f40718a7a230151972912d78c239f",
+  "collected_at": "2026-08-22T23:50:05.525941+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_distinction": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides factual and useful information about the availability of Python documentation in Russian, supported by community contributions. It is well-structured, neutral, and aligns with the OpenSource category. No spam, clickbait, or hidden advertising detected. The content is original and does not repeat existing information."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-22T23:50:05.525941+07:00"
+}
