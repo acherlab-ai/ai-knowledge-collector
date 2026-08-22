@@ -1,0 +1,49 @@
+{
+  "id": "1ffb541d9c6e1223",
+  "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M funding",
+  "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m",
+  "source": "TechCrunch",
+  "category": "Space",
+  "summary": "Letara, a Japanese space tech startup, has secured $16 million in funding to expand its hybrid rocket propulsion technology beyond satellite thrusters into large rocket systems for space, defense, and security markets. The company's hybrid rocket design uses inexpensive materials like plastic and rubber as solid fuel, aiming to solve key challenges in thrust generation, performance, and combustion control. Letara plans to target satellite makers, launch companies, and governments, with a focus on commercial satellites and growing government demand in Japan.",
+  "score": 9,
+  "tags": [
+    "Space",
+    "Startups",
+    "Propulsion Technology",
+    "Hybrid Rockets",
+    "Funding"
+  ],
+  "key_points": [
+    "Letara, a Sapporo-based startup, develops hybrid propulsion systems for spacecraft.",
+    "The company has raised ¥2.6 billion (~$16 million) to expand into large rocket systems for space, defense, and security markets.",
+    "Letara’s hybrid rocket technology separates solid fuel (e.g., plastic, rubber) from liquid oxidizer, improving thrust efficiency and reducing waste.",
+    "The global hybrid rocket propulsion market is projected to grow from $848 million in 2024 to $2.6 billion by 2032, with a 15% CAGR.",
+    "Competitors include Interstellar Technologies (Japan), Galactic Energy (China), InnoSpace (South Korea), HyImpulse (Germany), and Gilmour Space (Australia).",
+    "Letara was spun out of Hokkaido University in 2020, initially focusing on satellite thrusters before expanding into larger rocket systems.",
+    "The company targets satellite makers, launch companies, and governments, with existing contracts from Japanese rocket/satellite firms and the government.",
+    "Upcoming milestones include an in-orbit firing test with an overseas partner and scaling manufacturing processes.",
+    "Letara is exploring the use of recycled plastic as fuel, pending further testing and development."
+  ],
+  "content_hash": "19704262baa121de77acb508a495f16f49af5c1154904edb8e761e5b4ee04051",
+  "title_hash": "f03dcf26b23a99fad77340a69a1f815c99c682b0b5c11e4d6e7d318a5eb55be7",
+  "collected_at": "2026-08-22T08:05:13.809901+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a well-researched, factual overview of Letara's funding, technology, market positioning, and future plans. It includes relevant data (market growth, competitors) and avoids exaggeration or misleading claims. The category is correctly assigned as 'Space,' and the content maintains objectivity without hidden advertising or spam."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-22T08:05:13.809901+07:00"
+}

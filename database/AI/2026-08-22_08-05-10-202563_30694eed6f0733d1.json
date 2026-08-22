@@ -1,0 +1,50 @@
+{
+  "id": "30694eed6f0733d1",
+  "title": "Running AI Agents in GitHub Actions with Docker Sandboxes",
+  "url": "https://www.docker.com/blog/running-ai-agents-in-github-actions-with-docker-sandboxes",
+  "source": "Docker",
+  "category": "AI",
+  "summary": "The article explains how to run AI coding agents securely in GitHub Actions using Docker Sandboxes, which provide isolated microVM environments. This setup allows AI agents to execute tasks like running integration tests, fixing bugs, and opening pull requests while maintaining strict isolation and security boundaries. The integration is seamless with GitHub Agentic Workflows, requiring minimal configuration.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "DevOps",
+    "GitHub Actions",
+    "Docker",
+    "CI/CD",
+    "Automation"
+  ],
+  "key_points": [
+    "GitHub Agentic Workflows now support Docker Sandboxes as a runtime for AI agents, enabling secure and isolated execution in CI pipelines.",
+    "Docker Sandboxes use microVMs to isolate AI agents, providing a private Docker daemon and root access within the sandbox without compromising the host system.",
+    "The setup allows AI agents to perform complex tasks such as running Testcontainers for integration tests, installing tools, and executing shell commands safely.",
+    "Network policies and secrets injection follow best practices for AI isolation, limiting the agent's access to external resources.",
+    "A practical example demonstrates an AI agent running Java integration tests with PostgreSQL, identifying a bug, fixing it, and opening a draft pull request.",
+    "GitHub Agentic Workflows (gh-aw) compile Markdown-based workflows into standard GitHub Actions workflows, simplifying setup and configuration.",
+    "The sandbox configuration includes permissions, network allowlists, and protected file boundaries to ensure security and control over the agent's actions.",
+    "The workflow runs on GitHub-hosted Ubuntu runners, with support for self-hosted runners requiring KVM and Docker access.",
+    "Docker AI Governance can extend this setup to enforce organization-wide policies for sandbox network, filesystem, and access control, with audit logging for compliance."
+  ],
+  "content_hash": "74123896e1ca1fb0327604d6e089757cee0206f7c0104cfaac6f9f4ce84f7c8e",
+  "title_hash": "1b8d6f9c73bf7efdc781f3ba3535682af171d6fd9d8f3986488caac3f3616429",
+  "collected_at": "2026-08-22T08:05:10.202563+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a detailed, practical guide on running AI agents in GitHub Actions using Docker Sandboxes. It is highly informative, well-structured, and offers actionable insights without spam, clickbait, or hidden advertisements. The content is technically sound, avoids redundancy, and maintains a neutral tone with minimal bias. The category (AI) is accurate, and the key points align with the summary and title. No fabrication or misleading claims are detected."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-22T08:05:10.202563+07:00"
+}
