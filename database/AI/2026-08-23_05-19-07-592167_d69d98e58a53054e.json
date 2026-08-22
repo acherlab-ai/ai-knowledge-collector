@@ -1,0 +1,45 @@
+{
+  "id": "d69d98e58a53054e",
+  "title": "Harvard’s $699 startup bootcamp integrates AI avatars for instructor feedback",
+  "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "Harvard Business School (HBS) has launched an eight-week, $699 startup bootcamp called HBS Foundry, which uses AI avatars of instructors to provide personalized feedback during practice pitches and board meetings. The avatars, developed by startup HeyGen, were introduced after students requested a more guided experience than a simple chatbot. While some participants find the AI avatars helpful, others, including instructors like Jeff Bussgang, describe them as slightly unsettling but effective for student engagement.",
+  "score": 8,
+  "tags": [
+    "AI",
+    "Education",
+    "EdTech",
+    "Startup",
+    "Harvard Business School"
+  ],
+  "key_points": [
+    "HBS Foundry is an eight-week, $699 bootcamp for entrepreneurs.",
+    "AI avatars of instructors, created by HeyGen, provide feedback during practice pitches and board meetings.",
+    "The AI component was initially envisioned as a chatbot but evolved into a more guided experience based on student feedback.",
+    "Participants generally appreciate the AI avatars, though some instructors find them 'creepy' but effective.",
+    "The program includes live sessions with instructors alongside AI-driven feedback."
+  ],
+  "content_hash": "ad07f10eb6d329d416b388183b833f00e1a6ddea223f48351bd12c789a908424",
+  "title_hash": "2071e4cb3f101c7789f2e27e8409803e4c2785ae1ed31c398fdde286665e1180",
+  "collected_at": "2026-08-23T05:19:07.592167+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "clear (if applicable)",
+      "fabrication": false,
+      "details": "The article provides a well-researched, factual overview of Harvard's AI-driven startup bootcamp. It includes key details about the program, the role of AI avatars, and balanced perspectives from participants and instructors. The content is informative, relevant to the 'AI' category, and avoids spam, clickbait, or hidden advertising. Minor subjective opinions (e.g., 'creepy') are clearly attributed and do not undermine the overall neutrality or accuracy."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-23T05:19:07.592167+07:00"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "75660dea522eb2c9",
+  "title": "Fast and Hard Code: The Impact of LLMs on Language Choice and Performance Optimization",
+  "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code",
+  "source": "Hacker News",
+  "category": "Programming",
+  "summary": "The article discusses how large language models (LLMs) are reducing the significance of programming language familiarity, enabling developers to work with languages they are unfamiliar with. This shift is leading to increased adoption of performance-focused languages like Rust and Zig, even among developers who previously avoided them. LLMs are also facilitating the use of complex technologies such as DWARF files, eBPF, custom network drivers, and crypto, which were previously inaccessible to many. The trend suggests a growing emphasis on fast, efficient, and small software, often with LLM assistance.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Programming",
+    "Rust",
+    "Zig",
+    "Performance",
+    "LLM",
+    "Code Optimization"
+  ],
+  "key_points": [
+    "LLMs reduce the importance of programming language familiarity, allowing developers to work with unfamiliar languages.",
+    "Marketing and performance considerations now heavily influence language choice, rather than just personal familiarity.",
+    "Languages like Rust and Zig are gaining popularity due to their performance benefits, even among developers who previously avoided them.",
+    "LLMs assist in optimizing code without regressing behavior, making performance-focused development more accessible.",
+    "Developers are increasingly working with complex technologies (e.g., DWARF files, eBPF, custom network drivers, crypto) that were previously gatekept or inaccessible.",
+    "The trend reflects a broader shift toward fast, small, and efficient software, often developed with LLM assistance."
+  ],
+  "content_hash": "8981d4800d621c42b57480dbc39b27f3b4950b973db7b109036b56f7f1990aec",
+  "title_hash": "5efacfb27df4810d0bc674f66006433b82a2f953393499cdd5fbe3ab64fa7163",
+  "collected_at": "2026-08-23T05:19:11.367409+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 8.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "moderate",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a well-reasoned analysis of how LLMs are influencing programming language adoption and performance optimization. It is informative, relevant to the 'Programming' category, and avoids spam, clickbait, or hidden advertising. While it expresses a clear trend (performance-focused languages gaining traction), it does not exhibit manipulative bias or misinformation. The quality of information is high, with no significant redundancy or fabrication. The category is correctly assigned as 'Programming' (not 'AI', as AI is a secondary theme)."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-23T05:19:11.367409+07:00"
+}
