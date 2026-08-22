@@ -1,0 +1,46 @@
+{
+  "id": "b7b0d526f8f1610b",
+  "title": "Meta's Alleged 'Hook, Hold, Harvest, Hide' Strategy in Child Privacy Lawsuit",
+  "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
+  "source": "Hacker News",
+  "category": "Cybersecurity",
+  "summary": "A landmark trial accuses Meta (Facebook and Instagram) of designing addictive platforms that violate children's privacy laws. The lawsuit, filed by California and 28 other states, alleges Meta's business model—'hook, hold, harvest, hide'—exploits young users by collecting their data without parental consent. Key testimonies include former Meta employees and a psychologist, with Meta CEO Mark Zuckerberg and Instagram CEO Adam Mosseri expected to testify. Meta denies all allegations, arguing it has tools to address safety concerns and prohibits under-13 accounts. Potential penalties include $200 billion in damages and mandated design changes to protect children.",
+  "score": 9,
+  "tags": [
+    "Cybersecurity",
+    "Privacy",
+    "Social Media",
+    "Regulation",
+    "Child Safety"
+  ],
+  "key_points": [
+    "Meta is accused of a 'hook, hold, harvest, hide' strategy targeting users, particularly children, to maximize engagement and data collection.",
+    "The lawsuit alleges violations of federal child privacy laws and state consumer protection laws by collecting data on under-13 users without parental consent.",
+    "Meta faces existential threats, including up to $200 billion in damages and potential forced changes to its business model if found liable.",
+    "Former Meta safety engineer Arturo Béjar testified that the company ignored internal reports of harm to children, including unwanted sexual advances and ineffective reporting tools.",
+    "Meta denies allegations, claiming it has safety tools and prohibits under-13 accounts, but has faced prior legal losses over child safety and addiction-related issues.",
+    "Testimonies from former employees and experts, including a psychologist, highlight systemic issues in Meta’s approach to child safety."
+  ],
+  "content_hash": "774d6c86a75df9f9ecc1a30c3c9f0e038ea82677181f5cb72fd385b1c636dbe1",
+  "title_hash": "d0505802d7dfac008b1ed5ff666fdc965b7a8c80524c7135b02599a2cec007ba",
+  "collected_at": "2026-08-22T20:59:11.279080+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "disguised_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "moderate (balanced presentation of allegations and Meta's response)",
+      "opinion_fact_separation": "clear (allegations are framed as claims, Meta's stance is presented as denial)",
+      "fabrication": false,
+      "notes": "The article provides a detailed, well-sourced overview of a significant cybersecurity/privacy lawsuit. It distinguishes between allegations and Meta's rebuttals, includes expert testimonies, and avoids sensationalism. The category is correctly assigned, and the content is highly relevant to cybersecurity and child privacy concerns."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-22T20:59:11.279080+07:00"
+}
