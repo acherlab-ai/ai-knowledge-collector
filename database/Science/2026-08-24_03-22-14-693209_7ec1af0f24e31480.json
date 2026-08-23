@@ -1,0 +1,48 @@
+{
+  "id": "7ec1af0f24e31480",
+  "title": "Volcanoes that shaped history: How eruptions influenced climate and societies",
+  "url": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history",
+  "source": "Ars Technica",
+  "category": "Science",
+  "summary": "The article explores how major volcanic eruptions, such as Krakatau (1883), Samalas (1257), and Tambora (1815), have historically impacted global climate and human societies. These eruptions released sulfur aerosols into the atmosphere, causing global cooling, crop failures, famines, and even contributing to societal upheavals like the fall of the Mongol Empire and the spread of the Black Death. The piece highlights the role of volcanology in understanding past climate events and draws parallels to modern climate change challenges.",
+  "score": 9,
+  "tags": [
+    "Science",
+    "Climate",
+    "Volcanology",
+    "History",
+    "Environment"
+  ],
+  "key_points": [
+    "The 1883 Krakatau eruption was one of the first globally documented natural disasters due to Victorian-era telecommunications, laying the foundation for modern volcanology.",
+    "Volcanic eruptions release sulfur aerosols that reflect sunlight, causing global cooling and climate disruptions.",
+    "The 1257 Samalas eruption in Indonesia was one of the largest in the last millennium, linked to cooling in North America and Eurasia and potential contributions to the fall of the Mongol Empire.",
+    "The Black Death (1346–1352) may have been exacerbated by climate changes from a volcanic eruption around 1345, leading to crop failures and the spread of plague via trade routes.",
+    "The 1783 Laki eruption in Iceland caused toxic fogs and climate changes, devastating Iceland’s population and livestock, with effects felt across Europe.",
+    "The 1815 Tambora eruption led to the 'year without a summer' (1816), causing crop failures, famine, and mass emigration in Europe, while also inspiring literary works like *Frankenstein*.",
+    "Historical volcanic eruptions provide insights into how rapid climate shocks can impact societies, offering lessons for modern climate change resilience.",
+    "Ice cores and tree-ring studies are key tools for identifying past eruptions and their climatic effects."
+  ],
+  "content_hash": "5673c7ed9781cd2169491c9bbd5e512fc5fb9d4f13e0abc5747ceb6f483ff625",
+  "title_hash": "364d69320e859e21611b0e9e347bda42c4cc1830130abe57657ed7f0df2aca25",
+  "collected_at": "2026-08-24T03:22:14.693209+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not applicable (informational, not review/opinion)",
+      "fabrication": false,
+      "details": "The article provides a well-researched, factual exploration of how volcanic eruptions have historically influenced climate and societies. It is informative, scientifically grounded, and avoids sensationalism or bias. The category 'Science' is accurate, and the content aligns with the title and summary without redundancy or hidden agendas. Minor deduction in score for potential slight oversimplification of complex historical causality (e.g., Mongol Empire fall), but this does not detract significantly from overall quality."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-24T03:22:14.693209+07:00"
+}

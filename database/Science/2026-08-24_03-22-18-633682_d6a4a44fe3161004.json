@@ -1,0 +1,47 @@
+{
+  "id": "d6a4a44fe3161004",
+  "title": "Dismantling the Roadless Rule threatens wildlife and water in the US",
+  "url": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us",
+  "source": "Ars Technica",
+  "category": "Science",
+  "summary": "The article discusses the ecological importance of the 2001 Roadless Rule, which prohibits road construction and commercial logging in designated roadless areas of US national forests. The Trump administration's proposed rollback of this rule could threaten wildlife habitats, water quality, and ecological connectivity, particularly in areas like Alaska's Tongass National Forest. The rule protects critical habitats for endangered species, ensures clean drinking water for millions, and preserves recreational opportunities. Roads in forests contribute to habitat fragmentation, invasive species spread, water pollution, and wildlife displacement. The public overwhelmingly supports the Roadless Rule, and its rescission could have long-term environmental consequences.",
+  "score": 9,
+  "tags": [
+    "Science",
+    "Environment",
+    "Ecology",
+    "Wildlife Conservation",
+    "Public Policy"
+  ],
+  "key_points": [
+    "The Roadless Rule (2001) prohibits road construction and commercial logging in 58 million acres of US national forests, excluding Idaho and Colorado, which have state-specific rules.",
+    "The rule protects critical habitats for wildlife, including endangered species like the relictual slender salamander and Mount Pinos lodgepole chipmunk.",
+    "Roadless areas provide clean drinking water for 47 million Americans and support recreational activities like hiking, hunting, and fishing.",
+    "Roads in forests contribute to ecological harm, including habitat fragmentation, invasive species spread, water pollution, and wildlife displacement.",
+    "The Trump administration's proposed rollback of the Roadless Rule could open these areas to development, threatening ecosystems and public health.",
+    "Public support for the Roadless Rule remains strong, with overwhelming opposition to its rescission.",
+    "Roadless areas act as ecological buffers for national parks and wilderness areas, preserving biodiversity and ecosystem health."
+  ],
+  "content_hash": "1282fd1a1507dc78a9ebb80fee9ad472b7f1552158c118a4d619aa3ac63cff37",
+  "title_hash": "80157eafb546d1100f3871371a2e84f77f0681848b155c78a0cc9d4ca19d35a7",
+  "collected_at": "2026-08-24T03:22:18.633682+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "moderate (justified perspective on environmental policy)",
+      "opinion_fact_distinction": "clear (opinion on policy impact is separated from ecological facts)",
+      "fabrication": false,
+      "details": "The article provides a well-researched, fact-based analysis of the ecological impacts of the Roadless Rule and its potential rollback. It cites specific examples (e.g., endangered species, water quality) and avoids sensationalism. While it advocates for environmental protection, the arguments are grounded in scientific evidence and public policy context. The category is correctly assigned as 'Science' due to its focus on ecology and conservation."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-24T03:22:18.633682+07:00"
+}

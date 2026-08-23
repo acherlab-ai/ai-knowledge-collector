@@ -1,0 +1,46 @@
+{
+  "id": "3b921118c9bb5bb8",
+  "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+  "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "A mysterious new AI model named Ox Alpha has emerged, sparking widespread speculation about its origins. Released on OpenRouter, the model is described as a 'reasoning model designed for coding, sustained agentic work, and production workload.' The developer remains anonymous, leading to theories linking it to Chinese AI firms like Z.ai (GLM models) or Microsoft’s MAI. Industry figures, including Stripe CEO Patrick Collison, have praised its capabilities, but its true creators remain unverified.",
+  "score": 8,
+  "tags": [
+    "AI",
+    "OpenRouter",
+    "Stealth Model",
+    "Speculation",
+    "Z.ai",
+    "Microsoft"
+  ],
+  "key_points": [
+    "Ox Alpha is a new AI model released on OpenRouter, described as a 'reasoning model' for coding and production workloads.",
+    "The developer is anonymous, labeled as a 'stealth model' by OpenRouter.",
+    "Speculation about its origins includes theories linking it to Chinese AI firm Z.ai (GLM models) or Microsoft’s MAI.",
+    "Stripe CEO Patrick Collison called the model 'very impressive,' adding to its intrigue.",
+    "No definitive evidence confirms the model’s creators, leading to ongoing debate in the AI community."
+  ],
+  "content_hash": "45d4f45bbe7b259e973d363a09547e8596c41fc6a5808348cdddf81e84a52ef0",
+  "title_hash": "a882954329539eebb862376d244a6fef6c326b5230e126768ceb4adc391f0c20",
+  "collected_at": "2026-08-24T03:22:21.939303+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_distinction": "clear",
+      "fabrication": false,
+      "details": "The article provides a well-researched and balanced overview of the Ox Alpha AI model, its mysterious origins, and industry reactions. It avoids sensationalism, clearly distinguishes speculation from verified facts, and maintains neutrality despite the speculative nature of the topic. The content is relevant to the AI category and offers valuable insights without redundancy or hidden agendas."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-24T03:22:21.939303+07:00"
+}
