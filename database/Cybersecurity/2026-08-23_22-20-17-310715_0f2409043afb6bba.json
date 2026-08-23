@@ -1,0 +1,46 @@
+{
+  "id": "0f2409043afb6bba",
+  "title": "Slovakia Finds Russian Backdoor in Traffic Speed Cameras",
+  "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras",
+  "source": "Hacker News",
+  "category": "Cybersecurity",
+  "summary": "Slovakia's national security service (NBU) discovered a Russian backdoor in NERO R-ONE traffic speed cameras, which are rebranded versions of the Russian CORDON PRO.M model. The backdoor allows shell and network access via SMS from hardcoded Russian phone numbers. The cameras, part of a €30 million EU-funded project, also contain multiple security flaws, including disabled SecureBoot, vulnerabilities in the web management portal, and unprotected live streams. Deployment has been paused for further assessment. Similar devices may be installed in Croatia and other Eastern European countries.",
+  "score": 9,
+  "tags": [
+    "Cybersecurity",
+    "Backdoor",
+    "Hardware Vulnerabilities",
+    "Supply Chain Risk",
+    "Government Security"
+  ],
+  "key_points": [
+    "Slovakia's NBU identified a backdoor in NERO R-ONE traffic cameras, granting remote access via SMS from hardcoded Russian numbers.",
+    "The cameras are rebranded Russian models (CORDON PRO.M) produced by Semicon, purchased as part of an EU-funded project.",
+    "Security flaws include disabled SecureBoot, vulnerable web management portals, and unprotected live streams.",
+    "The Interior Ministry initially denied risks but paused deployment after the NBU report.",
+    "Similar devices may be in use in Croatia and other Eastern European countries.",
+    "The incident highlights risks of sourcing critical infrastructure hardware from geopolitically adversarial nations."
+  ],
+  "content_hash": "582e8c98cce3ea0f132427ed8c957cd1e0720d3d61ead1cc2ba3e2d2d1e730a5",
+  "title_hash": "8347d96f6558f6eff9528f16659c2ba3c81f2a4e1dadca6d208fec6158d2927d",
+  "collected_at": "2026-08-23T22:20:17.310715+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_distinction": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a detailed, fact-based report on a critical cybersecurity issue involving hardware backdoors in traffic cameras. It includes specific technical findings, geopolitical context, and implications for supply chain security. The content is well-researched, objective, and aligns with the Cybersecurity category. No spam, clickbait, or hidden advertising detected. The summary and key points are concise and informative."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-23T22:20:17.310715+07:00"
+}

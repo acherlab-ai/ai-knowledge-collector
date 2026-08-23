@@ -1,0 +1,46 @@
+{
+  "id": "89e7c92b661d6507",
+  "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+  "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "The article explores the legal complexities surrounding the use of copyrighted books to train AI models. It highlights the ambiguity in copyright law, which hasn't been updated since 1976, and the challenges courts face in interpreting these laws for modern AI applications. Key legal concepts like fair use and transformative use are discussed, along with recent court rulings that shape the landscape. The piece notes that while some rulings favor AI companies, others penalize them for sourcing copyrighted material illegally. The debate hinges on whether AI training competes with or complements original works, and the lack of definitive legal precedents leaves the issue unresolved.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "copyright",
+    "legal",
+    "fair use",
+    "intellectual property"
+  ],
+  "key_points": [
+    "Copyright law, last updated in 1976, struggles to address AI training on copyrighted works due to technological advancements.",
+    "Recent rulings, like the $1.5 billion penalty against Anthropic, show courts distinguishing between lawful AI training and illegal sourcing of copyrighted material.",
+    "Fair use doctrine is central to the debate, with courts evaluating whether AI training is 'transformative' or competitive with original works.",
+    "A case involving Thomson Reuters and Ross Intelligence ruled that training AI to directly compete with copyrighted content is not fair use.",
+    "AI-generated content raises new questions, such as whether 100% AI-created works are copyrightable and how to prove AI involvement in creative works.",
+    "Legal outcomes are inconsistent, and pending litigation means no definitive resolution is imminent, but early rulings are shaping industry practices."
+  ],
+  "content_hash": "058242d9385cbc0edd2a227b2f03621430c9e53a6e387a136f079aedaa5ef910",
+  "title_hash": "cfe028cd6e2455fc80b411af0b30396c0a557d469c56735d410ce9869e1862e5",
+  "collected_at": "2026-08-23T22:20:12.280634+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "clear (where applicable)",
+      "fabrication": false,
+      "details": "The article provides a well-researched, balanced exploration of the legal complexities of training AI on copyrighted books. It avoids sensationalism, clearly distinguishes between legal facts and interpretations, and adheres to the AI category. The summary and key points are accurate, relevant, and free of redundancy or hidden agendas. The discussion of fair use and transformative use is nuanced, and the article acknowledges the lack of definitive legal precedents without overstating conclusions. Minor deductions in score are due to the evolving nature of the topic, which may require future updates."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-23T22:20:12.280634+07:00"
+}

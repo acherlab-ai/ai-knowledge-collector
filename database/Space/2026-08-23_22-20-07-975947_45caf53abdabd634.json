@@ -1,0 +1,46 @@
+{
+  "id": "45caf53abdabd634",
+  "title": "China delays critical Moon launch, Chang’e 7, to 2027 due to need for 'absolute success'",
+  "url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027",
+  "source": "Ars Technica",
+  "category": "Space",
+  "summary": "China has postponed the launch of its Chang’e 7 lunar exploration mission from 2026 to 2027, citing the need for 'absolute success.' The mission, which includes a lunar orbiter, lander, rover, and a mini-hopper probe, aims to land at the Moon's South Pole. The delay is likely due to inclement weather caused by Typhoon Narra and potential launch window constraints. The postponement occurs amid a competitive race with the U.S. to establish a presence at the lunar South Pole, a region rich in potential resources like water ice.",
+  "score": 8,
+  "tags": [
+    "Space",
+    "Moon exploration",
+    "China",
+    "Chang’e 7",
+    "Lunar mission"
+  ],
+  "key_points": [
+    "China delayed the Chang’e 7 mission to 2027 to ensure 'absolute success,' with no specific reason provided for the postponement.",
+    "The delay may be due to Typhoon Narra affecting the Wenchang Space Launch Site, along with limited launch windows for reaching the lunar South Pole.",
+    "Chang’e 7 consists of multiple components, including an orbiter, lander, rover, and mini-hopper, targeting the Moon’s South Pole, particularly Shackleton Crater.",
+    "The lunar South Pole is a high-priority region due to permanently shadowed areas ('cold traps') that may contain water ice and other valuable resources.",
+    "The delay opens a window for NASA’s Blue Moon Mark 1 mission, developed by Blue Origin, to potentially reach the lunar South Pole first, though its launch timeline is also uncertain.",
+    "No country has successfully landed a spacecraft at the lunar poles, making this a critical milestone in the new space race."
+  ],
+  "content_hash": "b4a406ca1d7d6764535358a9f0721e8b4dafc111433ae09495be6808798cde11",
+  "title_hash": "00e9368a19ff7e74cd163d14aa4a8f4be00131434c72cac304741fe71d5b7253",
+  "collected_at": "2026-08-23T22:20:07.975947+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_distinction": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides well-researched, factual information about China's Chang’e 7 mission delay, its components, and the broader context of lunar exploration. The content is objective, avoids sensationalism, and aligns with the 'Space' category. Minor deductions in score are due to slight speculation about the delay's causes (e.g., Typhoon Narra) without explicit confirmation, but this does not significantly impact overall quality."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-23T22:20:07.975947+07:00"
+}
