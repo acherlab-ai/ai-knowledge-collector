@@ -1,0 +1,48 @@
+{
+  "id": "a6527316a91da5dd",
+  "title": "Pixel 11 Pro XL Review: AI-Powered Features and Camera Improvements in an Iterative Upgrade",
+  "url": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade",
+  "source": "TechCrunch",
+  "category": "Mobile",
+  "summary": "The Pixel 11 Pro XL offers incremental upgrades over its predecessor, focusing on AI-powered features and camera improvements. While the design remains largely unchanged, new functionalities like Rambler (an AI dictation tool), enhanced Gemini features, and snappier cameras with advanced computational photography options stand out. However, some features like HiLight (LED notifications) and Proactive Suggestions have limitations. The phone's price increase and reduced RAM may deter upgrades from last year's model.",
+  "score": 8,
+  "tags": [
+    "Mobile",
+    "Google",
+    "AI",
+    "Hardware",
+    "Camera"
+  ],
+  "key_points": [
+    "Design remains largely unchanged from prior models, with minor aesthetic updates like new colors and a glowing LED light (HiLight) on the back.",
+    "Rambler, an AI-powered dictation tool, removes filler words and formats speech, rivaling top dictation apps like Wispr and Willow.",
+    "Gemini updates include Proactive Suggestions (context-aware app suggestions) and agentic capabilities (e.g., placing food orders), though some features are region-locked or inconsistent.",
+    "Live Translate feature improves accessibility for live streams/videos without captions, but requires language downloads.",
+    "HiLight LED notification light is limited to Gemini activations and calls from favorite contacts, offering minimal practical utility.",
+    "Camera improvements include larger sensors, faster Night Sight, and snappier performance. New 'Looks' feature offers customizable computational photography styles.",
+    "Magic Capture uses AI to extract key moments from video clips as photos, useful for action shots or pets, though limited to 12MP resolution.",
+    "Price increase and reduced RAM (12GB vs. 16GB) make the upgrade less appealing despite solid performance and camera enhancements."
+  ],
+  "content_hash": "55486112e933382c7ae2f8d0dbdee78e7f8a1e4e0641b36e1398ad2f6bf8bb6a",
+  "title_hash": "19c6761513d23de04e8b19832f71aaeb8acdf24eea1d59f175185084ff929b1f",
+  "collected_at": "2026-08-23T10:58:12.098305+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": true,
+      "fabrication": false,
+      "details": "The article provides a detailed, balanced review of the Pixel 11 Pro XL, focusing on its AI-powered features and camera improvements. It highlights both strengths (e.g., Rambler, Gemini updates, camera enhancements) and weaknesses (e.g., HiLight limitations, price increase, reduced RAM) without excessive bias. The content is factual where necessary and clearly distinguishes opinions (e.g., 'less appealing upgrade'). The category 'Mobile' is accurate, and the tags are relevant. No spam, clickbait, or hidden ads were detected. The summary and key points are well-structured and informative."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-23T10:58:12.098305+07:00"
+}
