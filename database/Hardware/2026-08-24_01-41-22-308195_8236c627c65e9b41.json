@@ -1,0 +1,45 @@
+{
+  "id": "8236c627c65e9b41",
+  "title": "The custom chip driving Waymo’s robotaxi ambitions",
+  "url": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions",
+  "source": "TechCrunch",
+  "category": "Hardware",
+  "summary": "Waymo has developed a custom 5 nm ASIC chip to enhance the performance and efficiency of its sixth-generation self-driving system, used in its Ojai robotaxi. The chip delivers over 1,000 TOPS of computing power, enabling faster and safer reactions in complex urban environments. This vertical integration is key to reducing costs and improving scalability for Waymo’s autonomous vehicle operations.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Hardware",
+    "Autonomous Vehicles",
+    "Waymo",
+    "Semiconductors"
+  ],
+  "key_points": [
+    "Waymo’s custom 5 nm ASIC chip is designed to process raw data from 13 high-fidelity cameras before it reaches the core self-driving system.",
+    "The chip delivers over 1,000 TOPS of computing performance, comparable to Nvidia’s DRIVE AGX Thor.",
+    "This custom silicon improves efficiency and performance, critical for safe operations in high-density urban areas.",
+    "Waymo’s vertical integration includes partnerships with AMD, Micron, Nvidia, Samsung, Sandisk, Socionext, and TSMC.",
+    "The chip is part of Waymo’s strategy to reduce costs and scale its robotaxi service profitably."
+  ],
+  "content_hash": "755b3fb6b527f643d97ff5d9fead05434149200b9250cd9dd06720af967aa555",
+  "title_hash": "d8fda7cdc90d8abb34b92af67c5a2b39266ad17fe3027ce608f991b4f007e28d",
+  "collected_at": "2026-08-24T01:41:22.308195+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides detailed, fact-based insights into Waymo’s custom ASIC chip, its specifications, and strategic importance. It avoids clickbait, spam, or hidden advertising. The category 'Hardware' is more accurate than 'AI' for this content, as the focus is on semiconductor design and integration. The information is well-researched, objective, and aligns with industry standards for technical reporting."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-24T01:41:22.308195+07:00"
+}
