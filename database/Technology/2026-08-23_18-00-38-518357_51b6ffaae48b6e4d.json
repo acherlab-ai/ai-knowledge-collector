@@ -1,0 +1,46 @@
+{
+  "id": "51b6ffaae48b6e4d",
+  "title": "Doomscrolling at work wastes time, but the real cost is its lingering psychological effects",
+  "url": "https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after",
+  "source": "Hacker News",
+  "category": "Technology",
+  "summary": "A study by Texas A&M University reveals that doomscrolling—obsessively consuming negative news during work—reduces employee engagement due to prolonged rumination on distressing content. The research, published in *Computers in Human Behavior*, highlights that this behavior is particularly harmful to individuals with higher neuroticism and extends beyond mere productivity loss, impacting mental focus and workplace performance. While doomscrolling stems from a desire to stay informed, it often leads to persistent negative thoughts. Experts suggest setting boundaries, such as confining doomscrolling to specific locations, rather than enforcing strict workplace bans.",
+  "score": 8,
+  "tags": [
+    "digital well-being",
+    "workplace productivity",
+    "psychology",
+    "social media"
+  ],
+  "key_points": [
+    "Doomscrolling at work leads to rumination on negative news, reducing work engagement.",
+    "The study involved workers in the U.S. and U.K., showing consistent patterns across regions.",
+    "Employees with higher neuroticism are more vulnerable to the effects of doomscrolling.",
+    "Doomscrolling is an information-seeking behavior driven by uncertainty, not just mindless scrolling.",
+    "Modern workplaces exacerbate the issue due to constant access to news via smartphones and laptops.",
+    "Experts recommend setting boundaries (e.g., confining doomscrolling to specific locations) rather than strict bans.",
+    "The behavior is likely to persist due to algorithm-driven social media and expanding digital access."
+  ],
+  "content_hash": "b55bceeeaca5e1acf9663e93a2a01159ad567fd9970639fe3deabc1a0b8be85b",
+  "title_hash": "8594d4bf243afb21aadb22fc394d576d2b5dbf0b7c5846db4edc118d353b1b14",
+  "collected_at": "2026-08-23T18:00:38.518357+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "low",
+      "opinion_fact_separation": true,
+      "fabrication": false,
+      "details": "The article provides well-researched, actionable insights on the psychological impact of doomscrolling in the workplace, backed by a credible study. It avoids spam, clickbait, or hidden advertising, maintains objectivity, and clearly distinguishes between facts (e.g., study findings) and expert opinions (e.g., boundary-setting recommendations). The category is correctly assigned as 'Technology' (subtopic: digital well-being). Minor deduction in score due to the absence of counter-perspectives (e.g., potential benefits of staying informed), but this does not warrant rejection."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-23T18:00:38.518357+07:00"
+}
