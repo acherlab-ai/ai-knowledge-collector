@@ -1,0 +1,46 @@
+{
+  "id": "4d44956ef132b39e",
+  "title": "Software Engineering in the Agentic Era: Patterns for AI-Assisted Development",
+  "url": "https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "The article introduces 'Agentic Engineering Patterns,' a structured approach to leveraging AI coding agents (e.g., Claude Code, OpenAI Codex) for professional software development. It distinguishes 'Agentic Engineering' from 'vibe coding' by emphasizing the use of AI tools to amplify expert developers' work rather than replace it. The author, Simon Willison, outlines key challenges and methodologies, such as the reduced cost of generating initial code and the role of test-driven development (TDD) in improving AI-generated code reliability. The content is presented as an evolving 'guide' with chapters designed for continuous updates, inspired by the 'Design Patterns' book format.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Software Engineering",
+    "AI-Assisted Programming",
+    "Coding Agents",
+    "Test-Driven Development"
+  ],
+  "key_points": [
+    "Agentic Engineering refers to professional software development using AI coding agents that can generate, execute, and iterate on code independently.",
+    "The cost of producing initial working code has dropped significantly, challenging traditional development intuitions and workflows.",
+    "Test-driven development (TDD) is highlighted as a method to improve the succinctness and reliability of AI-generated code with minimal prompting.",
+    "The project 'Agentic Engineering Patterns' aims to document best practices and patterns for effectively using AI coding agents, structured as an evolving guide with chapters.",
+    "The author emphasizes a personal policy of not publishing AI-generated content under their name, though LLMs are used for proofreading and auxiliary tasks.",
+    "The guide format allows for continuous updates, addressing the challenge of maintaining 'evergreen' content on a blog."
+  ],
+  "content_hash": "c54578808bf0b47c30ecf2479725d3c9bb5714bf404d826b7515b8bfdff362eb",
+  "title_hash": "35597043bb2ec3c670b8611c93ff1853262e433d57957336e17fbbacc44e2ed6",
+  "collected_at": "2026-08-23T08:54:16.170861+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "clear (where applicable)",
+      "originality": true,
+      "details": "The article provides a well-structured, insightful exploration of AI-assisted software development, introducing the concept of 'Agentic Engineering Patterns' with clear distinctions between professional and amateur use of AI tools. It offers actionable methodologies (e.g., TDD for AI-generated code) and addresses challenges like code reliability and workflow adaptation. The content is original, fact-based, and avoids spam, clickbait, or hidden advertising. The author maintains transparency about their use of AI tools, and the guide format ensures long-term relevance. Minor deductions in score are due to the evolving nature of the content (not yet comprehensive) and a slight emphasis on the author's personal practices, though this does not compromise neutrality."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-23T08:54:16.170861+07:00"
+}
