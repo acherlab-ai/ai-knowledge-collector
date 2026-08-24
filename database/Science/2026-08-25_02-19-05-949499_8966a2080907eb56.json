@@ -1,0 +1,47 @@
+{
+  "id": "8966a2080907eb56",
+  "title": "Buyer beware: Mummified remains may carry toxic spores and health risks",
+  "url": "https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse",
+  "source": "Ars Technica",
+  "category": "Science",
+  "summary": "A study published in the International Journal of Cultural Property warns that mummified human and animal remains, often traded unregulated or illegally, pose significant health hazards due to toxic preservation substances (e.g., arsenic, mercury, lead) and microbial growth from improper storage. Researchers found evidence of harmful fungi and bacteria, such as Aspergillus and Penicillium, which can cause respiratory infections and other serious health issues. The rise of online sales has amplified risks, with many sellers failing to disclose hazards or provide safety guidance. The study highlights the need for stricter regulations and awareness to mitigate biosecurity threats.",
+  "score": 9,
+  "tags": [
+    "Science",
+    "Health",
+    "Microbiology",
+    "Cultural Heritage",
+    "Toxicology"
+  ],
+  "key_points": [
+    "Mummified remains may contain toxic substances like arsenic, mercury, and lead used in preservation, posing health risks if improperly handled.",
+    "Microbial growth (bacteria, fungi, yeasts) in mummified remains can cause respiratory infections and other serious health effects, as seen in historical cases like the excavation of King Tutankhamen’s tomb.",
+    "A 1962 case revealed poisonous fungal spores in mummies causing respiratory inflammation, while a 2013 study found microbial growth in mummies at the Capuchin Catacombs in Sicily due to unstable storage conditions.",
+    "Online trade of mummified remains has increased, with many sellers unaware or dismissive of health risks, including visible fungal colonization in some items.",
+    "Sellers often avoid legal scrutiny by not declaring shipment contents, and provenance is rarely provided, complicating efforts to track or regulate the trade.",
+    "The study analyzed 128 online posts (mostly on Meta platforms) selling mummified remains, including human body parts and animals, with 13 posts showing visible fungal growth.",
+    "Researchers emphasize the need for clearer guidelines and stricter shipping policies to address health and safety risks associated with the trade of mummified remains."
+  ],
+  "content_hash": "316969e1b53f0d1802b1401a852bde31c0e8a304d46fbd8586ca29f3a696a2f3",
+  "title_hash": "c7d5cbb93c155d5e6f4ff1f532f95bee1b3f38ed35400b9bc8cbc5630b59ec6b",
+  "collected_at": "2026-08-25T02:19:05.949499+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_distinction": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides well-researched, factual information about the health risks associated with mummified remains, supported by studies and historical cases. It is highly relevant to the 'Science' category, with no signs of spam, clickbait, or hidden advertising. The content is neutral, objective, and avoids sensationalism, focusing on biosecurity threats and regulatory concerns. The summary and key points are clear, concise, and free of redundancy. The tags and category align perfectly with the content."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-25T02:19:05.949499+07:00"
+}

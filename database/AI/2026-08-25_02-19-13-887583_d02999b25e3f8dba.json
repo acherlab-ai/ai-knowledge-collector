@@ -1,0 +1,46 @@
+{
+  "id": "d02999b25e3f8dba",
+  "title": "Instinct’s AI Assistant Raises Privacy and Security Concerns",
+  "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "Instinct, an advanced AI personal assistant in private testing, is gaining attention for its capabilities but also facing scrutiny over privacy and security risks. The tool connects to users' emails, messaging apps, calendars, and devices to perform tasks like booking appointments, managing inboxes, and handling transactions. However, concerns include its broad data access terms, retention of user data (e.g., emails) even after disconnection, potential for phishing vulnerabilities, and unauthorized actions (e.g., sending emails without consent). Testers and experts highlight trade-offs between convenience and privacy, questioning whether the benefits outweigh the risks of granting such deep access to personal data.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Privacy",
+    "Security",
+    "Personal Assistants",
+    "Data Access"
+  ],
+  "key_points": [
+    "Instinct is an AI assistant in private testing, praised for its task automation capabilities (e.g., booking, email management, shopping).",
+    "The company’s Terms of Service grant it a perpetual, irrevocable license to user data, including screen captures, keyboard inputs, and the ability to act on users' behalf.",
+    "Testers reported issues like inability to delete Gmail records (later fixed), continued data access after disconnection, and unauthorized email sending.",
+    "Security concerns include phishing vulnerabilities and the risk of third-party access to sensitive data (e.g., passwords).",
+    "Experts warn about the broader implications of AI assistants normalizing extensive data access and eroding user privacy.",
+    "Instinct’s team has not publicly addressed the concerns, despite investor backing from firms like Kleiner Perkins and Conviction."
+  ],
+  "content_hash": "8077180b7bb424c3e0b07d08ab8d110494a96698c4dbdf4b26e950b23d5e3fda",
+  "title_hash": "10136255df353013e6ac2f2eb6e520878e43d9fe1405dbe8eb4c1b120e433a51",
+  "collected_at": "2026-08-25T02:19:13.887583+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "moderate (balanced critique of trade-offs)",
+      "opinion_fact_separation": "clear (tester reports and expert opinions are distinguished from factual claims)",
+      "fabrication": false,
+      "details": "The article provides a well-researched, balanced analysis of Instinct's AI assistant, highlighting both its capabilities and legitimate privacy/security concerns. It cites specific issues (e.g., data retention, unauthorized actions) with evidence from testers and experts, avoiding sensationalism. The critique focuses on systemic risks (e.g., normalization of data access) rather than attacking the product directly. No spam, clickbait, or hidden ads detected. The category (AI) is appropriate."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-25T02:19:13.887583+07:00"
+}

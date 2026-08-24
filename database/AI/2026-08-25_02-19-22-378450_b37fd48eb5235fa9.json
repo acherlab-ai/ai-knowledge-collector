@@ -1,0 +1,47 @@
+{
+  "id": "b37fd48eb5235fa9",
+  "title": "Anger, Anxiety and Agency in the Age of AI",
+  "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "Bài viết của Armin Ronacher thảo luận về phản ứng cảm xúc của những người làm trong ngành công nghệ, đặc biệt là trước sự phát triển của AI. Tác giả phân tích sự khác biệt giữa giận dữ và lo âu, nhấn mạnh rằng lo âu là trạng thái cảm xúc hợp lý hơn trong bối cảnh tương lai bất định. Thay vì giận dữ (cần đổ lỗi cho ai đó), tác giả khuyến khích sự tò mò và hứng thú để khám phá những thay đổi, từ đó tìm ra hướng hành động phù hợp. Bài viết cũng đề cập đến sự bất định của cả nhân viên và lãnh đạo, cũng như những lo ngại về tác động xã hội và kinh tế của AI.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "work culture",
+    "emotional intelligence",
+    "future of work",
+    "technology impact"
+  ],
+  "key_points": [
+    "Giận dữ tại nơi làm việc hiếm khi cải thiện tình hình và thường gây hại cho những người xung quanh.",
+    "Trong ngành công nghệ, đặc biệt là với sự phát triển của AI, lo âu là cảm xúc hợp lý hơn giận dữ vì không cần đổ lỗi cho ai.",
+    "Lo âu có thể dẫn đến sự tò mò và khám phá, trong khi giận dữ thường chỉ tạo ra cảm giác hành động mà không giải quyết được vấn đề.",
+    "Nhiều lãnh đạo cũng cảm thấy bất định về tương lai của AI và chỉ đang cố gắng duy trì sự tự tin.",
+    "AI có thể mang lại lợi ích cho các công ty hơn là nhân viên, nhưng cũng tạo ra nhiều cơ hội cho các dự án cá nhân ngoài công việc chính.",
+    "Tác giả bày tỏ lo ngại về tác động xã hội, môi trường và sự phụ thuộc của châu Âu vào các quốc gia khác trong bối cảnh AI phát triển.",
+    "Thay vì tìm kiếm 'kẻ thủ ác', tác giả khuyến khích sự tò mò, thử nghiệm và học hỏi để xác định khi nào cần phản kháng và hướng phản kháng đó vào đâu."
+  ],
+  "content_hash": "099ea278b159c618d9986bcb274558be1fc374961f80c781dc444271f4d8ef59",
+  "title_hash": "a73dcda22056f62a989a07e74bada426b279d7c59ab766f672e82cd12a77a46f",
+  "collected_at": "2026-08-25T02:19:22.378450+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "moderate",
+      "opinion_fact_distinction": true,
+      "fabrication": false,
+      "details": "Bài viết cung cấp phân tích sâu sắc và khách quan về phản ứng cảm xúc của ngành công nghệ trước sự phát triển của AI, với lập luận logic và dẫn chứng hợp lý. Nội dung không spam, không clickbait, không quảng cáo trá hình, và phân biệt rõ ràng giữa opinion (ý kiến của tác giả) và fact (thông tin khách quan). Tác giả thể hiện quan điểm cá nhân nhưng không thiên vị quá mức, không thao túng hoặc gây hiểu lầm. Category 'AI' phù hợp với nội dung. Chất lượng thông tin cao, không trùng lặp, và có tính ứng dụng thực tiễn."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-25T02:19:22.378450+07:00"
+}

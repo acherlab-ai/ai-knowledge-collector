@@ -1,0 +1,46 @@
+{
+  "id": "a571866f4b3ef053",
+  "title": "RISC-V is now officially supported by CPython",
+  "url": "https://blog.python.org/2026/08/riscv-now-officially-supported",
+  "source": "Python Insider",
+  "category": "OpenSource",
+  "summary": "CPython now officially supports RISC-V as a tier 3 platform, marking a significant milestone in Python's compatibility with the open RISC-V instruction set architecture (ISA). This achievement was made possible through community contributions, including testing on real hardware, bug fixes, and build support. Key supporters include the RISE Project, which provided RISC-V machines for testing, and the Sovereign Tech Agency, which funded the development. Future goals include improving testing via CI integration, promoting RISC-V to tier 2 support, and exploring architecture-specific optimizations. The Python community is encouraged to test CPython on RISC-V hardware and report issues to further enhance support.",
+  "score": 9,
+  "tags": [
+    "OpenSource",
+    "RISC-V",
+    "CPython",
+    "Python",
+    "Hardware"
+  ],
+  "key_points": [
+    "RISC-V is an open instruction set architecture (ISA) gaining traction in the tech industry.",
+    "CPython now officially supports RISC-V as a tier 3 platform, per PEP 11.",
+    "Community contributions, including testing, bug fixes, and build improvements, were critical to this milestone.",
+    "The RISE Project provided RISC-V hardware for testing and debugging, while the Sovereign Tech Agency funded the development.",
+    "Future plans include integrating RISC-V into CPython's CI for faster feedback, promoting it to tier 2 support, and optimizing performance for RISC-V.",
+    "The Python community is encouraged to test CPython on RISC-V hardware and report any issues to improve support."
+  ],
+  "content_hash": "82c0773395178f54880d0f5f2d7d032ca1702ae0aaf2027c44d55b7e0da28d01",
+  "title_hash": "cf29585b6d94d9582b63ab5793f2ec2547e0f1bc7dfaaf29b6daf41599eec747",
+  "collected_at": "2026-08-25T02:19:09.171801+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_correct": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, factual, and well-structured update on CPython's official support for RISC-V. It includes relevant technical details, community contributions, and future goals without exaggeration, spam, or hidden advertising. The category 'OpenSource' is accurate, and the content maintains neutrality while being highly informative."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-25T02:19:09.171801+07:00"
+}
