@@ -1,0 +1,45 @@
+{
+  "id": "302d769c14ad6d46",
+  "title": "Zillow and Redfin settle FTC antitrust case over rental-listing market competition",
+  "url": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case",
+  "source": "TechCrunch",
+  "category": "Technology",
+  "summary": "Zillow and Redfin have settled an antitrust case with the FTC and five states regarding a 2025 partnership that allegedly reduced competition in the rental-listing market. The FTC claimed the deal, where Zillow paid Redfin $100 million to avoid direct competition, could have led to higher prices and lower-quality listings for consumers. The settlement requires Redfin to reenter the rental advertising business and removes restrictions on its ability to compete independently.",
+  "score": 8,
+  "tags": [
+    "antitrust",
+    "FTC",
+    "real estate",
+    "market competition",
+    "rental marketplace"
+  ],
+  "key_points": [
+    "Zillow and Redfin settled an FTC antitrust case over a 2025 partnership that allegedly harmed competition in the rental-listing market.",
+    "The FTC argued that Zillow paid Redfin $100 million to avoid competition, potentially leading to higher prices and reduced service quality for property managers and consumers.",
+    "The settlement requires Redfin to reenter the rental advertising business and removes previous restrictions on its ability to compete independently.",
+    "Redfin can still display Zillow’s rental listings but will now compete for its own customers without sharing sensitive business information.",
+    "The case follows a broader trend of antitrust enforcement, similar to the DOJ’s recent actions against Ticketmaster and Live Nation."
+  ],
+  "content_hash": "9f8239e85e7cdb95646da054eaac2c969bc601eea88ad16a0f030df07c685664",
+  "title_hash": "9cf2fb3270b747e5c584740cfb89326960eb145adc008ff7f97218a6ffe0f77a",
+  "collected_at": "2026-08-25T04:38:08.150958+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_correct": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not applicable (news report)",
+      "fabrication": false,
+      "details": "The article provides a clear, factual summary of the FTC antitrust case settlement between Zillow and Redfin, including key details about the allegations, settlement terms, and broader implications. The content is well-structured, relevant to the technology/real estate tech sector, and avoids sensationalism or bias. The category 'Technology' is appropriate due to the focus on digital marketplaces and antitrust enforcement in tech."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-25T04:38:08.150958+07:00"
+}

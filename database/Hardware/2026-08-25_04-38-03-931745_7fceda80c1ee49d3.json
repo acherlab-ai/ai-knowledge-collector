@@ -1,0 +1,46 @@
+{
+  "id": "7fceda80c1ee49d3",
+  "title": "Federal scrutiny expands on GM vehicles due to brake-by-wire system failures",
+  "url": "https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures",
+  "source": "Ars Technica",
+  "category": "Hardware",
+  "summary": "The U.S. federal government is deepening its investigation into General Motors (GM) vehicles following hundreds of reports of brake failures linked to the eBoost brake-by-wire system. The issue affects over 1.1 million vehicles, including GM's electric models and those built for Honda and Acura. The problem involves a spindle fracture in the eBoost system, which GM claims should retain critical safety features until the vehicle stops. However, the National Highway Traffic Safety Administration (NHTSA) has received reports indicating immediate loss of braking, leading to 22 crashes and six injuries. The investigation covers multiple GM, Honda, and Acura models from 2023 to 2026.",
+  "score": 8,
+  "tags": [
+    "Hardware",
+    "Automotive",
+    "Safety",
+    "Electric Vehicles",
+    "Regulatory"
+  ],
+  "key_points": [
+    "Federal investigation expanded into GM vehicles due to brake failures in over 1.1 million cars.",
+    "Issue involves the eBoost brake-by-wire system, which can suffer a spindle fracture while driving.",
+    "GM claims critical safety features (ABS, traction control, stability control) should remain operational until the vehicle stops, but NHTSA reports contradict this.",
+    "NHTSA has received 227 incident reports (745 including GM's data), with 22 crashes and six injuries, but no fatalities.",
+    "Affected models include GM's electric vehicles (e.g., Cadillac Lyriq, Chevrolet Blazer EV) and vehicles built for Honda and Acura (e.g., Acura ZDX, Honda Prologue).",
+    "The investigation highlights potential safety risks in modern automotive hardware systems."
+  ],
+  "content_hash": "f8e7284a063851142d4490ca5e7d27f4af33b54bb75e639f794693cdd9d09c8d",
+  "title_hash": "d6bb35f62faadb7ffc48fd6f218af4d10d206d113ed82b43460763de3d3a1379",
+  "collected_at": "2026-08-25T04:38:03.931745+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not applicable (news report)",
+      "fabrication": false,
+      "details": "The article provides a well-researched, factual report on a critical hardware safety issue involving GM vehicles. It cites official sources (NHTSA, GM) and presents data without sensationalism. The category is correctly labeled as 'Hardware,' and the content maintains objectivity while highlighting regulatory and safety concerns. No spam, clickbait, or hidden advertising detected."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-25T04:38:03.931745+07:00"
+}
