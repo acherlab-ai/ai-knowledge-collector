@@ -1,0 +1,46 @@
+{
+  "id": "1fd918982cad8906",
+  "title": "Brake Problems in GM EVs Draw Greater Federal Scrutiny",
+  "url": "https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny",
+  "source": "TechCrunch",
+  "category": "Hardware",
+  "summary": "The U.S. National Highway Traffic Safety Administration (NHTSA) has escalated its investigation into brake issues in General Motors (GM) electric vehicles (EVs) and some non-EV models, affecting over 1 million vehicles. The probe, upgraded to an 'engineering analysis,' follows reports of brake system failures, including over 20 crashes or fires and at least six injuries. The issue is linked to GM's 'eBoost' brake-by-wire system, which replaces traditional mechanical braking with an electronic system. Complaints describe sudden loss of braking assistance, increasing crash risks. GM's internal investigations identified spindle fractures, but NHTSA reports inconsistencies with this explanation.",
+  "score": 8,
+  "tags": [
+    "Hardware",
+    "Automotive",
+    "EV",
+    "Safety",
+    "GM"
+  ],
+  "key_points": [
+    "NHTSA has upgraded its investigation into brake problems in GM EVs and some non-EV models to an 'engineering analysis,' the highest level of scrutiny before a potential recall.",
+    "Over 1 million vehicles may be affected, including models like the Cadillac Lyriq, Chevy Blazer EV, Equinox EV, Honda Prologue, Acura ZDX, Chevy Colorado, GMC Canyon, Buick Enclave, and Envision.",
+    "The issue involves GM's 'eBoost' brake-by-wire system, which replaces mechanical braking with an electronic system, allowing customizable brake 'feel' in different driving modes.",
+    "Reports include incidents of 'Brake System Failure' messages, sudden loss of braking assistance, crashes, fires, and at least six injuries.",
+    "GM identified spindle fractures in the eBoost system as the cause, but NHTSA reports inconsistencies, noting immediate loss of brake assist during driving, which could lead to extended braking distances and higher crash risks.",
+    "Notable incidents include a 2025 Lyriq crashing into a store and a 2024 Blazer EV driver steering into a curb to avoid a collision."
+  ],
+  "content_hash": "ab649e57e024bb0ae7858174ca9e3552573a48e511ec171ecc0a592e8f9812fb",
+  "title_hash": "b7b79445664bab873960e98fb7529079d9fcf61e85712c09d578c73c56a2e190",
+  "collected_at": "2026-08-24T22:00:14.531556+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not applicable (news report)",
+      "fabrication": false,
+      "details": "The article provides a detailed, fact-based report on a critical safety issue involving GM EVs and non-EV models. It cites official sources (NHTSA), includes specific models affected, and explains the technical problem without sensationalism. The content is well-researched, relevant to the 'Hardware' category, and avoids bias or hidden advertising. Minor deduction in score due to lack of direct GM response quotes, but overall highly informative and objective."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-24T22:00:14.531556+07:00"
+}
