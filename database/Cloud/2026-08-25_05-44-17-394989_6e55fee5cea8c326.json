@@ -1,0 +1,43 @@
+{
+  "id": "6e55fee5cea8c326",
+  "title": "iCloud+ Hide My Email Addresses Will Remain on icloud.com",
+  "url": "https://developer.apple.com/news?id=1ptvdtcm",
+  "source": "Hacker News",
+  "category": "Cloud",
+  "summary": "Apple has announced that iCloud+ Hide My Email addresses will continue to use the icloud.com domain. Additionally, new Sign in with Apple addresses will transition from privaterelay.appleid.com to private.icloud.com starting later this year, while existing addresses will remain functional. Developers must update their systems to support the new domain for seamless integration.",
+  "score": 8,
+  "tags": [
+    "Apple",
+    "iCloud",
+    "Privacy",
+    "Email",
+    "Developer"
+  ],
+  "key_points": [
+    "iCloud+ Hide My Email addresses will remain on the icloud.com domain.",
+    "New Sign in with Apple addresses will be issued on private.icloud.com instead of privaterelay.appleid.com starting later this year.",
+    "Existing addresses on privaterelay.appleid.com will continue to work without interruption.",
+    "Developers must ensure their systems accept the new private.icloud.com domain for email validation and allowlists."
+  ],
+  "content_hash": "95a66821eb835a2193d28219412674809ccc44706c20499180df63de4102b20b",
+  "title_hash": "d95e3aa29ef045bdad6654fc6e849ece65fe466f6bf0e106510a71e7568633bd",
+  "collected_at": "2026-08-25T05:44:17.394989+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "not_spam": true,
+      "no_clickbait": true,
+      "no_disguised_ads": true,
+      "quality_info": "High - clear, factual, and relevant to developers and users.",
+      "no_repetition": true,
+      "correct_category": true,
+      "no_excessive_bias": true,
+      "opinion_fact_separation": "N/A (not a review/opinion piece)",
+      "no_fabrication": true
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-25T05:44:17.394989+07:00"
+}
