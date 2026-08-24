@@ -1,0 +1,46 @@
+{
+  "id": "299f42df9591c973",
+  "title": "Valor and Point72 Back General Intuition at $6B Valuation as AI Startup Expands into Robotics",
+  "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "General Intuition, a New York-based AI startup developing a foundation model to train generalized AI agents for spatial and temporal navigation, is raising new funding at a $6 billion pre-money valuation. Investors include Valor Equity Partners, Point72 Ventures, and Seven Seven Six, alongside existing backers Khosla Ventures and General Catalyst. The company, spun out from CEO Pim de Witte’s video game clip-sharing platform Medal, leverages gameplay data and 'action labels' to enhance AI generalization. The funds will support robotic applications, compute infrastructure (via CoreWeave), and talent acquisition. Valor Equity Partners, known for backing SpaceX, marks its first AI lab investment since then.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Robotics",
+    "Fundraising",
+    "Startups",
+    "Foundation Models"
+  ],
+  "key_points": [
+    "General Intuition is raising funding at a $6 billion pre-money valuation, a significant increase from its $2.3 billion valuation weeks prior.",
+    "Investors include Valor Equity Partners, Point72 Ventures, Seven Seven Six, Khosla Ventures, and General Catalyst.",
+    "The startup builds a foundation model for generalized AI agents using gameplay data and 'action labels' from Medal, its parent platform.",
+    "Funds will be used to advance robotic embodiments, expand compute infrastructure (via CoreWeave), and hire talent.",
+    "Valor Equity Partners, known for backing SpaceX, is making its first AI lab investment since then.",
+    "The round is oversubscribed, reflecting strong investor interest in physical AI applications."
+  ],
+  "content_hash": "9b8ce9c3bd8ea585929c783a404b64e12382acc579428f7dea6ac08bc9545cbc",
+  "title_hash": "ea7fee5c2c26bb9cb7c250ba86159ad1bf4d28f2674b2ddf0d60442dbd9d5eb4",
+  "collected_at": "2026-08-24T22:49:10.686316+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not applicable (news report)",
+      "fabrication": false,
+      "details": "The article provides a well-researched, factual report on General Intuition's funding round, investor details, and strategic direction. It avoids sensationalism, clickbait, or hidden advertising. The information is valuable for readers interested in AI, robotics, and startup funding trends. The category is correctly assigned, and the content maintains objectivity while covering key developments in the field."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-24T22:49:10.686316+07:00"
+}
