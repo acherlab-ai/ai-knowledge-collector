@@ -1,0 +1,46 @@
+{
+  "id": "ea439fd975889fad",
+  "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+  "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
+  "source": "Ars Technica",
+  "category": "AI",
+  "summary": "A Stanford University study reveals that AI is disproportionately affecting entry-level jobs for workers aged 22 to 25, with employment in AI-exposed occupations declining by 19% compared to less exposed fields. The research, based on ADP payroll data and AI exposure metrics, shows that automation-oriented AI use correlates with lower hiring rates for younger workers, while augmentative AI use has a less clear impact. Jobs requiring codified knowledge are more vulnerable, but higher education may mitigate some effects. The trend suggests a widening gap in employment opportunities for new workforce entrants.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "employment",
+    "automation",
+    "labor market",
+    "Stanford study"
+  ],
+  "key_points": [
+    "Employment for workers aged 22-25 in AI-exposed occupations is 19% lower than peers in less exposed fields, up from 13% last year.",
+    "The decline is driven by lower hiring rates in AI-impacted fields, not increased firings or resignations.",
+    "AI's impact varies: 'automative' AI (replacing human tasks) reduces entry-level jobs, while 'augmentative' AI (assisting humans) shows mixed effects.",
+    "Jobs reliant on codified knowledge (e.g., formal education) are more vulnerable to AI disruption than those requiring tacit knowledge (e.g., experience).",
+    "Higher education may buffer against AI-driven employment declines, particularly in fields with fewer college graduates.",
+    "Overall economy-wide employment effects of AI remain muted, but entry-level workers face a widening gap in opportunities."
+  ],
+  "content_hash": "63c9dae4dbac2c04e02769f9e2bb15154bad0ea20c6703b433d32dae9f9d8374",
+  "title_hash": "53c0aaa1ed47494060311fa5bf06d591271c0817ec27a0c662fea26d706ba009",
+  "collected_at": "2026-08-25T08:37:05.080524+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a well-researched, data-driven summary of a Stanford study on AI's impact on entry-level jobs. It is informative, cites credible sources, and avoids sensationalism or misleading claims. The content is objective, with no signs of spam, hidden ads, or clickbait. The category is accurate, and the information is presented clearly without redundancy or fabrication. The slight bias (if any) is minimal and justified by the study's findings."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-25T08:37:05.080524+07:00"
+}

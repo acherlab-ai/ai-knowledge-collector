@@ -1,0 +1,45 @@
+{
+  "id": "2600a6f3e6c45305",
+  "title": "Situational Awareness: AI Hedge Fund Under SEC Probe After Near-Collapse",
+  "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "Situational Awareness, an AI-focused hedge fund led by former OpenAI researcher Leopold Aschenbrenner, is under investigation by the SEC following a dramatic loss of billions in value due to a downturn in AI stocks. The SEC has subpoenaed banks associated with the fund to preserve trading and funding records, though no wrongdoing has been alleged. The case highlights risks in the volatile AI investment sector.",
+  "score": 8,
+  "tags": [
+    "AI",
+    "Hedge Funds",
+    "SEC",
+    "Financial Regulation",
+    "Investment Risks"
+  ],
+  "key_points": [
+    "Situational Awareness, an AI-driven hedge fund, experienced rapid growth before losing billions in a market downturn.",
+    "The SEC is probing the fund by subpoenaing banks involved in its trading and funding, though no accusations of misconduct have been made.",
+    "The fund’s near-collapse underscores the volatility and risks in AI-focused investments.",
+    "Founder Leopold Aschenbrenner, a former OpenAI researcher, has not commented beyond stating cooperation with regulators.",
+    "The case may serve as a cautionary example for high-profile AI investment strategies."
+  ],
+  "content_hash": "2aaf4353fb075c4361a125d5f67bca754fa42f112124982b53759e1113e44a77",
+  "title_hash": "749186bb5a8b79b10fb13c8314dd9bb30b5c0a3b6cc4153a25c41c6ed531f611",
+  "collected_at": "2026-08-25T08:37:11.469713+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not applicable (news report)",
+      "fabrication": false,
+      "details": "The article provides a timely and informative update on an SEC investigation into an AI-focused hedge fund, offering insights into financial risks in the AI sector. The content is factual, well-structured, and avoids sensationalism. No spam, clickbait, or hidden advertising is detected. The category is correctly assigned, and the tone remains neutral despite the subject's potential for bias. The summary and key points are concise and accurate, with no evidence of fabrication or redundancy."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-25T08:37:11.469713+07:00"
+}
