@@ -1,0 +1,52 @@
+{
+  "id": "9031cb2309fcea69",
+  "title": "Introducing Perplexity Portable Computer: A Local-First AI Solution",
+  "url": "https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "Perplexity has launched Portable Computer, a local-first AI system designed to process sensitive data on-device without relying on cloud credits. Built in collaboration with NVIDIA, it runs on the NVIDIA DGX Spark and RTX GPU PCs, enabling users to analyze data, synthesize files, and execute complex workflows entirely locally. The system uses models like Qwen 3.8 27B and PPLX 27B, with NVIDIA Nemotron 3.5 Lightning coming soon. It supports escalation to cloud services for advanced tasks while keeping sensitive data on-device. Features include local search, dictation, and integrations with Google Drive, Gmail, Slack, and GitHub. Security is maintained through isolated sandbox environments. Currently available for Pro and Max subscribers on Linux, with Windows support planned.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Local AI",
+    "NVIDIA",
+    "On-Device Processing",
+    "Privacy",
+    "Qwen",
+    "Perplexity"
+  ],
+  "key_points": [
+    "Portable Computer is a local-first AI system that processes data on-device, avoiding cloud credit costs for local tasks.",
+    "Built in partnership with NVIDIA, it runs on the NVIDIA DGX Spark (Grace Blackwell GB10 platform) and will support RTX GPU PCs.",
+    "Uses models like Qwen 3.8 27B, PPLX 27B (a post-trained Qwen variant), and upcoming NVIDIA Nemotron 3.5 Lightning (30B).",
+    "Core components (orchestrator, planner, tool router, scheduler, task queue, and search index) run entirely on-device.",
+    "Supports escalation to cloud services for advanced tasks (e.g., web access, frontier reasoning) while keeping sensitive data local.",
+    "Integrates with Google Drive, Gmail, Slack, and GitHub for workflow automation (e.g., triaging GitHub issues with Gmail reports).",
+    "Features local dictation via NVIDIA Nemotron 3.5 ASR Model, ensuring audio transcriptions stay on-device.",
+    "Security is enforced through isolated sandbox environments for code/tool execution.",
+    "Available for Perplexity Pro and Max subscribers on Linux (Windows support coming soon).",
+    "One-click installation via the Perplexity app; targets high-volume AI tasks with no per-credit charges for local work."
+  ],
+  "content_hash": "566c742425575f60e0077c2a66a07fef4ab5071269be8839773253c83a39a30b",
+  "title_hash": "3f663ec2b03b794e54d543a92d8b99eb383c02a400793b2b96a088bacd8f9257",
+  "collected_at": "2026-08-26T04:03:21.657893+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a detailed, factual introduction to Perplexity's Portable Computer, a local-first AI solution. It covers technical specifications, partnerships (NVIDIA), supported models, features, security measures, and availability without exaggeration or misleading claims. The content is well-structured, informative, and aligns with the 'AI' category. No spam, clickbait, or hidden advertisements are detected. The information is original, non-repetitive, and maintains a neutral tone while clearly distinguishing between factual reporting and product capabilities."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-26T04:03:21.657893+07:00"
+}

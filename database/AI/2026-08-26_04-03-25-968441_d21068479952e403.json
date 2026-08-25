@@ -1,0 +1,47 @@
+{
+  "id": "d21068479952e403",
+  "title": "Granite 4.2 LLMs: Technical Breakdown of IBM's Reasoning-Focused Language Models",
+  "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+  "source": "Hugging Face",
+  "category": "AI",
+  "summary": "IBM's Granite 4.2 is a family of dense, decoder-only reasoning language models (3B, 8B, and 30B parameters) trained from scratch on ~15T tokens using a five-phase strategy. The models feature extended context windows (up to 512K tokens), supervised fine-tuning (SFT) on chain-of-thought and agentic data, and a multi-stage reinforcement learning (RL) pipeline. Key innovations include native tool calling, a 'thinking/non-thinking' mode, and agentic RL for 8B/30B models to interact with real environments (e.g., code editing, terminal operations, web search). All models are released under Apache 2.0.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Large Language Models",
+    "Reinforcement Learning",
+    "Agentic AI",
+    "OpenSource"
+  ],
+  "key_points": [
+    "**Model Architecture**: Decoder-only transformer with Grouped Query Attention (GQA), Rotary Position Embedding (RoPE), SwiGLU activation, and RMSNorm. Available in 3B, 8B, and 30B sizes with context lengths up to 131K tokens.",
+    "**Pre-Training**: Five-phase strategy on ~15T tokens, transitioning from broad web-scale data to curated sources, with long-context training extending to 512K tokens.",
+    "**Supervised Fine-Tuning (SFT)**: 7.2M samples (~100B tokens) covering agentic (31.6%) and non-agentic (68.4%) tasks. Agentic data includes software engineering (69%), tool calling, terminal use, and math. Quality control involves LLM-based judges, deduplication, and heuristic filtering.",
+    "**Reinforcement Learning (RL)**: Multi-stage pipeline with asynchronous GRPO (Group Relative Policy Optimization). Stages include verifiable-reward RL (RLVR), skill boosters (e.g., coding, instruction following), agentic RL (SWE, terminal, search for 8B/30B), and RLHF for alignment.",
+    "**Agentic RL**: 8B/30B models learn to act in real environments (e.g., code sandboxes, terminals, web search) with sparse outcome-based rewards. Uses NeMo-RL and NeMo-Gym for scalable infrastructure.",
+    "**Key Features**: Native tool calling (OpenAI-compatible format), thinking/non-thinking mode, low-effort reasoning budget, and Apache 2.0 licensing.",
+    "**Performance**: 3B model focuses on foundational RL; 8B/30B add agentic capabilities. All models support multi-turn tool use and structured outputs."
+  ],
+  "content_hash": "36b7a0558ff670f5aad152587d37579bb82c06f8d60d0c71d0a83b324ae4867d",
+  "title_hash": "03af90ea9f368debda780bfa3a057f7bfaf07ad781f0df69b983913cd233fb96",
+  "collected_at": "2026-08-26T04:03:25.968441+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "excellent",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not applicable (technical breakdown)",
+      "fabrication": false,
+      "details": "The article provides a detailed, technical breakdown of IBM's Granite 4.2 LLMs, covering architecture, training, fine-tuning, and key innovations. The information is well-structured, fact-based, and highly relevant to the AI category. No spam, clickbait, or hidden ads are detected. The content is objective, with no excessive bias or redundancy. The summary and key points align with the title and tags, ensuring clarity and accuracy."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-26T04:03:25.968441+07:00"
+}
