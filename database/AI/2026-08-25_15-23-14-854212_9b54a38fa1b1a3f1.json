@@ -1,0 +1,51 @@
+{
+  "id": "9b54a38fa1b1a3f1",
+  "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+  "url": "https://huggingface.co/blog/gradio-workflow-guide",
+  "source": "Hugging Face",
+  "category": "AI",
+  "summary": "The article introduces `gr.Workflow`, a feature in Gradio that allows users to build, visualize, and deploy AI workflows as interactive graphs. It enables the creation of pipelines (e.g., image editing, media generation, dataset analysis) by connecting typed nodes, with real-time debugging and intermediate result visibility. Workflows can be deployed as REST APIs or Hugging Face Spaces with minimal code. The guide includes practical examples, such as parallel image generation, dataset profiling, and GPU-based model execution, along with instructions for integrating workflows into Python or HTTP calls.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Gradio",
+    "Workflow Automation",
+    "Hugging Face",
+    "Machine Learning",
+    "APIs",
+    "Deployment"
+  ],
+  "key_points": [
+    "`gr.Workflow` transforms AI pipelines into interactive, drag-and-drop graphs with visible intermediate results.",
+    "Supports three node types: references (inputs), operators (processing steps), and subjects (outputs).",
+    "Operators can be Python functions, Hugging Face models, other Gradio Spaces, or dataset rows.",
+    "Workflows are automatically exposed as REST APIs, enabling programmatic access via Python or `curl`.",
+    "Examples include image editing, multi-output media studios, parallel image generation, and dataset profiling.",
+    "GPU models can run directly in workflows using `@spaces.GPU` and ZeroGPU for resource management.",
+    "Deployment to Hugging Face Spaces is streamlined with one-command integration.",
+    "Provides code snippets for client-side API calls and HTTP requests.",
+    "Encourages experimentation by allowing duplication of demo workflows for customization."
+  ],
+  "content_hash": "71aa8aeed5d84711d5838566d739e01740acb496661ef72962426f173a03c9c3",
+  "title_hash": "8566a8a44644fd6f14f89fc4f3919176d97620d183378ab4f0a9c9f9f3fef8ca",
+  "collected_at": "2026-08-25T15:23:14.854212+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, practical guide on `gr.Workflow` in Gradio, with actionable examples, code snippets, and deployment instructions. It avoids spam, clickbait, or hidden ads, and maintains a neutral tone while demonstrating technical depth. The category is accurate, and the content is original with no fabrication or redundancy."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-25T15:23:14.854212+07:00"
+}
