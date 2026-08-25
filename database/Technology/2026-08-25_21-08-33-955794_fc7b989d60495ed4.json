@@ -1,0 +1,48 @@
+{
+  "id": "fc7b989d60495ed4",
+  "title": "US Data Centers Tripled Annual Water Consumption to 17 Billion Gallons",
+  "url": "https://forgeeks.net/us-data-centers-water-use-17-billion-gallons",
+  "source": "Hacker News",
+  "category": "Technology",
+  "summary": "A Congressional Research Service report reveals that US data centers consumed an estimated 17 billion gallons of water in 2023, tripling their usage since 2014. The surge is driven by increased demand for generative AI, leading to denser hardware deployments and higher cooling requirements. Over 80% of the water footprint comes from indirect consumption tied to electricity generation, complicating claims of 'waterless' data centers. The lack of federal tracking and inconsistent state-level reporting create challenges in assessing the full environmental impact.",
+  "score": 9,
+  "tags": [
+    "Data Centers",
+    "Water Consumption",
+    "AI Infrastructure",
+    "Sustainability",
+    "Energy Efficiency"
+  ],
+  "key_points": [
+    "US data centers used ~17 billion gallons of water in 2023, triple the 2014 consumption, driven by AI infrastructure growth.",
+    "Indirect water use (via electricity generation) accounts for >80% of total consumption, outweighing direct cooling needs.",
+    "AI-driven hardware density increases cooling demands, exacerbating water and energy use.",
+    "Cooling trade-offs exist: evaporative systems use more water but less energy, while air-cooled systems reduce water use but increase power consumption.",
+    "97% of data center water comes from municipal systems, creating competition with other local demands.",
+    "Federal data on water usage is fragmented; no uniform national tracking exists, relying on state/local reports.",
+    "EU mandates annual water reporting for data centers, but US legislation remains stalled, with most bills at the introduction stage.",
+    "Opacity in water-service agreements and lack of facility-level data hinder community assessments of proposed data centers."
+  ],
+  "content_hash": "c4aea145880a7d49f0793869152e5d7520148530ed4c7bbbaf02bbee58f191ac",
+  "title_hash": "9ed208d4b7215ecec715ee46d3a7593bbc7613a503106379a43d2b50d38628b7",
+  "collected_at": "2026-08-25T21:08:33.955794+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not applicable (factual report)",
+      "fabrication": false,
+      "details": "The article provides well-researched, data-driven insights into the environmental impact of US data centers, particularly regarding water consumption. It cites credible sources (e.g., Congressional Research Service), avoids sensationalism, and presents a balanced view of trade-offs (e.g., cooling methods). The category 'Technology' is accurate, and the content is objective, with no evidence of manipulation or misleading claims. Minor deduction in score for lack of direct industry perspectives (e.g., data center operators), but this does not detract from overall quality."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-25T21:08:33.955794+07:00"
+}
