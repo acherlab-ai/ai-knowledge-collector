@@ -1,0 +1,50 @@
+{
+  "id": "98ccfeb490948e3d",
+  "title": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+  "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
+  "source": "Hugging Face",
+  "category": "AI",
+  "summary": "IBM releases two new models in the Granite Speech family (470M parameters) offering high-speed and accurate English speech-to-text transcription. The models achieve over 12,600 RTFx (real-time factor) on an NVIDIA H200 GPU, enabling transcription of 3.5+ hours of speech in one second via batched inference. The non-commercial model (CC-BY-NC-SA-4.0) scores 4.85% WER, while the Apache 2.0-licensed model scores 5.00% WER. Both models feature an encoder-only architecture with Conformer blocks, chunkwise attention, and optimized CTC loss for efficiency. They are ideal for edge devices but lack capabilities like speech translation. Training data includes natural and synthetic datasets, with the non-commercial model using additional data sources.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "speech recognition",
+    "transcription",
+    "machine learning",
+    "NLP",
+    "edge computing"
+  ],
+  "key_points": [
+    "Two new Granite Speech 5.0 models (470M parameters) released for English speech recognition, offering unprecedented speed (12,600+ RTFx) and high accuracy (4.85–5.00% WER).",
+    "Non-commercial model (CC-BY-NC-SA-4.0) and Apache 2.0-licensed model differ in training data and licensing.",
+    "Encoder-only architecture with 16 Conformer blocks, chunkwise attention, and CTC loss for efficiency and low memory footprint.",
+    "Models operate at 12.5 tokens/second (vs. 50 tokens/second in prior versions) using SentencePiece or BPE tokenization.",
+    "Three-stage subsampling (reshape + strided convolutions) reduces log Mel spectrogram rate from 100 to 12.5 tokens/second.",
+    "Trained on a mix of natural datasets (e.g., MLS, YODAS, CommonVoice) and synthetic data (e.g., multi-speaker concatenations, TTS-generated utterances).",
+    "Optimized for edge devices but lack features like speech translation or keyword biasing.",
+    "Supported natively in Hugging Face Transformers; demo available for WebGPU (Chrome/Edge).",
+    "Ranked highly on OpenASR and FFASR leaderboards for accuracy and speed."
+  ],
+  "content_hash": "036f5a3635ad5d2cd9e3cde682500b7e970b89dcc6887b6c99403335283c5a52",
+  "title_hash": "37f4bafb88fdc473501353a62e902c7309518268253ad714a15935bdb0554bec",
+  "collected_at": "2026-08-25T22:06:18.949811+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "excellent",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not applicable (technical announcement)",
+      "fabrication": false,
+      "details": "The article provides a detailed, factual, and well-structured overview of IBM's new Granite Speech 5.0 models. It includes technical specifications, performance metrics, architecture details, and licensing information without exaggeration or misleading claims. The content is highly relevant to the AI category, avoids spam/clickbait, and maintains objectivity. Minor deductions in score are due to the absence of comparative benchmarks against other state-of-the-art models (e.g., Whisper), but this does not detract significantly from its overall quality."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-25T22:06:18.949811+07:00"
+}

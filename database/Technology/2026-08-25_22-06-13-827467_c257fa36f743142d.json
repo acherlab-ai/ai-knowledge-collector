@@ -1,0 +1,51 @@
+{
+  "id": "c257fa36f743142d",
+  "title": "Building a Backyard Office: The Build and Cost Breakdown",
+  "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
+  "source": "Hacker News",
+  "category": "Technology",
+  "summary": "A detailed account of the author's experience building a backyard office, including motivations, decision-making processes, step-by-step construction, and a comprehensive cost breakdown. The article provides practical insights into planning, contractor selection, material choices, and budget management for a small remote workspace.",
+  "score": 8,
+  "tags": [
+    "Remote Work",
+    "DIY",
+    "Home Office",
+    "Construction",
+    "Budgeting"
+  ],
+  "key_points": [
+    "Motivation for building a backyard office included needing a quiet workspace separate from a small home with a toddler.",
+    "Comparison of prefab options (e.g., Autonomous.ai Pod) vs. custom shed conversion, with the latter chosen for cost and customization benefits.",
+    "Detailed planning process, including size considerations (8x10 feet), foundation (concrete pad), and structural choices (Tuff Shed Premier Pro Tall Ranch).",
+    "Customization of windows, skylights, and ventilation to improve lighting and space perception.",
+    "Electrical work included running 60 amps, installing outlets, LED lights, and pre-wiring for HVAC, with emphasis on permitting and legal compliance.",
+    "Insulation, drywall, flooring (Smartcore Luxury Vinyl plank), and trim were contracted out due to time constraints.",
+    "HVAC installation involved researching and negotiating quotes for a Daikin Mini-split system, ultimately saving costs.",
+    "Use of an INKBIRD CO2 monitor to track air quality and plans for future ventilation improvements.",
+    "Total project cost: $19,478, with a breakdown of expenses for foundation, shed shell, windows, electrical, insulation, flooring, and HVAC.",
+    "Lessons learned: importance of larger windows, intentional design choices, using platforms like Thumbtack to find contractors, getting multiple quotes, and installing extra outlets.",
+    "Author’s satisfaction with the final product and acknowledgment of the trade-offs between DIY efforts and hiring contractors."
+  ],
+  "content_hash": "7a211740bd096e77ed428d3936babee27c6f04157f3d9480449b65f19611fe1b",
+  "title_hash": "389c63684224d4a70dbca82e71e0d495d7355aafc11cd60b81dbfbebeba61de4",
+  "collected_at": "2026-08-25T22:06:13.827467+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_separation": true,
+      "fabrication": false,
+      "details": "The article provides a highly detailed, practical, and transparent account of building a backyard office, including motivations, decision-making, step-by-step construction, and cost breakdown. It offers actionable insights for readers interested in similar projects. The content is well-structured, fact-based, and clearly distinguishes opinions (e.g., lessons learned, satisfaction) from factual reporting. No spam, clickbait, or hidden advertisements were detected. The category 'Technology' is appropriate due to the focus on remote work infrastructure and DIY tech-adjacent solutions."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-25T22:06:13.827467+07:00"
+}

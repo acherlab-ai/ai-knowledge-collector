@@ -1,0 +1,47 @@
+{
+  "id": "7c43a530c0e52915",
+  "title": "Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs",
+  "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+  "source": "Hacker News",
+  "category": "Science",
+  "summary": "Researchers from the Zoological Society of London used AI-powered audio analysis to detect over 8,500 underwater explosions annually in Indonesia's Spermonde Archipelago, caused by blast fishing—a globally banned practice. The technique destroys coral reefs, turning vibrant ecosystems into rubble, and prevents natural regeneration. The study highlights the year-round prevalence of bomb fishing, its peak times, and the challenges in enforcement. AI-driven real-time detection systems could help authorities combat this destructive practice and restore damaged reefs.",
+  "score": 9,
+  "tags": [
+    "Science",
+    "Environment",
+    "AI",
+    "Marine Biology",
+    "Conservation"
+  ],
+  "key_points": [
+    "Blast fishing, a banned practice, uses explosives to stun and kill marine life, devastating coral reefs in Indonesia's Coral Triangle.",
+    "Researchers recorded over 3,500 explosions in 3,600 hours, estimating 8,500 blasts annually in a 350-square-mile area.",
+    "A single bomb can destroy 200 square feet of coral, turning reefs into lifeless rubble and preventing natural recovery.",
+    "AI software, now open-source, was used to analyze audio data and identify detonations, enabling faster detection than manual methods.",
+    "Bomb fishing occurs year-round, peaks in the mornings, and decreases on Fridays (local prayer day).",
+    "Enforcement is difficult due to the vast marine protected areas, but real-time audio sensors with GPS could improve detection.",
+    "Unlike climate-related coral stressors, bomb fishing is a local issue with a potential fix: stopping the practice and restoring reefs."
+  ],
+  "content_hash": "d9904e49717241e80b619cc41493924b90bf0b47ab40ee0af6677f6515dbda67",
+  "title_hash": "ec8feb36a4a14104d9a60aa13a893132c8c73fb22246de02f2d8ffebf84c7f83",
+  "collected_at": "2026-08-25T22:06:08.933263+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not applicable (factual reporting)",
+      "fabrication": false,
+      "details": "The article provides well-researched, factual information about the environmental impact of blast fishing in Indonesia, supported by scientific data and AI-driven analysis. It avoids sensationalism, maintains objectivity, and aligns with the 'Science' category. The inclusion of AI as a tool (not the primary focus) justifies the 'AI' tag but does not warrant recategorization. The content is original, non-repetitive, and offers actionable insights for conservation efforts."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-25T22:06:08.933263+07:00"
+}

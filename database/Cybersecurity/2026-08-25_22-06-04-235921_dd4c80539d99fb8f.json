@@ -1,0 +1,45 @@
+{
+  "id": "dd4c80539d99fb8f",
+  "title": "Apple Reverses Decision to Change Hide My Email Domain After User Backlash",
+  "url": "https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap",
+  "source": "TechCrunch",
+  "category": "Cybersecurity",
+  "summary": "Apple has decided to retain the @icloud.com domain for its Hide My Email feature after initially planning to switch users to @private.icloud.com. The change was criticized by users and privacy advocates for making it easier for websites to identify and reject disposable email addresses, undermining the feature's purpose. Hide My Email generates unique, disposable email addresses for iCloud+ subscribers to protect their real email addresses while still receiving messages in their primary inbox. Apple also previously fixed a bug that leaked users' real email addresses when rejected emails were marked as spam.",
+  "score": 9,
+  "tags": [
+    "Apple",
+    "Cybersecurity",
+    "Privacy",
+    "iCloud",
+    "Email Security"
+  ],
+  "key_points": [
+    "Apple reversed its decision to move Hide My Email addresses from @icloud.com to @private.icloud.com after user criticism.",
+    "Hide My Email is a privacy feature for iCloud+ users that generates disposable email addresses to mask real identities.",
+    "The original change would have made it easier for websites to block these addresses, reducing the feature's effectiveness.",
+    "Apple employees reportedly objected to the change internally, according to reports.",
+    "A prior bug in Hide My Email exposed users' real email addresses when rejected emails were marked as spam; Apple fixed this after over a year."
+  ],
+  "content_hash": "99551d71907514f5541d603ac74fc126d0d1bdb4308c4ae36088256a939f0342",
+  "title_hash": "ebadbc7d92fdcb27b87f391d74d475209b41dd7e24026fdca1ef7e616b7e50e5",
+  "collected_at": "2026-08-25T22:06:04.235921+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides valuable, well-researched information about Apple's Hide My Email feature and its recent policy reversal. It is relevant to cybersecurity and privacy, with clear key points and no signs of spam, clickbait, or hidden advertising. The content is factual, balanced, and does not exhibit excessive bias or redundancy. The category is correctly assigned as 'Cybersecurity'."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-25T22:06:04.235921+07:00"
+}
