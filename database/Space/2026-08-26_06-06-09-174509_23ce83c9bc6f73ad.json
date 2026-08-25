@@ -1,0 +1,48 @@
+{
+  "id": "23ce83c9bc6f73ad",
+  "title": "The world's busiest spaceport is about to see a significant reduction in launches",
+  "url": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now",
+  "source": "Ars Technica",
+  "category": "Space",
+  "summary": "SpaceX is reducing the number of Falcon 9 launches from Florida's Space Coast, shifting Starlink missions to its West Coast launch site at Vandenberg Space Force Base. This change will decrease the launch rate at Cape Canaveral and Kennedy Space Center from eight or nine per month to about two per month for the remainder of the year. Future Starlink missions from Florida will utilize Starship once it becomes operational. The reduction is due to SpaceX's focus on transitioning to Starship, which is expected to handle larger and more powerful Starlink V3 satellites. The next Falcon Heavy and Falcon 9 launches from Florida will carry customer payloads, including NASA's Nancy Grace Roman Space Telescope and a crew mission to the International Space Station.",
+  "score": 9,
+  "tags": [
+    "SpaceX",
+    "Falcon 9",
+    "Starship",
+    "Spaceport",
+    "Starlink",
+    "NASA"
+  ],
+  "key_points": [
+    "SpaceX is significantly reducing Falcon 9 launches from Florida’s Space Coast, shifting most Starlink missions to Vandenberg Space Force Base in California.",
+    "The launch rate at Florida’s spaceport will drop from 8-9 launches per month to approximately 2 per month for the rest of the year.",
+    "Future Starlink missions from Florida will be launched using Starship, which is not yet operational from Florida.",
+    "The last Starlink mission from Florida using Falcon 9 occurred on Tuesday, marking the 37th flight for the fleet-leading booster.",
+    "Upcoming Falcon 9 and Falcon Heavy launches from Florida will focus on customer payloads, including NASA missions.",
+    "Starship is expected to debut from Kennedy Space Center by mid-2027, with preparations still underway.",
+    "Starship will be capable of launching larger Starlink V3 satellites, with the first test launch planned from Starbase, Texas, as early as next month."
+  ],
+  "content_hash": "3f9745d42802ac3f36885bba3bf52176a61312bca440868142ff62e7e201f878",
+  "title_hash": "24536d3ce6d90334287eec210b631974f5bd3f7514837b42adb8cda849cf931a",
+  "collected_at": "2026-08-26T06:06:09.174509+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides well-researched, factual information about SpaceX's launch strategy shift, supported by specific details (e.g., launch frequency, mission types, timelines). It avoids sensationalism, maintains objectivity, and correctly categorizes the content under 'Space'. No spam, hidden ads, or misleading claims are detected. The slight bias toward SpaceX's operational updates is justified by the topic's nature."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-26T06:06:09.174509+07:00"
+}
