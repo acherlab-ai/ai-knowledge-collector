@@ -1,0 +1,49 @@
+{
+  "id": "6f25fc03150f33ee",
+  "title": "India’s Airbound raises $37M to develop autonomous rocket-like drones for logistics",
+  "url": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones",
+  "source": "TechCrunch",
+  "category": "Hardware",
+  "summary": "Airbound, an Indian startup, has secured $37 million in Series A funding to advance its autonomous drone technology, aiming to make aerial cargo transport as cost-effective as trucking. The company designs lightweight, vertical-takeoff drones capable of carrying payloads exceeding their own weight, targeting healthcare, e-commerce, and retail logistics. Airbound has completed over 13,000 flights, including partnerships with Narayana Health for medical sample transport, and plans a large-scale drone network in Andhra Pradesh. The startup focuses on aircraft manufacturing rather than operating its own delivery service, positioning itself as a drone infrastructure provider.",
+  "score": 9,
+  "tags": [
+    "Hardware",
+    "Drones",
+    "Autonomous Systems",
+    "Logistics",
+    "India",
+    "Startups"
+  ],
+  "key_points": [
+    "Airbound raises $37M in Series A funding led by Greenoaks, with participation from DoorDash, Lightspeed, and others, bringing total funding to nearly $50M.",
+    "The startup develops autonomous drones with a rocket-like, tail-sitter design for vertical takeoff and landing, optimizing payload-to-weight efficiency.",
+    "Current drone (TRT) weighs 3.3 lbs and carries 2.2 lbs; next version targets 6.6 lbs drone carrying 11 lbs payload.",
+    "Completed over 13,000 autonomous flights, including 1,000+ for Narayana Health, reducing medical sample transport time from hours to minutes.",
+    "Plans a three-city drone network in Andhra Pradesh with a target of 10,000 daily flights for retail, e-commerce, and healthcare deliveries.",
+    "Focuses on manufacturing drones for logistics networks rather than operating its own delivery service, aiming for a 'Boeing-like' role in the industry.",
+    "Regulatory approvals, particularly for beyond visual line of sight (BVLOS) operations, remain a key bottleneck for scaling commercial operations.",
+    "Despite pre-revenue status, Airbound prioritizes long-term growth over immediate profitability, with a team of over 150 employees."
+  ],
+  "content_hash": "1845dac81bead35ba6ed54272c2623730d3f6f69da062126c2890d344634ae8e",
+  "title_hash": "d2e1a1495a46daa04cd9a37860030f7f63cc5a3d2978468daf1a0aa14f96d260",
+  "collected_at": "2026-08-25T12:05:07.376897+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a detailed, fact-based overview of Airbound's funding, technology, achievements, and future plans. It avoids sensationalism, clearly distinguishes between reported facts and forward-looking statements, and maintains a neutral tone. The category 'Hardware' is accurate, and the content is highly relevant to the tech/logistics sector without signs of manipulation or misleading claims."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-25T12:05:07.376897+07:00"
+}

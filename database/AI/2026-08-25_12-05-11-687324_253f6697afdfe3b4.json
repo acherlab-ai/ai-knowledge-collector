@@ -1,0 +1,51 @@
+{
+  "id": "253f6697afdfe3b4",
+  "title": "Headlong: A Microharness for Persistent Agents",
+  "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "Headlong is an open-source agent microharness designed for persistent agency, enabling AI agents to maintain continuous, self-guided thinking akin to a human inner monologue. Unlike reactive agents that operate only in response to tasks, Headlong agents remain active, generating thoughts and setting their own priorities even without external input. Built with a core of under 10K lines of Bash, Headlong emphasizes simplicity, modularity, and self-modification, allowing agents to inspect and modify their own components. The system supports multi-player interactions, where a single agent's thought stream integrates inputs from multiple users, fostering collaborative engagement. Key features include tiered context compaction for memory management, a trajectory format for persistent agency, and sandboxed execution for safety. Headlong is alpha research software, requiring cautious deployment due to its ability to execute shell commands and continuous token consumption.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Agent Systems",
+    "Open Source",
+    "Bash",
+    "Persistent Agency",
+    "LLM",
+    "Autonomous Agents"
+  ],
+  "key_points": [
+    "Headlong enables persistent agency, where AI agents continuously generate thoughts in a self-guided loop, unlike reactive agents that operate only in response to tasks.",
+    "The core of Headlong is implemented in under 10K lines of Bash, prioritizing simplicity, modularity, and the ability for agents to inspect and modify their own components.",
+    "Agents in Headlong maintain a single stream of thoughts, integrating inputs from multiple users and enabling collaborative, multi-player interactions without per-user sessions.",
+    "Headlong includes innovative features like tiered context compaction for memory management and a trajectory format (DAG of JSONL files) to support persistent agency.",
+    "The system is designed for safety, running agent-executed Bash commands in a sandboxed environment (e.g., Docker containers) to limit potential damage.",
+    "Headlong agents can autonomously debug, modify, and improve their own code, as demonstrated by an agent named Audel, which identified and fixed a bug in its recall process without human intervention.",
+    "Continuous operation incurs costs due to ongoing token consumption, with mechanisms to dynamically adjust the thinking rate to balance responsiveness and expense.",
+    "Headlong is alpha research software, requiring cautious use (e.g., dedicated VMs, spend-capped API keys) due to its experimental nature and potential risks.",
+    "The project draws inspiration from Unix philosophy, microkernels, and prior work on recursive language models (RLMs) and persistent agents like MemGPT and Prime Agent."
+  ],
+  "content_hash": "de3d00ffd0d0afd1bcc3353f38a1d968ccb9706e3972a4fe5c626c38cba90d86",
+  "title_hash": "ef2e2b8fe63207ab61cc029c2b9acedbd93080330e118a4abe3cc0880807d336",
+  "collected_at": "2026-08-25T12:05:11.687324+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ad": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a detailed, technical, and well-structured overview of Headlong, an open-source microharness for persistent AI agents. It is highly informative, covering key features, design philosophy, safety mechanisms, and practical considerations (e.g., cost, experimental status). The content is original, non-repetitive, and aligns well with the 'AI' category. There is no evidence of spam, clickbait, hidden advertising, or fabrication. The tone is neutral and objective, focusing on factual descriptions while acknowledging the experimental nature of the project. The summary and key points are consistent and add value without exaggeration or bias."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-25T12:05:11.687324+07:00"
+}
