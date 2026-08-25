@@ -1,0 +1,46 @@
+{
+  "id": "e4fb19e2f8850977",
+  "title": "Preserving glow-in-the-dark art and fashion for future generations through chemistry",
+  "url": "https://arstechnica.com/science/2026/08/how-chemistry-can-keep-glow-in-the-dark-pigments-from-fading",
+  "source": "Ars Technica",
+  "category": "Science",
+  "summary": "Researchers at the Indianapolis Museum of Art and The College of Wooster are studying the chemical properties of phosphorescent and fluorescent pigments used in art and fashion, particularly in the works of designer Stephen Sprouse. Their goal is to understand degradation causes—such as light exposure and humidity—and develop methods to preserve these materials for long-term conservation. Key findings include the role of inorganic compounds in phosphorescent pigments and the impact of environmental factors on their longevity.",
+  "score": 9,
+  "tags": [
+    "Science",
+    "Chemistry",
+    "Art Conservation",
+    "Phosphorescence",
+    "Fluorescence"
+  ],
+  "key_points": [
+    "Phosphorescent and fluorescent pigments are used in art, fashion, and various applications like safety gear and signage.",
+    "Conservationists face challenges in preserving these materials due to degradation over time, particularly from light exposure and humidity.",
+    "Researchers found that phosphorescent pigments contain mineral-based compounds, unlike fluorescent pigments, which use organic dyes.",
+    "Humidity plays a significant role in the breakdown of phosphorescent pigments, sometimes more than light exposure.",
+    "Optical brighteners in fluorescent pigments degrade faster than the pigments themselves, causing colors to darken even if the pigment remains intact.",
+    "The study aims to improve storage and exhibition practices for artworks containing these pigments, ensuring their longevity."
+  ],
+  "content_hash": "3f40096fa441856607c06eb85e74d18537286147953593b0838b053b9e05d966",
+  "title_hash": "127eaa9aa9de67c96b8838cdaac1d7778a351b3b2a58e157db6c04d18ea01889",
+  "collected_at": "2026-08-26T02:59:52.739500+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_distinction": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a well-researched, factual overview of scientific efforts to preserve phosphorescent and fluorescent pigments in art and fashion. It is informative, relevant to the 'Science' category, and avoids spam, clickbait, or hidden advertising. The content is original, non-repetitive, and maintains a neutral tone while offering valuable insights into art conservation through chemistry."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-26T02:59:52.739500+07:00"
+}
