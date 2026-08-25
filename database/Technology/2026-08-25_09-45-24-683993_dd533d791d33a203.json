@@ -1,0 +1,54 @@
+{
+  "id": "dd533d791d33a203",
+  "title": "How Universities Should Prepare Founders for Startups",
+  "url": "https://paulgraham.com/prepare.html",
+  "source": "Hacker News",
+  "category": "Technology",
+  "summary": "The article argues that universities should focus on teaching technical and scientific disciplines (e.g., computer science, engineering, molecular biology) to prepare students for founding startups, rather than creating specialized 'entrepreneurship' curricula. It emphasizes the importance of fostering a culture where students believe starting a startup is viable and encourages them to work on independent projects, as these are key predictors of success. The author, drawing from Y Combinator's experience, highlights that startup success depends on building products customers love, not on business plans or investor pitches. Universities should avoid superficial initiatives like business plan competitions and instead allow students the freedom to explore and create.",
+  "score": 9,
+  "tags": [
+    "Startups",
+    "Education",
+    "Entrepreneurship",
+    "Computer Science",
+    "Y Combinator"
+  ],
+  "key_points": [
+    "Universities should teach technical and scientific disciplines (e.g., computer science, engineering) rather than creating separate 'entrepreneurship' programs, as these fields develop the skills needed to build products and solve problems.",
+    "The best way to prepare students for startups is to encourage them to work on independent projects, which deepen understanding, help cofounders find each other, and often lead to startup ideas.",
+    "Universities should foster a culture where starting a startup is seen as a viable option, as this belief significantly increases the number of students who pursue entrepreneurship.",
+    "Exposing students to real-life founders (especially those close in age) is highly effective in inspiring them to start their own ventures.",
+    "Universities should give students more free time (e.g., by reducing coursework) to work on projects, as this benefits the most ambitious students without significantly harming others.",
+    "Business plan competitions and similar initiatives are misleading and counterproductive, as they focus on impressing investors rather than building products that users love.",
+    "The optimal way to prepare founders costs nothing extra—universities should avoid creating new programs or buildings and instead invest in existing technical departments.",
+    "Startups are incompatible with full-time academic schedules, so universities cannot effectively teach startup founding through traditional classes; learning happens by doing."
+  ],
+  "content_hash": "e2fbe01be17d1d46fcee9ed64e4f3509dc91d38b9d8aa6d969cba1af78f9dff6",
+  "title_hash": "eaba5a54b7085d8eb67b4595c654c149696c13e09b65da5c9a51370542ce6a8c",
+  "collected_at": "2026-08-25T09:45:24.683993+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "moderate (opinionated but justified)",
+      "fact_opinion_separation": "clear (opinions are explicitly framed as such, backed by Y Combinator's experience)",
+      "originality": true,
+      "details": [
+        "The article provides actionable insights for universities based on real-world startup success factors (e.g., independent projects, technical depth).",
+        "No spam, clickbait, or hidden ads detected; the focus is purely on educational reform for entrepreneurship.",
+        "While opinionated, the arguments are grounded in Y Combinator's data and avoid manipulative or misleading claims.",
+        "Category is accurate ('Technology' aligns with the focus on CS/engineering and startup culture).",
+        "Minor bias exists (e.g., dismissing business plan competitions entirely), but it doesn’t distort core facts or mislead readers."
+      ]
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-25T09:45:24.683993+07:00"
+}
