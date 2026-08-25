@@ -1,0 +1,47 @@
+{
+  "id": "920bd234d350263b",
+  "title": "X sends cease-and-desist to open-source project Nitter over alleged scraping",
+  "url": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping",
+  "source": "TechCrunch",
+  "category": "OpenSource",
+  "summary": "X (formerly Twitter) has issued cease-and-desist letters to the open-source project Nitter, demanding its shutdown due to alleged unauthorized scraping of X's data. Nitter, which allowed users to view X posts without ads, tracking, or requiring an account, has temporarily gone offline while its creator seeks legal advice. X claims Nitter violated its API rules and multiple laws, including the Texas Harmful Access by Computer Act and the Lanham Act. This follows previous attempts by X to restrict Nitter through technical means, such as API changes in 2024. The move reflects broader industry trends where social networks limit third-party access to force users onto official platforms for ad tracking and monetization.",
+  "score": 9,
+  "tags": [
+    "OpenSource",
+    "API",
+    "Social Media",
+    "Legal",
+    "Scraping"
+  ],
+  "key_points": [
+    "Nitter is an open-source project that provided a clean, ad-free way to read X posts without an account or the X app.",
+    "X has sent cease-and-desist letters to Nitter and its instances, accusing the project of unlawful API use and scraping in violation of X's rules.",
+    "The legal threats cite multiple laws, including the Texas Harmful Access by Computer Act and the Lanham Act.",
+    "Nitter's creator, Zedeus, has temporarily taken the project offline while seeking legal advice.",
+    "This is not the first conflict between X and Nitter; in 2024, X imposed API restrictions that temporarily disrupted Nitter's service.",
+    "X's actions align with broader industry practices where platforms restrict third-party access to drive users to official apps for ad tracking and monetization.",
+    "The shutdown of Nitter removes a privacy-friendly alternative for users who preferred not to create X accounts."
+  ],
+  "content_hash": "1f72587e2dfecfbea88d0b9b1afcc0781381e1eb9909316c6b5d05544d0b7ce0",
+  "title_hash": "ca609e5bb7fc120e6a05fb7fac55a4fd5e07c57d507208bced849c568cc8bcd7",
+  "collected_at": "2026-08-26T04:44:13.511729+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "clear (review/opinion context is analytical, not subjective)",
+      "fabrication": false,
+      "details": "The article provides a well-researched, factual account of the conflict between X and Nitter, including legal and technical context. It avoids sensationalism, clearly distinguishes between reported facts and broader industry trends, and maintains neutrality by presenting multiple perspectives (e.g., X's legal claims vs. Nitter's purpose as a privacy tool). The category 'OpenSource' is accurate, and the summary aligns with the key points without repetition or bias."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-26T04:44:13.511729+07:00"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "9f66add6a4dee5f4",
+  "title": "When str.lower() is a security vulnerability in Python",
+  "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+  "source": "Hacker News",
+  "category": "Programming",
+  "summary": "The article explains a security vulnerability in Python's implementation of the StringPrep algorithm (used in IDNA 2003) due to reliance on `str.lower()`, which uses the Unicode version shipped with the Python interpreter instead of the required Unicode 3.2.0. This discrepancy can lead to inconsistent case-folding behavior, affecting domain name encoding and posing a security risk. The fix involves ensuring compatibility with Unicode 3.2.0 rules for specific functions.",
+  "score": 9,
+  "tags": [
+    "Python",
+    "Security",
+    "Unicode",
+    "IDNA",
+    "StringPrep"
+  ],
+  "key_points": [
+    "IDNA 2003 relies on the StringPrep algorithm (RFC 3454), which requires Unicode 3.2.0 for consistent case-folding rules.",
+    "Python's `str.lower()` uses the Unicode version of the interpreter, not necessarily Unicode 3.2.0, leading to potential inconsistencies.",
+    "The vulnerability arises because newer Unicode versions may handle case-folding differently than Unicode 3.2.0, affecting domain name encoding (e.g., `xn--58da` vs. `xn--kz9aa`).",
+    "Python's `stringprep` module and `idna` codec (IDNA 2003) use `unicodedata.ucd_3_2_0` to maintain compliance with the specification.",
+    "The fix involves creating exceptions to ensure `str.lower()` behaves as if using Unicode 3.2.0 for specific functions.",
+    "The issue was reported as CVE-2026-17084 and highlights the importance of adhering to specifications in security-critical implementations."
+  ],
+  "content_hash": "cb63d7a4361bec52eda2088a999754e5a11e6c3a31547d0274695962b9af4e7a",
+  "title_hash": "02e7cb3492dda82c76a24580173347fbfef23b1baf2626af92d6369dd67d58ce",
+  "collected_at": "2026-08-26T04:44:17.060308+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not applicable (technical explanation)",
+      "fabrication": false,
+      "details": "The article provides a detailed, accurate, and technically sound explanation of a security vulnerability in Python's `str.lower()` implementation related to Unicode and IDNA 2003. It adheres to facts, references standards (RFC 3454, CVE-2026-17084), and avoids bias or exaggeration. The category 'Programming' is correct, and the content is highly relevant to developers and security professionals."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-26T04:44:17.060308+07:00"
+}
