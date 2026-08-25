@@ -1,0 +1,48 @@
+{
+  "id": "65ce400ce66267c4",
+  "title": "Progress and Limitations at the World Humanoid Robot Games: Robots Break Records but Struggle with Autonomy",
+  "url": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames",
+  "source": "Ars Technica",
+  "category": "AI",
+  "summary": "The World Humanoid Robot Games in Beijing showcased significant advancements in humanoid robot capabilities, including breaking human records in sprinting and high jump. However, the event also highlighted critical limitations, such as robots' inability to stop safely, reliance on task-specific engineering, and challenges in autonomy. Practical scenarios like household chores and firefighting demonstrated both progress and ongoing hurdles in robotic dexterity, adaptability, and real-world applicability. The competition underscored the gap between specialized robotic tasks and general-purpose autonomy, as well as the reliance on cloud computing for AI processing.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Robotics",
+    "Autonomy",
+    "Humanoid Robots",
+    "Machine Learning",
+    "Reinforcement Learning"
+  ],
+  "key_points": [
+    "Humanoid robots at the World Humanoid Robot Games surpassed human records in sprinting and high jump, demonstrating advancements in whole-body control for specific tasks.",
+    "Robots struggled with basic functions like stopping safely, often crashing or falling after crossing the finish line, highlighting limitations in adaptability and real-time decision-making.",
+    "The event featured both flashy competitions (e.g., kung fu, soccer) and practical scenarios (e.g., laundry, firefighting), with the latter revealing slower progress in tasks requiring dexterity and multi-tasking.",
+    "Many robots were teleoperated by humans or relied on cloud computing for AI processing, indicating significant gaps in autonomous functionality and onboard computational power.",
+    "Reinforcement learning and simulation training were used to optimize robot performance, but generalizing these skills to diverse real-world tasks remains a major challenge.",
+    "The competition reflected broader trends in robotics, including heavy investment in humanoid robots by Chinese and U.S. companies, though some experts question the necessity of humanoid form factors for practical applications.",
+    "Future progress may depend on improving algorithms for task-switching, reducing reliance on teleoperation, and enhancing hardware durability and energy efficiency."
+  ],
+  "content_hash": "57841e7500a365be61d2952b80d64dda924f81360c671448369e36aef17f4dcc",
+  "title_hash": "092d05749916bb5e428766e1b770021fd314e1dd74ba38dd89dfb6ad79f6848d",
+  "collected_at": "2026-08-26T05:02:20.731473+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "well-distinguished (review/analysis context)",
+      "fabrication": false,
+      "details": "The article provides a balanced, in-depth analysis of the World Humanoid Robot Games, highlighting both advancements and limitations in humanoid robotics. It avoids sensationalism, clearly separates factual reporting from expert opinions, and offers valuable insights into the state of AI and robotics. The content is well-researched, relevant to the 'AI' category, and free from spam, hidden ads, or misleading claims. Minor deductions in score are due to the absence of direct citations for some claims, though this does not significantly impact overall quality."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-26T05:02:20.731473+07:00"
+}
