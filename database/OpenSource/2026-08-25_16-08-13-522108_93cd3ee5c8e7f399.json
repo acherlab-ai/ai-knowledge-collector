@@ -1,0 +1,50 @@
+{
+  "id": "93cd3ee5c8e7f399",
+  "title": "Ambient Context: A macOS Menu Bar App for Text-Based Screen Memory",
+  "url": "https://github.com/dragthelake/ambient-context",
+  "source": "Hacker News",
+  "category": "OpenSource",
+  "summary": "Ambient Context is an open-source macOS menu bar application that records the text content of the currently focused window (via macOS accessibility API) and saves it as plain Markdown files. Designed for personal use with LLMs, it enables users to query their work history, build project memory, or automate standup notes without screenshots, video, or cloud storage. The app operates entirely locally, with no telemetry, network calls (except for update checks), or bundled models. It includes privacy features like redaction of sensitive data (passwords, API keys) and exclusion of password managers/private browsing windows.",
+  "score": 9,
+  "tags": [
+    "OpenSource",
+    "macOS",
+    "LLM",
+    "Privacy",
+    "Productivity"
+  ],
+  "key_points": [
+    "Records text from focused windows (via macOS accessibility tree) every few seconds and saves as Markdown files (one per day).",
+    "Designed for LLM consumption: deduplicates lines, filters interface junk, and includes document paths/URLs for context.",
+    "No screenshots, video, or cloud storage; all data remains local in user-controlled folders.",
+    "Privacy-focused: excludes password managers, private browsing, and secure input fields; scrubs credentials/API keys before writing to disk.",
+    "No telemetry, accounts, or servers; minimal network calls (only for update checks).",
+    "Requires macOS 14+ on Apple Silicon; currently unsigned (build instructions provided for self-compilation).",
+    "Files are plain Markdown, editable, grep-able, and portable (e.g., for use with Claude Code or other agents).",
+    "Includes `AGENTS.md` to document the format for LLM compatibility.",
+    "Known limitations: Chromium/Electron apps may have delayed text capture; GPU-rendered terminals (e.g., Kitty) may expose little/no text.",
+    "Feedback requested on app compatibility (documented in `docs/census.md`)."
+  ],
+  "content_hash": "13da9da28fca99fe654c8013c88ccd1d18b1dba75b9027138591b6a4a963178c",
+  "title_hash": "765d78749093200ca3c098cab84e00449d19b710527e21690e35ccce5c2ecef2",
+  "collected_at": "2026-08-25T16:08:13.522108+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a detailed, factual overview of 'Ambient Context,' an open-source macOS tool. It is highly informative, privacy-focused, and clearly explains the app's purpose, features, limitations, and use cases without exaggeration or misleading claims. The content is well-structured, avoids redundancy, and maintains objectivity. The category 'OpenSource' is accurate, and the summary aligns with the key points. No spam, clickbait, or hidden ads were detected."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-25T16:08:13.522108+07:00"
+}
