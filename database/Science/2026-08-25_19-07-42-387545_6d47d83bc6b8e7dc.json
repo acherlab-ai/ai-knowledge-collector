@@ -1,0 +1,56 @@
+{
+  "id": "6d47d83bc6b8e7dc",
+  "title": "Quantum battery upends the rules of charging",
+  "url": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets",
+  "source": "Hacker News",
+  "category": "Science",
+  "summary": "Scientists have developed the world's first quantum battery prototype, which charges faster as its size increases—a counterintuitive phenomenon enabled by quantum mechanics. Unlike conventional batteries relying on chemical reactions, quantum batteries leverage quantum effects like superabsorption to deliver energy rapidly. While still in early stages, this technology could revolutionize quantum computing and, potentially, everyday devices like phones or electric vehicles. However, challenges remain, including energy storage duration, scalability, and maintaining fragile quantum states.",
+  "score": 9,
+  "tags": [
+    "Quantum Technology",
+    "Battery",
+    "Physics",
+    "Energy",
+    "Quantum Computing"
+  ],
+  "key_points": [
+    "Quantum batteries exploit quantum mechanics to charge faster as they grow larger, defying classical physics.",
+    "The prototype uses an optical microcavity with organic dye molecules and laser charging, achieving superabsorption—a collective quantum effect.",
+    "Current limitations include minimal energy storage (billion electron volts) and ultra-short duration (nanoseconds).",
+    "Hybrid designs combining quantum and classical layers may improve energy retention and scalability.",
+    "Quantum batteries could first benefit quantum computing by reducing energy consumption and improving performance.",
+    "Skepticism exists about their viability for everyday devices due to fragility of quantum states and environmental interference.",
+    "Alternative approaches, like superconductive materials, face practical challenges (e.g., cryogenic temperatures).",
+    "The technology remains experimental, with breakthroughs needed for controlled energy extraction and real-world applications."
+  ],
+  "content_hash": "32997ba05dd71bd57a68cb6842d3abd7c2a7236c8a076777a030442e0fa5464f",
+  "title_hash": "6de067a2c2068b505596893097e72ab566b5e55d8349eb0c0c8555e9d7b5e6ea",
+  "collected_at": "2026-08-25T19:07:42.387545+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "disguised_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": [
+        "The article provides a clear, informative overview of quantum battery technology, explaining its counterintuitive principles and potential applications.",
+        "No spam, clickbait, or disguised advertisements are present. The title accurately reflects the content without exaggeration.",
+        "The summary and key points are well-researched, citing experimental prototypes and current limitations without overpromising.",
+        "The category 'Science' is correct, as the topic is rooted in quantum physics and energy research.",
+        "The content maintains neutrality by presenting both the potential and challenges of quantum batteries, including skepticism from the scientific community.",
+        "No fabrication is detected; the claims align with established quantum mechanics principles and published research.",
+        "The article avoids redundancy, with each key point adding unique value to the discussion."
+      ]
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-25T19:07:42.387545+07:00"
+}

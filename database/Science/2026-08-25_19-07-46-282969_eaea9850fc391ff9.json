@@ -1,0 +1,45 @@
+{
+  "id": "eaea9850fc391ff9",
+  "title": "Screen viewing time from age 1 to 8 years and subsequent academic performance",
+  "url": "https://link.springer.com/article/10.1007/s12519-026-01046-1",
+  "source": "Hacker News",
+  "category": "Science",
+  "summary": "This longitudinal study examines the association between screen viewing time in early childhood (ages 1 to 8) and later academic performance and working memory. The research, conducted with 502 children in the GUSTO birth cohort, found that higher screen time during early infancy (ages 1, 1.5, and 6) was persistently linked to poorer academic performance at age 9 and weaker working memory at age 10.5, even after adjusting for confounding factors. Cumulative screen exposure over childhood was also associated with lower academic performance but not working memory.",
+  "score": 9,
+  "tags": [
+    "child development",
+    "screen time",
+    "academic performance",
+    "cognitive development",
+    "longitudinal study"
+  ],
+  "key_points": [
+    "Higher screen viewing time in early childhood (ages 1, 1.5, and 6) is associated with poorer academic performance at age 9.",
+    "Increased screen time at ages 1 and 6 correlates with weaker working memory at age 10.5.",
+    "Cumulative screen exposure over childhood negatively impacts academic performance but not working memory.",
+    "Effect sizes were reduced after adjusting for confounding factors but remained statistically significant.",
+    "The study highlights early infancy as a sensitive period for screen time effects on cognitive and academic outcomes."
+  ],
+  "content_hash": "423c47a65adffb2fa11ae55c4308931f591c37f81e3e6848bac6bcfc1664d4d9",
+  "title_hash": "1f8ddadfd4007ca17a6f1c493721716f4899d0533d131139162f26c902516d7b",
+  "collected_at": "2026-08-25T19:07:46.282969+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_distinction": "not_applicable",
+      "fabrication": false,
+      "details": "The article presents a well-structured longitudinal study with clear methodology, findings, and adjustments for confounding factors. It provides valuable insights into the impact of screen time on child development without signs of spam, clickbait, or hidden advertising. The category 'Science' is accurate, and the content maintains objectivity with no evidence of fabrication or excessive bias."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-25T19:07:46.282969+07:00"
+}

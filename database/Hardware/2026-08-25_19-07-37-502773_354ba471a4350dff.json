@@ -1,0 +1,47 @@
+{
+  "id": "354ba471a4350dff",
+  "title": "Fitbit Founders Launch Luffu Link, an LTE Health and Safety Band for Family Care",
+  "url": "https://techcrunch.com/2026/08/25/fitbit-founders-launch-luffu-link-an-lte-health-and-safety-band",
+  "source": "TechCrunch",
+  "category": "Hardware",
+  "summary": "Luffu, a startup founded by Fitbit co-founders James Park and Eric Friedman, has introduced Luffu Link, an LTE-enabled wearable band designed for health monitoring and family safety. The device integrates health tracking (activity, sleep, heart rate, HRV, breathing rate), voice logging, location awareness, and emergency assistance without requiring a nearby phone. It complements the Luffu AI-powered app, which organizes health data, detects patterns, and alerts families to potential well-being changes. Target users include family caregivers, independent older adults, and health-conscious individuals. The $250 device (pre-order price) ships in early 2027 and features LTE connectivity, GPS, and a jewelry-inspired design.",
+  "score": 9,
+  "tags": [
+    "Hardware",
+    "Wearables",
+    "HealthTech",
+    "AI",
+    "Family Care"
+  ],
+  "key_points": [
+    "Luffu Link is an LTE-enabled health and safety band from Fitbit co-founders, designed for family care and health monitoring.",
+    "Features include all-day health sensing (activity, sleep, heart rate, HRV, breathing rate), voice logging, GPS location tracking, and emergency help requests via LTE (no phone required).",
+    "The device integrates with the Luffu AI app, which organizes data, detects patterns, and flags notable changes to reduce caregiver burden.",
+    "Target users: family caregivers, independent older adults, and health/safety-conscious individuals.",
+    "Pricing: $250 (pre-order), expected retail price $300; ships early 2027. Available in three colors.",
+    "Design mimics jewelry to avoid a clinical or bulky appearance, emphasizing discreet, everyday use.",
+    "Future plans include a home device to extend Luffu’s intelligent family care system."
+  ],
+  "content_hash": "ccdcffc335fe75f422d3881e64270284710f39077786e141dd87c76f39144b89",
+  "title_hash": "f195bd2ebdb17b22e54d0e34508602f705ad3f91afce1e6c1e24df6f6a2e2e0b",
+  "collected_at": "2026-08-25T19:07:37.502773+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "not_spam": true,
+      "no_clickbait": true,
+      "no_disguised_ads": true,
+      "quality_info": "High - detailed, accurate, and well-structured with clear technical specifications and use cases.",
+      "no_redundancy": true,
+      "correct_category": true,
+      "no_excessive_bias": true,
+      "opinion_fact_separation": "N/A (not a review/opinion piece)",
+      "no_fabrication": true,
+      "notes": "The article provides a comprehensive overview of the Luffu Link device, its features, target audience, and pricing. It is factual, well-researched, and aligns with the Hardware category. The inclusion of AI (Luffu app) is secondary to the hardware focus."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-25T19:07:37.502773+07:00"
+}
