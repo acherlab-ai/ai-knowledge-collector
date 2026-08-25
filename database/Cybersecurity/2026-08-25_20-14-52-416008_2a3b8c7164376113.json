@@ -1,0 +1,45 @@
+{
+  "id": "2a3b8c7164376113",
+  "title": "WhatsApp Enhances Account Security with Stronger Two-Step Verification and Passkey Support",
+  "url": "https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more",
+  "source": "TechCrunch",
+  "category": "Cybersecurity",
+  "summary": "WhatsApp has introduced new security features to improve account protection, including stronger two-step verification with alphanumeric passwords, support for multiple passkeys, and additional context for calls from unknown numbers. These updates aim to counter sophisticated phishing and hacking attempts by making security more accessible and robust for users.",
+  "score": 9,
+  "tags": [
+    "Cybersecurity",
+    "WhatsApp",
+    "Two-Factor Authentication",
+    "Passkeys",
+    "Mobile Security"
+  ],
+  "key_points": [
+    "WhatsApp now allows users to set a longer, alphanumeric password with special characters for two-step verification, replacing the previous six-digit PIN.",
+    "Users can add multiple passkeys to their accounts, useful for those switching between iOS and Android devices.",
+    "Passkeys provide stronger security than traditional passwords by using biometric authentication (Face ID or fingerprint) and are resistant to phishing attacks.",
+    "Android users will see additional context for calls from unknown numbers, such as the caller's country and shared groups, to help identify potential spam or fraud.",
+    "These updates are part of WhatsApp's broader effort to enhance security amid rising phishing and hacking threats."
+  ],
+  "content_hash": "8e057a86197fa29a5b5c76ac2d44342c00984021bdebeaf44dd8b9a008cf4f7b",
+  "title_hash": "f38b7ff33fad73cc9482c57b9801e038ad9c024b9ee91167a1581069d7c08958",
+  "collected_at": "2026-08-25T20:14:52.416008+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not applicable (informational)",
+      "fabrication": false,
+      "details": "The article provides accurate, well-researched, and actionable information about WhatsApp's new security features. It avoids sensationalism, maintains objectivity, and aligns perfectly with the 'Cybersecurity' category. The summary and key points are clear, concise, and free of redundancy or misleading claims."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-25T20:14:52.416008+07:00"
+}

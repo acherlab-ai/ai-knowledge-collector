@@ -1,0 +1,47 @@
+{
+  "id": "310faf13984aa252",
+  "title": "Andy Dunn’s startup Pie evolves from an events app to a social networking platform",
+  "url": "https://techcrunch.com/2026/08/25/andy-dunns-startup-pie-becomes-less-of-an-events-app-and-more-of-a-social-network",
+  "source": "TechCrunch",
+  "category": "Technology",
+  "summary": "Pie, a startup founded by Andy Dunn (Bonobos founder), has transitioned from an events-focused app to a social networking platform with its new 'Community Homes' feature. The update aims to foster real-world connections by allowing users to create permanent digital spaces for social groups, moving beyond single-event interactions. The app now emphasizes community-building, with tools like group feeds, admin controls, and casual connection prompts. Pie has grown to 300,000 users and targets younger audiences seeking in-person interactions post-pandemic. The shift reflects a broader cultural trend toward real-life social clubs and deeper community engagement.",
+  "score": 8,
+  "tags": [
+    "Social Network",
+    "Startups",
+    "Community Building",
+    "Tech Trends"
+  ],
+  "key_points": [
+    "Pie was originally an events app but now focuses on social networking with 'Community Homes' for group interactions.",
+    "The new feature allows users to create permanent digital spaces for social groups, replacing tools like group texts or Facebook Groups.",
+    "Community Homes include group feeds, admin controls, shareable homepages, and event planning resources.",
+    "Future updates will add group chats and casual connection prompts (e.g., 'hang out and craft together').",
+    "Pie’s pivot follows user behavior shifts, with time spent on the app increasing from 2 to 10 minutes after prioritizing social connections over events.",
+    "The app has 300,000 users and traction in cities like Chicago, New York, and Los Angeles.",
+    "Inspired by Gen Z’s interest in social clubs (e.g., run clubs, art markets), Pie positions itself as a 'Reddit for IRL' (in real life).",
+    "Co-founder Nadya Okamoto (founder of Zoomies run club) describes Pie as fulfilling the original promise of Facebook/Reddit without anonymity or toxicity."
+  ],
+  "content_hash": "875bc0eb06202040bae2f55817ab62384a4cdba07d28d3bdbd71c2bbf0d223e6",
+  "title_hash": "1180b0d3a4a9e33ea74cee9c1580e1c492f1a70e379fcd4ed300d28950965883",
+  "collected_at": "2026-08-25T20:14:48.618628+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "clear (where applicable)",
+      "fabrication": false,
+      "details": "The article provides a detailed and informative overview of Pie's evolution from an events app to a social networking platform. It includes specific features, user growth metrics, and cultural context, making it highly useful for readers interested in startups, social tech, or community-building trends. The content is well-researched, avoids spam/clickbait, and maintains a neutral tone while acknowledging opinions (e.g., co-founder quotes). The category is correctly assigned as 'Technology.' Minor deduction in score for slight promotional undertones (e.g., 'fulfilling the original promise of Facebook/Reddit'), but not severe enough to reject."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-25T20:14:48.618628+07:00"
+}
