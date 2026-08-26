@@ -1,0 +1,49 @@
+{
+  "id": "603ef3ae293d3cb8",
+  "title": "Value Classes Still Need Compiler Sympathy: Optimizations and Limitations in JDK 28's JEP 401",
+  "url": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy",
+  "source": "Hacker News",
+  "category": "Programming",
+  "summary": "The article explores the performance implications of value classes introduced in JDK 28's JEP 401 (Project Valhalla). It highlights how value classes, by relinquishing object identity, enable optimizations like flattening and scalarization but also demonstrate scenarios where improper usage can lead to performance regressions. The post provides concrete examples illustrating the JVM's current capabilities and limitations, emphasizing the need for developers to understand compiler behavior to fully leverage value classes.",
+  "score": 9,
+  "tags": [
+    "Java",
+    "JVM",
+    "Value Classes",
+    "Compiler Optimizations",
+    "JEP 401",
+    "Project Valhalla"
+  ],
+  "key_points": [
+    "Value classes in JDK 28 (JEP 401) enhance program semantics and enable JVM optimizations by removing object identity, allowing flattening and scalarization of values.",
+    "Immutability is crucial for flattening; mutable fields may force the JVM to use reference layouts to avoid torn assignments in multi-threaded scenarios.",
+    "The JVM (C2 compiler) can optimize small, immutable value class operations by scalarizing components, eliminating allocations (e.g., in loops).",
+    "Identity classes may prevent such optimizations, as the compiler must prove identity irrelevance, which is not always feasible.",
+    "Type erasure in generics can reintroduce allocations when value classes interact with interfaces, due to bridge methods requiring materialization of scalarized values.",
+    "Megamorphic call sites exacerbate this issue, as the JVM cannot devirtualize and inline methods, forcing heap allocations for value materialization.",
+    "Explicitly redeclaring typed methods in interfaces (e.g., `@Override Carrier apply(LargeValue value)`) can avoid allocations by enabling scalarized calling conventions.",
+    "The article concludes that while value classes provide semantic clarity and optimization opportunities, developers must understand compiler limitations and may need to adjust code for optimal performance."
+  ],
+  "content_hash": "e8fdaed697c21d9eed40e8a28d779161b150bd11543622d82af80c4b9726be00",
+  "title_hash": "7da45f642d0d61b7c7eec89e1a47d05fa1c251b587c939a03cca9e8961ee2ddd",
+  "collected_at": "2026-08-26T18:55:24.905573+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_distinction": "clear (review/opinion context is technical and fact-based)",
+      "fabrication": false,
+      "details": "The article provides a deep, technical analysis of JDK 28's JEP 401 value classes, with concrete examples and clear explanations of compiler optimizations and limitations. It is highly relevant to Java/JVM developers, avoids spam/clickbait, and maintains objectivity while acknowledging compiler behavior nuances. The category 'Programming' is correct, and the content is neither biased nor misleading."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-26T18:55:24.905573+07:00"
+}

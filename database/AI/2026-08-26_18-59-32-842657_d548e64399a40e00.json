@@ -1,0 +1,62 @@
+{
+  "id": "d548e64399a40e00",
+  "title": "RAG Is Simpler Than You Think: A Practical Guide to Retrieval-Based AI Approaches",
+  "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "The article demystifies Retrieval-Augmented Generation (RAG) by presenting six practical approaches, from simple full-text search to advanced pre-embedding, to help engineers choose the right tool for their specific use case. It emphasizes starting with the simplest solution and scaling up only when data proves it's necessary, while addressing key decision factors like data freshness, corpus characteristics, query patterns, scale, and team capabilities.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "RAG",
+    "Retrieval-Augmented Generation",
+    "Machine Learning",
+    "Search",
+    "NLP"
+  ],
+  "key_points": [
+    "Most RAG implementations are over-engineered; simpler solutions often suffice for common use cases like keyword-based searches.",
+    "Key decision factors for choosing a RAG approach include data freshness requirements, corpus characteristics, query patterns, scale, and team capabilities.",
+    "Six RAG approaches are outlined, ranging from minimal to elaborate:",
+    "  1. **Full-Text Search (MVP)**: Uses BM25 or similar for keyword-based searches. Ideal for zero ML complexity, exact matches, and proprietary terminology. Pros: fast, easy to debug, no chunking needed. Cons: misses synonyms and semantic queries.",
+    "  2. **Agentic Query Rewriting**: Uses an LLM to transform conversational queries into optimized keyword searches. Handles vocabulary mismatches and proprietary terms. More flexible than embeddings for iterative improvements.",
+    "  3. **Hybrid Search (Sparse + Dense Reranking)**: Combines BM25 for candidate retrieval with embeddings for reranking. Balances keyword and semantic search but adds latency and complexity.",
+    "  4. **On-The-Fly Embedding**: Embeds documents during query time for high data freshness. Suitable for real-time content but incurs latency and cost per query.",
+    "  5. **Pre-Embedding with Hot/Cold Tiers**: Pre-embeds frequently accessed documents (hot tier) and embeds rarely accessed ones on-the-fly (cold tier). Optimizes latency, cost, and freshness for medium-to-large corpora.",
+    "  6. **Full Pre-Embedding**: Embeds all documents upfront for high query volume and low latency. Best for stable corpora and massive scale but costly and complex to maintain.",
+    "Multi-intent queries (e.g., 'read CSV, clean data, plot results') require decomposition into sub-queries, parallel processing, and adaptive routing for cost-effective and high-quality results.",
+    "A decision tree is provided to guide implementation: start with full-text search, measure baseline performance, and scale up only if necessary. Most systems (60%) can stop at full-text plus query rewriting.",
+    "Trade-offs between approaches are analyzed, including cost, latency, data freshness, model switching ease, and chunking complexity."
+  ],
+  "content_hash": "fda9c62a9c6987a8a22d85d31544e08a56f9963c7f87bbeb6d2e8cb31f8788b1",
+  "title_hash": "25189582ad96e98a99b4ca6331927e86b00e7e79014f4a57cd45c584752d36ed",
+  "collected_at": "2026-08-26T18:59:32.842657+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "clear (where applicable)",
+      "fabrication": false,
+      "details": {
+        "useful": "The article provides a clear, structured, and actionable guide to RAG approaches, addressing common pain points for engineers. It simplifies complex concepts without oversimplifying trade-offs.",
+        "info_quality": "The content is well-researched, practical, and backed by real-world considerations (e.g., cost, latency, team capabilities). The decision tree and trade-off analysis add significant value.",
+        "bias_level": "The article presents multiple approaches objectively, acknowledging pros/cons without favoring a specific tool or vendor. Opinions (e.g., 'most RAG implementations are over-engineered') are clearly stated as such and justified with reasoning.",
+        "category_accuracy": "The topic aligns perfectly with the 'AI' category, focusing on retrieval-augmented generation and NLP techniques.",
+        "potential_improvements": [
+          "Minor clarification: The 'Agentic Query Rewriting' section could briefly mention potential LLM costs/latency for transparency.",
+          "The 'Multi-intent queries' section is slightly dense; a short example might improve readability."
+        ]
+      }
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-26T18:59:32.842657+07:00"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "1037b4f9eef6b0d8",
+  "title": "OldInsuranceMaps.net Becomes an OpenStreetMap US Charter Project",
+  "url": "https://openstreetmap.us/news/2026/08/oim-charter-project",
+  "source": "Hacker News",
+  "category": "OpenSource",
+  "summary": "OldInsuranceMaps.net (OIM), a platform hosting over 1,200 georeferenced Sanborn insurance maps from the Library of Congress, has been designated as an OpenStreetMap US Charter Project. These historical maps, dating from 1867 to the 1960s, provide accurate geographic data for researchers, historians, and urban planners. The project enables users to explore, georeference, and contribute to digitizing historical maps, fostering collaboration with other OpenStreetMap initiatives like OpenHistoricalMap and Yesterdays. OIM integrates open-source technology and crowdsourcing to preserve and share historical geographic data.",
+  "score": 9,
+  "tags": [
+    "OpenSource",
+    "Historical Maps",
+    "GIS",
+    "Crowdsourcing",
+    "OpenStreetMap"
+  ],
+  "key_points": [
+    "OldInsuranceMaps.net (OIM) is now an OpenStreetMap US Charter Project, enhancing its sustainability and reach.",
+    "The platform hosts over 1,200 georeferenced Sanborn insurance maps, primarily sourced from the Library of Congress, covering U.S. geography from 1867 to the 1960s.",
+    "Sanborn maps are highly detailed and historically significant, used by researchers, historians, and urban planners for accurate historical geographic data.",
+    "OIM allows users to request, explore, and georeference maps, making historical data more accessible and interactive.",
+    "The project combines historical archivism, open-source technology, and crowdsourced contributions to create a robust resource.",
+    "OIM collaborates with other OpenStreetMap projects like OpenHistoricalMap (OHM) and Yesterdays, enabling cross-platform workflows and data sharing.",
+    "Users can contribute by georeferencing maps, donating, joining the OSM US Slack channel, or contributing to the project on GitHub.",
+    "OpenStreetMap US provides Charter Projects with legal and fiscal support, allowing developers to focus on building and improving tools."
+  ],
+  "content_hash": "87d95ac559c41cff371ead900c2d80fcfb863e3296384db7d388ebfdcbb0cd0d",
+  "title_hash": "f48b473520775881a876a7335b05e597881bea81cc5746d6702137ad4965adf6",
+  "collected_at": "2026-08-26T18:57:28.899996+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, informative, and well-structured overview of OldInsuranceMaps.net becoming an OpenStreetMap US Charter Project. It is highly relevant to the OpenSource category, offers valuable insights for researchers, historians, and urban planners, and avoids spam, clickbait, or hidden advertising. The information is factual, detailed, and aligns with the project's open-source and crowdsourcing nature. No significant bias or fabrication is detected."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-26T18:57:28.899996+07:00"
+}

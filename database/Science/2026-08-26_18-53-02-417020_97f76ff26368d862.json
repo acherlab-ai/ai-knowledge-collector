@@ -1,0 +1,46 @@
+{
+  "id": "97f76ff26368d862",
+  "title": "The Feeling of Power by Isaac Asimov (1958)",
+  "url": "https://archive.org/details/1958-02_IF",
+  "source": "Hacker News",
+  "category": "Science",
+  "summary": "A short science fiction story from Isaac Asimov published in the February 1958 issue of *Worlds of IF*. The story explores a future where humans have become so dependent on computers that they have lost the ability to perform basic arithmetic, until a low-grade technician rediscovers the lost art of manual calculation, sparking both fascination and ethical dilemmas about human potential and reliance on technology.",
+  "score": 9,
+  "tags": [
+    "Science Fiction",
+    "AI",
+    "Human Potential",
+    "Technology Dependence",
+    "Ethics"
+  ],
+  "key_points": [
+    "Set in a future where humans rely entirely on computers for calculations.",
+    "A technician named Myron Aub rediscovers the ability to perform arithmetic manually, a skill long forgotten.",
+    "The discovery is met with awe and raises questions about human ingenuity and over-dependence on machines.",
+    "Government and military figures see potential in weaponizing the rediscovered skill for warfare.",
+    "The story critiques the ethical implications of technological dependence and the devaluation of human skills.",
+    "Asimov’s narrative highlights the tension between progress and the erosion of fundamental human abilities."
+  ],
+  "content_hash": "4b5331b2f54c59f554d4a97bc1bbfc5941e74f2f88506abc029788a11d75dda7",
+  "title_hash": "38cc890b4a17273cfd947dcc29b07ab69b2aa93410bcc747f9889e0aaa986287",
+  "collected_at": "2026-08-26T18:53:02.417020+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_distinction": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a concise and accurate summary of Isaac Asimov's classic science fiction story, 'The Feeling of Power.' It highlights key themes such as technological dependence, human potential, and ethical dilemmas without introducing bias or misinformation. The content is well-structured, relevant to the 'Science Fiction' category, and offers valuable insights into the narrative's critique of over-reliance on technology. No spam, clickbait, or hidden advertising is detected."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-26T18:53:02.417020+07:00"
+}

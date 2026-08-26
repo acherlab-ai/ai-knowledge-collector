@@ -1,0 +1,45 @@
+{
+  "id": "9a9716f307fb16d3",
+  "title": "XCancel and Nitter Receive Cease and Desist Letters from XCorp",
+  "url": "https://news.ycombinator.com/item?id=49446210",
+  "source": "Hacker News",
+  "category": "OpenSource",
+  "summary": "XCorp (formerly Twitter) has issued cease and desist letters to the developers of XCancel and Nitter, two open-source projects that provided alternative frontends to X/Twitter. Both services have temporarily shut down while seeking legal advice. XCancel and Nitter allowed users to access X/Twitter content without logging in or encountering ads, but their operations have now been halted due to legal pressure.",
+  "score": 8,
+  "tags": [
+    "OpenSource",
+    "Legal",
+    "SocialMedia",
+    "XCorp"
+  ],
+  "key_points": [
+    "XCorp sent cease and desist letters to XCancel and Nitter, demanding permanent takedowns.",
+    "XCancel and Nitter were open-source alternatives to X/Twitter, allowing ad-free and login-free access.",
+    "Both services have temporarily ceased operations while developers seek legal counsel.",
+    "Users relied on these tools to bypass X/Twitter's restrictive login requirements and ads.",
+    "The shutdown highlights XCorp's shift toward a more closed, ad-driven platform model.",
+    "The incident underscores challenges faced by open-source projects when dealing with corporate legal actions."
+  ],
+  "content_hash": "2b98cd544d61aaa15437b73e716f48f3a1813fbd3188c2459ecf7759e8abb7a8",
+  "title_hash": "f41950e1649685c059544c70389cf1d44e69d3d9569e30827273f537dba89ab8",
+  "collected_at": "2026-08-26T18:55:11.782180+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not applicable (news report)",
+      "fabrication": false,
+      "details": "The article provides a clear, factual report on XCorp's legal actions against open-source projects XCancel and Nitter. It is informative, well-structured, and avoids sensationalism or bias. The category 'OpenSource' is accurate, and the content is highly relevant to the tech community. No spam, clickbait, or hidden advertising is present. The summary and key points are concise and accurate."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-26T18:55:11.782180+07:00"
+}
