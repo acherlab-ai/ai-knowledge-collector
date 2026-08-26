@@ -1,0 +1,49 @@
+{
+  "id": "446c7b7136a7b11e",
+  "title": "Meta Agrees to Sweeping Changes to Restrict Kids’ Access to Its Apps as Part of Settlement with States",
+  "url": "https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states",
+  "source": "TechCrunch",
+  "category": "Technology",
+  "summary": "Meta has agreed to implement significant changes to enhance child safety on Instagram and Facebook as part of an $18 billion settlement with 29 U.S. states. The measures, set to last for 10 years, include daily time limits, restrictive 'Night Mode,' non-algorithmic feeds, and stricter controls on notifications and content access for users under 18.",
+  "score": 9,
+  "tags": [
+    "Meta",
+    "Child Safety",
+    "Social Media",
+    "Regulation",
+    "AI Moderation"
+  ],
+  "key_points": [
+    "Meta will enforce a **daily two-hour time limit** for teens on Facebook and Instagram, cumulative across both apps, with parental override required to disable.",
+    "A **default 'Night Mode'** will block underage users from accessing the platforms between midnight and 6 a.m.",
+    "Teens can set a **non-algorithmic, chronological feed** as their default, with parental control over this setting.",
+    "**Notifications will be muted by default** during school hours (8 a.m.–3 p.m.), except for DMs and security alerts.",
+    "**Autoplay controls** will require deliberate user action (e.g., tapping/swiping) to view more content.",
+    "**Like/reaction counts** will be hidden by default for underage users.",
+    "Meta will **strengthen age-verification technology** to ensure teens receive appropriate protections, even if they falsify their age.",
+    "The company is **urging TikTok and YouTube** to adopt similar measures, with 30% of the settlement ($5.3B) contingent on their compliance.",
+    "Changes will apply automatically to users under 18 in participating U.S. states, pending judicial approval."
+  ],
+  "content_hash": "ff36585158666cd10d0e3db0f57c8e6c5bb3b10fc88bfff04b6c99de77a47a8f",
+  "title_hash": "3219c9df62082a5abe5417749a98ef60bf9846c16f8499e4111bd3c922f47a70",
+  "collected_at": "2026-08-26T23:54:55.349233+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "High - well-researched, specific details, and credible sources implied (settlement with U.S. states).",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "Minimal - presents facts about Meta's settlement without excessive opinion or manipulation. Mentions Meta urging competitors, but this is framed as part of the settlement terms.",
+      "opinion_fact_separation": "N/A (not a review/opinion piece; factual reporting).",
+      "fabrication": false,
+      "additional_notes": "The article is informative, timely, and aligns with the 'Technology' category. The summary and key points are clear, actionable, and free of misleading claims. The $18B figure appears to be a typo (likely $180M or similar), but this does not affect the core evaluation."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-26T23:54:55.349233+07:00"
+}
