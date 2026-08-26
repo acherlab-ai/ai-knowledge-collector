@@ -1,0 +1,48 @@
+{
+  "id": "07c36ca1dc0ba2c3",
+  "title": "U.S. Government Proposes Removing Public Input Requirements for Data Center Air Pollution Permits",
+  "url": "https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them",
+  "source": "Hacker News",
+  "category": "Technology",
+  "summary": "The U.S. Environmental Protection Agency (EPA) is planning to eliminate a requirement that mandates states to seek public feedback on air pollution permit applications for 'minor sources,' including data centers. This change could reduce transparency and public involvement in decisions affecting local communities, particularly concerning the environmental and health impacts of AI data centers. Opposition from 14 states and three cities highlights concerns over diminished democratic safeguards and potential health risks.",
+  "score": 8,
+  "tags": [
+    "AI",
+    "Data Centers",
+    "Environmental Policy",
+    "Regulation",
+    "Public Health"
+  ],
+  "key_points": [
+    "The EPA proposes removing the requirement for states to seek public feedback on air pollution permits for 'minor sources,' including data centers.",
+    "Data centers, though classified as 'minor sources,' can have significant environmental and health impacts, as evidenced by studies in Virginia.",
+    "A Harvard study estimated a single data center in Virginia caused $53M–$99M in annual health damages, the highest for any facility.",
+    "Public input has previously influenced decisions, such as the denial of a fossil fuel plant expansion in Virginia.",
+    "The change could allow states to bypass public comment periods, reducing transparency in permit approvals.",
+    "14 states and three cities oppose the proposal, arguing it undermines democratic safeguards for administrative expediency.",
+    "Examples like Amazon’s data center in Gilroy, California, show how public comment periods can be circumvented under current rules.",
+    "States can impose stricter environmental standards but may choose to eliminate public comment periods if the EPA’s proposal is enacted."
+  ],
+  "content_hash": "f6b3dab7638f510005c5f420ac934c5ff811808b1061ee834ba23bc138c8d1c3",
+  "title_hash": "c0297b1bee8b029fc28ac4a645fa3243062753ae734ea59096035d7e40afe159",
+  "collected_at": "2026-08-26T18:13:23.855665+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "High - Well-researched, cites studies (e.g., Harvard), provides specific examples (Virginia, Gilroy), and includes opposing viewpoints (14 states/cities).",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "Minimal - Presents facts objectively while acknowledging concerns from both sides (EPA proposal vs. opposition). Opinions (e.g., 'undermines democratic safeguards') are clearly attributed to sources.",
+      "fact_vs_opinion": "Clear distinction - Facts (e.g., Harvard study, EPA proposal) are separated from opinions (e.g., opposition arguments).",
+      "originality": true,
+      "notes": "Category adjusted to 'Technology' (primary focus) with environmental/regulatory context. Tags like 'AI' and 'Environmental Policy' are appropriate subtopics."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-26T18:13:23.855665+07:00"
+}

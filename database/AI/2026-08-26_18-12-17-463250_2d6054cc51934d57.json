@@ -1,0 +1,48 @@
+{
+  "id": "2d6054cc51934d57",
+  "title": "Runable raises $21M to expand AI agents from building businesses to growing them",
+  "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "Runable, an Indian AI startup, has secured $21 million in Series A funding to develop AI agents that assist small businesses not only in creating websites and apps but also in customer acquisition, marketing, and growth. The platform targets non-technical users by automating tasks like ad campaigns, SEO, and social media management, aiming to streamline business operations without requiring multiple tools or services.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Startups",
+    "AI Agents",
+    "Business Automation",
+    "Funding"
+  ],
+  "key_points": [
+    "Runable raised $21M in Series A funding, valuing the company at $65M post-investment.",
+    "The startup pivoted from AI infrastructure to a general-purpose AI agent for small businesses.",
+    "Runable's AI agent helps build websites, apps, and presentations while also managing growth tasks like ad campaigns, SEO, and social media.",
+    "The platform targets non-technical users, aiming to replace traditional agencies with lower-cost AI-driven solutions.",
+    "Runable has 1.7M registered users, with major markets in the U.S., UK, and Japan.",
+    "The startup faces challenges like negative gross margins due to subsidized AI usage but expects costs to decrease over time.",
+    "Competitors include general-purpose AI agents like Manus and Genspark, as well as coding platforms like Cursor and Replit.",
+    "Runable differentiates itself by focusing on business growth (customer acquisition, marketing) rather than just software creation."
+  ],
+  "content_hash": "e50e2df8000471c80e1264861fc38c497fc33d13bf28fcb03107c5489922b659",
+  "title_hash": "1dc954855a4d4d77222abd0e33310c91843ad8dc9819627b161f2bf8309fcff3",
+  "collected_at": "2026-08-26T18:12:17.463250+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides valuable, well-researched information about Runable's funding, business model, and competitive landscape. It is factual, avoids exaggeration, and maintains a neutral tone. The category (AI) is accurate, and the content is structured clearly without redundancy or hidden advertising. Minor deductions in score are due to brief mentions of financial challenges (e.g., negative gross margins) that could benefit from slightly more context, but this does not detract significantly from overall quality."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-26T18:12:17.463250+07:00"
+}
