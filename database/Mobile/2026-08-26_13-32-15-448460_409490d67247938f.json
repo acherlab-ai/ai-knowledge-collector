@@ -1,0 +1,47 @@
+{
+  "id": "409490d67247938f",
+  "title": "Google's Motion Assist: Anti-Nausea Feature Rolling Out on Android",
+  "url": "https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17",
+  "source": "Ars Technica",
+  "category": "Mobile",
+  "summary": "Google is rolling out Motion Assist, an anti-motion sickness feature for Android, starting with Pixel phones running Android 17. The feature uses moving dots on the screen to reduce sensory mismatch, similar to Apple's Motion Cues on iOS. Motion Assist is delivered via Play Services and can be activated manually or automatically when in a moving vehicle. Customization options for the dots are available, and the feature is currently exclusive to Pixel devices.",
+  "score": 9,
+  "tags": [
+    "Android",
+    "Pixel",
+    "Motion Sickness",
+    "Accessibility",
+    "Mobile Technology"
+  ],
+  "key_points": [
+    "Motion sickness is caused by a sensory mismatch between what the inner ear senses and what the eyes see, making phone use in moving vehicles difficult.",
+    "Google's Motion Assist is an anti-nausea feature that places moving dots on the screen to alleviate motion sickness, similar to Apple's Motion Cues on iOS.",
+    "Motion Assist is being rolled out via Play Services on Pixel phones running Android 17, with no manual installation required.",
+    "The feature uses the phone's accelerometer and gyroscope to make the dots move in sync with the vehicle's motion.",
+    "Motion Assist can be activated manually or automatically when the phone detects movement in a vehicle.",
+    "Customization options for the dots include shape, size, color, and opacity.",
+    "The feature is currently only available on Pixel phones running Android 17, with unclear plans for broader availability."
+  ],
+  "content_hash": "d3d5d1d9e7bb8a0e62ef023370d99018c939af4278d31f747141f29b41f39301",
+  "title_hash": "fb4d0532314fe1b3f7518f17f517754afa2f0c65a0cf73511853404cf5a6ea20",
+  "collected_at": "2026-08-26T13:32:15.448460+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides accurate, well-researched, and practical information about Google's Motion Assist feature. It explains the science behind motion sickness, the feature's functionality, and its availability without exaggeration or misleading claims. The category 'Mobile' is correct, and the content maintains objectivity while being informative."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-26T13:32:15.448460+07:00"
+}

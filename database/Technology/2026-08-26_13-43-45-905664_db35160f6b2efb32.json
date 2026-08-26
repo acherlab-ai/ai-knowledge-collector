@@ -1,0 +1,46 @@
+{
+  "id": "db35160f6b2efb32",
+  "title": "TechCrunch Founder Summit: Audience Choice Sessions Voting",
+  "url": "https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit",
+  "source": "TechCrunch",
+  "category": "Technology",
+  "summary": "TechCrunch is allowing the audience to vote on which sessions will be included in the Founder Summit in Boston on November 4, 2026. There are 11 finalist sessions covering practical insights for startups, including topics on AI, hardware, open-source business models, enterprise sales, and event strategies. Voting closes on September 4.",
+  "score": 8,
+  "tags": [
+    "AI",
+    "Startups",
+    "OpenSource",
+    "Hardware",
+    "Enterprise",
+    "Founders"
+  ],
+  "key_points": [
+    "Voting is open for 11 finalist sessions at TechCrunch Founder Summit, with four slots available.",
+    "Sessions cover actionable insights for startups, including strategic event planning, domestic hardware manufacturing, and AI implementation.",
+    "Key AI-related sessions: GraphRAG for reducing LLM hallucinations, enterprise AI sales strategies, and lean AI team management.",
+    "Other notable topics: Bootstrapping open-source businesses, healthcare AI, and fundraising for technical founders.",
+    "Voting link and ticket discounts are provided for attendees."
+  ],
+  "content_hash": "5f83b24796027db59b1eba3c2c1c3e93fc0b71e60e64072f0dc1b086794908a4",
+  "title_hash": "75fd07658343d88f4c6508a67274a548a6ebb8a8ad0188cd01307172ffa0b4e5",
+  "collected_at": "2026-08-26T13:43:45.905664+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "fact_opinion_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides clear, actionable information about the TechCrunch Founder Summit voting process, including relevant topics and deadlines. It is informative, well-structured, and free of spam, clickbait, or hidden advertisements. The category is correctly labeled as 'Technology,' and while it highlights specific sessions (e.g., AI-related), it does not exhibit excessive bias or fabrication. The content is neutral and serves as a useful announcement for the target audience."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-26T13:43:45.905664+07:00"
+}

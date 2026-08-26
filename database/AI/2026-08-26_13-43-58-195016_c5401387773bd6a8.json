@@ -1,0 +1,46 @@
+{
+  "id": "c5401387773bd6a8",
+  "title": "Claude Cowork Finally Remembers Chat Context with Unified Memory System",
+  "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "Anthropic has updated Claude's memory system to unify chat and Claude Cowork, allowing the AI to retain and share context across interactions. This eliminates the need to rebrief the AI on prior conversations, improving workflow continuity. Users can now view, edit, or delete stored memories, and the system automatically excludes sensitive personal data by default. The feature is enabled across all plans and platforms.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Anthropic",
+    "Claude",
+    "Memory Systems",
+    "Productivity"
+  ],
+  "key_points": [
+    "Anthropic merged the memory systems of Claude's chat and Cowork features, enabling seamless context retention across interactions.",
+    "Users no longer need to re-explain details; Claude retains project-specific information (e.g., conference headcount, speakers) from prior chats.",
+    "Memories are updated in real-time during conversations, not just at the end, improving fluidity between chat and Cowork.",
+    "Sensitive data (e.g., health, race, politics) is excluded by default but can be enabled via user opt-in.",
+    "Strictly prohibited data includes government IDs, criminal history, and other policy-violating content.",
+    "The feature is enabled by default on Free, Pro, and Max plans across web, desktop, and mobile (requires app update on iOS/Android)."
+  ],
+  "content_hash": "7c5eadd1a25d48c5e6524b9c69abfe828647e2494d775a4f62b8fadf9e52cac0",
+  "title_hash": "d81358a11635b654f2ad46361fc06d36e2a281c1c01cbe24432bb7c542de50f9",
+  "collected_at": "2026-08-26T13:43:58.195016+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not applicable (informational)",
+      "fabrication": false,
+      "details": "The article provides a clear, factual update about Anthropic's Claude memory system improvements. It is highly relevant to the AI category, avoids spam/clickbait, and maintains objectivity. The information is well-structured, actionable, and excludes sensitive data responsibly. No signs of manipulation, hidden ads, or misleading claims were detected."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-26T13:43:58.195016+07:00"
+}

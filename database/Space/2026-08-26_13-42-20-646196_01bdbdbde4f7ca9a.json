@@ -1,0 +1,53 @@
+{
+  "id": "01bdbdbde4f7ca9a",
+  "title": "SpaceX to Build Second $100B 'Starbase' Spaceport in Louisiana",
+  "url": "https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana",
+  "source": "TechCrunch",
+  "category": "Space",
+  "summary": "SpaceX plans to construct a second $100 billion 'Starbase' spaceport in Vermilion Parish, Louisiana, on a former Exxon property. The facility will support future Starship launches, with construction starting in 2027 and initial operations expected by 2030. The project aims to create 3,000 direct jobs and over 30,000 construction jobs. SpaceX is still working to achieve full reusability of Starship, a critical step for its Starlink satellite internet service and AI satellite network. The company also addresses environmental concerns and local ecosystem impacts.",
+  "score": 9,
+  "tags": [
+    "SpaceX",
+    "Starship",
+    "Spaceport",
+    "Space",
+    "Infrastructure"
+  ],
+  "key_points": [
+    "SpaceX will build a second $100B 'Starbase' spaceport in Louisiana, near the Gulf Coast.",
+    "Construction is set to begin in 2027, with initial operations expected by 2030.",
+    "The project will create 3,000 direct jobs and over 30,000 construction jobs at its peak.",
+    "SpaceX aims to make the site a self-sustaining spaceport with propellant production, power generation, and other facilities.",
+    "Starship is critical for SpaceX’s Starlink expansion and a planned AI satellite network.",
+    "SpaceX has conducted 13 test flights of Starship but still needs to achieve full reusability.",
+    "The company faces challenges, including high injury rates at its Texas Starbase and environmental concerns.",
+    "SpaceX is collaborating with Louisiana agencies to mitigate environmental impacts."
+  ],
+  "content_hash": "e45c441cc5ef3cfe5291cf82140184f9445d8ec1ba2f56ba13c986971a17eed4",
+  "title_hash": "fe8d9bd8993ca54faea886cbe2b53163bc3f8fa453fcd1fc54f539946b37bcef",
+  "collected_at": "2026-08-26T13:42:20.646196+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 8.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "moderate",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": {
+        "useful": "The article provides detailed and relevant information about SpaceX's plans for a new spaceport, including timelines, economic impact, and technical goals. It is valuable for readers interested in space infrastructure and SpaceX's developments.",
+        "info_quality": "The information is well-researched, with specific figures (e.g., $100B investment, job creation numbers) and clear explanations of SpaceX's objectives and challenges. Sources or official statements are implied but not explicitly cited.",
+        "bias_level": "The article leans slightly toward SpaceX's perspective (e.g., emphasizing job creation and technological goals) but does not omit challenges like environmental concerns or injury rates. It avoids overt manipulation or misleading claims.",
+        "category_accuracy": "The content is correctly categorized under 'Space' as it focuses on spaceport infrastructure and SpaceX's Starship program."
+      }
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-26T13:42:20.646196+07:00"
+}

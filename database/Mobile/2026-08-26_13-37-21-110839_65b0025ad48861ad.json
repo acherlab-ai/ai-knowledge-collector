@@ -1,0 +1,46 @@
+{
+  "id": "65b0025ad48861ad",
+  "title": "Instagram’s ‘First Draft’ feature aims to simplify Reels editing for creators",
+  "url": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious",
+  "source": "TechCrunch",
+  "category": "Mobile",
+  "summary": "Instagram is introducing 'First Draft,' an automated editing feature for Reels that trims video clips and removes pauses to generate a preliminary cut in under 10 seconds. The tool, initially available on iPhone, allows creators to start with an AI-assembled draft and refine it manually, reducing the time and effort required for video editing. While similar tools exist in third-party apps like Adobe Firefly and CapCut, Instagram’s integration aims to retain users within its ecosystem. The feature is part of Instagram’s broader push to enhance creator tools, including audio replacement and AI-assisted editing.",
+  "score": 8,
+  "tags": [
+    "Instagram",
+    "Reels",
+    "AI editing",
+    "Mobile apps",
+    "Content creation"
+  ],
+  "key_points": [
+    "Instagram’s 'First Draft' automates video editing by trimming clips and removing pauses to create a preliminary Reels cut in under 10 seconds.",
+    "The feature is designed to save time for creators, especially those with limited editing experience, by providing an AI-generated starting point for refinement.",
+    "Initially rolling out on iPhone, 'First Draft' can be accessed via Instagram’s camera or Reels gallery after selecting multiple clips.",
+    "While not revolutionary, the tool competes with third-party solutions like Adobe Firefly and CapCut by integrating directly into Instagram’s app.",
+    "The launch aligns with Instagram’s recent focus on creator tools, including audio replacement and an upcoming AI assistant in its Edits app.",
+    "The announcement coincides with Meta’s legal challenges regarding social media addiction, though this context is not central to the feature’s functionality."
+  ],
+  "content_hash": "53993e7e5fba9d949a066d51e68b57f5bb3375faccd1cbde2a239589c2635675",
+  "title_hash": "28fc01d3f0f0c41f98d21b14f0a5f7051c020d98848d4020a3338e2bfc7eb00e",
+  "collected_at": "2026-08-26T13:37:21.110839+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, factual overview of Instagram’s 'First Draft' feature, its purpose, and its competitive positioning. The information is well-researched, relevant to the 'Mobile' category, and avoids spam, clickbait, or hidden advertising. The summary and key points are concise, non-repetitive, and objectively presented. The slight mention of Meta’s legal context is tangential and does not detract from the core content."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-26T13:37:21.110839+07:00"
+}

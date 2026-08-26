@@ -1,0 +1,48 @@
+{
+  "id": "887097f45ca5709d",
+  "title": "OpenAI Loses Top Data Center Executive Amid High-Profile Departures",
+  "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "OpenAI has experienced another significant executive departure with the exit of Chris Malone, its former head of data centers. Malone, who joined OpenAI in March 2025 after stints at Meta and Google, left the company last week. His departure is part of a broader trend of high-profile exits at OpenAI, including over a dozen executives in 2026 alone. Notable departures include Brad Lightcap (COO), Fidji Simo (Product and Business Chief), and Kate Rouch (CMO). OpenAI has reorganized its infrastructure team, with leadership now distributed among multiple executives. The ongoing talent exodus has raised concerns about the company's stability and valuation ahead of its anticipated IPO in 2027.",
+  "score": 8,
+  "tags": [
+    "AI",
+    "OpenAI",
+    "Executive Departures",
+    "Data Centers",
+    "Corporate Strategy"
+  ],
+  "key_points": [
+    "Chris Malone, OpenAI’s former head of data centers, left the company after a relatively short tenure of about 1.5 years.",
+    "Malone previously worked at Meta for nearly five years and Google for over a decade, bringing significant experience to OpenAI.",
+    "His departure is part of a larger trend of high-profile executive exits at OpenAI in 2026, totaling over a dozen so far.",
+    "Other notable departures include Brad Lightcap (COO), Fidji Simo (Product and Business Chief), and Kate Rouch (CMO).",
+    "OpenAI has reorganized its infrastructure team, with leadership now shared among multiple executives, including Uday Ruddarraju, Brent Mayo, and Spas Lazarov.",
+    "The company’s safety and ethics teams have also seen departures, including the disbanding of its preparedness team, which assessed catastrophic AI risks.",
+    "OpenAI’s IPO, originally expected in 2026, has been pushed to 2027, with concerns about valuation and profitability amid the executive churn.",
+    "OpenAI leadership has downplayed the significance of the departures, attributing scrutiny to the company’s high-profile status."
+  ],
+  "content_hash": "19a27e7bae27debde0de81636f505b1b292a2c6da770280a1a3d1704593842a9",
+  "title_hash": "dbdefd037e2621292b422a54a3e095c44028f16623d4a1e36d5e4a3d80cbe26f",
+  "collected_at": "2026-08-26T13:36:29.613830+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not applicable (news reporting)",
+      "fabrication": false,
+      "details": "The article provides a well-researched, factual account of executive departures at OpenAI, including relevant context about the company's restructuring and IPO plans. The information is sourced from credible industry experience and trends, with no evidence of spam, clickbait, or hidden advertising. The tone is neutral, focusing on reporting rather than opinion, and the category (AI) is appropriate. Minor deductions in score are due to the lack of direct quotes or official statements from OpenAI, which could further validate the claims."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-26T13:36:29.613830+07:00"
+}

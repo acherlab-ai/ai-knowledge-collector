@@ -1,0 +1,46 @@
+{
+  "id": "e825eacb926a575f",
+  "title": "Stability AI Raises $76 Million in Series B Funding to Expand Generative AI Tools",
+  "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "Stability AI, the company behind the AI image generation model Stable Diffusion, has secured $76 million in Series B funding, bringing its total fundraising to $232 million. The round includes investments from major entertainment industry players like Universal Music Group, Sony Music Group, Warner Music Group, and Electronic Arts (EA), alongside venture firms AMD Ventures and Pacific Alliance Ventures. The funds will be used to develop Stability AI's creative production tools and expand its professional services. The company has recently partnered with entertainment firms to integrate generative AI into their workflows and has seen legal victories in copyright disputes, though some lawsuits remain unresolved.",
+  "score": 8,
+  "tags": [
+    "AI",
+    "Stable Diffusion",
+    "Funding",
+    "Generative AI",
+    "Startups"
+  ],
+  "key_points": [
+    "Stability AI raised $76 million in Series B funding, totaling $232 million in capital.",
+    "Investors include major entertainment companies (Universal Music Group, Sony Music Group, Warner Music Group, EA) and venture firms (AMD Ventures, Pacific Alliance Ventures).",
+    "Funds will be used to expand Stability AI’s ‘creative production’ product suite and professional services.",
+    "Stability AI offers AI models for music, video, and image generation.",
+    "The company has partnered with entertainment firms to co-develop AI tools for creative workflows.",
+    "Stability AI won a copyright lawsuit in the UK but faces ongoing litigation in the U.S. and a lawsuit from a co-founder."
+  ],
+  "content_hash": "42c840f459c2c569ca9c304973c119b551757c5b2c870ea2bd1be305b125ce9e",
+  "title_hash": "33103ebc0b11f02bde78507551b0be5cd99f9ddf5b01243e765241267099dd1d",
+  "collected_at": "2026-08-26T13:40:51.586913+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides factual, well-sourced information about Stability AI's funding round, investors, and strategic direction. It avoids sensationalism, clickbait, or hidden advertising. The content is relevant to the 'AI' category, objective, and free of redundancy or bias. Minor deductions in quality score are due to the absence of deeper analysis (e.g., implications of legal disputes), but this does not warrant rejection."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-26T13:40:51.586913+07:00"
+}

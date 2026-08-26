@@ -1,0 +1,60 @@
+{
+  "id": "b6a30b9b2c24b0fd",
+  "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
+  "url": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs",
+  "source": "Ars Technica",
+  "category": "AI",
+  "summary": "The article explores the evolving role of AI in radiology, debunking the myth that AI will replace radiologists while highlighting how AI is transforming their work. It discusses the current state of AI adoption in radiology, the challenges of human-AI collaboration, and the need for radiologists to adapt to working alongside AI tools to improve diagnostic accuracy and efficiency.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Healthcare",
+    "Medical Imaging",
+    "Radiology",
+    "Human-AI Collaboration"
+  ],
+  "key_points": [
+    "AI is not replacing radiologists; instead, the field is growing, with a projected 26% increase in practitioners over the next three decades.",
+    "Radiology is the leading medical field for AI adoption, with about 75% of FDA-cleared AI-enabled medical devices focused on radiology as of early 2026.",
+    "AI tools can improve diagnostic accuracy by identifying abnormalities not visible to the human eye, sometimes outperforming trained radiologists (e.g., AI-assisted colonoscopies detect more polyps).",
+    "Human error rates in diagnostic imaging range from 3-5%, translating to roughly 40 million errors worldwide annually, which AI can help reduce.",
+    "The challenge lies in combining AI's technical precision with human experience and flexibility to optimize patient outcomes.",
+    "AI systems, particularly neural networks, often operate as 'black boxes,' making it difficult for radiologists to evaluate their decisions and increasing the complexity of human-AI collaboration.",
+    "Radiologists must adapt to a new role where they evaluate AI decisions, requiring a 'mental rewiring' to trust and effectively use AI tools.",
+    "Common biases in human-AI collaboration include automation bias (over-relying on AI) and automation complacency (trusting AI oversights), as well as distrust of AI due to its occasional obvious mistakes.",
+    "Training is essential for radiologists to understand AI tools' strengths, weaknesses, and contexts where they may fail (e.g., patient movement during scans).",
+    "Only 11% of physicians reported receiving extensive AI training in a 2026 survey, highlighting a significant gap in preparedness.",
+    "AI tools that provide confidence estimates for their evaluations could help radiologists better assess their reliability.",
+    "The future of radiology will likely see radiologists who effectively use AI replacing those who do not, emphasizing the importance of adaptation."
+  ],
+  "content_hash": "4c396fdc7ae34b9a48fb5f654256d0c02d9c9d60deee93763d0aca6587a66a5b",
+  "title_hash": "cfdaeee83a3b7e81213f193b565c3e1c7a6ec87098a839e9341df2049e768bb9",
+  "collected_at": "2026-08-26T13:34:13.924871+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "moderate (balanced perspective with minor emphasis on AI benefits)",
+      "opinion_fact_separation": "clear (opinions are labeled as such, facts are well-supported)",
+      "fabrication": false,
+      "details": [
+        "The article provides a well-researched and balanced view of AI's role in radiology, debunking myths while acknowledging challenges.",
+        "Key points are data-driven (e.g., FDA-cleared devices, error rates, training gaps) and avoid sensationalism.",
+        "Human-AI collaboration is explored objectively, including biases and limitations (e.g., 'black box' nature of AI).",
+        "No overt spam, clickbait, or hidden ads detected; tone is professional and informative.",
+        "Category 'AI' is appropriate, with strong relevance to healthcare and medical imaging.",
+        "Minor bias toward AI's benefits exists but is justified by evidence (e.g., polyp detection, error reduction).",
+        "Opinions (e.g., future job shifts) are clearly distinguished from facts (e.g., FDA statistics)."
+      ]
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-26T13:34:13.924871+07:00"
+}
