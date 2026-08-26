@@ -1,0 +1,50 @@
+{
+  "id": "1f360a1bef604cb1",
+  "title": "Apple Mac Studio M5 Ultra: Next-Generation Pro Desktop with Unprecedented Performance",
+  "url": "https://www.apple.com/mac-studio",
+  "source": "Hacker News",
+  "category": "Hardware",
+  "summary": "Apple introduces the Mac Studio with M5 Max and M5 Ultra chips, delivering extreme performance for professional workflows, including AI, 3D rendering, video editing, and gaming. The M5 Ultra, Apple's most powerful chip, fuses two M5 Max dies for up to 36-core CPU, 80-core GPU, 512GB unified memory, and 1.2TB/s memory bandwidth. The system supports advanced on-device AI workloads, high-speed connectivity via Thunderbolt 5, and up to 8 displays. Designed for creators, developers, and engineers, it offers significant performance improvements over previous generations while maintaining a compact and quiet form factor.",
+  "score": 9,
+  "tags": [
+    "Hardware",
+    "Apple Silicon",
+    "M5 Ultra",
+    "Pro Workstation",
+    "AI"
+  ],
+  "key_points": [
+    "Mac Studio now features M5 Max and M5 Ultra chips, targeting professional users with extreme performance for AI, 3D rendering, video editing, and gaming.",
+    "M5 Ultra is Apple's most powerful chip, combining two M5 Max dies for up to 36-core CPU, 80-core GPU, 512GB unified memory, and 1.2TB/s memory bandwidth.",
+    "Performance improvements over M1 Ultra: up to 2.4x faster CPU, 4.7x faster GPU, and 9.8x faster AI performance.",
+    "Supports on-device AI workloads, including large language models (LLMs), AI image generation, and computational tasks like DNA sequencing, without relying on cloud tokens.",
+    "Thunderbolt 5 support enables up to 120Gb/s bandwidth for high-speed storage, clustered compute, and multi-display setups (up to 8 displays with M5 Ultra).",
+    "Compact and quiet design with advanced thermal management, fitting under most displays while handling intensive tasks efficiently.",
+    "Optimized for AI apps and models, including LM Studio, Draw Things, and MATLAB, with support for frontier-class models like Gemma, Kimi, and Mistral.",
+    "Enhanced AI features in apps like DaVinci Resolve (Magic Mask), Adobe After Effects (Roto Brush), and Xcode (coding agents).",
+    "Apple Intelligence and Siri AI integration for enhanced productivity, privacy-focused on-device processing, and Private Cloud Compute for secure server-based AI tasks.",
+    "Environmental focus: 100% recycled materials in magnets and logic board solder, 35% recycled material by weight, and 40% renewable electricity in manufacturing."
+  ],
+  "content_hash": "28ed8abe823e1aa629151d243f2dbfdf916c71b6b66c829b146ba693b1e898d3",
+  "title_hash": "41b42a03f0460eb72715cc802f3e72efbb98cc2b987f639b0d19ff57ec8e8af2",
+  "collected_at": "2026-08-26T15:00:20.689505+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a detailed, fact-based overview of the Apple Mac Studio M5 Ultra, focusing on its hardware specifications, performance improvements, and use cases. It avoids spam, clickbait, or hidden advertising. The information is well-structured, accurate, and relevant to the 'Hardware' category. While it highlights Apple's advancements, it does not exhibit excessive bias or manipulation. The content is original and does not fabricate claims."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-26T15:00:20.689505+07:00"
+}
