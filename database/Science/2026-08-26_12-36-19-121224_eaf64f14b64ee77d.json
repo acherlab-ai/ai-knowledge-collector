@@ -1,0 +1,47 @@
+{
+  "id": "eaf64f14b64ee77d",
+  "title": "Two unvaccinated people die from measles in Pennsylvania, officials confirm",
+  "url": "https://arstechnica.com/health/2026/08/two-unvaccinated-people-die-from-measles-in-pennsylvania-officials-confirm",
+  "source": "Ars Technica",
+  "category": "Science",
+  "summary": "Two unvaccinated individuals in Pennsylvania have died from measles, marking the first measles deaths in the state in 35 years and part of a rising trend in the US. Measles cases are surging due to declining vaccination rates, which have fallen below the 95% threshold needed for herd immunity. The CDC reports 2,777 cases in 2026, the highest since 1991. The MMR vaccine is highly effective and safe, but misinformation and anti-vaccine rhetoric have contributed to reduced vaccination rates.",
+  "score": 9,
+  "tags": [
+    "Public Health",
+    "Vaccination",
+    "Measles",
+    "Infectious Diseases"
+  ],
+  "key_points": [
+    "Two unvaccinated individuals in Lancaster County, Pennsylvania, died from measles, the first such deaths in the state in 35 years.",
+    "The US has reported 2,777 measles cases in 2026, the highest since 1991, due to declining vaccination rates.",
+    "Vaccination rates in the US have dropped to around 92%, below the 95% threshold required for herd immunity.",
+    "Non-medical vaccination exemptions have reached a record high of 4% in 2026.",
+    "In Pennsylvania, measles vaccination rates fell from 96.7% in 2017 to 92.7% in 2026, with Lancaster County reporting only 87.6% vaccination among kindergartners.",
+    "Measles can lead to severe complications, including hospitalizations, hearing loss, intellectual disabilities, and a rare fatal neurological condition called subacute sclerosing panencephalitis (SSPE).",
+    "Two doses of the MMR vaccine are 97% effective against measles and have been proven safe through rigorous testing and decades of use.",
+    "Misinformation and anti-vaccine rhetoric, including false claims by public figures, have contributed to reduced confidence in vaccines."
+  ],
+  "content_hash": "d403ed8bdda9278c867d717c20cb7d1de54d790efbaa2fe36fbf4d7b2f9fc918",
+  "title_hash": "777010c7fdb708a152de0319e3ef6994d189168547c75e94dacb986ece514c9e",
+  "collected_at": "2026-08-26T12:36:19.121224+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "not_spam": true,
+      "no_clickbait": true,
+      "no_disguised_ads": true,
+      "quality_info": "High - well-researched, factual, and supported by credible sources (CDC, public health officials).",
+      "no_repetition": true,
+      "correct_category": true,
+      "no_excessive_bias": true,
+      "opinion_fact_separation": "N/A (not a review/opinion piece; purely factual reporting).",
+      "no_fabrication": true,
+      "additional_notes": "The article provides critical public health information without sensationalism. It cites verifiable data and avoids inflammatory language while addressing misinformation objectively."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-26T12:36:19.121224+07:00"
+}

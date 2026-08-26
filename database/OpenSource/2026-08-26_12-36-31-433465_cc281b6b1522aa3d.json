@@ -1,0 +1,48 @@
+{
+  "id": "cc281b6b1522aa3d",
+  "title": "New bootloader unlocks full root access for the original Meta Quest, removing reliance on Meta's servers",
+  "url": "https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest",
+  "source": "Ars Technica",
+  "category": "OpenSource",
+  "summary": "A recently released bootloader and root-access exploit, named QuestStack, allows developers and enthusiasts to gain full control over the original Meta Quest (formerly Oculus Quest) VR headset. This project leverages known vulnerabilities in the Quest's Android fastboot process to enable root access without requiring downloads, using a web interface. The exploit frees the hardware from dependence on Meta's servers, enabling sideloading of apps without a Meta Developer account, and ensuring the device remains functional even if Meta shuts down its support servers. Early tinkering has unlocked features like the 90 Hz refresh rate and compatibility with third-party VR controllers. While similar exploits may work on Quest 2 with older firmware, the risk of bricking the device currently outweighs the benefits.",
+  "score": 9,
+  "tags": [
+    "OpenSource",
+    "VR",
+    "Root Access",
+    "Bootloader",
+    "Meta Quest",
+    "Android"
+  ],
+  "key_points": [
+    "QuestStack is a new bootloader and root-access exploit for the original Meta Quest (2019).",
+    "The exploit uses known vulnerabilities in the Quest's Android fastboot process to achieve full root access via a web interface.",
+    "Root access removes reliance on Meta's servers, allowing sideloading of apps without a Meta Developer account.",
+    "The headset can still be set up and used even if Meta shuts down its support servers in the future.",
+    "Early tinkering has unlocked previously restricted features, such as the 90 Hz refresh rate and support for third-party VR controllers.",
+    "A similar exploit could potentially work on Quest 2 with older firmware, but the risk of bricking the device is currently too high.",
+    "This project aligns with Meta's former CTO John Carmack's vision of repurposing older VR hardware for extended usability."
+  ],
+  "content_hash": "fd2ce909b134ae3fd9506144ad29b1884ae20583fcc8f03c44a3662cc50c6d13",
+  "title_hash": "cb2b5407f1c069bd08543aa73b541a3c6c07b48086bbf4f021f7b8ab0b055ebe",
+  "collected_at": "2026-08-26T12:36:31.433465+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a detailed and accurate overview of the QuestStack exploit, its implications, and potential risks. It is highly informative for developers and VR enthusiasts, with no signs of spam, clickbait, or hidden advertising. The category 'OpenSource' is correct, and the content maintains a neutral tone while clearly distinguishing technical facts from early tinkering results. The summary and key points align well with the title and tags."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-26T12:36:31.433465+07:00"
+}

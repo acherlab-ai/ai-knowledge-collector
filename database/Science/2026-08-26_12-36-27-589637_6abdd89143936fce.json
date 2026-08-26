@@ -1,0 +1,45 @@
+{
+  "id": "6abdd89143936fce",
+  "title": "Lab supply companies found selling antibodies with manipulated marketing images",
+  "url": "https://arstechnica.com/science/2026/08/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images",
+  "source": "Ars Technica",
+  "category": "Science",
+  "summary": "A postdoctoral researcher discovered widespread image manipulation in marketing materials for over 17,000 commercial antibodies sold by 16 companies. These manipulations, including background noise removal and data fabrication, mislead researchers about antibody performance, potentially wasting time and resources in troubleshooting ineffective products.",
+  "score": 9,
+  "tags": [
+    "Science",
+    "Research Integrity",
+    "Biotechnology",
+    "Antibodies"
+  ],
+  "key_points": [
+    "Antibodies are critical tools in biological research, used in techniques like western blots and cell localization studies.",
+    "Commercial suppliers use experimental images to market antibody effectiveness, but these images are often manipulated.",
+    "A postdoc at Northwestern University found over 17,500 antibodies with manipulated images from 16 companies, affecting ~7% of examined images.",
+    "Manipulations included removing background noise, copying/pasting data, and fabricating results to appear more effective.",
+    "Misleading images can cause researchers to waste time and money troubleshooting procedures under the false assumption that the antibody works as advertised.",
+    "Companies responded with mixed reactions, ranging from investigations to dismissals of the issue."
+  ],
+  "content_hash": "6129d1df05ebd40642ed7978ea116a8d7dc619cb20c12435eeee389a2e78c8e2",
+  "title_hash": "f40566c71ef528e4ec05ab6b2d5d96b63b690ce53e8b848f45826d5b5ac951d2",
+  "collected_at": "2026-08-26T12:36:27.589637+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_distinction": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a well-researched, fact-based investigation into a critical issue in scientific research (antibody marketing manipulation). It is highly useful for researchers and professionals in biotechnology, with no signs of spam, clickbait, or hidden advertising. The information is detailed, accurate, and supported by evidence. The category 'Science' is correct, and the content maintains objectivity while highlighting a significant problem in the field."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-26T12:36:27.589637+07:00"
+}

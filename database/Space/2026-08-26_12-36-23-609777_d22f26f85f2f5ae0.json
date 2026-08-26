@@ -1,0 +1,48 @@
+{
+  "id": "d22f26f85f2f5ae0",
+  "title": "SpaceX intends to invest up to $100 billion in massive Louisiana spaceport",
+  "url": "https://arstechnica.com/space/2026/08/spacex-intends-to-invest-up-to-100-billion-in-massive-louisiana-spaceport",
+  "source": "Ars Technica",
+  "category": "Space",
+  "summary": "SpaceX plans to invest up to $100 billion to develop a large-scale spaceport in Louisiana, named 'Starbase Louisiana.' The facility aims to replicate and expand upon SpaceX's Starbase in Texas, featuring Starship factories, launch pads, propellant production, power generation, and deep-water shipping capabilities. The project addresses SpaceX's need for additional launch sites to support its goal of launching thousands of Starship rockets annually for orbital data centers and other purposes. Louisiana was chosen for its vast land availability, access to methane propellant, and strategic location for polar orbit launches. The project includes environmental conservation efforts and is expected to create thousands of local jobs.",
+  "score": 9,
+  "tags": [
+    "SpaceX",
+    "Starship",
+    "Spaceport",
+    "Launch Site",
+    "Space Industry"
+  ],
+  "key_points": [
+    "SpaceX will invest up to $100 billion to develop 'Starbase Louisiana,' a self-sustaining spaceport in coastal Louisiana.",
+    "The facility will include Starship factories, launch pads, propellant production, power generation, deep-water shipping, and an on-site airport.",
+    "Louisiana was selected for its vast land (125,000 acres), lack of competition for range access, and proximity to the Intracoastal Waterway for logistics.",
+    "The location offers advantages for polar orbit launches, which are critical for SpaceX's orbital data center satellites.",
+    "SpaceX plans to begin construction in 2027, with the first launch targeted for 2029.",
+    "The project includes environmental conservation efforts, such as coastal erosion prevention and wildlife preservation.",
+    "SpaceX expects to create 3,000 to 10,000 local jobs in welding, energy, and other trades.",
+    "The site was made available through a legal settlement involving ExxonMobil, resolving pollution and land loss lawsuits."
+  ],
+  "content_hash": "04e0153dbd842ee1eb65e7d3c399ed56cc9a418993f382d81004a7672921a607",
+  "title_hash": "a3d7650a6b0be88099e83239b4677dd19424793f60ab06827aa4b858d1fb476c",
+  "collected_at": "2026-08-26T12:36:23.609777+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides detailed, well-researched information about SpaceX's planned investment in Louisiana, including strategic, logistical, and environmental considerations. The content is factual, relevant to the 'Space' category, and avoids spam, clickbait, or hidden advertising. The summary and key points are clear, non-repetitive, and objectively presented. The project's scale and implications are significant, justifying the high quality score."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-26T12:36:23.609777+07:00"
+}
