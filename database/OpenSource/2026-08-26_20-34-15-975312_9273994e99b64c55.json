@@ -1,0 +1,47 @@
+{
+  "id": "9273994e99b64c55",
+  "title": "AWS Acquires DuckDB: DuckLabs to Join AWS with Projects Remaining Open Source",
+  "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+  "source": "Hacker News",
+  "category": "OpenSource",
+  "summary": "DuckLabs, the team behind the open-source analytical database DuckDB, has announced its acquisition by AWS. The DuckLabs team will join AWS while continuing to develop DuckDB, DuckLake, and Quack under the MIT license, with the DuckDB Foundation retaining stewardship. The acquisition aims to scale DuckDB's reach and resources while preserving its open-source nature and community-driven development.",
+  "score": 9,
+  "tags": [
+    "OpenSource",
+    "AWS",
+    "DuckDB",
+    "Database",
+    "Cloud"
+  ],
+  "key_points": [
+    "DuckLabs, the team behind DuckDB, will join AWS in early September 2026, with the team remaining in Amsterdam.",
+    "DuckDB and related projects (DuckLake, Quack) will remain open source under the MIT license, managed by the nonprofit DuckDB Foundation.",
+    "The acquisition is driven by the need to scale DuckDB's growth, infrastructure, and reach while maintaining its open-source ethos.",
+    "AWS and DuckLabs have collaborated for over a year, and AWS is committed to long-term support for DuckDB's development and community.",
+    "The DuckDB Foundation will establish a technical advisory board to include community input on the project's direction.",
+    "Extensions for DuckDB will be opened to third-party developers, expanding its ecosystem.",
+    "The acquisition is seen as a positive step by industry leaders, including MotherDuck and Fivetran, for strengthening the open data stack."
+  ],
+  "content_hash": "b8e719207ddbae89d0ee9b014f6c14e81a65e87014ab8e4c495739b64e57efae",
+  "title_hash": "03abc20fc6ee010347b430463cb0a392c630203d59c3c2106d39e497035bf7ec",
+  "collected_at": "2026-08-26T20:34:15.975312+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_correct": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, factual summary of the AWS acquisition of DuckLabs, including key points about the future of DuckDB and its open-source projects. The content is informative, well-structured, and free of spam, clickbait, or hidden advertising. The category 'OpenSource' is appropriate, and the tone remains neutral despite the positive industry reactions mentioned. No fabrication or misleading claims are present."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-26T20:34:15.975312+07:00"
+}
