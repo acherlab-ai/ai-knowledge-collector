@@ -1,0 +1,49 @@
+{
+  "id": "324a3b749d1a939d",
+  "title": "India’s Ringg Secures $10M from Peak XV to Expand Voice AI Beyond Phone Calls",
+  "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "Ringg, an Indian voice AI startup, has raised $10 million from Peak XV Partners to expand its voice AI solutions beyond traditional phone calls. Originally a text-to-speech startup, Ringg pivoted to building voice AI agents for enterprises, processing 20 million call attempts monthly. It serves clients like Cred, Flipkart, Practo, and PolicyBazaar, focusing on complex workflows such as appointment booking, abandoned-cart recovery, and KYC checks. The company aims to position itself as a platform for outcome-driven AI agents, branching into chat, WhatsApp, and browser-based support. Ringg builds its own speech models and targets global expansion via partnerships with offshore hubs in India.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Voice AI",
+    "Startups",
+    "Fundraising",
+    "India",
+    "Enterprise AI"
+  ],
+  "key_points": [
+    "Ringg has raised $10 million from Peak XV Partners, extending its Series A to $15.5 million total.",
+    "The startup processes 20 million call attempts monthly and serves major Indian enterprises like Cred, Flipkart, and Practo.",
+    "Ringg shifted from text-to-speech to voice AI agents, focusing on high-value workflows like healthcare appointment booking and fintech KYC checks.",
+    "Over 70% of Ringg’s business remains voice calls, but it is expanding into chat, WhatsApp, and browser-based support.",
+    "The company builds its own speech recognition and generation models but operates as an orchestration layer for now.",
+    "Ringg targets global expansion by partnering with Global Capability Centers in India rather than selling directly to U.S. companies.",
+    "The voice AI market in India is competitive, with players like Sarvam, Smallest.ai, Bolna, and Blue Machines vying for dominance.",
+    "Ringg employs 40 people and is hiring for roles combining technical and product management skills."
+  ],
+  "content_hash": "05e66eaadaa613634b541e74187caa6c0ac5978e100cbc4d5bdca77221387ffa",
+  "title_hash": "a3e617f3a29981c0913f15c26e2e230a1c30db30ee0e2ebb955852c9e9b1afaa",
+  "collected_at": "2026-08-26T11:03:06.717275+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a detailed, fact-based overview of Ringg's funding, business model, and market positioning. It includes specific metrics (e.g., 20M call attempts/month), client names, and strategic insights without exaggeration or misleading claims. The content is well-researched, relevant to the AI category, and avoids promotional language or bias. Minor deductions in score are due to the absence of direct competitor comparisons or deeper technical analysis, but this does not detract from its overall value."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-26T11:03:06.717275+07:00"
+}
