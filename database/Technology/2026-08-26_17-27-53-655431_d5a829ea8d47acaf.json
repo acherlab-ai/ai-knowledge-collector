@@ -1,0 +1,46 @@
+{
+  "id": "d5a829ea8d47acaf",
+  "title": "Social media use on the rise among Australian under-16s despite legal ban",
+  "url": "https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data",
+  "source": "Hacker News",
+  "category": "Technology",
+  "summary": "Data from parental control app Qustodio reveals that Australian children under 16 are increasingly using social media platforms like TikTok, Instagram, and Snapchat despite a legal ban implemented in December. Usage initially dropped but has since risen, nearing pre-ban levels. Experts suggest children may bypass restrictions using VPNs, age obfuscation, or due to ineffective enforcement. Messaging platforms like WhatsApp, unaffected by the ban, are also seeing increased use. The ban aims to protect children from online bullying and predatory algorithms, but research indicates limited impact on reducing teenage social media engagement.",
+  "score": 8,
+  "tags": [
+    "social media",
+    "digital regulations",
+    "child safety",
+    "VPN",
+    "parental controls"
+  ],
+  "key_points": [
+    "Australia implemented a world-first ban on social media for children under 16 in December, followed by the UK and France.",
+    "Initial compliance saw a drop in usage, but data shows a rebound, with some apps nearing pre-ban levels (e.g., TikTok usage among 13-15 year-olds at 25.9%).",
+    "Possible workarounds include VPNs, age falsification, or ineffective enforcement of the ban.",
+    "Children are shifting to platforms like WhatsApp, which are not covered by the ban.",
+    "The ban aims to curb online bullying and harmful algorithms, but peer-reviewed research suggests minimal impact on teenage social media use.",
+    "New Zealand plans to introduce similar legislation with penalties up to 10% of global revenue for non-compliance."
+  ],
+  "content_hash": "d03f016101e4e0d45fc063c45d781fceb74c1007e5db5c2adbc32e0d9afcea78",
+  "title_hash": "3fe0d3c94f0d20723649200d6f7abb3ede2373df197dec851dc6c3d63d1ff88b",
+  "collected_at": "2026-08-26T17:27:53.655431+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "High - backed by data from Qustodio, peer-reviewed research, and clear sourcing of regulatory trends (Australia, UK, France, New Zealand).",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "Minimal - presents facts (e.g., usage stats, enforcement challenges) alongside expert opinions without overt advocacy. Acknowledges limitations of the ban without dismissing its intent.",
+      "opinion_fact_separation": "N/A (not a review/opinion piece; focuses on data and regulatory analysis).",
+      "fabrication": false,
+      "notes": "Well-researched, balanced, and relevant to the Technology category. Minor deduction in score for not explicitly naming the peer-reviewed research cited, but this is a common editorial practice."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-26T17:27:53.655431+07:00"
+}

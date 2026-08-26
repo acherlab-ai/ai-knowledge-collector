@@ -1,0 +1,55 @@
+{
+  "id": "0f6429ef679060f4",
+  "title": "US Banking Access Index for Non-Resident Founders (2026)",
+  "url": "https://www.globalsolo.global/data/banking-access-index",
+  "source": "Hacker News",
+  "category": "Technology",
+  "summary": "A verified dataset documenting the acceptance policies of 19 US business banking providers for non-resident founders across 8 countries. The index is based on provider-published sources, re-verified quarterly, and includes 239 claims with full evidence quotes. It categorizes providers by their stance on non-resident founders (explicitly accepted, explicitly restricted, no published restriction, or no published policy) and details specific conditions, restrictions, and operational nuances for each provider.",
+  "score": 9,
+  "tags": [
+    "FinTech",
+    "Banking",
+    "Non-Resident Founders",
+    "US Business Banking",
+    "Cross-Border Finance"
+  ],
+  "key_points": [
+    "Dataset covers 19 US banking providers and their policies for non-resident founders in 8 countries (India, China, UK, Canada, Pakistan, Nigeria, Turkey, Brazil).",
+    "239 verified claims sourced directly from provider-published materials, re-verified quarterly to track changes (e.g., providers opening or closing access).",
+    "Four categories of provider stances: explicitly accepted, explicitly restricted, no published restriction, or no published policy (with sub-categories for unknowns).",
+    "Explicit restrictions are further divided into three types: named on a prohibited list, absent from a closed eligibility list, or derived from a blanket rule (e.g., 'US citizens/residents only').",
+    "Key providers analyzed in detail: Mercury, Relay, Wise Business, Brex, Payoneer, and others, with specifics on entity requirements, owner ID/residency, account rails, international wire support, card issuance, FDIC structure, onboarding, and 2FA policies.",
+    "Mercury: Accepts non-resident founders but restricts card issuance for residents of certain countries (e.g., Tier 1: no cards for Nigeria, Vietnam, Russia; Tier 2: virtual cards only for China, India, Pakistan). Requires US-registered entity with US operations; no US residency/citizenship required for owners.",
+    "Relay: Conditional acceptance; requires US-registered entity with physical US address. Foreign-owned US LLCs may be placed in a restricted tier (Basic/Tier D) with low incoming ACH limits ($2,000/day). Cards ship to US addresses only; virtual cards available for international residents.",
+    "Wise Business: Conditional acceptance; requires EIN and physical US trading address (Nevada/US-territory entities excluded). Non-US owners provide passport-based ID; USD account details are virtual (not a bank account) and may not be available in all regions.",
+    "Dataset is CC BY 4.0 licensed, allowing reuse with attribution. Available in JSON (full evidence quotes) and CSV (acceptance matrix) formats.",
+    "Critical nuances highlighted: absence of a country from a provider’s list does not imply acceptance; some providers have non-exhaustive lists or conflicting pages. Remote onboarding, VoIP policies, and video-KYC requirements vary widely."
+  ],
+  "content_hash": "b3b1125772e29125ba4a8f41b7e1e06febd2392557fba8854b83d453dbe9652a",
+  "title_hash": "68b44837489af50523e22738776e8d63c6896f8326359dd87238ca537732920c",
+  "collected_at": "2026-08-26T17:28:00.389500+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": {
+        "useful": "The dataset provides actionable, verified information for non-resident founders seeking US business banking access, addressing a critical pain point in cross-border finance. The quarterly re-verification and evidence-based claims add significant value.",
+        "info_quality": "High-quality due to direct sourcing from provider-published materials, granular categorization (239 claims), and transparent methodology. Nuances like non-exhaustive lists and conflicting policies are explicitly addressed.",
+        "bias_level": "The content is factual and data-driven, with no evident bias. It presents provider policies objectively, including restrictions and conditions, without promoting or disparaging any service.",
+        "category_match": "Fits the 'Technology' category (specifically FinTech and cross-border financial infrastructure) and aligns with the tags provided."
+      }
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-26T17:28:00.389500+07:00"
+}
