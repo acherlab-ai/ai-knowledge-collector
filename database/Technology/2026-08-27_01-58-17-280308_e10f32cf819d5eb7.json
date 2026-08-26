@@ -1,0 +1,47 @@
+{
+  "id": "e10f32cf819d5eb7",
+  "title": "Court blocks FCC order that could increase election ads on broadcast TV",
+  "url": "https://arstechnica.com/tech-policy/2026/08/court-blocks-trump-fcc-order-that-could-flood-broadcast-tv-with-more-election-ads",
+  "source": "Ars Technica",
+  "category": "Technology",
+  "summary": "A federal appeals court has blocked a Trump-era FCC order that would have allowed political parties and joint fundraising committees to access the lowest advertising rates (LUC) on broadcast TV, a benefit previously reserved for individual candidates. The ruling, issued by the 4th Circuit Court of Appeals, reaffirms that only legally qualified candidates are entitled to these discounted rates under U.S. law. The decision is seen as a significant setback for Republican campaigns, which sought to leverage the lower rates for party-funded ads ahead of the upcoming elections.",
+  "score": 8,
+  "tags": [
+    "FCC",
+    "broadcast regulations",
+    "election advertising",
+    "telecom policy",
+    "legal ruling"
+  ],
+  "key_points": [
+    "The 4th Circuit Court of Appeals blocked an FCC order that would have extended the 'lowest unit charge' (LUC) to political parties and joint fundraising committees, not just individual candidates.",
+    "U.S. law explicitly limits LUC eligibility to 'legally qualified candidates for public office,' and the court ruled the FCC overstepped by expanding this to parties and committees.",
+    "The ruling was a 2-1 decision, with dissent from a Reagan-appointed judge who argued the FCC’s interpretation was plausible and aligned with free speech principles.",
+    "The decision follows a Supreme Court ruling in *National Republican Senatorial Committee v. FEC*, which struck down limits on party-candidate coordination but did not address LUC eligibility.",
+    "FCC Commissioner Anna Gomez criticized the original order for potentially flooding broadcast TV with 'dark money' ads and undermining broadcasters' revenue during peak election seasons.",
+    "The FCC did not rule on a petition from Democratic candidates challenging the order, prompting the court to intervene due to the time-sensitive nature of the election cycle.",
+    "The FCC may seek a rehearing or appeal to the Supreme Court, as it aligns with the dissenting judge’s argument that the ruling restricts political speech."
+  ],
+  "content_hash": "0d01dbc33bdad4e2bb4a8614f866f63a40a699e1fe8254424eed4ae7c28bfc1e",
+  "title_hash": "47412fb1acadb39210f96d4d19e61c8e4d6992acf594dab1c37f8b285fb51637",
+  "collected_at": "2026-08-27T01:58:17.280308+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_distinction": "clear",
+      "fabrication": false,
+      "details": "The article provides a detailed, fact-based analysis of a legal ruling related to FCC regulations and election advertising. It includes multiple perspectives (court majority, dissent, FCC commissioner) without overt bias. The category is correctly identified as 'Technology' (subcategory: telecom policy/legal). The summary and key points are well-structured, avoiding redundancy or misleading claims. The dissenting opinion is presented fairly, and the article distinguishes between legal facts and interpretations."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-27T01:58:17.280308+07:00"
+}
