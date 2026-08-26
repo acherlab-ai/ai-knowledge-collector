@@ -1,0 +1,47 @@
+{
+  "id": "b69b4dcf308e9074",
+  "title": "Radar Makes Podcasts Searchable and Usable by AI Agents",
+  "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "Particle, an AI newsreader startup, has launched Radar, a podcast search engine that transcribes and indexes over 130,000 podcasts, making them searchable and usable by AI agents. Radar provides rich metadata, speaker labels, and entity recognition (people, companies, topics), enabling users to extract key quotes, track mentions, and receive alerts. The service is available via a web interface and API, with applications for hedge funds, AI search platforms, and researchers. Future plans include expanding to other audio formats like YouTube videos.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Podcasts",
+    "API",
+    "Speech Recognition",
+    "Data Indexing"
+  ],
+  "key_points": [
+    "Radar transcribes and indexes over 130,000 podcasts, making them searchable for AI agents and businesses.",
+    "The service includes speaker labels, rich metadata, and entity recognition (e.g., people, companies, topics).",
+    "Users can extract key quotes, track mentions, and set up custom alerts via email, Slack, or webhook.",
+    "Radar’s primary customers include hedge funds, AI search platforms (e.g., Exa), and data resellers.",
+    "The platform offers a dedicated podcast ads search engine and tools for political bias analysis, sponsorship data, and brand suitability.",
+    "Pricing starts at $29/month per seat, with custom API pricing for businesses.",
+    "Future expansion plans include supporting other audio formats like YouTube videos and news clips."
+  ],
+  "content_hash": "a7b471f471b74308a745b2ed4d5fc46c83c5a6521b3385484b5ba67b1908c873",
+  "title_hash": "7d728d7e7d6464c32aadccef9f4b109e7b7f1b4a77469b67f0b0c3e6bceb9c33",
+  "collected_at": "2026-08-26T23:00:35.093143+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, factual overview of Radar's features, applications, and target users without exaggeration or misleading claims. The content is well-structured, informative, and relevant to the AI category. No spam, clickbait, or hidden advertisements are detected. The information is detailed, accurate, and avoids redundancy. The tone is neutral, focusing on factual reporting rather than opinion or bias."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-26T23:00:35.093143+07:00"
+}
