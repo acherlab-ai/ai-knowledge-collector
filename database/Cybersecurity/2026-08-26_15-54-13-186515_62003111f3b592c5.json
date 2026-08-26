@@ -1,0 +1,48 @@
+{
+  "id": "62003111f3b592c5",
+  "title": "Disrupting a New Covert Influence Campaign from Russia Using AI",
+  "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+  "source": "Hacker News",
+  "category": "Cybersecurity",
+  "summary": "OpenAI identified and disrupted a covert Russian influence operation leveraging ChatGPT to promote the International Burke Institute (IBI), a fabricated 'expert community.' The campaign involved generating social media posts in English while hiding Russian origins, using VPNs. The IBI website, registered in 2025 and falsely claiming an Israeli base, republished plagiarized academic work and a 'sovereignty index' favoring Russia. Though the operation reached limited audiences, its elaborate infrastructure highlights how AI can be misused to manufacture credibility and obscure narrative sources.",
+  "score": 9,
+  "tags": [
+    "Cybersecurity",
+    "AI",
+    "Influence Operations",
+    "Russia",
+    "Disinformation"
+  ],
+  "key_points": [
+    "OpenAI banned a cluster of ChatGPT accounts originating in Russia, used to generate social media posts promoting the International Burke Institute (IBI).",
+    "Operators used VPNs to access ChatGPT, prompting in Russian but generating English content while hiding linguistic clues of their origin.",
+    "The IBI website, registered in 2025 and falsely claiming an Israeli base, republished plagiarized academic work with false attributions (e.g., misattributed articles to unrelated experts).",
+    "The campaign featured a 'sovereignty index' praising Russia and criticizing Western countries (e.g., France, Germany, the EU, and the USA).",
+    "AI-generated content included social media posts on X, LinkedIn, Facebook, Substack, and Telegram, as well as logos and Russian-language summaries for Telegram channels.",
+    "Non-AI activity included the IBI website’s copied content, fake expert profiles (e.g., featuring Noam Chomsky and Francis Fukuyama without consent), and polemic reports targeting Western policies.",
+    "Impact was limited (low engagement on social media, 10-20K Telegram followers), but the operation’s infrastructure demonstrated how AI can support broader disinformation efforts to manufacture authority.",
+    "This is the first disrupted Russian influence operation of such elaborate scale, combining AI-generated promotion with a fabricated think tank to obscure narrative origins."
+  ],
+  "content_hash": "02353ee0a7f7d7a2fa53f7bc1962c3e87ba7ce65257c0661e5b86d665a63553b",
+  "title_hash": "0757c9b2a4fac6fccb284e25a780e46d0e0902128093be4356b974dd5b973c29",
+  "collected_at": "2026-08-26T15:54:13.186515+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "not_spam": true,
+      "no_clickbait": true,
+      "no_disguised_ads": true,
+      "high_quality_info": true,
+      "no_redundancy": true,
+      "correct_category": true,
+      "no_excessive_bias": true,
+      "opinion_fact_distinction": "N/A (not a review/opinion piece)",
+      "no_fabrication": true,
+      "details": "The article provides a detailed, fact-based analysis of a covert Russian influence operation using AI, backed by OpenAI's findings. It clearly distinguishes between factual reporting (e.g., OpenAI's actions, IBI's plagiarism) and contextual analysis (e.g., implications of AI misuse). The content is well-researched, relevant to cybersecurity, and avoids sensationalism or bias. Minor deduction in score for the speculative nature of the '2025 registration' detail (likely a typo for 2023/2024), but this does not undermine overall credibility."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-26T15:54:13.186515+07:00"
+}
