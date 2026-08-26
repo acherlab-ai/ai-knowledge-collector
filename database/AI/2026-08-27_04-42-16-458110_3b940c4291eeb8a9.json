@@ -1,0 +1,48 @@
+{
+  "id": "3b940c4291eeb8a9",
+  "title": "Qwen 3.8 27B Uncensored – Overview and Deployment Guide",
+  "url": "https://imageat.com/models/qwen-3-8-27b-uncensored",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "The article provides a detailed overview of the Qwen 3.8 27B Uncensored model, hosted as a chat API by Imageat. It eliminates the need for local model downloads, GPU management, or inference server setup, offering a seamless integration for applications requiring long-context assistance. The guide covers use cases, input/output parameters, recommended settings, and limitations of the model.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Large Language Models",
+    "API",
+    "Qwen",
+    "Uncensored Models"
+  ],
+  "key_points": [
+    "Qwen 3.8 27B Uncensored is hosted as a chat API, removing the need for local deployment or GPU management.",
+    "Ideal for long-context tasks such as reviewing large specifications, code excerpts, research notes, or extended conversations.",
+    "Supports both quick chat and deliberate analysis modes via a per-request 'thinking mode' toggle.",
+    "Outputs are OpenAI-compatible, with UTF-8 text responses and optional reasoning blocks when thinking mode is enabled.",
+    "Key input parameters include system/user messages, temperature, top_p, top_k, repetition_penalty, and token limits for controlling response style and length.",
+    "Recommended settings are provided for reasoning/coding tasks and direct chat responses.",
+    "Limitations include no guarantee of refusal behavior, shared context budget (262,144 tokens), potential runtime increases in thinking mode, and no support for vision inputs.",
+    "Safety and compliance note: The model may answer sensitive requests but must adhere to platform rules and legal restrictions. Additional moderation is advised for user-facing applications."
+  ],
+  "content_hash": "7db59f303932e151cb0ce110288831d0a7a2e17c2ff9cc250fcdccb0ca15b6cc",
+  "title_hash": "d99c5c4ddfbf21465a033fb685e42e488407c222be2b0273a8b0dd37b1d96400",
+  "collected_at": "2026-08-27T04:42:16.458110+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a comprehensive and practical guide for deploying the Qwen 3.8 27B Uncensored model via API, covering key technical aspects, use cases, and limitations. The content is well-structured, factual, and directly relevant to the AI category. No spam, clickbait, or hidden advertisements are detected. The information is detailed, non-repetitive, and maintains a neutral tone while acknowledging potential risks (e.g., uncensored outputs). The summary and key points align with the title and tags, ensuring clarity and accuracy."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-27T04:42:16.458110+07:00"
+}

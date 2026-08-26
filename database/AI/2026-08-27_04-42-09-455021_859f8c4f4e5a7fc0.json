@@ -1,0 +1,47 @@
+{
+  "id": "859f8c4f4e5a7fc0",
+  "title": "Anthropic Secures $45 Billion AI Compute Deal with Nscale to Boost Competitive Edge",
+  "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "Anthropic has signed a $45 billion deal with British AI infrastructure company Nscale to rent advanced AI compute power using Nvidia’s Vera Rubin chips. The six-year agreement, set to begin in late 2027, is part of Anthropic’s aggressive strategy to expand its compute capacity and compete with rivals like OpenAI. This follows recent multi-billion-dollar deals with Volta, AMD, SpaceX, Amazon, Google, and Broadcom, reflecting the broader industry trend of securing massive compute resources for AI development.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Anthropic",
+    "Nscale",
+    "Nvidia",
+    "Compute Infrastructure",
+    "OpenAI",
+    "Cloud Computing"
+  ],
+  "key_points": [
+    "Anthropic has signed a $45 billion deal with Nscale to rent AI compute power using Nvidia’s Vera Rubin chips, a state-of-the-art multi-chip system.",
+    "The six-year deal will supply compute capacity from Nscale’s flagship data center in West Virginia, starting in late 2027.",
+    "This is part of Anthropic’s aggressive compute expansion strategy to compete with OpenAI and other AI leaders.",
+    "Recent deals include $10 billion with Volta, $5 billion with AMD, $1.25 billion monthly capacity from SpaceX, and expanded partnerships with Amazon, Google, and Broadcom.",
+    "The AI industry is in a compute arms race, with major players like Google, OpenAI, and Meta also scaling up infrastructure."
+  ],
+  "content_hash": "a5eec232b872265ee329b00b6ac826fad58cc1e779b15153b61d2368ebd90d5c",
+  "title_hash": "36ff95ba8d3ae8c7bf65932d3b98fe965cb9f28150be32bc4aaf37a46869eb12",
+  "collected_at": "2026-08-27T04:42:09.455021+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "no_spam": true,
+      "no_clickbait": true,
+      "no_disguised_ads": true,
+      "info_quality": "High - well-researched, fact-based reporting with credible sources and industry context.",
+      "no_repetition": true,
+      "category_correct": true,
+      "no_excessive_bias": true,
+      "opinion_vs_fact": "N/A - This is a news report, not a review or opinion piece. All claims are supported by verifiable deals and industry trends.",
+      "no_fabrication": true,
+      "neutrality": "The article maintains neutrality by presenting facts about the deal and industry trends without favoring Anthropic or its competitors. It acknowledges the broader compute arms race context."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-27T04:42:09.455021+07:00"
+}
