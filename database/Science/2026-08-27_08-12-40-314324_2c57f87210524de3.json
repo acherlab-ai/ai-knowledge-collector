@@ -1,0 +1,52 @@
+{
+  "id": "2c57f87210524de3",
+  "title": "Worst-case glacial lake outburst flood scenarios in a transboundary Himalayan basin",
+  "url": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html",
+  "source": "Hacker News",
+  "category": "Science",
+  "summary": "This research article assesses the hazard posed by glacial lake outburst floods (GLOFs) in the transboundary Poiqu river basin in the Himalayas under current and future conditions. The study focuses on two dangerous glacial lakes (Galongco and Jialongco) and a potential future lake, simulating worst-case outburst scenarios triggered by large avalanches. The findings highlight the significant downstream impacts, including extremely short warning times (5-30 minutes) and flood magnitudes far exceeding historical precedents. The research underscores the need for comprehensive disaster risk management strategies, combining early warning systems, land use zoning, and local capacity building to address current and future GLOF risks exacerbated by climate change.",
+  "score": 9,
+  "tags": [
+    "climate change",
+    "glacial lake outburst floods",
+    "GLOF",
+    "Himalayas",
+    "disaster risk management",
+    "transboundary hazards",
+    "geohazards"
+  ],
+  "key_points": [
+    "Glacial lake outburst floods (GLOFs) are a major concern in High Mountain Asia, with transboundary impacts extending far downstream.",
+    "The Poiqu river basin in the central Himalayas is a hotspot for GLOF risk, with at least six major GLOF events reported in the past century.",
+    "The study focuses on two dangerous lakes (Galongco and Jialongco) and simulates worst-case outburst scenarios triggered by large rock/ice avalanches.",
+    "Simulated GLOF discharges at the Nepal border could be over 15 times larger than previously observed or anticipated.",
+    "Warning times for downstream areas like Nyalam (Tibet) and the Nepal border are extremely short (5-30 minutes).",
+    "Recent remedial measures to lower water levels at Jialongco have limited impact on downstream consequences of very large-magnitude GLOFs.",
+    "A potential future lake upstream of Nyalam is assessed for avalanche-triggered GLOF risks, highlighting future challenges.",
+    "The study calls for a comprehensive approach to disaster risk management, including early warning systems, land use zoning, and local response capacity building.",
+    "Climate change is expected to increase the likelihood of catastrophic GLOF events due to glacier retreat and lake expansion.",
+    "The research demonstrates a methodology for assessing worst-case GLOF scenarios, including future lakes, to inform proactive risk reduction strategies."
+  ],
+  "content_hash": "186461d007b899ef837478d3068b064e2d10624b9f457621c31bcfdf207bd5fc",
+  "title_hash": "2d0eadfc40271af8f6f0fe1e0c5e536d73cd92c663e764803c228257314bf3f4",
+  "collected_at": "2026-08-27T08:12:40.314324+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_distinction": "not_applicable",
+      "fabrication": false,
+      "details": "The article is a well-researched scientific study on glacial lake outburst floods (GLOFs) in the Himalayas, providing valuable insights into disaster risk management. It is highly useful, free of spam/clickbait, and maintains objectivity. The category is correctly assigned as 'Science,' and the content is factual with no signs of fabrication or hidden advertising. The study's methodology and findings are robust, contributing meaningfully to the field."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-27T08:12:40.314324+07:00"
+}

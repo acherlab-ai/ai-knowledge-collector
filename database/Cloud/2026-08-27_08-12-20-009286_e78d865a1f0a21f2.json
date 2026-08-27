@@ -1,0 +1,47 @@
+{
+  "id": "e78d865a1f0a21f2",
+  "title": "Amazon Mechanical Turk (MTurk) to Shut Down on September 30, 2026",
+  "url": "https://www.mturk.com",
+  "source": "Hacker News",
+  "category": "Cloud",
+  "summary": "Amazon has announced the shutdown of Mechanical Turk (MTurk), a crowdsourcing marketplace that connects businesses and individuals with a global, on-demand workforce for microtasks. The service will permanently close on September 30, 2026. MTurk enabled outsourcing of tasks like data validation, content moderation, and machine learning development to distributed workers. It offered benefits such as efficiency optimization, workforce flexibility, and cost reduction. The platform was widely used for machine learning workflows, business process outsourcing, and data science tasks.",
+  "score": 8,
+  "tags": [
+    "Cloud",
+    "AI",
+    "Crowdsourcing",
+    "Machine Learning",
+    "Business Process Outsourcing"
+  ],
+  "key_points": [
+    "Amazon Mechanical Turk (MTurk) will shut down on September 30, 2026.",
+    "MTurk is a crowdsourcing marketplace for outsourcing microtasks to a global workforce.",
+    "Common use cases include data validation, content moderation, survey participation, and machine learning development.",
+    "MTurk helped businesses optimize efficiency, increase workforce flexibility, and reduce costs by leveraging a pay-per-task model.",
+    "Key applications included building and evaluating machine learning workflows (e.g., data annotation, human-in-the-loop feedback) and business process outsourcing (e.g., content moderation, data collection).",
+    "The platform provided access to a diverse, on-demand workforce via API or user interface.",
+    "Users are directed to an FAQ page for preparation guidance ahead of the shutdown."
+  ],
+  "content_hash": "1e5cef4f4e91ef4744001a911be7d9468901d111a0a72f3e4f36fa3fa389e439",
+  "title_hash": "a03da15d2335c8baf129157b1253465a81992666e7f050566b0cddfb9fdf6786",
+  "collected_at": "2026-08-27T08:12:20.009286+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, factual announcement about the shutdown of Amazon Mechanical Turk (MTurk), including key dates, use cases, and benefits. The information is well-structured, relevant to the 'Cloud' category, and avoids bias or exaggeration. The summary and key points are concise and informative, making it highly useful for readers interested in cloud-based crowdsourcing or AI workflows. No spam, clickbait, or hidden advertising is detected."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-27T08:12:20.009286+07:00"
+}

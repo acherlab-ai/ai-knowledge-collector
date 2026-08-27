@@ -1,0 +1,48 @@
+{
+  "id": "0e13e779855f6cec",
+  "title": "Asahi Linux Progress Report: Linux 7.2 on Apple Silicon",
+  "url": "https://asahilinux.org/2026/08/progress-report-7-2",
+  "source": "Hacker News",
+  "category": "Linux",
+  "summary": "The Asahi Linux team details advancements in Linux 7.2 support for Apple Silicon (M1-M5), focusing on power management, hardware compatibility, and security challenges. Key updates include PSCI conduit implementation via UEFI Runtime Services, fixes for M4 WFI state retention issues, emulation of Apple's Secure Page Table Monitor (SPTM) for M4+ hypervisor support, and progress on M3 hardware (webcam, microphones, USB/Thunderbolt). The report also covers video decoding acceleration (AVD) integration with VA-API and ongoing work to optimize framebuffer handling for efficiency.",
+  "score": 9,
+  "tags": [
+    "Linux",
+    "Apple Silicon",
+    "Power Management",
+    "Hardware Compatibility",
+    "Kernel Development",
+    "OpenSource"
+  ],
+  "key_points": [
+    "Power Management: Implemented UEFI Runtime Service-based PSCI conduit to standardize CPU core power management on Apple Silicon, overcoming the lack of EL3 support.",
+    "M4 WFI Fix: Added kernel command-line parameter to handle M4's WFI state retention issue, preventing crashes during early initialization.",
+    "SPTM Emulation: Reverse-engineered Apple's Guarded Execution Framework (GXF) and SPRR to emulate SPTM, enabling XNU hypervisor functionality on M4+ devices.",
+    "M3 Hardware Support: Achieved full webcam and microphone support, resolved USB/Thunderbolt (ATCPHY) initialization changes, and adapted to the new ACE3 USB port controller (SPMI bus).",
+    "Video Decoding: Integrated Apple Video Decoder (AVD) with VA-API via a translation layer, enabling hardware-accelerated H.264/HEVC/VP9/AV1 decoding in desktop software.",
+    "NVMe/PCIe Progress: Fixed NVMe controller firmware changes for M4/M5 and enabled PCIe device enumeration.",
+    "Future Goals: Aiming for direct scanout to reduce framebuffer copies and improve power efficiency, with official M3 release imminent."
+  ],
+  "content_hash": "fd5239139ed0de57211940323a00625f5bf4fc26ac30b2f07146818ffa07462f",
+  "title_hash": "e72a79c5b38a6b2def9b305bec2ada3fd7cd3e41e8fcc3b51531af944fe38e36",
+  "collected_at": "2026-08-27T08:12:43.853400+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a detailed, technical progress report on Asahi Linux's support for Apple Silicon, focusing on Linux 7.2 advancements. It is highly informative, well-structured, and relevant to the Linux category. The content is factual, with no signs of spam, clickbait, or hidden advertising. The information is original, non-redundant, and maintains a neutral tone while clearly outlining technical challenges and solutions. The category is correctly assigned as 'Linux'."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-27T08:12:43.853400+07:00"
+}

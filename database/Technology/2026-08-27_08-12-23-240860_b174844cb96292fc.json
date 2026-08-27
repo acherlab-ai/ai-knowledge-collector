@@ -1,0 +1,43 @@
+{
+  "id": "b174844cb96292fc",
+  "title": "Zohran and the Short Link: Simplifying Government Engagement Through Human-Readable URLs",
+  "url": "https://iamwillwang.com/notes/zohran-and-the-short-link",
+  "source": "Hacker News",
+  "category": "Technology",
+  "summary": "The article discusses how Zohran Mamdani, a New York City politician, effectively uses short, human-readable URLs (e.g., nyc.gov/{initiative}) in his social media videos to improve public engagement with government initiatives. These top-level links streamline access to participation, centralize digital interactions under NYC's official domain, and establish a consistent pattern for online civic engagement.",
+  "score": 7,
+  "tags": [
+    "Digital Governance",
+    "User Experience",
+    "URL Design",
+    "Civic Tech"
+  ],
+  "key_points": [
+    "Short, human-readable URLs (e.g., nyc.gov/initiative) make government services more accessible and easier to engage with.",
+    "Centralizing links under a single official domain (nyc.gov) consolidates social media distribution and reinforces trust in the government's digital presence.",
+    "The approach establishes a predictable pattern for online civic interaction, improving user experience.",
+    "Follow-up actions (e.g., event participation) are directly tied to announcements, enhancing accountability and real-world impact."
+  ],
+  "content_hash": "9e2c84349a34ee57323135062e6bae316ab338eea2e4c18e065802370d44c58f",
+  "title_hash": "1e3d3e26618992506655c70fb23bd1a37d2137e01ec5692aaeebd21d49157cb5",
+  "collected_at": "2026-08-27T08:12:23.240860+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 8.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, informative case study on the use of human-readable URLs in digital governance, with practical insights and no signs of manipulation or misleading content. The category is correctly labeled as 'Technology' (not 'AI'). The quality is high, though the score is slightly lowered due to the niche focus (could benefit from broader context or examples)."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-27T08:12:23.240860+07:00"
+}

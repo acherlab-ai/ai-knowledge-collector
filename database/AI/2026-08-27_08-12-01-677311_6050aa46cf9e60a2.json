@@ -1,0 +1,44 @@
+{
+  "id": "6050aa46cf9e60a2",
+  "title": "AI Startup Instinct Raises $350 Million at $2.5 Billion Valuation",
+  "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "Instinct, a viral AI startup founded in 2025 by 23-year-old Noah Shinn, has raised $350 million in total funding, achieving a $2.5 billion valuation. The company offers an AI assistant designed to organize users' lives by integrating with apps and devices, enabling tasks like trip planning, grocery shopping, and subscription management. Despite its rapid growth and early user enthusiasm, Instinct faces privacy concerns due to its data permissions and terms of use.",
+  "score": 8,
+  "tags": [
+    "AI",
+    "Startups",
+    "Funding",
+    "AI Assistant",
+    "Privacy"
+  ],
+  "key_points": [
+    "Instinct, founded in 2025, has raised $350 million in total funding, including a $250 million Series B round co-led by Index Ventures and Benchmark.",
+    "The startup's valuation is now $2.5 billion, driven by its AI assistant that helps users with tasks like planning trips, managing subscriptions, and organizing daily activities.",
+    "The company is currently in private beta but has already gained attention for its rapid growth and early user adoption.",
+    "Privacy concerns have been raised due to the app's permissions and terms of use, which some users find invasive."
+  ],
+  "content_hash": "b872485ed15fc7b01465ef6370a6473342b11d77d187a4890b3e5a5823860d51",
+  "title_hash": "74e9d31deccb5eb27a3e2be37162ad2c3079d022077020135a8a9030f9aac6b0",
+  "collected_at": "2026-08-27T08:12:01.677311+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, factual summary of Instinct's funding, valuation, and product offering. It highlights both the startup's achievements and potential privacy concerns without exaggeration or misleading claims. The content is well-structured, relevant to the AI category, and avoids spam, clickbait, or hidden advertising. Minor room for improvement exists in expanding on privacy concerns for deeper context, but overall, the quality is excellent."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-27T08:12:01.677311+07:00"
+}
