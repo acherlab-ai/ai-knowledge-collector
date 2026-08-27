@@ -1,0 +1,45 @@
+{
+  "id": "49d8abc757e2b71e",
+  "title": "PayPal Blocks GrapheneOS Due to Root Detection Security Policy",
+  "url": "https://news.ycombinator.com/item?id=49462253",
+  "source": "Hacker News",
+  "category": "Mobile",
+  "summary": "Users report that the PayPal app crashes on GrapheneOS, a privacy-focused Android fork, due to a 'RootDetectionSecurityException'. The issue appears related to PayPal's security policies detecting GrapheneOS as a 'rooted' device, despite no actual root access. A temporary workaround involves disabling 'secure app spawning' in GrapheneOS settings. Some users suggest contacting PayPal support or switching to alternative payment apps like Wero.",
+  "score": 7,
+  "tags": [
+    "GrapheneOS",
+    "PayPal",
+    "Mobile Security",
+    "Android",
+    "Root Detection"
+  ],
+  "key_points": [
+    "PayPal app crashes on GrapheneOS with a `RootDetectionSecurityException`.",
+    "GrapheneOS is not rooted but is flagged due to its security-hardened features.",
+    "Disabling 'secure app spawning' in GrapheneOS temporarily resolves the issue.",
+    "Users recommend contacting PayPal support to advocate for compatibility.",
+    "Alternative payment apps like Wero are suggested as workarounds."
+  ],
+  "content_hash": "a604f5ec5f9c3cd9f2cb995fa6f0058f7e39237b4ab8ca65d789385d7548914d",
+  "title_hash": "d68a653c72793bd3c4a8c768ea30ea0dcfda47b448d0ac11ef656907384d5a27",
+  "collected_at": "2026-08-27T18:26:11.833206+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 8.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "good",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_distinction": "clear",
+      "fabrication": false,
+      "details": "The article provides a clear, factual report on PayPal's root detection policy affecting GrapheneOS users. It includes actionable workarounds and alternative suggestions without excessive bias or hidden advertising. The category 'Mobile' is accurate, and the content is well-structured with distinct separation between facts and user opinions."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-27T18:26:11.833206+07:00"
+}

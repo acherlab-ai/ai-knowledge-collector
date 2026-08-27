@@ -1,0 +1,49 @@
+{
+  "id": "80b256b102804c43",
+  "title": "Amazon Triples Nvidia GPU Order Amid Surging AI Demand",
+  "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand",
+  "source": "TechCrunch",
+  "category": "Hardware",
+  "summary": "Amazon has expanded its partnership with Nvidia, tripling its order to 2 million Nvidia GPUs (including Blackwell Ultra, Rubin, and Rubin Ultra) for AWS data centers by 2027-2028 due to surging demand from enterprises, startups, AI labs, and governments. The deal, worth tens of billions, integrates Nvidia’s full AI stack—GPUs, CPUs, networking hardware, and software—into AWS, despite Amazon’s own AI chip efforts (e.g., Trainium, Graviton). Nvidia also reported record Q2 sales ($96.2B) and projected $108B for Q3, driven by data center growth (up 117% YoY). The partnership extends to robotics (Nvidia’s Omniverse, Isaac, Jetson) and enterprise AI models (Nemotron on Amazon Bedrock/SageMaker).",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Hardware",
+    "Cloud",
+    "Nvidia",
+    "Amazon",
+    "GPU",
+    "Data Centers"
+  ],
+  "key_points": [
+    "Amazon triples Nvidia GPU order to 2M chips (Blackwell Ultra, Rubin, Rubin Ultra) for AWS, deployed in 2027-2028.",
+    "Deal reflects surging demand from startups, enterprises, AI labs, and governments, exceeding prior expectations.",
+    "Nvidia’s full AI stack (GPUs, Vera CPUs, networking, software) integrated into AWS, alongside Amazon’s competing Trainium/Graviton chips.",
+    "Partnership extends to robotics (Nvidia’s Omniverse, Isaac, Jetson) and enterprise AI (Nemotron models on Amazon Bedrock/SageMaker).",
+    "Nvidia’s Q2 revenue hit $96.2B ($89B from data centers, +117% YoY); Q3 revenue projected at $108B, driven by Rubin GPUs.",
+    "Nvidia commits $279B to secure supply/manufacturing for AI demand, up from $119B last quarter.",
+    "Amazon’s custom chip business (Trainium, Graviton) surpasses $25B annualized revenue, but Nvidia remains dominant in AI GPUs."
+  ],
+  "content_hash": "c67e597de229d46799fc3078563964c83ab901526a59a52bc98790d541062a05",
+  "title_hash": "b9737c1032150fef0cce9b0cda195762f805582f2dd5a42a481647d63f31d4a8",
+  "collected_at": "2026-08-27T18:21:28.638220+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not applicable (news report)",
+      "fabrication": false,
+      "details": "The article provides well-sourced, detailed, and timely information about Amazon's expanded partnership with Nvidia, including financial figures, product specifics, and market context. It avoids sensationalism, maintains objectivity, and correctly categorizes the content under 'Hardware' (with strong relevance to AI/cloud). The inclusion of Nvidia's financial performance and Amazon's competing chip efforts adds balance without overemphasis. No spam, clickbait, or hidden ads detected."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-27T18:21:28.638220+07:00"
+}

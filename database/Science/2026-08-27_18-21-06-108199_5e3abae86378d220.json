@@ -1,0 +1,47 @@
+{
+  "id": "5e3abae86378d220",
+  "title": "Researchers get two genetic codes to work simultaneously in synthetic biology breakthrough",
+  "url": "https://arstechnica.com/science/2026/08/researchers-get-two-genetic-codes-to-work-at-the-same-time",
+  "source": "Ars Technica",
+  "category": "Science",
+  "summary": "Researchers led by George Church have developed a method to operate two separate genetic codes simultaneously within a cell-free system. This approach avoids the need to modify every gene in an organism's genome, a major hurdle in synthetic biology. By engineering distinct populations of transfer RNAs (tRNAs) and ribosomes, the team demonstrated that a single messenger RNA could be translated into different proteins depending on which genetic code was used. While this innovation could accelerate synthetic biology research, challenges remain in applying it to living cells due to potential interference with normal cellular processes.",
+  "score": 9,
+  "tags": [
+    "Synthetic Biology",
+    "Genetic Code",
+    "Ribosomes",
+    "tRNA",
+    "Biotechnology"
+  ],
+  "key_points": [
+    "The genetic code is universal across all life on Earth, making it difficult to alter without disrupting cellular functions.",
+    "Researchers engineered two distinct populations of transfer RNAs (tRNAs) and ribosomes, each compatible with a different genetic code.",
+    "The modified tRNAs could be 'charged' with amino acids, though often at lower efficiency than natural tRNAs.",
+    "A single messenger RNA was translated into different proteins depending on which genetic code and ribosome population was used.",
+    "This method was demonstrated in a cell-free system, avoiding the need to re-engineer entire genomes.",
+    "Potential applications include accelerating synthetic biology research, such as incorporating artificial amino acids or alternative genetic codes.",
+    "Challenges remain in applying this technique to living cells, as the alternative ribosomes may produce malformed proteins from normal messenger RNAs."
+  ],
+  "content_hash": "1bb2fdb047cc7e11fe75a069f8fc57d2e707651dbf3a526d31a85d92d519e8f6",
+  "title_hash": "3a56e755da4bbaf79fe6a91904c15f9021c098173c9afa3355bc974834dbacc6",
+  "collected_at": "2026-08-27T18:21:06.108199+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_distinction": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, detailed, and accurate summary of a scientific breakthrough in synthetic biology. It avoids sensationalism, clickbait, or hidden advertising. The information is well-structured, fact-based, and aligns with the 'Science' category. The content is objective, with no signs of manipulation or misleading claims. Minor deduction in score due to the complexity of the topic, which may limit accessibility for non-expert readers, but this does not affect its validity or usefulness."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-27T18:21:06.108199+07:00"
+}

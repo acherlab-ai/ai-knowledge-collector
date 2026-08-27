@@ -1,0 +1,47 @@
+{
+  "id": "34f834558e4ccef2",
+  "title": "Medical device maker Boston Scientific reports global disruption due to cyberattack",
+  "url": "https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations",
+  "source": "TechCrunch",
+  "category": "Cybersecurity",
+  "summary": "Boston Scientific, a major U.S. medical device manufacturer, has disclosed a cyberattack causing significant global disruptions to its IT systems and business operations. The attack has impacted the company's ability to ship and process orders, though it remains unclear whether patient devices or implants are affected. The investigation is ongoing, with no timeline for system restoration. The incident follows a series of cyberattacks on health tech companies, including Abbott Laboratories, Medtronic, and Stryker.",
+  "score": 9,
+  "tags": [
+    "Cybersecurity",
+    "Medical Devices",
+    "Health Tech",
+    "Cyberattack",
+    "IT Disruption"
+  ],
+  "key_points": [
+    "Boston Scientific confirmed a cyberattack causing 'global disruption' to its IT systems and business applications.",
+    "The attack has affected order processing and shipping capabilities but does not confirm impact on patient devices.",
+    "The company serves approximately 48 million patients annually.",
+    "No details on the cause of the attack or timeline for system recovery have been provided.",
+    "Staff at Boston Scientific’s Cork campus were sent home due to network communication disruptions.",
+    "This incident is part of a recent trend of cyberattacks targeting health technology companies.",
+    "Boston Scientific relies on Microsoft and Amazon Web Services for its corporate infrastructure."
+  ],
+  "content_hash": "dd5c857044a7f9a13ac0a92b792d86b9d349093e52ee43bc3364aa9eb8c10429",
+  "title_hash": "f9c96b1d2a243aa3652a552bba1ff38eef9e11b31ff38d5cc884b6126e67932b",
+  "collected_at": "2026-08-27T18:25:58.054621+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not applicable (news report)",
+      "fabrication": false,
+      "details": "The article provides a clear, factual report on a cybersecurity incident involving Boston Scientific. It includes verified details, avoids sensationalism, and adheres to journalistic standards. The category is correctly assigned as 'Cybersecurity,' and the content is neutral, focusing on the incident's impact without unnecessary bias or speculation."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-27T18:25:58.054621+07:00"
+}

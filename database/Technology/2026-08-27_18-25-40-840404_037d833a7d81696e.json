@@ -1,0 +1,48 @@
+{
+  "id": "037d833a7d81696e",
+  "title": "Flipboard acquires Graze, the feed builder working to monetize the open social web",
+  "url": "https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open-social-web",
+  "source": "TechCrunch",
+  "category": "Technology",
+  "summary": "Flipboard has acquired Graze, a Portland-based startup focused on monetizing the open social web by enabling feed creators to earn revenue through contextual ads. Graze provides tools to build, customize, and manage Bluesky feeds, allowing curators to monetize their expertise without relying on surveillance-based advertising. The acquisition aims to integrate Graze’s technology into Flipboard’s ecosystem, expanding feed-building capabilities across platforms using the AT Protocol. The deal highlights a shared vision for decentralized, community-driven monetization in the open social web.",
+  "score": 8,
+  "tags": [
+    "Open Web",
+    "Social Media",
+    "Monetization",
+    "Acquisition",
+    "Bluesky",
+    "AT Protocol"
+  ],
+  "key_points": [
+    "Flipboard acquires Graze, a startup specializing in feed-building and monetization for the open social web.",
+    "Graze enables creators to monetize feeds via contextual ads, avoiding surveillance-based tracking.",
+    "Ad revenue is split 70/30, with 70% going to the feed creator.",
+    "Graze has over 7,000 feeds and has delivered 41 billion posts to 12 million users since its launch 21 months ago.",
+    "Flipboard plans to integrate Graze’s technology into its apps, expanding feed-building beyond Bluesky to all platforms using the AT Protocol.",
+    "The acquisition reflects a shared vision for decentralized, community-driven monetization in the open social web.",
+    "Graze had raised $1 million in early 2025 and had a small team of two members."
+  ],
+  "content_hash": "071f7b78fe336e94ba677a5927f54e49b82dccca903b69fd2a73c1d7ef1ff044",
+  "title_hash": "868d45aeddbf9970d2b3e7e45652ae064d8262b52cb30d09474af03229fbbae5",
+  "collected_at": "2026-08-27T18:25:40.840404+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, factual summary of Flipboard's acquisition of Graze, including key details about the technology, monetization model, and future integration plans. The information is well-structured, relevant to the 'Technology' category, and avoids spam, clickbait, or hidden advertising. The content is neutral, focusing on the acquisition's significance for the open social web ecosystem without excessive bias or fabrication."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-27T18:25:40.840404+07:00"
+}

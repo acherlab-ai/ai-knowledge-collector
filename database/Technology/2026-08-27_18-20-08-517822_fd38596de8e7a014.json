@@ -1,0 +1,47 @@
+{
+  "id": "fd38596de8e7a014",
+  "title": "Meta settles states' child-safety claims for $18.6B with new teen usage limits",
+  "url": "https://arstechnica.com/tech-policy/2026/08/meta-settles-states-child-safety-claims-for-18b-florida-rejects-deal-as-peanuts",
+  "source": "Ars Technica",
+  "category": "Technology",
+  "summary": "Meta has agreed to a nearly $18.6 billion settlement with 47 US states and territories over allegations that its platforms (Facebook and Instagram) were designed to foster compulsive use by children and failed to warn users about addiction and mental health risks. The settlement includes strict new measures to limit teen social media use, such as a default two-hour daily time limit (requiring parental permission to override), a midnight-to-6 AM usage block, and muted notifications during school hours. Meta will also implement enhanced content reporting mechanisms, ban cosmetic procedure filters for minors, and introduce non-personalized feeds for users under 18. The deal requires court approval and includes provisions for independent audits and penalties for misleading safety claims. Florida rejected the settlement as insufficient, while Texas secured a separate $1 billion deal.",
+  "score": 8,
+  "tags": [
+    "Meta",
+    "Social Media",
+    "Child Safety",
+    "Regulation",
+    "Digital Wellbeing"
+  ],
+  "key_points": [
+    "Meta settles child-safety lawsuits with 47 states/territories for nearly **$18.6 billion**, including a $1 billion separate deal with Texas.",
+    "New restrictions for users under 18: **default 2-hour daily limit** (parental override required), **midnight-6 AM block**, and **muted notifications during school hours (8 AM–3 PM)**.",
+    "Additional safeguards: **bans on cosmetic procedure filters**, **non-personalized feeds**, **enhanced content reporting**, and **removal of under-13 users**.",
+    "Settlement includes **independent audits** and **injunctions against misleading safety claims**.",
+    "Florida rejected the deal as **'peanuts'** compared to Meta’s profits, while advocacy groups criticized the penalty as **too lenient** for a trillion-dollar company.",
+    "Funds will support **youth mental health programs, crisis services, and public health initiatives**.",
+    "Meta denies allegations but agrees to changes **within months** to avoid further legal action."
+  ],
+  "content_hash": "c72b37c39402223d7c9887c88523254cf5da27adb0a38ea193f3ff3207a6364d",
+  "title_hash": "fec2c8372ce97236016df9930b53552eb3c910edcf50b9c3b3ec4acc7d4b3e5a",
+  "collected_at": "2026-08-27T18:20:08.517822+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "clear (review/opinion elements are contextualized as reactions from third parties, not the author's stance)",
+      "fabrication": false,
+      "details": "The article provides a detailed, fact-based summary of the Meta settlement, including key measures, financial terms, and stakeholder reactions. It avoids sensationalism, clearly distinguishes opinions (e.g., Florida's rejection, advocacy groups' criticism) from factual reporting, and adheres to the Technology category. The content is well-structured, informative, and free of manipulative or misleading elements."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-27T18:20:08.517822+07:00"
+}

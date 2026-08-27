@@ -1,0 +1,48 @@
+{
+  "id": "20e65d33f29af83b",
+  "title": "LAION Big Video Dataset (LAION-BVD): A Large-Scale Open Video Dataset for Multimodal Learning",
+  "url": "https://projects.laion.ai/bvd",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "LAION-BVD is a large-scale open video dataset designed for multimodal pre-training, containing 1.3 billion video URLs sourced from CommonCrawl, with 80 million successfully downloaded videos totaling 10 million hours. The dataset includes annotated clips with synthetically generated video and audio captions, enabling competitive performance on video-text, audio-text, and image-text benchmarks. It also provides 300 million extracted video frames for image-text pre-training, offering a unique visual distribution distinct from standard web image datasets. The dataset is released exclusively for research purposes to promote open, reproducible, and transparent multimodal AI research.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Multimodal Learning",
+    "Dataset",
+    "Open Source",
+    "Video Processing",
+    "Machine Learning"
+  ],
+  "key_points": [
+    "LAION-BVD is the largest openly accessible video corpus for multimodal learning research, with 1.3B video URLs and 80M downloaded videos (10M hours total).",
+    "The dataset is designed for multimodal pre-training across video, audio, and image modalities using content-aware scene detection and synthetic captions.",
+    "Models trained on LAION-BVD achieve competitive performance on standard benchmarks (ViCLIP for video-text, CLAP for audio-text, and CLIP for image-text).",
+    "Performance improves consistently with increased training scale (e.g., +2.1% over InternVid baseline on video-text benchmarks).",
+    "Includes 55M clips with synthetic video captions and 300M extracted frames for image-text pre-training, complementing existing web image datasets.",
+    "Released under a research-only license to support open, reproducible, and transparent AI research, addressing the concentration of multimodal datasets in proprietary systems.",
+    "Potential biases and ethical considerations are noted, including uneven representation across languages, regions, and topics."
+  ],
+  "content_hash": "120f5670001886fa9279e9a870b410ded6617b49a39d6b3e17f583b305e16afa",
+  "title_hash": "996bd93976eea2a89c0a18727b3b7afdec12ad57796ca3662f06de8e1ff5bafa",
+  "collected_at": "2026-08-27T18:27:21.901452+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a detailed, factual, and well-structured overview of the LAION-BVD dataset, including its scale, purpose, performance benchmarks, and ethical considerations. It is highly relevant to the AI and multimodal learning research community, with no signs of spam, clickbait, or hidden advertising. The content is neutral, transparent about limitations (e.g., biases), and aligns perfectly with the 'AI' category. No fabrication or redundancy is detected."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-27T18:27:21.901452+07:00"
+}

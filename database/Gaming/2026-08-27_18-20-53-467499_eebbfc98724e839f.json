@@ -1,0 +1,46 @@
+{
+  "id": "eebbfc98724e839f",
+  "title": "Xbox’s new disc-to-digital program bridges physical and digital game ownership",
+  "url": "https://arstechnica.com/gaming/2026/08/xboxs-new-disc-to-digital-program-gives-physical-games-a-digital-future",
+  "source": "Ars Technica",
+  "category": "Gaming",
+  "summary": "Microsoft has announced a new disc-to-digital program for Xbox, allowing players to convert physical Xbox One and Xbox Series X game discs into digital entitlements. This enables digital access to games without needing the disc, while the physical copy remains functional. The program supports most, but not all, titles due to publisher opt-ins and manufacturing limitations. It may become critical for backward compatibility if future Xbox consoles lack disc drives. The initiative revives a concept Microsoft attempted unsuccessfully in 2013.",
+  "score": 8,
+  "tags": [
+    "Xbox",
+    "Gaming",
+    "Digital Ownership",
+    "Backward Compatibility",
+    "Microsoft"
+  ],
+  "key_points": [
+    "Xbox’s disc-to-digital program allows players to claim a digital entitlement for most Xbox One and Xbox Series X physical game discs by inserting them into a console.",
+    "The digital entitlement enables play without the disc, supports Xbox Play Anywhere and Xbox Cloud Gaming, and remains tied to the user’s account unless the disc is resold or loaned.",
+    "Only one revokable license is granted per disc, meaning the digital entitlement transfers if the disc is used on another account.",
+    "Not all games are supported; publishers must opt in, and some discs may be incompatible due to manufacturing constraints (e.g., original Xbox and Xbox 360 discs are excluded).",
+    "The program could be essential for backward compatibility if future Xbox consoles (e.g., Project Helix) lack disc drives.",
+    "Microsoft previously attempted a similar plan in 2013 for Xbox One but abandoned it due to backlash over licensing restrictions and online check requirements."
+  ],
+  "content_hash": "d93dadb2d14ed722e8bee606d64833917074bb82c9394f988fdb767ec0446538",
+  "title_hash": "db84a70530775e7d2a95ee1bd25f0d959b7b571f5afe893288f0fb46324e8a9c",
+  "collected_at": "2026-08-27T18:20:53.467499+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not applicable (news/factual)",
+      "fabrication": false,
+      "details": "The article provides a clear, detailed, and factual overview of Xbox’s disc-to-digital program. It covers key aspects like functionality, limitations, and historical context without exaggeration or misleading claims. The content is well-researched, relevant to the gaming category, and avoids promotional language or bias. Minor deduction in score for not explicitly listing unsupported publishers/games, but this does not detract from overall quality."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-27T18:20:53.467499+07:00"
+}

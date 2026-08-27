@@ -1,0 +1,46 @@
+{
+  "id": "b5ae8e21a9b1e934",
+  "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+  "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text",
+  "source": "Ars Technica",
+  "category": "AI",
+  "summary": "Google has introduced Gemini 3.5 Transcribe, an AI model designed to improve voice-to-text transcription by editing out disfluencies like 'ums' and corrections, delivering polished text output. The model is 70% faster than its predecessor, Chirp 3, with a live-speech error rate of 5.5% (down from 7.32%). It supports 85 languages, handles specialized jargon via custom vocabulary, and can process up to three speakers in pre-recorded audio. The model is already integrated into Gboard's 'Rambler' feature on Pixel 11, the Gemini macOS app, and developer tools like Antigravity and AI Studio. Future expansions include Chrome browser integration.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "speech-to-text",
+    "Google",
+    "Gemini",
+    "transcription"
+  ],
+  "key_points": [
+    "Gemini 3.5 Transcribe is an AI model for speech-to-text transcription, designed to edit out verbal disfluencies and corrections.",
+    "70% faster than Google’s previous model, Chirp 3, with a live-speech error rate of 5.5% (vs. 7.32% for Chirp 3).",
+    "Supports 85 languages and can handle up to three speakers in pre-recorded audio.",
+    "Includes custom vocabulary support for specialized jargon.",
+    "Already live in Gboard’s 'Rambler' (Pixel 11), Gemini macOS app, and developer tools like Antigravity and AI Studio.",
+    "Future rollout planned for Chrome browser and more Gemini Intelligence devices."
+  ],
+  "content_hash": "014bf0e58cc7f5038131a616d236d75006d54ba694976bad84c59a9db5c4235a",
+  "title_hash": "265c2cdc453238a3c5fd4a681e720c02048cea296e8a3fd4b6212bd80a4a10e8",
+  "collected_at": "2026-08-27T18:20:43.275177+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, factual, and detailed overview of Google's Gemini 3.5 Transcribe, including its features, improvements, and integrations. It avoids spam, clickbait, or hidden advertising, and the information is well-structured, accurate, and relevant to the AI category. The content is neutral, focusing on technical advancements without excessive bias or opinion."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-27T18:20:43.275177+07:00"
+}

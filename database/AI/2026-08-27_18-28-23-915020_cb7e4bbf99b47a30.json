@@ -1,0 +1,51 @@
+{
+  "id": "cb7e4bbf99b47a30",
+  "title": "Open Executive: An AI System Acting as a Virtual Executive Team for Businesses",
+  "url": "https://github.com/SenteLabsAI/OpenExecutive",
+  "source": "Hacker News",
+  "category": "AI",
+  "summary": "Open Executive is an open-source AI system designed to function as a virtual executive team for companies. It integrates eight specialized AI agents (e.g., Chief Strategy Officer, CFO, CHRO) to provide coherent, context-aware business advice. The system leverages episodic memory, proactive scheduling, and retrieval-augmented generation (RAG) to deliver tailored responses based on built-in MBA-level knowledge and uploaded company documents. It supports multiple interfaces (web, Slack, Discord, email, etc.) and can be deployed locally or on cloud platforms like Fly.io. The project is Apache 2.0 licensed and built using Anthropic's Claude models, ChromaDB, FastAPI, and Next.js.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Business Automation",
+    "Open Source",
+    "Multi-Agent Systems",
+    "RAG",
+    "LLM"
+  ],
+  "key_points": [
+    "Open Executive provides a unified executive voice backed by eight specialist AI agents (CSO, CFO, CHRO, General Counsel, COO, CMO, CPO, Board Communications Director).",
+    "Key features include episodic memory (SQLite-based tracking of past decisions), a proactive scheduler, and RAG with two retrieval layers (built-in MBA knowledge and company-specific documents).",
+    "Architecture: Uses Claude models (Sonnet 4.6 for most tasks, Opus 4.7 for deep reasoning) with ChromaDB for vector storage and FastAPI for the backend. The frontend is built with Next.js 15.",
+    "Supports multiple interfaces: web UI, Slack, Discord, email, Telegram, Google Chat, and CLI. Users can upload company documents (e.g., pitch decks, financial models) for context-aware responses.",
+    "Deployment options: Local setup (Python 3.11+, Node 22+) or cloud deployment on Fly.io with single-instance constraints for the scheduler to avoid double-firing actions.",
+    "Onboarding includes a wizard to configure company profile (industry, stage, priorities, culture) and optional financial/document uploads.",
+    "Tech stack: Anthropic Claude API (default), ChromaDB (vector store), SQLite (episodic memory), FastAPI (backend), Next.js (frontend), and Tailwind CSS. Supports local models (Ollama, LM Studio) as alternatives to Claude.",
+    "Evaluation system: 29 scenarios scored by Claude Opus 4.7 (LLM-as-judge) across five dimensions (persona coherence, domain accuracy, context utilization, routing quality, actionability). CI requires ≥3.5/5 average score.",
+    "Privacy: Company data (profile, documents, ChromaDB) remains local or on user-controlled Fly.io volumes. Anthropic does not train on API data.",
+    "Contribution guidelines: PRs must include working implementations, tests, and eval scenarios for new agents or prompt changes. Licensed under Apache 2.0."
+  ],
+  "content_hash": "dbbeb53210d6ccfb9f222a7443390a7d698440ef628684e6865f35fb1e78d733",
+  "title_hash": "ac39b7827028d150f0212d4ad57e3c3b75a81f78ed6438b1db69bad6fc86aa10",
+  "collected_at": "2026-08-27T18:28:23.915020+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a detailed, well-structured overview of Open Executive, an open-source AI system for businesses. It covers technical architecture, features, deployment options, and evaluation metrics without exaggeration or misleading claims. The content is factual, informative, and aligns with the 'AI' category. No spam, clickbait, or hidden advertising is detected. The summary and key points are coherent and avoid redundancy. The project's open-source nature and privacy measures are clearly stated, ensuring transparency."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-27T18:28:23.915020+07:00"
+}
