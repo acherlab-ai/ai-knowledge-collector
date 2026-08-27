@@ -1,0 +1,46 @@
+{
+  "id": "b0947c52f4b44dd2",
+  "title": "NASA's T-38 Astronaut Training Jets Receive New Artemis-Themed Livery",
+  "url": "https://arstechnica.com/space/2026/08/nasa-t-38-astronaut-training-jet-gets-new-artemis-look",
+  "source": "Ars Technica",
+  "category": "Space",
+  "summary": "NASA has introduced a new Artemis-themed livery for one of its T-38 training jets, marking the first design update in decades. The T-38, used since 1962 for astronaut training, now features a black-and-white paint scheme with blue and red stripes, the Artemis program logo, and lunar imagery. The update aims to visually connect the aircraft to NASA's Artemis missions, which plan to return astronauts to the Moon and eventually establish a lunar base. The jet, selected for routine maintenance, has become a popular choice among pilots. A second T-38 may receive a similar design.",
+  "score": 8,
+  "tags": [
+    "Space",
+    "NASA",
+    "Artemis",
+    "Aviation",
+    "Astronaut Training"
+  ],
+  "key_points": [
+    "NASA updated the livery of one of its T-38 training jets to reflect the Artemis program, featuring a new black-and-white design with blue and red stripes, the Artemis logo, and lunar imagery.",
+    "The T-38 Talon has been used by NASA since 1962 to train astronauts in high-stress, dynamic flight environments and maintain pilot proficiency.",
+    "The new livery was proposed by T-38 project pilot Sean Brady to better communicate the connection between T-38 training and NASA’s space missions, particularly Artemis.",
+    "NASA plans to repaint a second T-38 with a similar Artemis-themed design, potentially incorporating gold/silver accents or imagery of the Moon’s far side.",
+    "The Artemis program aims to return astronauts to the Moon by 2028, establish a lunar base, and prepare for future Mars missions.",
+    "This is the fifth design change for NASA’s T-38 fleet, reflecting the agency’s evolving branding, including the revival of the 'worm' logo in 2023."
+  ],
+  "content_hash": "84a0e7c00bcaa6108582c1bafcf43f408be9c1d9107e29c0ce84ad3836c667c4",
+  "title_hash": "48df99bd7d963c7fa41fc4f3045203d940d9697b24c9e0a3e7f2518a20457b31",
+  "collected_at": "2026-08-28T04:47:43.302720+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_distinction": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides detailed, factual, and well-researched information about NASA's T-38 livery update for the Artemis program. It is highly relevant to the 'Space' category, avoids spam/clickbait, and maintains objectivity. The content is useful for readers interested in space exploration and aviation. Minor deduction in score due to the category being explicitly provided as 'Space' (not 'AI')."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-28T04:47:43.302720+07:00"
+}

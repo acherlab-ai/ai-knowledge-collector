@@ -1,0 +1,55 @@
+{
+  "id": "966123ef613d7e9a",
+  "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+  "url": "https://huggingface.co/blog/pwc-search",
+  "source": "Hugging Face",
+  "category": "AI",
+  "summary": "The article details the architecture and implementation of the hybrid search system for Papers with Code, a platform aimed at making AI research accessible. It explains how Hugging Face's Inference Endpoints, Jobs, and Storage Buckets are utilized to create a robust, scalable, and efficient search engine that combines keyword and vector-based search. The system leverages PostgreSQL for full-text search, pgvector for dense embeddings, and reciprocal rank fusion (RRF) to merge results. The article covers design decisions, technical challenges, and lessons learned in production, emphasizing the separation of offline corpus building and online search services.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Search",
+    "Embeddings",
+    "Hybrid Search",
+    "Hugging Face",
+    "PostgreSQL",
+    "pgvector",
+    "RAG",
+    "MTEB",
+    "NLP"
+  ],
+  "key_points": [
+    "Papers with Code uses a hybrid search system combining keyword and vector-based search to improve research paper discoverability.",
+    "The system relies on PostgreSQL for full-text search and pgvector for dense embeddings, merged using reciprocal rank fusion (RRF).",
+    "Hugging Face Jobs provide burstable GPU compute for embedding the paper corpus, while Storage Buckets handle durable data handoffs.",
+    "Inference Endpoints serve low-latency embeddings for live queries and incremental updates, with fallback to full-text search if unavailable.",
+    "The embedding pipeline uses a versioned API contract to ensure consistency, including model revision, input format, and normalization details.",
+    "Qwen/Qwen3-Embedding-0.6B is used for embeddings, with 256-dimensional vectors chosen for a balance of speed and quality.",
+    "Matryoshka Representation Learning (MRL) allows dynamic embedding sizes, enabling trade-offs between quality and storage/speed costs.",
+    "The system is designed to handle cold starts gracefully, with lexical search as a fallback during endpoint unavailability.",
+    "Incremental updates for new or modified papers are processed hourly using the same Inference Endpoint, ensuring the index stays current.",
+    "Key lessons include separating throughput and latency-sensitive work, using storage as a contract between systems, and designing for cold starts."
+  ],
+  "content_hash": "43dd26448233761767c7a1f3c2e691145f107ac7b5ff0c5f9110e1660a409dc0",
+  "title_hash": "904bfa74c76789bdee2a1961055433b899408416b23b5d3cf9d5f299d7d7e8c8",
+  "collected_at": "2026-08-28T05:14:31.017339+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a detailed, technical explanation of a hybrid search system for AI research papers, leveraging Hugging Face tools. It is highly informative, well-structured, and free of spam, clickbait, or hidden advertisements. The content is original, non-repetitive, and aligns well with the 'AI' category. The technical depth, clarity of design decisions, and practical lessons make it valuable for readers interested in search systems, embeddings, and scalable AI infrastructure. No significant bias or manipulation is detected."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-28T05:14:31.017339+07:00"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "88953ef0f07b563a",
+  "title": "Traders brought Central American cacao to Georgia 1,000 years ago: Archaeological evidence of long-distance trade in the Mississippian culture",
+  "url": "https://arstechnica.com/science/2026/08/traders-brought-central-american-cacao-to-georgia-1000-years-ago",
+  "source": "Ars Technica",
+  "category": "Science",
+  "summary": "Archaeologists discovered traces of cacao (a Central American crop) in 11th-century potsherds from Etowah, an Indigenous city in present-day Georgia. This finding, supported by chemical residue and ancient DNA analysis, reveals that the Mississippian people had trade connections spanning at least 3,000 kilometers to Central America. The discovery also suggests potential links between the Mississippian culture, the Ancestral Pueblo of the Southwest, and Mesoamerican civilizations, though further evidence is needed to map these trade networks comprehensively.",
+  "score": 8,
+  "tags": [
+    "Archaeology",
+    "Ancient Trade",
+    "Mississippian Culture",
+    "Indigenous History",
+    "Cacao"
+  ],
+  "key_points": [
+    "Potsherds from Etowah, Georgia, contained traces of cacao, a crop native to Central America, indicating long-distance trade around 1,000 years ago.",
+    "Chemical analysis (theobromine, caffeine) and ancient DNA confirmed the presence of cacao, ruling out local alternatives like yaupon holly.",
+    "Etowah was a major center of the Mississippian culture, which flourished in the southeastern U.S. before European colonization.",
+    "The cacao residue dates to the construction of Etowah’s first platform mound, suggesting early trade connections.",
+    "Similar cacao findings at Chaco Canyon (New Mexico) hint at possible trade links between the Mississippian, Ancestral Pueblo, and Mesoamerican cultures.",
+    "The exact trade routes and goods exchanged remain unclear, requiring further archaeological evidence.",
+    "The study challenges earlier assumptions about Indigenous civilizations' capabilities and emphasizes their complex trade networks."
+  ],
+  "content_hash": "b0218e4674512e06cbd4c78fb4ac81646532b820344ad0e05983888b1e497153",
+  "title_hash": "a98ecfdb2447592b31fc523ccf001f87eff6a2a0714739d37f51e4fa9d6bdfe5",
+  "collected_at": "2026-08-28T04:59:04.701958+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides well-researched, evidence-based archaeological findings about long-distance trade in the Mississippian culture. It is informative, objective, and aligns with the 'Science' category. The summary and key points are clear, supported by scientific methods (chemical analysis, DNA), and avoid sensationalism or bias. The content does not exhibit spam, clickbait, or hidden advertising. Minor deduction in score due to speculative elements (e.g., potential trade links) that are explicitly acknowledged as requiring further evidence."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-28T04:59:04.701958+07:00"
+}
