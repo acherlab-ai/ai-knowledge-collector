@@ -1,0 +1,47 @@
+{
+  "id": "e870838063b964e8",
+  "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
+  "url": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp",
+  "source": "Ars Technica",
+  "category": "Cybersecurity",
+  "summary": "Australian Federal Police arrested two men accused of being part of TeamPCP, a hacking group responsible for a series of supply-chain attacks infecting over 1,000 organizations worldwide. The group used a self-propagating malware called Shai-Hulud, which targeted CI/CD pipelines and spread through compromised open-source packages. The malware employed unconventional methods, such as Internet Computer Protocol-based canisters, to evade takedowns. The arrests highlight the growing threat of AI-assisted hacking, as the group's operational discipline was reportedly enhanced by large language models (LLMs).",
+  "score": 9,
+  "tags": [
+    "Cybersecurity",
+    "Hacking",
+    "Supply-Chain Attacks",
+    "Malware",
+    "AI-Assisted Threats"
+  ],
+  "key_points": [
+    "Two men in Australia were arrested and charged with 14 offenses related to cybercrimes committed as part of TeamPCP.",
+    "TeamPCP conducted supply-chain attacks infecting over 1,000 organizations globally since December.",
+    "The group used a self-propagating malware named Shai-Hulud, which targeted CI/CD pipelines to spread through compromised open-source packages.",
+    "Shai-Hulud employed an Internet Computer Protocol-based canister to maintain resilient command-and-control channels.",
+    "The malware stole credentials from infected systems to further propagate itself, compromising tools like Trivy, KICS, and LiteLLM.",
+    "Researchers suggest that TeamPCP's operational efficiency was boosted by the use of large language models (LLMs).",
+    "If convicted, one defendant faces over 20 years in prison, while the other faces over 10 years."
+  ],
+  "content_hash": "22a04e480032fb1db56d070542e758e09973dce45d780825614e3a77664ebc86",
+  "title_hash": "419be2f6f8fd6a539c4f5bdf952b503f38126334259c65bd733f017c207e2f7e",
+  "collected_at": "2026-08-29T00:40:33.403177+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a well-researched, factual account of a significant cybersecurity incident involving TeamPCP and their malware Shai-Hulud. It includes specific details about the attacks, the malware's mechanisms, and the arrests, making it highly useful for readers interested in cybersecurity threats. The content is neutral, avoids sensationalism, and does not contain spam, clickbait, or hidden advertisements. The category 'Cybersecurity' is accurate, and the information is presented without excessive bias or fabrication."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-29T00:40:33.403177+07:00"
+}

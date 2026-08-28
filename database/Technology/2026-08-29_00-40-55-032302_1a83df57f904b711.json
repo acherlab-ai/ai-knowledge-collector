@@ -1,0 +1,46 @@
+{
+  "id": "1a83df57f904b711",
+  "title": "How Sweden Built One of Europe’s Hottest Startup Ecosystems",
+  "url": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems",
+  "source": "TechCrunch",
+  "category": "Technology",
+  "summary": "Sweden has emerged as a leading tech hub in Europe, producing high-profile startups like Spotify, Klarna, Legora, and Lovable. The ecosystem has raised $2.8 billion in 2026 and is projected to hit $5 billion, benefiting from mentorship by early entrepreneurs, a cultural shift toward entrepreneurship, and increased interest from American investors. Key factors include a strong talent pool, repeat founders, and a supportive environment for innovation.",
+  "score": 8,
+  "tags": [
+    "startup ecosystem",
+    "Sweden",
+    "venture capital",
+    "entrepreneurship",
+    "tech hub"
+  ],
+  "key_points": [
+    "Sweden’s startup ecosystem has raised $2.8 billion in 2026, with projections to reach $5 billion, reflecting a rebound in venture funding.",
+    "Early success stories like Spotify and Klarna have inspired a new generation of startups, including Legora (legal AI) and Lovable (vibe-coding tools).",
+    "A cultural shift has made entrepreneurship a desirable career path, with founders prioritizing creativity, freedom, and wealth over traditional roles like banking or consulting.",
+    "First-generation entrepreneurs are providing mentorship and resources, with some becoming repeat founders (e.g., Daniel Ek founding Neko Health).",
+    "American investors are increasingly engaging with Swedish startups, signaling global confidence in the ecosystem.",
+    "The ecosystem benefits from a strong talent pipeline, with employees from successful startups often launching their own ventures."
+  ],
+  "content_hash": "24ace54a7c07a3e1f55b09d2df8e4a7f29c2107091a615cd7c198a43dec62304",
+  "title_hash": "7d7e3fd0de04b650a1fb560931e5489594f1c2da2648cf6ef47ed76db6e97db6",
+  "collected_at": "2026-08-29T00:40:55.032302+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "High - Well-researched, specific data points, and credible examples (Spotify, Klarna, etc.).",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "Minimal - Presents facts about Sweden's ecosystem without excessive promotion or manipulation.",
+      "opinion_fact_separation": "N/A (Not a review/opinion piece; focuses on factual analysis.)",
+      "fabrication": false,
+      "notes": "Strong, informative piece with clear insights into Sweden's startup ecosystem. No signs of spam, clickbait, or hidden ads. Category is correct (Technology, not AI)."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-29T00:40:55.032302+07:00"
+}
