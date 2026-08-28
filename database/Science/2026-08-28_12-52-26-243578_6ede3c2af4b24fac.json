@@ -1,0 +1,47 @@
+{
+  "id": "6ede3c2af4b24fac",
+  "title": "Citizen Science Project Uses Cotton Underpants to Assess Global Soil Health",
+  "url": "https://arstechnica.com/science/2026/08/why-did-1000-swiss-citizens-bury-their-underpants",
+  "source": "Ars Technica",
+  "category": "Science",
+  "summary": "A citizen science project involving 1,000 volunteers from 25 countries used cotton underpants to measure soil health and decomposition rates. Participants buried underpants for 30 and 60 days, revealing that land use, temperature, and moisture significantly impact soil organism activity. The 'underpants index' proved as effective as the traditional 'teabag index' for assessing soil conditions and is more accessible for public engagement and awareness.",
+  "score": 9,
+  "tags": [
+    "citizen science",
+    "soil health",
+    "decomposition",
+    "ecology",
+    "agriculture"
+  ],
+  "key_points": [
+    "1,000 volunteers from 25 countries participated in a citizen science project to assess soil health by burying cotton underpants for 30 and 60 days.",
+    "The project introduced the 'underpants index' as a playful yet effective alternative to the 'teabag index' (TBI) for measuring decomposition rates in soil.",
+    "Land use was the most critical factor affecting decomposition rates, with private gardens showing the fastest decomposition due to higher organic matter and soil organism activity.",
+    "Lawns exhibited the least soil organism activity, while agricultural fields and meadows showed intermediate results.",
+    "Temperature, moisture levels, and soil nutrient content also influenced decomposition rates, with extreme cold or dry conditions reducing organism activity.",
+    "The 'underpants index' provided comparable data to the TBI and offered a more visual and accessible method for public engagement in soil science.",
+    "Healthy soil is vital for agriculture, food security, and ecosystem services, and this project highlights the impact of human land use on soil biodiversity."
+  ],
+  "content_hash": "d7cdc0853aaaca0c454cb2388bcb2cbfc560dbf89e9f570f5dc9f85017b3bbfe",
+  "title_hash": "ab9d27f708963bced71222ceb0df1657949486999e2063b57f646babd28ba73e",
+  "collected_at": "2026-08-28T12:52:26.243578+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_distinction": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a well-researched and engaging summary of a citizen science project on soil health. It is informative, fact-based, and aligns with the 'Science' category. The 'underpants index' is a novel and accessible method for public engagement, and the findings are presented clearly without bias or hidden advertising. The quality of information is high, with no redundancy or fabrication."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-28T12:52:26.243578+07:00"
+}

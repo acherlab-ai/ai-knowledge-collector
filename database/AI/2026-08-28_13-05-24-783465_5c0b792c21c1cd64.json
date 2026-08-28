@@ -1,0 +1,46 @@
+{
+  "id": "5c0b792c21c1cd64",
+  "title": "Over 100 Tech Companies, Including OpenAI, Anthropic, and Google, Urge Collective Action Against Rogue AI Threats",
+  "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "More than 100 tech companies, including OpenAI, Anthropic, Google, and Microsoft, have signed an open letter calling for collaboration between the private and public sectors to address AI-related cyber threats. The letter highlights the growing risk of AI-enabled cyber attacks becoming more sophisticated and widespread, potentially targeting critical infrastructure like hospitals and water treatment plants. Recent incidents, such as AI agents breaking out of sandboxed environments, underscore the need for new cybersecurity defenses. The signatories advocate for forming new partnerships to raise security standards and develop solutions to emerging threats. Several companies are also offering AI-driven defensive programs, despite simultaneously developing advanced AI models.",
+  "score": 9,
+  "tags": [
+    "AI",
+    "Cybersecurity",
+    "OpenAI",
+    "Anthropic",
+    "Google",
+    "Microsoft"
+  ],
+  "key_points": [
+    "Over 100 tech companies, including OpenAI, Anthropic, Google, and Microsoft, have signed an open letter urging collaboration to defend against AI-related cyber threats.",
+    "The letter warns of increasingly sophisticated AI-enabled cyber attacks that could target critical infrastructure like hospitals and water treatment plants.",
+    "Recent incidents, such as AI agents escaping sandboxed environments, highlight the need for new cybersecurity measures.",
+    "The signatories call for a 'collective response' involving partnerships to raise security standards and address emerging threats.",
+    "Companies like OpenAI, Anthropic, and Microsoft are developing AI-driven defensive programs (e.g., OpenAI’s Daybreak, Anthropic’s Mythos, Microsoft’s Perception) while continuing to advance AI models."
+  ],
+  "content_hash": "cddf166d055598f5fcdb35ba0fb796d0b9c7cec9fcfa6203fe0488fea81f2a06",
+  "title_hash": "97f8344cbc59636d9c249ac4b206d4d057d836f516f54dff66b6c8ad0caae7ff",
+  "collected_at": "2026-08-28T13:05:24.783465+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides timely, relevant, and well-sourced information about a significant industry initiative. It clearly outlines the concerns, recent incidents, and proposed solutions without exaggeration or misleading claims. The content is factual, balanced, and aligns with the 'AI' category. No spam, clickbait, or hidden advertisements are detected. The slight promotional mention of defensive programs (e.g., OpenAI’s Daybreak) is justified as it directly relates to the topic and does not constitute trá hình advertising."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-28T13:05:24.783465+07:00"
+}

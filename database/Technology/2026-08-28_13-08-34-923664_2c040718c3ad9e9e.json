@@ -1,0 +1,51 @@
+{
+  "id": "2c040718c3ad9e9e",
+  "title": "GoGoGrandparent (YC S16) is hiring a Senior Backend Engineer (Node.js/TypeScript)",
+  "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
+  "source": "Hacker News",
+  "category": "Technology",
+  "summary": "GoGoGrandparent, a Y Combinator-backed concierge service for seniors, is hiring a Senior Backend Engineer with 6+ years of experience in Node.js and TypeScript. The role is fully remote, offers a salary range of $80K–$180K, and focuses on building scalable backend systems to support services like rides, meals, and medication delivery for older adults. The company is profitable, remote-first, and emphasizes meaningful work with real-world impact on seniors' independence.",
+  "score": 8,
+  "tags": [
+    "Backend",
+    "Node.js",
+    "TypeScript",
+    "Remote Jobs",
+    "Startups",
+    "HealthTech",
+    "AI"
+  ],
+  "key_points": [
+    "Role: Senior Backend Engineer (Node.js/TypeScript) at GoGoGrandparent, a Y Combinator startup (S16).",
+    "Mission: Help older adults live independently by tailoring on-demand services (rides, meals, meds) via phone-based concierge.",
+    "Responsibilities: Design, develop, and maintain scalable backend systems; collaborate with product teams; own features end-to-end; troubleshoot production issues; mentor engineers.",
+    "Tech Stack: Node.js, TypeScript, MySQL, REST/GraphQL, AWS, Docker/Kubernetes (nice-to-have).",
+    "Requirements: 6+ years of experience, US timezone overlap, ownership mindset, and ability to work remotely.",
+    "Benefits: Fully remote, $80K–$180K salary, quarterly bonuses, 15 PTO days, healthcare (US), 401k, engineering retreats, and learning budget.",
+    "Impact: Work on AI-driven solutions (e.g., conversational phone agents) and high-volume systems for seniors with mobility/cognitive impairments.",
+    "Company: Profitable since 2016, 50-person team, no VC funding, co-founded by Justin and David Boogaard/Lung.",
+    "Interview Process: 2-stage process (details not specified)."
+  ],
+  "content_hash": "517fac04d0a364f04e251966d7872286b07e0666fe8b527dc85993887184c983",
+  "title_hash": "1cb1c8a366b5d706f68e4e6da0791d15d27218f7cb5839f7c0f3fabd9c213502",
+  "collected_at": "2026-08-28T13:08:34.923664+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The post is a clear, detailed, and informative job listing for a Senior Backend Engineer role at GoGoGrandparent. It provides comprehensive information about the role, responsibilities, tech stack, requirements, benefits, and company background without any misleading or exaggerated claims. The content is factual, relevant to the Technology category, and free from spam, hidden ads, or clickbait. The inclusion of AI-driven solutions is mentioned but not overhyped, maintaining neutrality. The category is correctly assigned as 'Technology' (not 'AI', as AI is only a part of the tech stack)."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-28T13:08:34.923664+07:00"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "2431763baae02782",
+  "title": "ATF declares ‘major incident’ as ransomware gang claims hack on investigation system",
+  "url": "https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack",
+  "source": "TechCrunch",
+  "category": "Cybersecurity",
+  "summary": "The U.S. Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) declared a 'major incident' after a ransomware gang, Qilin, claimed responsibility for a cyberattack on a stand-alone system containing sensitive investigation data. The attack, classified as a 'major incident' under federal law, requires formal notification to Congress. Qilin, known for its ransomware-as-a-service operations, has not provided evidence of the breach, but the ATF confirmed the targeted system was separate from its main network.",
+  "score": 9,
+  "tags": [
+    "Cybersecurity",
+    "Ransomware",
+    "Government",
+    "ATF",
+    "Qilin",
+    "Data Breach"
+  ],
+  "key_points": [
+    "The ATF declared a 'major incident' following a cyberattack on a stand-alone system containing investigation targets' data.",
+    "The Qilin ransomware gang claimed responsibility but provided no evidence of the breach.",
+    "Qilin operates a ransomware-as-a-service model, leasing hacking tools to affiliates.",
+    "Federal law requires agencies to report 'major incidents' to Congress within a week of discovery.",
+    "The ATF system targeted was separate from its main network, mitigating broader impact.",
+    "Recent years have seen multiple U.S. government agencies declare major incidents due to cyberattacks."
+  ],
+  "content_hash": "598bac6a160529bf0e3ac2f8d3bc26346829560000477171e8dca7d0d8f8fe7b",
+  "title_hash": "88f433d4824d3c021a5038818d6a77c0fda2467f78b868557f4087d6dbc581bc",
+  "collected_at": "2026-08-28T13:03:43.975725+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides timely, accurate, and well-sourced information about a significant cybersecurity incident involving a U.S. government agency. It avoids sensationalism, clickbait, or hidden advertising. The content is neutral, factual, and aligns with the Cybersecurity category. Minor deduction in score due to lack of deeper technical analysis, but overall highly informative and relevant."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-28T13:03:43.975725+07:00"
+}

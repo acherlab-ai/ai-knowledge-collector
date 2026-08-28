@@ -1,0 +1,53 @@
+{
+  "id": "0034a1c06bc2eb63",
+  "title": "Bootstrappable Builds: How and Why",
+  "url": "https://lwn.net/Articles/1088279",
+  "source": "Hacker News",
+  "category": "OpenSource",
+  "summary": "The article explores the concept of bootstrappable builds, a method to create software systems from minimal initial code without relying on pre-built binaries. This approach addresses security concerns like the 'Trusting Trust' attack, where malicious code can be hidden in compilers, and promotes software freedom by ensuring all code origins are verifiable. The discussion includes practical implementations in projects like GNU Guix and live-bootstrap, challenges in bootstrapping languages like Rust, and innovative tools like Germ, a minimal Scheme interpreter designed to simplify the bootstrapping process.",
+  "score": 9,
+  "tags": [
+    "OpenSource",
+    "Bootstrapping",
+    "Security",
+    "GNU Guix",
+    "Reproducible Builds",
+    "Compiler",
+    "Scheme",
+    "Linux"
+  ],
+  "key_points": [
+    "Bootstrappable builds aim to construct a software system from a tiny initial program, avoiding reliance on pre-built binaries to ensure transparency and security.",
+    "The concept is closely related to reproducible builds but focuses on eliminating hidden dependencies in the build chain, such as those described in Ken Thompson's 'Reflections on Trusting Trust'.",
+    "GNU Guix and Nix use derivation graphs to represent software dependencies, but their reliance on pre-built binaries (e.g., a 250MB blob) was unsatisfactory for developers seeking full transparency.",
+    "Bootstrappable builds mitigate security risks like compiler-based backdoors, as demonstrated by a recent attack on NixOS where the `strip` program was backdoored, affecting nearly all binaries on the system.",
+    "Two main approaches to bootstrapping are: (1) 'archaeological digs' to find and build historical versions of tools, and (2) creating bespoke tools (e.g., `mrustc` for Rust) to bootstrap modern versions.",
+    "GNU Guix has reduced its bootstrap seed to ~256 bytes (using `hex0`), but still relies on a statically linked Guile for some steps, which is considered 'cheating' and is being addressed.",
+    "The `live-bootstrap` project extends bootstrapping to include regenerating machine-generated files (e.g., `configure` scripts) and has explored kernel bootstrapping using Fiwix, though it involves a complex 182-step process.",
+    "Germ, a minimal Scheme interpreter (~2.25KB), is an experimental tool designed to simplify bootstrapping by jumping directly to a high-level language (Scheme) and avoiding intermediate steps like C and assembly.",
+    "Germ demonstrates potential but faces challenges like poor performance (slower than Mes, another Scheme-based tool) and limited portability (currently x86_64-only).",
+    "Bootstrappable builds also align with software freedom principles, ensuring that source code corresponds to running programs and that all code details are inspectable."
+  ],
+  "content_hash": "90005347f0d5c5ff86c7dd107793587eed7a175254959129fed366491b8b9131",
+  "title_hash": "600435902961b09c1416e0c7ec3fa585f2597dad247a399bebca6249f3c49d3e",
+  "collected_at": "2026-08-28T13:10:45.134440+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_separation": "clear (where applicable)",
+      "fabrication": false,
+      "details": "The article provides a thorough, well-researched exploration of bootstrappable builds, covering technical depth, security implications, and practical implementations. It avoids spam, clickbait, or hidden advertising, and maintains objectivity while clearly distinguishing between factual reporting and project-specific opinions (e.g., challenges with Germ or Guix). The category 'OpenSource' is accurate, and the content aligns with the principles of transparency and verifiability in open-source software. Minor deduction in score for the complexity of some sections, which may require prior knowledge to fully grasp."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-28T13:10:45.134440+07:00"
+}

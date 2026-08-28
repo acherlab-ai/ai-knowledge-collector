@@ -1,0 +1,45 @@
+{
+  "id": "99b331b0aa4f8a9a",
+  "title": "Barret Zoph's Career Moves: From Thinking Machines to OpenAI and Now Google",
+  "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google",
+  "source": "TechCrunch",
+  "category": "AI",
+  "summary": "Barret Zoph, a prominent figure in the AI industry, has transitioned to a new role as Vice President of Research at Google after a series of high-profile departures and returns among AI companies. Zoph co-founded Thinking Machines, left to rejoin OpenAI, was later fired from Thinking Machines, briefly returned to OpenAI, and has now joined Google. His expertise in reinforcement learning (RL) and post-training is expected to contribute to Google's Gemini project.",
+  "score": 8,
+  "tags": [
+    "AI",
+    "Executive Movements",
+    "Google",
+    "OpenAI",
+    "Thinking Machines"
+  ],
+  "key_points": [
+    "Barret Zoph, co-founder of AI startup Thinking Machines, has joined Google as Vice President of Research.",
+    "Zoph previously worked at OpenAI, left to co-found Thinking Machines, was fired from the startup, and briefly returned to OpenAI before departing again.",
+    "Zoph's role at Google will focus on reinforcement learning (RL) and post-training expertise for the Gemini project.",
+    "The AI industry, particularly OpenAI, has experienced high executive turnover in recent months.",
+    "Zoph's career trajectory reflects broader trends of rapid movement among top AI talent across major tech companies."
+  ],
+  "content_hash": "0973484af793224ecc2ae63e624c7b023b1a708744261262bdde5d88772054ee",
+  "title_hash": "96489e2b1f30204fca560b959ca9627405f8b8cd23dbace5a50092418a6fc309",
+  "collected_at": "2026-08-28T13:01:36.361947+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, factual overview of Barret Zoph's career transitions, contextualizing them within industry trends. The information is well-researched, relevant to the AI category, and avoids sensationalism or bias. No spam, clickbait, or hidden advertising is detected. The summary and key points align with the title and content, offering valuable insights into executive movements in AI without redundancy."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-28T13:01:36.361947+07:00"
+}

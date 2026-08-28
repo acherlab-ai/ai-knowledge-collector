@@ -1,0 +1,49 @@
+{
+  "id": "497ac6665ed35087",
+  "title": "Lawsuit Alleges Elon Musk’s xAI Used Child Sexual Abuse Material to Train Grok Models",
+  "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
+  "source": "Ars Technica",
+  "category": "AI",
+  "summary": "A lawsuit filed by a plaintiff identified as Jane Doe accuses xAI of training its Grok models on child sexual abuse material (CSAM). Doe, a survivor of childhood abuse, claims her images were used in xAI’s training datasets, leading to AI-generated CSAM depicting her. The complaint alleges that xAI’s terms allow public X posts and Grok’s outputs to be used as training data, potentially perpetuating the cycle of abuse. The lawsuit seeks damages, destruction of all Grok-generated CSAM, and measures to prevent future CSAM generation.",
+  "score": 8,
+  "tags": [
+    "AI",
+    "Ethics",
+    "Legal",
+    "CSAM",
+    "xAI",
+    "Grok"
+  ],
+  "key_points": [
+    "A lawsuit accuses xAI of training Grok models on child sexual abuse material (CSAM).",
+    "The plaintiff, Jane Doe, claims her childhood abuse images were used in xAI’s training datasets, leading to AI-generated CSAM depicting her.",
+    "Doe’s images were hashed by organizations like NCMEC and CCCP, which later identified AI-generated CSAM of her on xAI’s platform.",
+    "The complaint alleges that xAI’s terms treat public X posts and Grok’s outputs as training data by default, potentially perpetuating CSAM generation.",
+    "xAI’s terms do not explicitly exclude CSAM, non-consensual intimate imagery (NCII), or NSFW material from training data.",
+    "The lawsuit seeks damages for victims, destruction of Grok-generated CSAM, and measures to block future CSAM generation.",
+    "This is the first case accusing xAI of training on CSAM, with no prior indication of xAI using the controversial dataset previously reported by Ars Technica.",
+    "The lawsuit invokes federal child pornography laws and Masha’s Law, which allow CSAM survivors to sue for production, possession, and distribution."
+  ],
+  "content_hash": "4559708339a9026dc581453586b05db6a3920244bce2d1a092d2086a1f4a37da",
+  "title_hash": "a8b6cab235af5f04740a2d97178a64023634a922d7789fbce82fd54e1f519915",
+  "collected_at": "2026-08-28T12:50:20.501851+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "moderate (balanced reporting of allegations without sensationalism)",
+      "opinion_fact_separation": "clear (allegations are presented as claims, with legal context provided)",
+      "fabrication": false,
+      "details": "The article provides a factual summary of a serious legal allegation against xAI, supported by key points from the lawsuit. It avoids sensationalism, distinguishes between claims and verified facts, and adheres to ethical reporting standards. The category (AI) is appropriate, and the content is highly relevant to discussions on AI ethics and legal accountability. No spam, clickbait, or hidden advertising is detected."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-28T12:50:20.501851+07:00"
+}

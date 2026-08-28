@@ -1,0 +1,45 @@
+{
+  "id": "f9041108756cbea0",
+  "title": "Bluesky adds an ‘algorithmic opt-out’ feature for user-controlled post visibility",
+  "url": "https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral",
+  "source": "TechCrunch",
+  "category": "Technology",
+  "summary": "Bluesky has introduced an 'algorithmic opt-out' feature allowing users to prevent their public posts from appearing in the app’s main Discover feed. This setting, recorded at the account level via the AT Proto protocol, ensures the preference applies across apps using the same protocol, though third-party apps must choose to respect it. The feature does not make posts private but reduces their discoverability outside a user’s existing network.",
+  "score": 8,
+  "tags": [
+    "Social Media",
+    "Algorithms",
+    "Privacy",
+    "Decentralized Networks",
+    "AT Proto"
+  ],
+  "key_points": [
+    "Bluesky’s new feature lets users opt out of algorithmic amplification in the Discover feed.",
+    "Posts remain public but are less likely to reach users outside the poster’s network.",
+    "The setting is stored at the protocol level (AT Proto), making it portable across compatible apps.",
+    "Third-party apps must voluntarily honor the opt-out preference.",
+    "The feature addresses user demand for control over virality without requiring private accounts."
+  ],
+  "content_hash": "9c5bc5bdd675fe599b14d5dd2d5235b56b4ea3e967ae5ab060ff2c7df2caa0e6",
+  "title_hash": "38e315cc459cc83dd32d647c8e632b0ea78c22efda9cd03da090e035d4c77e40",
+  "collected_at": "2026-08-28T12:57:16.293275+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_advertising": false,
+      "information_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias_level": "low",
+      "opinion_fact_distinction": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, factual, and useful overview of Bluesky's new algorithmic opt-out feature. It avoids spam, clickbait, or hidden advertising, and the information is well-researched and relevant to the 'Technology' category. The content is neutral, with no signs of manipulation or misleading claims. The category was initially mislabeled as 'AI' but corrected to 'Technology' as it aligns with the topic."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-28T12:57:16.293275+07:00"
+}

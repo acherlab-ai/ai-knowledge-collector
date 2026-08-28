@@ -1,0 +1,50 @@
+{
+  "id": "b53909028c4abc33",
+  "title": "OpenTIE and OpenXWA: Modern Open-Source Ports of Star Wars: TIE Fighter and X-Wing Alliance",
+  "url": "https://github.com/elyosh/OpenTIE",
+  "source": "Hacker News",
+  "category": "OpenSource",
+  "summary": "OpenTIE is an open-source reimplementation of Star Wars: TIE Fighter, supporting Windows, macOS, and Linux. It requires the original game data and allows combining assets from the 1995 and 1998 editions for an enhanced experience. Key features include adaptive iMUSE soundtrack emulation, modern and classic graphics modes, high-refresh-rate support (up to 240 Hz), and compatibility with modern gamepads. OpenXWA is a similar project for Star Wars: X-Wing Alliance. Both projects are under active development and do not include original game content.",
+  "score": 9,
+  "tags": [
+    "OpenSource",
+    "Gaming",
+    "Retro",
+    "Emulation",
+    "Cross-Platform"
+  ],
+  "key_points": [
+    "Open-source reimplementation of *Star Wars: TIE Fighter* and *X-Wing Alliance* for modern systems (Windows, macOS, Linux).",
+    "Requires original game data (1995 Collector's CD-ROM or 1998 Windows release) but does not include it.",
+    "Combines assets from both 1995 and 1998 editions for an optimized experience (e.g., 1995 menus/cutscenes with 1998 flight simulation).",
+    "Adaptive iMUSE soundtrack emulation with support for Roland SC-55 Sound Canvas, OPL3 FM-synth, or FluidSynth with user-provided SoundFonts.",
+    "Graphics modes: Classic (original presentation) and Modern (high-resolution rendering, shadows, ambient occlusion, bloom, motion blur, MSAA, FSR 3.1.4).",
+    "Supports high-refresh-rate displays (up to 240 Hz) for smoother gameplay and modern gamepad/joystick configurations.",
+    "Cross-platform compatibility with Direct3D 12, Vulkan, or Metal backends depending on the OS.",
+    "Active development with community support via the TotallyOpen Discord server.",
+    "System requirements: 64-bit system with a modern GPU and original game installation.",
+    "OpenXWA is a parallel project for *Star Wars: X-Wing Alliance* with similar features."
+  ],
+  "content_hash": "228f42210793ef75ae9cd376193c2b60591ced1d009afe6d151703339b7ea508",
+  "title_hash": "e5c422be3f7c78b3c591f6c8ce9e3d20fabe7757fe67f73ff9c735e2b1dcfb73",
+  "collected_at": "2026-08-28T13:14:35.162222+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a detailed, factual overview of OpenTIE and OpenXWA, two open-source reimplementations of classic Star Wars games. It clearly states requirements, features, and technical specifications without exaggeration or misleading claims. The content is well-structured, informative, and relevant to the OpenSource category. No spam, clickbait, or hidden advertisements are detected. The information is accurate, non-redundant, and maintains a neutral tone while highlighting community-driven development."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-08-28T13:14:35.162222+07:00"
+}
