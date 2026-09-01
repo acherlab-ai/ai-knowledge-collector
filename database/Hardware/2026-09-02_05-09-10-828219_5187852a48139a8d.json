@@ -1,0 +1,51 @@
+{
+  "id": "5187852a48139a8d",
+  "title": "Refurbishing a Tektronix TDS7104 Oscilloscope: A Detailed Restoration Guide",
+  "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
+  "source": "Hacker News",
+  "category": "Hardware",
+  "summary": "A comprehensive guide detailing the step-by-step process of refurbishing a Tektronix TDS7104 oscilloscope, including common failures, hardware disassembly, hard drive imaging, battery replacement, OS reinstallation challenges, and component-specific troubleshooting.",
+  "score": 9,
+  "tags": [
+    "Hardware",
+    "Oscilloscope",
+    "Refurbishment",
+    "Tektronix",
+    "Windows 2000",
+    "Diagnostics"
+  ],
+  "key_points": [
+    "The Tektronix TDS7104 is a high-performance 1 GHz bandwidth oscilloscope with historical significance, originally running Windows 2000 Pro Embedded.",
+    "Common failures include dead CMOS/PowerPC backup batteries, failing hard drives, and power supply capacitor leaks.",
+    "Initial steps should always include imaging the hard drive (e.g., using HDD Raw Copy Tool) to preserve data before attempting repairs.",
+    "Replacing the CR2032 backup battery may require adjusting display settings (e.g., True Color 24-bit mode) to resolve graphical corruption.",
+    "Disassembly requires removing over 30 screws (Torx-15) and careful handling of the front panel to avoid breaking plastic tabs.",
+    "Attempts to upgrade to an SSD may fail due to compatibility issues with older systems, necessitating a fresh OS installation.",
+    "Reinstalling Windows 2000 Pro involves challenges like non-functional CD-ROM drives, BIOS limitations (e.g., no USB boot), and driver compatibility.",
+    "TEAC CD-224E drives vary by version (e.g., A93 vs. CD0), and not all are compatible with the TDS7104 motherboard.",
+    "Workarounds for installation include using a virtual machine or bootable USB sticks with tools like WinSetupFromUSB and Plop Boot Manager.",
+    "Specialized drivers (e.g., Tektronix firmware, TekFonts) and license keys are required to fully restore functionality."
+  ],
+  "content_hash": "a51546a2607bb40dd4341bdd9010c517fb7f470df70313cc3fac697b1913422b",
+  "title_hash": "6dfb28f1eedc0b7cd3bd651654a7a6d0787f7b057919d4bd4cfc9d2b9450b046",
+  "collected_at": "2026-09-02T05:09:10.828219+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "excellent",
+      "redundancy": false,
+      "category_match": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "clear (where applicable)",
+      "originality": true,
+      "details": "The article provides a highly detailed, step-by-step guide for refurbishing a Tektronix TDS7104 oscilloscope, covering technical challenges, troubleshooting, and practical workarounds. The content is factual, well-structured, and avoids promotional language. The category is correctly assigned as 'Hardware,' and the summary/key points align with the title. No spam, clickbait, or hidden advertising is detected. The guide maintains objectivity while offering expert-level insights, making it valuable for technicians or enthusiasts."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-09-02T05:09:10.828219+07:00"
+}
