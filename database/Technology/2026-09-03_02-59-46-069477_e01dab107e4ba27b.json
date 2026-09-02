@@ -1,0 +1,46 @@
+{
+  "id": "e01dab107e4ba27b",
+  "title": "Delivery Hero board backs Uber’s $15B takeover bid",
+  "url": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid",
+  "source": "TechCrunch",
+  "category": "Technology",
+  "summary": "Delivery Hero’s board has approved Uber’s $15 billion takeover bid, recommending shareholders accept the deal. The acquisition would create one of the largest on-demand food delivery platforms globally, doubling Uber’s footprint and enhancing its competitive position against DoorDash and Just Eat Takeaway. Major stakeholders, including Prosus, have agreed to sell their stakes, and Delivery Hero will divest operations in 14 markets to SSW Partners for $1.6 billion. This move reflects ongoing consolidation in the on-demand delivery industry.",
+  "score": 8,
+  "tags": [
+    "Mergers & Acquisitions",
+    "On-Demand Delivery",
+    "Tech Industry",
+    "Uber",
+    "Delivery Hero"
+  ],
+  "key_points": [
+    "Delivery Hero’s board endorses Uber’s $15 billion takeover bid and recommends shareholder approval.",
+    "The deal aims to create one of the largest global on-demand food delivery platforms outside China.",
+    "Uber’s acquisition would double its global footprint and strengthen its competition with DoorDash and Just Eat Takeaway.",
+    "Prosus, a major shareholder, has agreed to sell its 17% stake in Delivery Hero.",
+    "Delivery Hero will sell its operations in 14 markets to SSW Partners for $1.6 billion as part of the deal.",
+    "The transaction highlights ongoing consolidation trends in the on-demand delivery sector."
+  ],
+  "content_hash": "4a7152e35b2fc80a0fadc8134f5a3e763ba7614c39d77e16d45ac07e894e79b1",
+  "title_hash": "43b094d0e2badaa2f71b7389f55f4b4ddefee2745a6f2323281f3a276442f64e",
+  "collected_at": "2026-09-03T02:59:46.069477+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "disguised_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_match": true,
+      "bias": "minimal",
+      "opinion_fact_separation": "not_applicable",
+      "fabrication": false,
+      "details": "The article provides a clear, factual summary of Uber’s $15B takeover bid for Delivery Hero, including key stakeholders, market implications, and industry trends. The information is well-structured, relevant to the Technology category, and avoids sensationalism or bias. No spam, clickbait, or disguised ads are present. The content is concise, original, and aligns with the stated category and tags."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-09-03T02:59:46.069477+07:00"
+}
