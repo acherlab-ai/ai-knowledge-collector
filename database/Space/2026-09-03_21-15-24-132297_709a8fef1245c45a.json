@@ -1,0 +1,46 @@
+{
+  "id": "709a8fef1245c45a",
+  "title": "Toyohiro Akiyama, first Japanese citizen and journalist in space, dies at 84",
+  "url": "https://arstechnica.com/space/2026/09/toyohiro-akiyama-first-japanese-citizen-and-journalist-in-space-dies-at-84",
+  "source": "Ars Technica",
+  "category": "Space",
+  "summary": "Toyohiro Akiyama, the first Japanese citizen and journalist to travel to space, has died at the age of 84. Akiyama was a Tokyo Broadcasting System (TBS) correspondent selected to fly to space in 1990 as part of a commercial sponsorship. He trained in Russia and spent a week aboard the Mir space station, broadcasting daily reports. Despite initial struggles with space sickness and nicotine withdrawal, he provided unique perspectives on Earth from space. After his mission, he left journalism to become a farmer and later a professor, writing books about his experiences in space and as a nuclear-power refugee post-Fukushima.",
+  "score": 8,
+  "tags": [
+    "Space",
+    "History",
+    "Journalism",
+    "Mir Space Station",
+    "Soyuz"
+  ],
+  "key_points": [
+    "Toyohiro Akiyama was the first Japanese citizen and journalist in space, flying aboard Soyuz TM-11 in 1990 as part of a commercially sponsored mission by TBS.",
+    "He trained at the Gagarin Cosmonaut Training Center in Russia and spent seven days on the Mir space station, broadcasting daily reports despite suffering from space sickness and nicotine withdrawal.",
+    "Akiyama was the 239th person to orbit Earth and the first non-career astronaut from Japan to do so.",
+    "After his spaceflight, he left TBS in 1995 due to concerns over commercialization in TV, later becoming a mushroom and organic rice farmer.",
+    "He was displaced by the 2011 Fukushima disaster and became a professor at Kyoto University of the Arts, writing books about his spaceflight and life as a nuclear-power refugee.",
+    "Akiyama received multiple honors, including the Soviet Order of Friendship of Peoples and the Russian medal 'For Merit in Space Exploration.'"
+  ],
+  "content_hash": "7e4555d92ed01a91267693fe34fdb38ca8e834fb1ca6635fe15d4ad617c13485",
+  "title_hash": "d119d8d8738ab04ee7189c16936d7108eda71e35d65c30913943647c053d377e",
+  "collected_at": "2026-09-03T21:15:24.132297+07:00",
+  "review": {
+    "neutral": true,
+    "quality_score": 9.0,
+    "reason": {
+      "useful": true,
+      "spam": false,
+      "clickbait": false,
+      "hidden_ads": false,
+      "info_quality": "high",
+      "redundancy": false,
+      "category_accuracy": true,
+      "bias": "minimal",
+      "fact_opinion_separation": "clear (where applicable)",
+      "fabrication": false,
+      "details": "The article provides a well-researched, factual, and historically significant account of Toyohiro Akiyama's life and contributions to space exploration and journalism. It avoids sensationalism, maintains neutrality, and adheres to the 'Space' category. The summary and key points are concise, informative, and free of redundancy or bias. The inclusion of personal experiences (e.g., space sickness, post-Fukushima life) adds depth without compromising objectivity."
+    },
+    "reviewed_by": "mistral"
+  },
+  "reviewed_at": "2026-09-03T21:15:24.132297+07:00"
+}
